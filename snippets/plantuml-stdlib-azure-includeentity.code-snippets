@@ -1,0 +1,837 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "Include azure/AIMachineLearning/AzureBatchAI": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-azurebatchai", "i-AzureBatchAI(azure)"],
+    "body": ["!include <azure/AIMachineLearning/AzureBatchAI>"],
+    "description": "aimachinelearning/AzureBatchAI azure icons"
+  },
+
+  "Include azure/AIMachineLearning/AzureBotService": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-azurebotservice", "i-AzureBotService(azure)"],
+    "body": ["!include <azure/AIMachineLearning/AzureBotService>"],
+    "description": "aimachinelearning/AzureBotService azure icons"
+  },
+
+  "Include azure/AIMachineLearning/AzureCognitiveServices": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-azurecognitiveservices", "i-AzureCognitiveServices(azure)"],
+    "body": ["!include <azure/AIMachineLearning/AzureCognitiveServices>"],
+    "description": "aimachinelearning/AzureCognitiveServices azure icons"
+  },
+
+  "Include azure/AIMachineLearning/AzureMachineLearningService": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-azuremachinelearningservice", "i-AzureMachineLearningService(azure)"],
+    "body": ["!include <azure/AIMachineLearning/AzureMachineLearningService>"],
+    "description": "aimachinelearning/AzureMachineLearningService azure icons"
+  },
+
+  "Include azure/AIMachineLearning/AzureMachineLearningStudio": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-azuremachinelearningstudio", "i-AzureMachineLearningStudio(azure)"],
+    "body": ["!include <azure/AIMachineLearning/AzureMachineLearningStudio>"],
+    "description": "aimachinelearning/AzureMachineLearningStudio azure icons"
+  },
+
+  "Include azure/AIMachineLearning/MicrosoftGenomics": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-microsoftgenomics", "i-MicrosoftGenomics(azure)"],
+    "body": ["!include <azure/AIMachineLearning/MicrosoftGenomics>"],
+    "description": "aimachinelearning/MicrosoftGenomics azure icons"
+  },
+
+  "Include azure/AIMachineLearning/all": {
+    "scope": "diagram",
+    "prefix": ["i-aimachinelearning-all", "i-all(azure)"],
+    "body": ["!include <azure/AIMachineLearning/all>"],
+    "description": "aimachinelearning/all azure icons"
+  },
+
+  "Include azure/Analytics/AzureAnalysisServices": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azureanalysisservices", "i-AzureAnalysisServices(azure)"],
+    "body": ["!include <azure/Analytics/AzureAnalysisServices>"],
+    "description": "analytics/AzureAnalysisServices azure icons"
+  },
+
+  "Include azure/Analytics/AzureDataCatalog": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azuredatacatalog", "i-AzureDataCatalog(azure)"],
+    "body": ["!include <azure/Analytics/AzureDataCatalog>"],
+    "description": "analytics/AzureDataCatalog azure icons"
+  },
+
+  "Include azure/Analytics/AzureDataExplorer": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azuredataexplorer", "i-AzureDataExplorer(azure)"],
+    "body": ["!include <azure/Analytics/AzureDataExplorer>"],
+    "description": "analytics/AzureDataExplorer azure icons"
+  },
+
+  "Include azure/Analytics/AzureDataLakeAnalytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azuredatalakeanalytics", "i-AzureDataLakeAnalytics(azure)"],
+    "body": ["!include <azure/Analytics/AzureDataLakeAnalytics>"],
+    "description": "analytics/AzureDataLakeAnalytics azure icons"
+  },
+
+  "Include azure/Analytics/AzureDatabricks": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azuredatabricks", "i-AzureDatabricks(azure)"],
+    "body": ["!include <azure/Analytics/AzureDatabricks>"],
+    "description": "analytics/AzureDatabricks azure icons"
+  },
+
+  "Include azure/Analytics/AzureEventHub": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azureeventhub", "i-AzureEventHub(azure)"],
+    "body": ["!include <azure/Analytics/AzureEventHub>"],
+    "description": "analytics/AzureEventHub azure icons"
+  },
+
+  "Include azure/Analytics/AzureHDInsight": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azurehdinsight", "i-AzureHDInsight(azure)"],
+    "body": ["!include <azure/Analytics/AzureHDInsight>"],
+    "description": "analytics/AzureHDInsight azure icons"
+  },
+
+  "Include azure/Analytics/AzureStreamAnalytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-azurestreamanalytics", "i-AzureStreamAnalytics(azure)"],
+    "body": ["!include <azure/Analytics/AzureStreamAnalytics>"],
+    "description": "analytics/AzureStreamAnalytics azure icons"
+  },
+
+  "Include azure/Analytics/all": {
+    "scope": "diagram",
+    "prefix": ["i-analytics-all", "i-all(azure)"],
+    "body": ["!include <azure/Analytics/all>"],
+    "description": "analytics/all azure icons"
+  },
+
+  "Include azure/AzureC4Integration.puml/AzureC4Integration": {
+    "scope": "diagram",
+    "prefix": ["i-azurec4integration.puml-azurec4integration", "i-AzureC4Integration(azure)"],
+    "body": ["!include <azure/AzureC4Integration.puml/AzureC4Integration>"],
+    "description": "azurec4integration.puml/AzureC4Integration azure icons"
+  },
+
+  "Include azure/AzureCommon.puml/AzureCommon": {
+    "scope": "diagram",
+    "prefix": ["i-azurecommon.puml-azurecommon", "i-AzureCommon(azure)"],
+    "body": ["!include <azure/AzureCommon.puml/AzureCommon>"],
+    "description": "azurecommon.puml/AzureCommon azure icons"
+  },
+
+  "Include azure/AzureRaw.puml/AzureRaw": {
+    "scope": "diagram",
+    "prefix": ["i-azureraw.puml-azureraw", "i-AzureRaw(azure)"],
+    "body": ["!include <azure/AzureRaw.puml/AzureRaw>"],
+    "description": "azureraw.puml/AzureRaw azure icons"
+  },
+
+  "Include azure/AzureSimplified.puml/AzureSimplified": {
+    "scope": "diagram",
+    "prefix": ["i-azuresimplified.puml-azuresimplified", "i-AzureSimplified(azure)"],
+    "body": ["!include <azure/AzureSimplified.puml/AzureSimplified>"],
+    "description": "azuresimplified.puml/AzureSimplified azure icons"
+  },
+
+  "Include azure/Compute/AzureAppService": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azureappservice", "i-AzureAppService(azure)"],
+    "body": ["!include <azure/Compute/AzureAppService>"],
+    "description": "compute/AzureAppService azure icons"
+  },
+
+  "Include azure/Compute/AzureBatch": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azurebatch", "i-AzureBatch(azure)"],
+    "body": ["!include <azure/Compute/AzureBatch>"],
+    "description": "compute/AzureBatch azure icons"
+  },
+
+  "Include azure/Compute/AzureFunction": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azurefunction", "i-AzureFunction(azure)"],
+    "body": ["!include <azure/Compute/AzureFunction>"],
+    "description": "compute/AzureFunction azure icons"
+  },
+
+  "Include azure/Compute/AzureServiceFabric": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azureservicefabric", "i-AzureServiceFabric(azure)"],
+    "body": ["!include <azure/Compute/AzureServiceFabric>"],
+    "description": "compute/AzureServiceFabric azure icons"
+  },
+
+  "Include azure/Compute/AzureVirtualMachine": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azurevirtualmachine", "i-AzureVirtualMachine(azure)"],
+    "body": ["!include <azure/Compute/AzureVirtualMachine>"],
+    "description": "compute/AzureVirtualMachine azure icons"
+  },
+
+  "Include azure/Compute/AzureVirtualMachineScaleSet": {
+    "scope": "diagram",
+    "prefix": ["i-compute-azurevirtualmachinescaleset", "i-AzureVirtualMachineScaleSet(azure)"],
+    "body": ["!include <azure/Compute/AzureVirtualMachineScaleSet>"],
+    "description": "compute/AzureVirtualMachineScaleSet azure icons"
+  },
+
+  "Include azure/Compute/all": {
+    "scope": "diagram",
+    "prefix": ["i-compute-all", "i-all(azure)"],
+    "body": ["!include <azure/Compute/all>"],
+    "description": "compute/all azure icons"
+  },
+
+  "Include azure/Containers/AzureContainerInstance": {
+    "scope": "diagram",
+    "prefix": ["i-containers-azurecontainerinstance", "i-AzureContainerInstance(azure)"],
+    "body": ["!include <azure/Containers/AzureContainerInstance>"],
+    "description": "containers/AzureContainerInstance azure icons"
+  },
+
+  "Include azure/Containers/AzureContainerRegistry": {
+    "scope": "diagram",
+    "prefix": ["i-containers-azurecontainerregistry", "i-AzureContainerRegistry(azure)"],
+    "body": ["!include <azure/Containers/AzureContainerRegistry>"],
+    "description": "containers/AzureContainerRegistry azure icons"
+  },
+
+  "Include azure/Containers/AzureKubernetesService": {
+    "scope": "diagram",
+    "prefix": ["i-containers-azurekubernetesservice", "i-AzureKubernetesService(azure)"],
+    "body": ["!include <azure/Containers/AzureKubernetesService>"],
+    "description": "containers/AzureKubernetesService azure icons"
+  },
+
+  "Include azure/Containers/AzureServiceFabricMesh": {
+    "scope": "diagram",
+    "prefix": ["i-containers-azureservicefabricmesh", "i-AzureServiceFabricMesh(azure)"],
+    "body": ["!include <azure/Containers/AzureServiceFabricMesh>"],
+    "description": "containers/AzureServiceFabricMesh azure icons"
+  },
+
+  "Include azure/Containers/AzureWebAppForContainers": {
+    "scope": "diagram",
+    "prefix": ["i-containers-azurewebappforcontainers", "i-AzureWebAppForContainers(azure)"],
+    "body": ["!include <azure/Containers/AzureWebAppForContainers>"],
+    "description": "containers/AzureWebAppForContainers azure icons"
+  },
+
+  "Include azure/Containers/all": {
+    "scope": "diagram",
+    "prefix": ["i-containers-all", "i-all(azure)"],
+    "body": ["!include <azure/Containers/all>"],
+    "description": "containers/all azure icons"
+  },
+
+  "Include azure/Databases/AzureCosmosDb": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azurecosmosdb", "i-AzureCosmosDb(azure)"],
+    "body": ["!include <azure/Databases/AzureCosmosDb>"],
+    "description": "databases/AzureCosmosDb azure icons"
+  },
+
+  "Include azure/Databases/AzureDataFactory": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuredatafactory", "i-AzureDataFactory(azure)"],
+    "body": ["!include <azure/Databases/AzureDataFactory>"],
+    "description": "databases/AzureDataFactory azure icons"
+  },
+
+  "Include azure/Databases/AzureDatabaseForMariaDB": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuredatabaseformariadb", "i-AzureDatabaseForMariaDB(azure)"],
+    "body": ["!include <azure/Databases/AzureDatabaseForMariaDB>"],
+    "description": "databases/AzureDatabaseForMariaDB azure icons"
+  },
+
+  "Include azure/Databases/AzureDatabaseForMySQL": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuredatabaseformysql", "i-AzureDatabaseForMySQL(azure)"],
+    "body": ["!include <azure/Databases/AzureDatabaseForMySQL>"],
+    "description": "databases/AzureDatabaseForMySQL azure icons"
+  },
+
+  "Include azure/Databases/AzureDatabaseForPostgreSQL": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuredatabaseforpostgresql", "i-AzureDatabaseForPostgreSQL(azure)"],
+    "body": ["!include <azure/Databases/AzureDatabaseForPostgreSQL>"],
+    "description": "databases/AzureDatabaseForPostgreSQL azure icons"
+  },
+
+  "Include azure/Databases/AzureRedisCache": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azurerediscache", "i-AzureRedisCache(azure)"],
+    "body": ["!include <azure/Databases/AzureRedisCache>"],
+    "description": "databases/AzureRedisCache azure icons"
+  },
+
+  "Include azure/Databases/AzureSqlDataWarehouse": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuresqldatawarehouse", "i-AzureSqlDataWarehouse(azure)"],
+    "body": ["!include <azure/Databases/AzureSqlDataWarehouse>"],
+    "description": "databases/AzureSqlDataWarehouse azure icons"
+  },
+
+  "Include azure/Databases/AzureSqlDatabase": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuresqldatabase", "i-AzureSqlDatabase(azure)"],
+    "body": ["!include <azure/Databases/AzureSqlDatabase>"],
+    "description": "databases/AzureSqlDatabase azure icons"
+  },
+
+  "Include azure/Databases/AzureSqlStretchDatabase": {
+    "scope": "diagram",
+    "prefix": ["i-databases-azuresqlstretchdatabase", "i-AzureSqlStretchDatabase(azure)"],
+    "body": ["!include <azure/Databases/AzureSqlStretchDatabase>"],
+    "description": "databases/AzureSqlStretchDatabase azure icons"
+  },
+
+  "Include azure/Databases/all": {
+    "scope": "diagram",
+    "prefix": ["i-databases-all", "i-all(azure)"],
+    "body": ["!include <azure/Databases/all>"],
+    "description": "databases/all azure icons"
+  },
+
+  "Include azure/DevOps/AzureApplicationInsights": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azureapplicationinsights", "i-AzureApplicationInsights(azure)"],
+    "body": ["!include <azure/DevOps/AzureApplicationInsights>"],
+    "description": "devops/AzureApplicationInsights azure icons"
+  },
+
+  "Include azure/DevOps/AzureArtifacts": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azureartifacts", "i-AzureArtifacts(azure)"],
+    "body": ["!include <azure/DevOps/AzureArtifacts>"],
+    "description": "devops/AzureArtifacts azure icons"
+  },
+
+  "Include azure/DevOps/AzureBoards": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azureboards", "i-AzureBoards(azure)"],
+    "body": ["!include <azure/DevOps/AzureBoards>"],
+    "description": "devops/AzureBoards azure icons"
+  },
+
+  "Include azure/DevOps/AzureDevOps": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azuredevops", "i-AzureDevOps(azure)"],
+    "body": ["!include <azure/DevOps/AzureDevOps>"],
+    "description": "devops/AzureDevOps azure icons"
+  },
+
+  "Include azure/DevOps/AzureDevTestLabs": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azuredevtestlabs", "i-AzureDevTestLabs(azure)"],
+    "body": ["!include <azure/DevOps/AzureDevTestLabs>"],
+    "description": "devops/AzureDevTestLabs azure icons"
+  },
+
+  "Include azure/DevOps/AzureLabServices": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azurelabservices", "i-AzureLabServices(azure)"],
+    "body": ["!include <azure/DevOps/AzureLabServices>"],
+    "description": "devops/AzureLabServices azure icons"
+  },
+
+  "Include azure/DevOps/AzurePipelines": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azurepipelines", "i-AzurePipelines(azure)"],
+    "body": ["!include <azure/DevOps/AzurePipelines>"],
+    "description": "devops/AzurePipelines azure icons"
+  },
+
+  "Include azure/DevOps/AzureRepos": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azurerepos", "i-AzureRepos(azure)"],
+    "body": ["!include <azure/DevOps/AzureRepos>"],
+    "description": "devops/AzureRepos azure icons"
+  },
+
+  "Include azure/DevOps/AzureTestPlans": {
+    "scope": "diagram",
+    "prefix": ["i-devops-azuretestplans", "i-AzureTestPlans(azure)"],
+    "body": ["!include <azure/DevOps/AzureTestPlans>"],
+    "description": "devops/AzureTestPlans azure icons"
+  },
+
+  "Include azure/DevOps/all": {
+    "scope": "diagram",
+    "prefix": ["i-devops-all", "i-all(azure)"],
+    "body": ["!include <azure/DevOps/all>"],
+    "description": "devops/all azure icons"
+  },
+
+  "Include azure/General/Azure": {
+    "scope": "diagram",
+    "prefix": ["i-general-azure", "i-Azure(azure)"],
+    "body": ["!include <azure/General/Azure>"],
+    "description": "general/Azure azure icons"
+  },
+
+  "Include azure/General/all": {
+    "scope": "diagram",
+    "prefix": ["i-general-all", "i-all(azure)"],
+    "body": ["!include <azure/General/all>"],
+    "description": "general/all azure icons"
+  },
+
+  "Include azure/Identity/AzureActiveDirectory": {
+    "scope": "diagram",
+    "prefix": ["i-identity-azureactivedirectory", "i-AzureActiveDirectory(azure)"],
+    "body": ["!include <azure/Identity/AzureActiveDirectory>"],
+    "description": "identity/AzureActiveDirectory azure icons"
+  },
+
+  "Include azure/Identity/AzureActiveDirectoryB2C": {
+    "scope": "diagram",
+    "prefix": ["i-identity-azureactivedirectoryb2c", "i-AzureActiveDirectoryB2C(azure)"],
+    "body": ["!include <azure/Identity/AzureActiveDirectoryB2C>"],
+    "description": "identity/AzureActiveDirectoryB2C azure icons"
+  },
+
+  "Include azure/Identity/AzureActiveDirectoryDomainServices": {
+    "scope": "diagram",
+    "prefix": ["i-identity-azureactivedirectorydomainservices", "i-AzureActiveDirectoryDomainServices(azure)"],
+    "body": ["!include <azure/Identity/AzureActiveDirectoryDomainServices>"],
+    "description": "identity/AzureActiveDirectoryDomainServices azure icons"
+  },
+
+  "Include azure/Identity/all": {
+    "scope": "diagram",
+    "prefix": ["i-identity-all", "i-all(azure)"],
+    "body": ["!include <azure/Identity/all>"],
+    "description": "identity/all azure icons"
+  },
+
+  "Include azure/Integration/AzureEventGrid": {
+    "scope": "diagram",
+    "prefix": ["i-integration-azureeventgrid", "i-AzureEventGrid(azure)"],
+    "body": ["!include <azure/Integration/AzureEventGrid>"],
+    "description": "integration/AzureEventGrid azure icons"
+  },
+
+  "Include azure/Integration/AzureLogicApps": {
+    "scope": "diagram",
+    "prefix": ["i-integration-azurelogicapps", "i-AzureLogicApps(azure)"],
+    "body": ["!include <azure/Integration/AzureLogicApps>"],
+    "description": "integration/AzureLogicApps azure icons"
+  },
+
+  "Include azure/Integration/AzureServiceBus": {
+    "scope": "diagram",
+    "prefix": ["i-integration-azureservicebus", "i-AzureServiceBus(azure)"],
+    "body": ["!include <azure/Integration/AzureServiceBus>"],
+    "description": "integration/AzureServiceBus azure icons"
+  },
+
+  "Include azure/Integration/all": {
+    "scope": "diagram",
+    "prefix": ["i-integration-all", "i-all(azure)"],
+    "body": ["!include <azure/Integration/all>"],
+    "description": "integration/all azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureDigitalTwins": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azuredigitaltwins", "i-AzureDigitalTwins(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureDigitalTwins>"],
+    "description": "internetofthings/AzureDigitalTwins azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureIoTCentral": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azureiotcentral", "i-AzureIoTCentral(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureIoTCentral>"],
+    "description": "internetofthings/AzureIoTCentral azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureIoTEdge": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azureiotedge", "i-AzureIoTEdge(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureIoTEdge>"],
+    "description": "internetofthings/AzureIoTEdge azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureIoTHub": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azureiothub", "i-AzureIoTHub(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureIoTHub>"],
+    "description": "internetofthings/AzureIoTHub azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureMaps": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azuremaps", "i-AzureMaps(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureMaps>"],
+    "description": "internetofthings/AzureMaps azure icons"
+  },
+
+  "Include azure/InternetOfThings/AzureTimeSeriesInsights": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-azuretimeseriesinsights", "i-AzureTimeSeriesInsights(azure)"],
+    "body": ["!include <azure/InternetOfThings/AzureTimeSeriesInsights>"],
+    "description": "internetofthings/AzureTimeSeriesInsights azure icons"
+  },
+
+  "Include azure/InternetOfThings/all": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings-all", "i-all(azure)"],
+    "body": ["!include <azure/InternetOfThings/all>"],
+    "description": "internetofthings/all azure icons"
+  },
+
+  "Include azure/Management/AzureAutomation": {
+    "scope": "diagram",
+    "prefix": ["i-management-azureautomation", "i-AzureAutomation(azure)"],
+    "body": ["!include <azure/Management/AzureAutomation>"],
+    "description": "management/AzureAutomation azure icons"
+  },
+
+  "Include azure/Management/AzureBackup": {
+    "scope": "diagram",
+    "prefix": ["i-management-azurebackup", "i-AzureBackup(azure)"],
+    "body": ["!include <azure/Management/AzureBackup>"],
+    "description": "management/AzureBackup azure icons"
+  },
+
+  "Include azure/Management/AzureBlueprints": {
+    "scope": "diagram",
+    "prefix": ["i-management-azureblueprints", "i-AzureBlueprints(azure)"],
+    "body": ["!include <azure/Management/AzureBlueprints>"],
+    "description": "management/AzureBlueprints azure icons"
+  },
+
+  "Include azure/Management/AzureLogAnalytics": {
+    "scope": "diagram",
+    "prefix": ["i-management-azureloganalytics", "i-AzureLogAnalytics(azure)"],
+    "body": ["!include <azure/Management/AzureLogAnalytics>"],
+    "description": "management/AzureLogAnalytics azure icons"
+  },
+
+  "Include azure/Management/AzureManagedApplications": {
+    "scope": "diagram",
+    "prefix": ["i-management-azuremanagedapplications", "i-AzureManagedApplications(azure)"],
+    "body": ["!include <azure/Management/AzureManagedApplications>"],
+    "description": "management/AzureManagedApplications azure icons"
+  },
+
+  "Include azure/Management/AzureManagementGroups": {
+    "scope": "diagram",
+    "prefix": ["i-management-azuremanagementgroups", "i-AzureManagementGroups(azure)"],
+    "body": ["!include <azure/Management/AzureManagementGroups>"],
+    "description": "management/AzureManagementGroups azure icons"
+  },
+
+  "Include azure/Management/AzureMonitor": {
+    "scope": "diagram",
+    "prefix": ["i-management-azuremonitor", "i-AzureMonitor(azure)"],
+    "body": ["!include <azure/Management/AzureMonitor>"],
+    "description": "management/AzureMonitor azure icons"
+  },
+
+  "Include azure/Management/AzurePolicy": {
+    "scope": "diagram",
+    "prefix": ["i-management-azurepolicy", "i-AzurePolicy(azure)"],
+    "body": ["!include <azure/Management/AzurePolicy>"],
+    "description": "management/AzurePolicy azure icons"
+  },
+
+  "Include azure/Management/AzureResourceGroups": {
+    "scope": "diagram",
+    "prefix": ["i-management-azureresourcegroups", "i-AzureResourceGroups(azure)"],
+    "body": ["!include <azure/Management/AzureResourceGroups>"],
+    "description": "management/AzureResourceGroups azure icons"
+  },
+
+  "Include azure/Management/AzureScheduler": {
+    "scope": "diagram",
+    "prefix": ["i-management-azurescheduler", "i-AzureScheduler(azure)"],
+    "body": ["!include <azure/Management/AzureScheduler>"],
+    "description": "management/AzureScheduler azure icons"
+  },
+
+  "Include azure/Management/AzureSiteRecovery": {
+    "scope": "diagram",
+    "prefix": ["i-management-azuresiterecovery", "i-AzureSiteRecovery(azure)"],
+    "body": ["!include <azure/Management/AzureSiteRecovery>"],
+    "description": "management/AzureSiteRecovery azure icons"
+  },
+
+  "Include azure/Management/AzureSubscription": {
+    "scope": "diagram",
+    "prefix": ["i-management-azuresubscription", "i-AzureSubscription(azure)"],
+    "body": ["!include <azure/Management/AzureSubscription>"],
+    "description": "management/AzureSubscription azure icons"
+  },
+
+  "Include azure/Management/all": {
+    "scope": "diagram",
+    "prefix": ["i-management-all", "i-all(azure)"],
+    "body": ["!include <azure/Management/all>"],
+    "description": "management/all azure icons"
+  },
+
+  "Include azure/Media/AzureMediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-media-azuremediaservices", "i-AzureMediaServices(azure)"],
+    "body": ["!include <azure/Media/AzureMediaServices>"],
+    "description": "media/AzureMediaServices azure icons"
+  },
+
+  "Include azure/Media/all": {
+    "scope": "diagram",
+    "prefix": ["i-media-all", "i-all(azure)"],
+    "body": ["!include <azure/Media/all>"],
+    "description": "media/all azure icons"
+  },
+
+  "Include azure/Mobile/AzureMobileApp": {
+    "scope": "diagram",
+    "prefix": ["i-mobile-azuremobileapp", "i-AzureMobileApp(azure)"],
+    "body": ["!include <azure/Mobile/AzureMobileApp>"],
+    "description": "mobile/AzureMobileApp azure icons"
+  },
+
+  "Include azure/Mobile/AzureNotificationHubs": {
+    "scope": "diagram",
+    "prefix": ["i-mobile-azurenotificationhubs", "i-AzureNotificationHubs(azure)"],
+    "body": ["!include <azure/Mobile/AzureNotificationHubs>"],
+    "description": "mobile/AzureNotificationHubs azure icons"
+  },
+
+  "Include azure/Mobile/all": {
+    "scope": "diagram",
+    "prefix": ["i-mobile-all", "i-all(azure)"],
+    "body": ["!include <azure/Mobile/all>"],
+    "description": "mobile/all azure icons"
+  },
+
+  "Include azure/Networking/AzureApplicationGateway": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azureapplicationgateway", "i-AzureApplicationGateway(azure)"],
+    "body": ["!include <azure/Networking/AzureApplicationGateway>"],
+    "description": "networking/AzureApplicationGateway azure icons"
+  },
+
+  "Include azure/Networking/AzureAzureDDoSProtection": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azureazureddosprotection", "i-AzureAzureDDoSProtection(azure)"],
+    "body": ["!include <azure/Networking/AzureAzureDDoSProtection>"],
+    "description": "networking/AzureAzureDDoSProtection azure icons"
+  },
+
+  "Include azure/Networking/AzureDNS": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azuredns", "i-AzureDNS(azure)"],
+    "body": ["!include <azure/Networking/AzureDNS>"],
+    "description": "networking/AzureDNS azure icons"
+  },
+
+  "Include azure/Networking/AzureExpressRoute": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azureexpressroute", "i-AzureExpressRoute(azure)"],
+    "body": ["!include <azure/Networking/AzureExpressRoute>"],
+    "description": "networking/AzureExpressRoute azure icons"
+  },
+
+  "Include azure/Networking/AzureFrontDoorService": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azurefrontdoorservice", "i-AzureFrontDoorService(azure)"],
+    "body": ["!include <azure/Networking/AzureFrontDoorService>"],
+    "description": "networking/AzureFrontDoorService azure icons"
+  },
+
+  "Include azure/Networking/AzureLoadBalancer": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azureloadbalancer", "i-AzureLoadBalancer(azure)"],
+    "body": ["!include <azure/Networking/AzureLoadBalancer>"],
+    "description": "networking/AzureLoadBalancer azure icons"
+  },
+
+  "Include azure/Networking/AzureTrafficManager": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azuretrafficmanager", "i-AzureTrafficManager(azure)"],
+    "body": ["!include <azure/Networking/AzureTrafficManager>"],
+    "description": "networking/AzureTrafficManager azure icons"
+  },
+
+  "Include azure/Networking/AzureVPNGateway": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azurevpngateway", "i-AzureVPNGateway(azure)"],
+    "body": ["!include <azure/Networking/AzureVPNGateway>"],
+    "description": "networking/AzureVPNGateway azure icons"
+  },
+
+  "Include azure/Networking/AzureVirtualNetwork": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azurevirtualnetwork", "i-AzureVirtualNetwork(azure)"],
+    "body": ["!include <azure/Networking/AzureVirtualNetwork>"],
+    "description": "networking/AzureVirtualNetwork azure icons"
+  },
+
+  "Include azure/Networking/AzureVirtualWAN": {
+    "scope": "diagram",
+    "prefix": ["i-networking-azurevirtualwan", "i-AzureVirtualWAN(azure)"],
+    "body": ["!include <azure/Networking/AzureVirtualWAN>"],
+    "description": "networking/AzureVirtualWAN azure icons"
+  },
+
+  "Include azure/Networking/all": {
+    "scope": "diagram",
+    "prefix": ["i-networking-all", "i-all(azure)"],
+    "body": ["!include <azure/Networking/all>"],
+    "description": "networking/all azure icons"
+  },
+
+  "Include azure/Security/AzureKeyVault": {
+    "scope": "diagram",
+    "prefix": ["i-security-azurekeyvault", "i-AzureKeyVault(azure)"],
+    "body": ["!include <azure/Security/AzureKeyVault>"],
+    "description": "security/AzureKeyVault azure icons"
+  },
+
+  "Include azure/Security/AzureSentinel": {
+    "scope": "diagram",
+    "prefix": ["i-security-azuresentinel", "i-AzureSentinel(azure)"],
+    "body": ["!include <azure/Security/AzureSentinel>"],
+    "description": "security/AzureSentinel azure icons"
+  },
+
+  "Include azure/Security/all": {
+    "scope": "diagram",
+    "prefix": ["i-security-all", "i-all(azure)"],
+    "body": ["!include <azure/Security/all>"],
+    "description": "security/all azure icons"
+  },
+
+  "Include azure/Storage/AzureBlobStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azureblobstorage", "i-AzureBlobStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureBlobStorage>"],
+    "description": "storage/AzureBlobStorage azure icons"
+  },
+
+  "Include azure/Storage/AzureDataBox": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azuredatabox", "i-AzureDataBox(azure)"],
+    "body": ["!include <azure/Storage/AzureDataBox>"],
+    "description": "storage/AzureDataBox azure icons"
+  },
+
+  "Include azure/Storage/AzureDataLakeStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azuredatalakestorage", "i-AzureDataLakeStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureDataLakeStorage>"],
+    "description": "storage/AzureDataLakeStorage azure icons"
+  },
+
+  "Include azure/Storage/AzureDiskStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurediskstorage", "i-AzureDiskStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureDiskStorage>"],
+    "description": "storage/AzureDiskStorage azure icons"
+  },
+
+  "Include azure/Storage/AzureFileStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurefilestorage", "i-AzureFileStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureFileStorage>"],
+    "description": "storage/AzureFileStorage azure icons"
+  },
+
+  "Include azure/Storage/AzureManagedDisks": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azuremanageddisks", "i-AzureManagedDisks(azure)"],
+    "body": ["!include <azure/Storage/AzureManagedDisks>"],
+    "description": "storage/AzureManagedDisks azure icons"
+  },
+
+  "Include azure/Storage/AzureNetAppFiles": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurenetappfiles", "i-AzureNetAppFiles(azure)"],
+    "body": ["!include <azure/Storage/AzureNetAppFiles>"],
+    "description": "storage/AzureNetAppFiles azure icons"
+  },
+
+  "Include azure/Storage/AzureQueueStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurequeuestorage", "i-AzureQueueStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureQueueStorage>"],
+    "description": "storage/AzureQueueStorage azure icons"
+  },
+
+  "Include azure/Storage/AzureStorSimple": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurestorsimple", "i-AzureStorSimple(azure)"],
+    "body": ["!include <azure/Storage/AzureStorSimple>"],
+    "description": "storage/AzureStorSimple azure icons"
+  },
+
+  "Include azure/Storage/AzureStorage": {
+    "scope": "diagram",
+    "prefix": ["i-storage-azurestorage", "i-AzureStorage(azure)"],
+    "body": ["!include <azure/Storage/AzureStorage>"],
+    "description": "storage/AzureStorage azure icons"
+  },
+
+  "Include azure/Storage/all": {
+    "scope": "diagram",
+    "prefix": ["i-storage-all", "i-all(azure)"],
+    "body": ["!include <azure/Storage/all>"],
+    "description": "storage/all azure icons"
+  },
+
+  "Include azure/Web/AzureAPIManagement": {
+    "scope": "diagram",
+    "prefix": ["i-web-azureapimanagement", "i-AzureAPIManagement(azure)"],
+    "body": ["!include <azure/Web/AzureAPIManagement>"],
+    "description": "web/AzureAPIManagement azure icons"
+  },
+
+  "Include azure/Web/AzureCDN": {
+    "scope": "diagram",
+    "prefix": ["i-web-azurecdn", "i-AzureCDN(azure)"],
+    "body": ["!include <azure/Web/AzureCDN>"],
+    "description": "web/AzureCDN azure icons"
+  },
+
+  "Include azure/Web/AzureSearch": {
+    "scope": "diagram",
+    "prefix": ["i-web-azuresearch", "i-AzureSearch(azure)"],
+    "body": ["!include <azure/Web/AzureSearch>"],
+    "description": "web/AzureSearch azure icons"
+  },
+
+  "Include azure/Web/AzureSignalRService": {
+    "scope": "diagram",
+    "prefix": ["i-web-azuresignalrservice", "i-AzureSignalRService(azure)"],
+    "body": ["!include <azure/Web/AzureSignalRService>"],
+    "description": "web/AzureSignalRService azure icons"
+  },
+
+  "Include azure/Web/AzureWebApp": {
+    "scope": "diagram",
+    "prefix": ["i-web-azurewebapp", "i-AzureWebApp(azure)"],
+    "body": ["!include <azure/Web/AzureWebApp>"],
+    "description": "web/AzureWebApp azure icons"
+  },
+
+  "Include azure/Web/all": {
+    "scope": "diagram",
+    "prefix": ["i-web-all", "i-all(azure)"],
+    "body": ["!include <azure/Web/all>"],
+    "description": "web/all azure icons"
+  }
+
+}

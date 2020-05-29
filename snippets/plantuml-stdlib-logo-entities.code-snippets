@@ -1,0 +1,8150 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "sprite 100tb": {
+    "scope": "diagram",
+    "prefix": ["s-100tb"],
+    "body": ["<$$100tb>"],
+    "description": "100tb logo sprite"
+  },
+
+  "sprite 500px": {
+    "scope": "diagram",
+    "prefix": ["s-500px"],
+    "body": ["<$$500px>"],
+    "description": "500px logo sprite"
+  },
+
+  "sprite 6px": {
+    "scope": "diagram",
+    "prefix": ["s-6px"],
+    "body": ["<$$6px>"],
+    "description": "6px logo sprite"
+  },
+
+  "sprite admob": {
+    "scope": "diagram",
+    "prefix": ["s-admob"],
+    "body": ["<$$admob>"],
+    "description": "admob logo sprite"
+  },
+
+  "sprite adroll": {
+    "scope": "diagram",
+    "prefix": ["s-adroll"],
+    "body": ["<$$adroll>"],
+    "description": "adroll logo sprite"
+  },
+
+  "sprite adyen": {
+    "scope": "diagram",
+    "prefix": ["s-adyen"],
+    "body": ["<$$adyen>"],
+    "description": "adyen logo sprite"
+  },
+
+  "sprite aerospike": {
+    "scope": "diagram",
+    "prefix": ["s-aerospike"],
+    "body": ["<$$aerospike>"],
+    "description": "aerospike logo sprite"
+  },
+
+  "sprite airbnb": {
+    "scope": "diagram",
+    "prefix": ["s-airbnb"],
+    "body": ["<$$airbnb>"],
+    "description": "airbnb logo sprite"
+  },
+
+  "sprite airbrake": {
+    "scope": "diagram",
+    "prefix": ["s-airbrake"],
+    "body": ["<$$airbrake>"],
+    "description": "airbrake logo sprite"
+  },
+
+  "sprite airflow": {
+    "scope": "diagram",
+    "prefix": ["s-airflow"],
+    "body": ["<$$airflow>"],
+    "description": "airflow logo sprite"
+  },
+
+  "sprite airtable": {
+    "scope": "diagram",
+    "prefix": ["s-airtable"],
+    "body": ["<$$airtable>"],
+    "description": "airtable logo sprite"
+  },
+
+  "sprite akamai": {
+    "scope": "diagram",
+    "prefix": ["s-akamai"],
+    "body": ["<$$akamai>"],
+    "description": "akamai logo sprite"
+  },
+
+  "sprite akka": {
+    "scope": "diagram",
+    "prefix": ["s-akka"],
+    "body": ["<$$akka>"],
+    "description": "akka logo sprite"
+  },
+
+  "sprite alfresco": {
+    "scope": "diagram",
+    "prefix": ["s-alfresco"],
+    "body": ["<$$alfresco>"],
+    "description": "alfresco logo sprite"
+  },
+
+  "sprite algolia": {
+    "scope": "diagram",
+    "prefix": ["s-algolia"],
+    "body": ["<$$algolia>"],
+    "description": "algolia logo sprite"
+  },
+
+  "sprite altair": {
+    "scope": "diagram",
+    "prefix": ["s-altair"],
+    "body": ["<$$altair>"],
+    "description": "altair logo sprite"
+  },
+
+  "sprite amazon-chime": {
+    "scope": "diagram",
+    "prefix": ["s-amazon-chime"],
+    "body": ["<$$amazon-chime>"],
+    "description": "amazon-chime logo sprite"
+  },
+
+  "sprite amazon-connect": {
+    "scope": "diagram",
+    "prefix": ["s-amazon-connect"],
+    "body": ["<$$amazon-connect>"],
+    "description": "amazon-connect logo sprite"
+  },
+
+  "sprite amex": {
+    "scope": "diagram",
+    "prefix": ["s-amex"],
+    "body": ["<$$amex>"],
+    "description": "amex logo sprite"
+  },
+
+  "sprite ampersand": {
+    "scope": "diagram",
+    "prefix": ["s-ampersand"],
+    "body": ["<$$ampersand>"],
+    "description": "ampersand logo sprite"
+  },
+
+  "sprite android-icon": {
+    "scope": "diagram",
+    "prefix": ["s-android-icon"],
+    "body": ["<$$android-icon>"],
+    "description": "android-icon logo sprite"
+  },
+
+  "sprite android": {
+    "scope": "diagram",
+    "prefix": ["s-android"],
+    "body": ["<$$android>"],
+    "description": "android logo sprite"
+  },
+
+  "sprite angellist": {
+    "scope": "diagram",
+    "prefix": ["s-angellist"],
+    "body": ["<$$angellist>"],
+    "description": "angellist logo sprite"
+  },
+
+  "sprite angular-icon": {
+    "scope": "diagram",
+    "prefix": ["s-angular-icon"],
+    "body": ["<$$angular-icon>"],
+    "description": "angular-icon logo sprite"
+  },
+
+  "sprite angular": {
+    "scope": "diagram",
+    "prefix": ["s-angular"],
+    "body": ["<$$angular>"],
+    "description": "angular logo sprite"
+  },
+
+  "sprite ansible": {
+    "scope": "diagram",
+    "prefix": ["s-ansible"],
+    "body": ["<$$ansible>"],
+    "description": "ansible logo sprite"
+  },
+
+  "sprite apache-camel": {
+    "scope": "diagram",
+    "prefix": ["s-apache-camel"],
+    "body": ["<$$apache-camel>"],
+    "description": "apache-camel logo sprite"
+  },
+
+  "sprite apache": {
+    "scope": "diagram",
+    "prefix": ["s-apache"],
+    "body": ["<$$apache>"],
+    "description": "apache logo sprite"
+  },
+
+  "sprite apache_cloudstack": {
+    "scope": "diagram",
+    "prefix": ["s-apache_cloudstack"],
+    "body": ["<$$apache_cloudstack>"],
+    "description": "apache_cloudstack logo sprite"
+  },
+
+  "sprite api-ai": {
+    "scope": "diagram",
+    "prefix": ["s-api-ai"],
+    "body": ["<$$api-ai>"],
+    "description": "api-ai logo sprite"
+  },
+
+  "sprite apiary": {
+    "scope": "diagram",
+    "prefix": ["s-apiary"],
+    "body": ["<$$apiary>"],
+    "description": "apiary logo sprite"
+  },
+
+  "sprite apigee": {
+    "scope": "diagram",
+    "prefix": ["s-apigee"],
+    "body": ["<$$apigee>"],
+    "description": "apigee logo sprite"
+  },
+
+  "sprite apitools": {
+    "scope": "diagram",
+    "prefix": ["s-apitools"],
+    "body": ["<$$apitools>"],
+    "description": "apitools logo sprite"
+  },
+
+  "sprite apollostack": {
+    "scope": "diagram",
+    "prefix": ["s-apollostack"],
+    "body": ["<$$apollostack>"],
+    "description": "apollostack logo sprite"
+  },
+
+  "sprite appbase": {
+    "scope": "diagram",
+    "prefix": ["s-appbase"],
+    "body": ["<$$appbase>"],
+    "description": "appbase logo sprite"
+  },
+
+  "sprite appcelerator": {
+    "scope": "diagram",
+    "prefix": ["s-appcelerator"],
+    "body": ["<$$appcelerator>"],
+    "description": "appcelerator logo sprite"
+  },
+
+  "sprite appcode": {
+    "scope": "diagram",
+    "prefix": ["s-appcode"],
+    "body": ["<$$appcode>"],
+    "description": "appcode logo sprite"
+  },
+
+  "sprite appdynamics": {
+    "scope": "diagram",
+    "prefix": ["s-appdynamics"],
+    "body": ["<$$appdynamics>"],
+    "description": "appdynamics logo sprite"
+  },
+
+  "sprite appfog": {
+    "scope": "diagram",
+    "prefix": ["s-appfog"],
+    "body": ["<$$appfog>"],
+    "description": "appfog logo sprite"
+  },
+
+  "sprite apphub": {
+    "scope": "diagram",
+    "prefix": ["s-apphub"],
+    "body": ["<$$apphub>"],
+    "description": "apphub logo sprite"
+  },
+
+  "sprite appium": {
+    "scope": "diagram",
+    "prefix": ["s-appium"],
+    "body": ["<$$appium>"],
+    "description": "appium logo sprite"
+  },
+
+  "sprite apple-app-store": {
+    "scope": "diagram",
+    "prefix": ["s-apple-app-store"],
+    "body": ["<$$apple-app-store>"],
+    "description": "apple-app-store logo sprite"
+  },
+
+  "sprite apple-pay": {
+    "scope": "diagram",
+    "prefix": ["s-apple-pay"],
+    "body": ["<$$apple-pay>"],
+    "description": "apple-pay logo sprite"
+  },
+
+  "sprite apple": {
+    "scope": "diagram",
+    "prefix": ["s-apple"],
+    "body": ["<$$apple>"],
+    "description": "apple logo sprite"
+  },
+
+  "sprite appmaker": {
+    "scope": "diagram",
+    "prefix": ["s-appmaker"],
+    "body": ["<$$appmaker>"],
+    "description": "appmaker logo sprite"
+  },
+
+  "sprite apportable": {
+    "scope": "diagram",
+    "prefix": ["s-apportable"],
+    "body": ["<$$apportable>"],
+    "description": "apportable logo sprite"
+  },
+
+  "sprite appsignal-icon": {
+    "scope": "diagram",
+    "prefix": ["s-appsignal-icon"],
+    "body": ["<$$appsignal-icon>"],
+    "description": "appsignal-icon logo sprite"
+  },
+
+  "sprite appsignal": {
+    "scope": "diagram",
+    "prefix": ["s-appsignal"],
+    "body": ["<$$appsignal>"],
+    "description": "appsignal logo sprite"
+  },
+
+  "sprite apptentive": {
+    "scope": "diagram",
+    "prefix": ["s-apptentive"],
+    "body": ["<$$apptentive>"],
+    "description": "apptentive logo sprite"
+  },
+
+  "sprite appveyor": {
+    "scope": "diagram",
+    "prefix": ["s-appveyor"],
+    "body": ["<$$appveyor>"],
+    "description": "appveyor logo sprite"
+  },
+
+  "sprite arangodb": {
+    "scope": "diagram",
+    "prefix": ["s-arangodb"],
+    "body": ["<$$arangodb>"],
+    "description": "arangodb logo sprite"
+  },
+
+  "sprite archlinux": {
+    "scope": "diagram",
+    "prefix": ["s-archlinux"],
+    "body": ["<$$archlinux>"],
+    "description": "archlinux logo sprite"
+  },
+
+  "sprite arduino": {
+    "scope": "diagram",
+    "prefix": ["s-arduino"],
+    "body": ["<$$arduino>"],
+    "description": "arduino logo sprite"
+  },
+
+  "sprite armory": {
+    "scope": "diagram",
+    "prefix": ["s-armory"],
+    "body": ["<$$armory>"],
+    "description": "armory logo sprite"
+  },
+
+  "sprite asana": {
+    "scope": "diagram",
+    "prefix": ["s-asana"],
+    "body": ["<$$asana>"],
+    "description": "asana logo sprite"
+  },
+
+  "sprite astronomer": {
+    "scope": "diagram",
+    "prefix": ["s-astronomer"],
+    "body": ["<$$astronomer>"],
+    "description": "astronomer logo sprite"
+  },
+
+  "sprite atlassian": {
+    "scope": "diagram",
+    "prefix": ["s-atlassian"],
+    "body": ["<$$atlassian>"],
+    "description": "atlassian logo sprite"
+  },
+
+  "sprite atom": {
+    "scope": "diagram",
+    "prefix": ["s-atom"],
+    "body": ["<$$atom>"],
+    "description": "atom logo sprite"
+  },
+
+  "sprite atomic": {
+    "scope": "diagram",
+    "prefix": ["s-atomic"],
+    "body": ["<$$atomic>"],
+    "description": "atomic logo sprite"
+  },
+
+  "sprite aurelia": {
+    "scope": "diagram",
+    "prefix": ["s-aurelia"],
+    "body": ["<$$aurelia>"],
+    "description": "aurelia logo sprite"
+  },
+
+  "sprite aurora": {
+    "scope": "diagram",
+    "prefix": ["s-aurora"],
+    "body": ["<$$aurora>"],
+    "description": "aurora logo sprite"
+  },
+
+  "sprite aurous": {
+    "scope": "diagram",
+    "prefix": ["s-aurous"],
+    "body": ["<$$aurous>"],
+    "description": "aurous logo sprite"
+  },
+
+  "sprite auth0": {
+    "scope": "diagram",
+    "prefix": ["s-auth0"],
+    "body": ["<$$auth0>"],
+    "description": "auth0 logo sprite"
+  },
+
+  "sprite authy": {
+    "scope": "diagram",
+    "prefix": ["s-authy"],
+    "body": ["<$$authy>"],
+    "description": "authy logo sprite"
+  },
+
+  "sprite autocode": {
+    "scope": "diagram",
+    "prefix": ["s-autocode"],
+    "body": ["<$$autocode>"],
+    "description": "autocode logo sprite"
+  },
+
+  "sprite autoit": {
+    "scope": "diagram",
+    "prefix": ["s-autoit"],
+    "body": ["<$$autoit>"],
+    "description": "autoit logo sprite"
+  },
+
+  "sprite autoprefixer": {
+    "scope": "diagram",
+    "prefix": ["s-autoprefixer"],
+    "body": ["<$$autoprefixer>"],
+    "description": "autoprefixer logo sprite"
+  },
+
+  "sprite ava": {
+    "scope": "diagram",
+    "prefix": ["s-ava"],
+    "body": ["<$$ava>"],
+    "description": "ava logo sprite"
+  },
+
+  "sprite awesome": {
+    "scope": "diagram",
+    "prefix": ["s-awesome"],
+    "body": ["<$$awesome>"],
+    "description": "awesome logo sprite"
+  },
+
+  "sprite aws-api-gateway": {
+    "scope": "diagram",
+    "prefix": ["s-aws-api-gateway"],
+    "body": ["<$$aws-api-gateway>"],
+    "description": "aws-api-gateway logo sprite"
+  },
+
+  "sprite aws-cloudformation": {
+    "scope": "diagram",
+    "prefix": ["s-aws-cloudformation"],
+    "body": ["<$$aws-cloudformation>"],
+    "description": "aws-cloudformation logo sprite"
+  },
+
+  "sprite aws-cloudfront": {
+    "scope": "diagram",
+    "prefix": ["s-aws-cloudfront"],
+    "body": ["<$$aws-cloudfront>"],
+    "description": "aws-cloudfront logo sprite"
+  },
+
+  "sprite aws-cloudsearch": {
+    "scope": "diagram",
+    "prefix": ["s-aws-cloudsearch"],
+    "body": ["<$$aws-cloudsearch>"],
+    "description": "aws-cloudsearch logo sprite"
+  },
+
+  "sprite aws-cloudwatch": {
+    "scope": "diagram",
+    "prefix": ["s-aws-cloudwatch"],
+    "body": ["<$$aws-cloudwatch>"],
+    "description": "aws-cloudwatch logo sprite"
+  },
+
+  "sprite aws-codedeploy": {
+    "scope": "diagram",
+    "prefix": ["s-aws-codedeploy"],
+    "body": ["<$$aws-codedeploy>"],
+    "description": "aws-codedeploy logo sprite"
+  },
+
+  "sprite aws-cognito": {
+    "scope": "diagram",
+    "prefix": ["s-aws-cognito"],
+    "body": ["<$$aws-cognito>"],
+    "description": "aws-cognito logo sprite"
+  },
+
+  "sprite aws-dynamodb": {
+    "scope": "diagram",
+    "prefix": ["s-aws-dynamodb"],
+    "body": ["<$$aws-dynamodb>"],
+    "description": "aws-dynamodb logo sprite"
+  },
+
+  "sprite aws-ec2": {
+    "scope": "diagram",
+    "prefix": ["s-aws-ec2"],
+    "body": ["<$$aws-ec2>"],
+    "description": "aws-ec2 logo sprite"
+  },
+
+  "sprite aws-elastic-cache": {
+    "scope": "diagram",
+    "prefix": ["s-aws-elastic-cache"],
+    "body": ["<$$aws-elastic-cache>"],
+    "description": "aws-elastic-cache logo sprite"
+  },
+
+  "sprite aws-glacier": {
+    "scope": "diagram",
+    "prefix": ["s-aws-glacier"],
+    "body": ["<$$aws-glacier>"],
+    "description": "aws-glacier logo sprite"
+  },
+
+  "sprite aws-iam": {
+    "scope": "diagram",
+    "prefix": ["s-aws-iam"],
+    "body": ["<$$aws-iam>"],
+    "description": "aws-iam logo sprite"
+  },
+
+  "sprite aws-kinesis": {
+    "scope": "diagram",
+    "prefix": ["s-aws-kinesis"],
+    "body": ["<$$aws-kinesis>"],
+    "description": "aws-kinesis logo sprite"
+  },
+
+  "sprite aws-lambda": {
+    "scope": "diagram",
+    "prefix": ["s-aws-lambda"],
+    "body": ["<$$aws-lambda>"],
+    "description": "aws-lambda logo sprite"
+  },
+
+  "sprite aws-mobilehub": {
+    "scope": "diagram",
+    "prefix": ["s-aws-mobilehub"],
+    "body": ["<$$aws-mobilehub>"],
+    "description": "aws-mobilehub logo sprite"
+  },
+
+  "sprite aws-opsworks": {
+    "scope": "diagram",
+    "prefix": ["s-aws-opsworks"],
+    "body": ["<$$aws-opsworks>"],
+    "description": "aws-opsworks logo sprite"
+  },
+
+  "sprite aws-quicksight": {
+    "scope": "diagram",
+    "prefix": ["s-aws-quicksight"],
+    "body": ["<$$aws-quicksight>"],
+    "description": "aws-quicksight logo sprite"
+  },
+
+  "sprite aws-rds": {
+    "scope": "diagram",
+    "prefix": ["s-aws-rds"],
+    "body": ["<$$aws-rds>"],
+    "description": "aws-rds logo sprite"
+  },
+
+  "sprite aws-route53": {
+    "scope": "diagram",
+    "prefix": ["s-aws-route53"],
+    "body": ["<$$aws-route53>"],
+    "description": "aws-route53 logo sprite"
+  },
+
+  "sprite aws-s3": {
+    "scope": "diagram",
+    "prefix": ["s-aws-s3"],
+    "body": ["<$$aws-s3>"],
+    "description": "aws-s3 logo sprite"
+  },
+
+  "sprite aws-ses": {
+    "scope": "diagram",
+    "prefix": ["s-aws-ses"],
+    "body": ["<$$aws-ses>"],
+    "description": "aws-ses logo sprite"
+  },
+
+  "sprite aws-sns": {
+    "scope": "diagram",
+    "prefix": ["s-aws-sns"],
+    "body": ["<$$aws-sns>"],
+    "description": "aws-sns logo sprite"
+  },
+
+  "sprite aws-sqs": {
+    "scope": "diagram",
+    "prefix": ["s-aws-sqs"],
+    "body": ["<$$aws-sqs>"],
+    "description": "aws-sqs logo sprite"
+  },
+
+  "sprite aws-waf": {
+    "scope": "diagram",
+    "prefix": ["s-aws-waf"],
+    "body": ["<$$aws-waf>"],
+    "description": "aws-waf logo sprite"
+  },
+
+  "sprite aws": {
+    "scope": "diagram",
+    "prefix": ["s-aws"],
+    "body": ["<$$aws>"],
+    "description": "aws logo sprite"
+  },
+
+  "sprite azure": {
+    "scope": "diagram",
+    "prefix": ["s-azure"],
+    "body": ["<$$azure>"],
+    "description": "azure logo sprite"
+  },
+
+  "sprite babel": {
+    "scope": "diagram",
+    "prefix": ["s-babel"],
+    "body": ["<$$babel>"],
+    "description": "babel logo sprite"
+  },
+
+  "sprite backbone-icon": {
+    "scope": "diagram",
+    "prefix": ["s-backbone-icon"],
+    "body": ["<$$backbone-icon>"],
+    "description": "backbone-icon logo sprite"
+  },
+
+  "sprite backbone": {
+    "scope": "diagram",
+    "prefix": ["s-backbone"],
+    "body": ["<$$backbone>"],
+    "description": "backbone logo sprite"
+  },
+
+  "sprite backerkit": {
+    "scope": "diagram",
+    "prefix": ["s-backerkit"],
+    "body": ["<$$backerkit>"],
+    "description": "backerkit logo sprite"
+  },
+
+  "sprite baker-street": {
+    "scope": "diagram",
+    "prefix": ["s-baker-street"],
+    "body": ["<$$baker-street>"],
+    "description": "baker-street logo sprite"
+  },
+
+  "sprite bamboo": {
+    "scope": "diagram",
+    "prefix": ["s-bamboo"],
+    "body": ["<$$bamboo>"],
+    "description": "bamboo logo sprite"
+  },
+
+  "sprite basecamp": {
+    "scope": "diagram",
+    "prefix": ["s-basecamp"],
+    "body": ["<$$basecamp>"],
+    "description": "basecamp logo sprite"
+  },
+
+  "sprite basekit": {
+    "scope": "diagram",
+    "prefix": ["s-basekit"],
+    "body": ["<$$basekit>"],
+    "description": "basekit logo sprite"
+  },
+
+  "sprite bash": {
+    "scope": "diagram",
+    "prefix": ["s-bash"],
+    "body": ["<$$bash>"],
+    "description": "bash logo sprite"
+  },
+
+  "sprite batch": {
+    "scope": "diagram",
+    "prefix": ["s-batch"],
+    "body": ["<$$batch>"],
+    "description": "batch logo sprite"
+  },
+
+  "sprite beats": {
+    "scope": "diagram",
+    "prefix": ["s-beats"],
+    "body": ["<$$beats>"],
+    "description": "beats logo sprite"
+  },
+
+  "sprite behance": {
+    "scope": "diagram",
+    "prefix": ["s-behance"],
+    "body": ["<$$behance>"],
+    "description": "behance logo sprite"
+  },
+
+  "sprite bem-2": {
+    "scope": "diagram",
+    "prefix": ["s-bem-2"],
+    "body": ["<$$bem-2>"],
+    "description": "bem-2 logo sprite"
+  },
+
+  "sprite bem": {
+    "scope": "diagram",
+    "prefix": ["s-bem"],
+    "body": ["<$$bem>"],
+    "description": "bem logo sprite"
+  },
+
+  "sprite bigpanda": {
+    "scope": "diagram",
+    "prefix": ["s-bigpanda"],
+    "body": ["<$$bigpanda>"],
+    "description": "bigpanda logo sprite"
+  },
+
+  "sprite bing": {
+    "scope": "diagram",
+    "prefix": ["s-bing"],
+    "body": ["<$$bing>"],
+    "description": "bing logo sprite"
+  },
+
+  "sprite bitballoon": {
+    "scope": "diagram",
+    "prefix": ["s-bitballoon"],
+    "body": ["<$$bitballoon>"],
+    "description": "bitballoon logo sprite"
+  },
+
+  "sprite bitbucket": {
+    "scope": "diagram",
+    "prefix": ["s-bitbucket"],
+    "body": ["<$$bitbucket>"],
+    "description": "bitbucket logo sprite"
+  },
+
+  "sprite bitcoin": {
+    "scope": "diagram",
+    "prefix": ["s-bitcoin"],
+    "body": ["<$$bitcoin>"],
+    "description": "bitcoin logo sprite"
+  },
+
+  "sprite bitnami": {
+    "scope": "diagram",
+    "prefix": ["s-bitnami"],
+    "body": ["<$$bitnami>"],
+    "description": "bitnami logo sprite"
+  },
+
+  "sprite bitrise-icon": {
+    "scope": "diagram",
+    "prefix": ["s-bitrise-icon"],
+    "body": ["<$$bitrise-icon>"],
+    "description": "bitrise-icon logo sprite"
+  },
+
+  "sprite bitrise": {
+    "scope": "diagram",
+    "prefix": ["s-bitrise"],
+    "body": ["<$$bitrise>"],
+    "description": "bitrise logo sprite"
+  },
+
+  "sprite blocs": {
+    "scope": "diagram",
+    "prefix": ["s-blocs"],
+    "body": ["<$$blocs>"],
+    "description": "blocs logo sprite"
+  },
+
+  "sprite blogger": {
+    "scope": "diagram",
+    "prefix": ["s-blogger"],
+    "body": ["<$$blogger>"],
+    "description": "blogger logo sprite"
+  },
+
+  "sprite blossom": {
+    "scope": "diagram",
+    "prefix": ["s-blossom"],
+    "body": ["<$$blossom>"],
+    "description": "blossom logo sprite"
+  },
+
+  "sprite bluemix": {
+    "scope": "diagram",
+    "prefix": ["s-bluemix"],
+    "body": ["<$$bluemix>"],
+    "description": "bluemix logo sprite"
+  },
+
+  "sprite blueprint": {
+    "scope": "diagram",
+    "prefix": ["s-blueprint"],
+    "body": ["<$$blueprint>"],
+    "description": "blueprint logo sprite"
+  },
+
+  "sprite bluetooth": {
+    "scope": "diagram",
+    "prefix": ["s-bluetooth"],
+    "body": ["<$$bluetooth>"],
+    "description": "bluetooth logo sprite"
+  },
+
+  "sprite bootstrap": {
+    "scope": "diagram",
+    "prefix": ["s-bootstrap"],
+    "body": ["<$$bootstrap>"],
+    "description": "bootstrap logo sprite"
+  },
+
+  "sprite bosun": {
+    "scope": "diagram",
+    "prefix": ["s-bosun"],
+    "body": ["<$$bosun>"],
+    "description": "bosun logo sprite"
+  },
+
+  "sprite botanalytics": {
+    "scope": "diagram",
+    "prefix": ["s-botanalytics"],
+    "body": ["<$$botanalytics>"],
+    "description": "botanalytics logo sprite"
+  },
+
+  "sprite bourbon": {
+    "scope": "diagram",
+    "prefix": ["s-bourbon"],
+    "body": ["<$$bourbon>"],
+    "description": "bourbon logo sprite"
+  },
+
+  "sprite bower": {
+    "scope": "diagram",
+    "prefix": ["s-bower"],
+    "body": ["<$$bower>"],
+    "description": "bower logo sprite"
+  },
+
+  "sprite bowtie": {
+    "scope": "diagram",
+    "prefix": ["s-bowtie"],
+    "body": ["<$$bowtie>"],
+    "description": "bowtie logo sprite"
+  },
+
+  "sprite box": {
+    "scope": "diagram",
+    "prefix": ["s-box"],
+    "body": ["<$$box>"],
+    "description": "box logo sprite"
+  },
+
+  "sprite brackets": {
+    "scope": "diagram",
+    "prefix": ["s-brackets"],
+    "body": ["<$$brackets>"],
+    "description": "brackets logo sprite"
+  },
+
+  "sprite branch": {
+    "scope": "diagram",
+    "prefix": ["s-branch"],
+    "body": ["<$$branch>"],
+    "description": "branch logo sprite"
+  },
+
+  "sprite brandfolder-icon": {
+    "scope": "diagram",
+    "prefix": ["s-brandfolder-icon"],
+    "body": ["<$$brandfolder-icon>"],
+    "description": "brandfolder-icon logo sprite"
+  },
+
+  "sprite brandfolder": {
+    "scope": "diagram",
+    "prefix": ["s-brandfolder"],
+    "body": ["<$$brandfolder>"],
+    "description": "brandfolder logo sprite"
+  },
+
+  "sprite brave": {
+    "scope": "diagram",
+    "prefix": ["s-brave"],
+    "body": ["<$$brave>"],
+    "description": "brave logo sprite"
+  },
+
+  "sprite braze": {
+    "scope": "diagram",
+    "prefix": ["s-braze"],
+    "body": ["<$$braze>"],
+    "description": "braze logo sprite"
+  },
+
+  "sprite broccoli": {
+    "scope": "diagram",
+    "prefix": ["s-broccoli"],
+    "body": ["<$$broccoli>"],
+    "description": "broccoli logo sprite"
+  },
+
+  "sprite brotli": {
+    "scope": "diagram",
+    "prefix": ["s-brotli"],
+    "body": ["<$$brotli>"],
+    "description": "brotli logo sprite"
+  },
+
+  "sprite browserify-icon": {
+    "scope": "diagram",
+    "prefix": ["s-browserify-icon"],
+    "body": ["<$$browserify-icon>"],
+    "description": "browserify-icon logo sprite"
+  },
+
+  "sprite browserify": {
+    "scope": "diagram",
+    "prefix": ["s-browserify"],
+    "body": ["<$$browserify>"],
+    "description": "browserify logo sprite"
+  },
+
+  "sprite browserling": {
+    "scope": "diagram",
+    "prefix": ["s-browserling"],
+    "body": ["<$$browserling>"],
+    "description": "browserling logo sprite"
+  },
+
+  "sprite browserslist": {
+    "scope": "diagram",
+    "prefix": ["s-browserslist"],
+    "body": ["<$$browserslist>"],
+    "description": "browserslist logo sprite"
+  },
+
+  "sprite browserstack": {
+    "scope": "diagram",
+    "prefix": ["s-browserstack"],
+    "body": ["<$$browserstack>"],
+    "description": "browserstack logo sprite"
+  },
+
+  "sprite browsersync": {
+    "scope": "diagram",
+    "prefix": ["s-browsersync"],
+    "body": ["<$$browsersync>"],
+    "description": "browsersync logo sprite"
+  },
+
+  "sprite brunch": {
+    "scope": "diagram",
+    "prefix": ["s-brunch"],
+    "body": ["<$$brunch>"],
+    "description": "brunch logo sprite"
+  },
+
+  "sprite buck": {
+    "scope": "diagram",
+    "prefix": ["s-buck"],
+    "body": ["<$$buck>"],
+    "description": "buck logo sprite"
+  },
+
+  "sprite buddy": {
+    "scope": "diagram",
+    "prefix": ["s-buddy"],
+    "body": ["<$$buddy>"],
+    "description": "buddy logo sprite"
+  },
+
+  "sprite buffer": {
+    "scope": "diagram",
+    "prefix": ["s-buffer"],
+    "body": ["<$$buffer>"],
+    "description": "buffer logo sprite"
+  },
+
+  "sprite bugherd": {
+    "scope": "diagram",
+    "prefix": ["s-bugherd"],
+    "body": ["<$$bugherd>"],
+    "description": "bugherd logo sprite"
+  },
+
+  "sprite bugsee": {
+    "scope": "diagram",
+    "prefix": ["s-bugsee"],
+    "body": ["<$$bugsee>"],
+    "description": "bugsee logo sprite"
+  },
+
+  "sprite bugsnag": {
+    "scope": "diagram",
+    "prefix": ["s-bugsnag"],
+    "body": ["<$$bugsnag>"],
+    "description": "bugsnag logo sprite"
+  },
+
+  "sprite bulma": {
+    "scope": "diagram",
+    "prefix": ["s-bulma"],
+    "body": ["<$$bulma>"],
+    "description": "bulma logo sprite"
+  },
+
+  "sprite c-plusplus": {
+    "scope": "diagram",
+    "prefix": ["s-c-plusplus"],
+    "body": ["<$$c-plusplus>"],
+    "description": "c-plusplus logo sprite"
+  },
+
+  "sprite c-sharp": {
+    "scope": "diagram",
+    "prefix": ["s-c-sharp"],
+    "body": ["<$$c-sharp>"],
+    "description": "c-sharp logo sprite"
+  },
+
+  "sprite c": {
+    "scope": "diagram",
+    "prefix": ["s-c"],
+    "body": ["<$$c>"],
+    "description": "c logo sprite"
+  },
+
+  "sprite cachet": {
+    "scope": "diagram",
+    "prefix": ["s-cachet"],
+    "body": ["<$$cachet>"],
+    "description": "cachet logo sprite"
+  },
+
+  "sprite caffe2": {
+    "scope": "diagram",
+    "prefix": ["s-caffe2"],
+    "body": ["<$$caffe2>"],
+    "description": "caffe2 logo sprite"
+  },
+
+  "sprite cakephp": {
+    "scope": "diagram",
+    "prefix": ["s-cakephp"],
+    "body": ["<$$cakephp>"],
+    "description": "cakephp logo sprite"
+  },
+
+  "sprite campaignmonitor-icon": {
+    "scope": "diagram",
+    "prefix": ["s-campaignmonitor-icon"],
+    "body": ["<$$campaignmonitor-icon>"],
+    "description": "campaignmonitor-icon logo sprite"
+  },
+
+  "sprite campaignmonitor": {
+    "scope": "diagram",
+    "prefix": ["s-campaignmonitor"],
+    "body": ["<$$campaignmonitor>"],
+    "description": "campaignmonitor logo sprite"
+  },
+
+  "sprite campfire": {
+    "scope": "diagram",
+    "prefix": ["s-campfire"],
+    "body": ["<$$campfire>"],
+    "description": "campfire logo sprite"
+  },
+
+  "sprite canjs": {
+    "scope": "diagram",
+    "prefix": ["s-canjs"],
+    "body": ["<$$canjs>"],
+    "description": "canjs logo sprite"
+  },
+
+  "sprite capistrano": {
+    "scope": "diagram",
+    "prefix": ["s-capistrano"],
+    "body": ["<$$capistrano>"],
+    "description": "capistrano logo sprite"
+  },
+
+  "sprite carbide": {
+    "scope": "diagram",
+    "prefix": ["s-carbide"],
+    "body": ["<$$carbide>"],
+    "description": "carbide logo sprite"
+  },
+
+  "sprite cassandra": {
+    "scope": "diagram",
+    "prefix": ["s-cassandra"],
+    "body": ["<$$cassandra>"],
+    "description": "cassandra logo sprite"
+  },
+
+  "sprite celluloid": {
+    "scope": "diagram",
+    "prefix": ["s-celluloid"],
+    "body": ["<$$celluloid>"],
+    "description": "celluloid logo sprite"
+  },
+
+  "sprite centos-icon": {
+    "scope": "diagram",
+    "prefix": ["s-centos-icon"],
+    "body": ["<$$centos-icon>"],
+    "description": "centos-icon logo sprite"
+  },
+
+  "sprite centos": {
+    "scope": "diagram",
+    "prefix": ["s-centos"],
+    "body": ["<$$centos>"],
+    "description": "centos logo sprite"
+  },
+
+  "sprite certbot": {
+    "scope": "diagram",
+    "prefix": ["s-certbot"],
+    "body": ["<$$certbot>"],
+    "description": "certbot logo sprite"
+  },
+
+  "sprite chai": {
+    "scope": "diagram",
+    "prefix": ["s-chai"],
+    "body": ["<$$chai>"],
+    "description": "chai logo sprite"
+  },
+
+  "sprite chalk": {
+    "scope": "diagram",
+    "prefix": ["s-chalk"],
+    "body": ["<$$chalk>"],
+    "description": "chalk logo sprite"
+  },
+
+  "sprite changetip": {
+    "scope": "diagram",
+    "prefix": ["s-changetip"],
+    "body": ["<$$changetip>"],
+    "description": "changetip logo sprite"
+  },
+
+  "sprite chargebee-icon": {
+    "scope": "diagram",
+    "prefix": ["s-chargebee-icon"],
+    "body": ["<$$chargebee-icon>"],
+    "description": "chargebee-icon logo sprite"
+  },
+
+  "sprite chargebee": {
+    "scope": "diagram",
+    "prefix": ["s-chargebee"],
+    "body": ["<$$chargebee>"],
+    "description": "chargebee logo sprite"
+  },
+
+  "sprite chartblocks": {
+    "scope": "diagram",
+    "prefix": ["s-chartblocks"],
+    "body": ["<$$chartblocks>"],
+    "description": "chartblocks logo sprite"
+  },
+
+  "sprite chef": {
+    "scope": "diagram",
+    "prefix": ["s-chef"],
+    "body": ["<$$chef>"],
+    "description": "chef logo sprite"
+  },
+
+  "sprite chevereto": {
+    "scope": "diagram",
+    "prefix": ["s-chevereto"],
+    "body": ["<$$chevereto>"],
+    "description": "chevereto logo sprite"
+  },
+
+  "sprite chromatic-icon": {
+    "scope": "diagram",
+    "prefix": ["s-chromatic-icon"],
+    "body": ["<$$chromatic-icon>"],
+    "description": "chromatic-icon logo sprite"
+  },
+
+  "sprite chromatic": {
+    "scope": "diagram",
+    "prefix": ["s-chromatic"],
+    "body": ["<$$chromatic>"],
+    "description": "chromatic logo sprite"
+  },
+
+  "sprite chrome": {
+    "scope": "diagram",
+    "prefix": ["s-chrome"],
+    "body": ["<$$chrome>"],
+    "description": "chrome logo sprite"
+  },
+
+  "sprite circleci": {
+    "scope": "diagram",
+    "prefix": ["s-circleci"],
+    "body": ["<$$circleci>"],
+    "description": "circleci logo sprite"
+  },
+
+  "sprite cirrus": {
+    "scope": "diagram",
+    "prefix": ["s-cirrus"],
+    "body": ["<$$cirrus>"],
+    "description": "cirrus logo sprite"
+  },
+
+  "sprite clickdeploy": {
+    "scope": "diagram",
+    "prefix": ["s-clickdeploy"],
+    "body": ["<$$clickdeploy>"],
+    "description": "clickdeploy logo sprite"
+  },
+
+  "sprite clion": {
+    "scope": "diagram",
+    "prefix": ["s-clion"],
+    "body": ["<$$clion>"],
+    "description": "clion logo sprite"
+  },
+
+  "sprite cljs": {
+    "scope": "diagram",
+    "prefix": ["s-cljs"],
+    "body": ["<$$cljs>"],
+    "description": "cljs logo sprite"
+  },
+
+  "sprite clojure": {
+    "scope": "diagram",
+    "prefix": ["s-clojure"],
+    "body": ["<$$clojure>"],
+    "description": "clojure logo sprite"
+  },
+
+  "sprite close": {
+    "scope": "diagram",
+    "prefix": ["s-close"],
+    "body": ["<$$close>"],
+    "description": "close logo sprite"
+  },
+
+  "sprite cloud9": {
+    "scope": "diagram",
+    "prefix": ["s-cloud9"],
+    "body": ["<$$cloud9>"],
+    "description": "cloud9 logo sprite"
+  },
+
+  "sprite cloudacademy": {
+    "scope": "diagram",
+    "prefix": ["s-cloudacademy"],
+    "body": ["<$$cloudacademy>"],
+    "description": "cloudacademy logo sprite"
+  },
+
+  "sprite cloudant": {
+    "scope": "diagram",
+    "prefix": ["s-cloudant"],
+    "body": ["<$$cloudant>"],
+    "description": "cloudant logo sprite"
+  },
+
+  "sprite cloudcraft": {
+    "scope": "diagram",
+    "prefix": ["s-cloudcraft"],
+    "body": ["<$$cloudcraft>"],
+    "description": "cloudcraft logo sprite"
+  },
+
+  "sprite cloudera": {
+    "scope": "diagram",
+    "prefix": ["s-cloudera"],
+    "body": ["<$$cloudera>"],
+    "description": "cloudera logo sprite"
+  },
+
+  "sprite cloudflare": {
+    "scope": "diagram",
+    "prefix": ["s-cloudflare"],
+    "body": ["<$$cloudflare>"],
+    "description": "cloudflare logo sprite"
+  },
+
+  "sprite cloudinary": {
+    "scope": "diagram",
+    "prefix": ["s-cloudinary"],
+    "body": ["<$$cloudinary>"],
+    "description": "cloudinary logo sprite"
+  },
+
+  "sprite cloudlinux": {
+    "scope": "diagram",
+    "prefix": ["s-cloudlinux"],
+    "body": ["<$$cloudlinux>"],
+    "description": "cloudlinux logo sprite"
+  },
+
+  "sprite clusterhq": {
+    "scope": "diagram",
+    "prefix": ["s-clusterhq"],
+    "body": ["<$$clusterhq>"],
+    "description": "clusterhq logo sprite"
+  },
+
+  "sprite cobalt": {
+    "scope": "diagram",
+    "prefix": ["s-cobalt"],
+    "body": ["<$$cobalt>"],
+    "description": "cobalt logo sprite"
+  },
+
+  "sprite cockpit": {
+    "scope": "diagram",
+    "prefix": ["s-cockpit"],
+    "body": ["<$$cockpit>"],
+    "description": "cockpit logo sprite"
+  },
+
+  "sprite cocoapods": {
+    "scope": "diagram",
+    "prefix": ["s-cocoapods"],
+    "body": ["<$$cocoapods>"],
+    "description": "cocoapods logo sprite"
+  },
+
+  "sprite codacy": {
+    "scope": "diagram",
+    "prefix": ["s-codacy"],
+    "body": ["<$$codacy>"],
+    "description": "codacy logo sprite"
+  },
+
+  "sprite codebase": {
+    "scope": "diagram",
+    "prefix": ["s-codebase"],
+    "body": ["<$$codebase>"],
+    "description": "codebase logo sprite"
+  },
+
+  "sprite codebeat": {
+    "scope": "diagram",
+    "prefix": ["s-codebeat"],
+    "body": ["<$$codebeat>"],
+    "description": "codebeat logo sprite"
+  },
+
+  "sprite codecademy": {
+    "scope": "diagram",
+    "prefix": ["s-codecademy"],
+    "body": ["<$$codecademy>"],
+    "description": "codecademy logo sprite"
+  },
+
+  "sprite codeception": {
+    "scope": "diagram",
+    "prefix": ["s-codeception"],
+    "body": ["<$$codeception>"],
+    "description": "codeception logo sprite"
+  },
+
+  "sprite codeclimate": {
+    "scope": "diagram",
+    "prefix": ["s-codeclimate"],
+    "body": ["<$$codeclimate>"],
+    "description": "codeclimate logo sprite"
+  },
+
+  "sprite codecov": {
+    "scope": "diagram",
+    "prefix": ["s-codecov"],
+    "body": ["<$$codecov>"],
+    "description": "codecov logo sprite"
+  },
+
+  "sprite codefactor": {
+    "scope": "diagram",
+    "prefix": ["s-codefactor"],
+    "body": ["<$$codefactor>"],
+    "description": "codefactor logo sprite"
+  },
+
+  "sprite codefund-icon": {
+    "scope": "diagram",
+    "prefix": ["s-codefund-icon"],
+    "body": ["<$$codefund-icon>"],
+    "description": "codefund-icon logo sprite"
+  },
+
+  "sprite codefund": {
+    "scope": "diagram",
+    "prefix": ["s-codefund"],
+    "body": ["<$$codefund>"],
+    "description": "codefund logo sprite"
+  },
+
+  "sprite codeigniter": {
+    "scope": "diagram",
+    "prefix": ["s-codeigniter"],
+    "body": ["<$$codeigniter>"],
+    "description": "codeigniter logo sprite"
+  },
+
+  "sprite codepen-icon": {
+    "scope": "diagram",
+    "prefix": ["s-codepen-icon"],
+    "body": ["<$$codepen-icon>"],
+    "description": "codepen-icon logo sprite"
+  },
+
+  "sprite codepen": {
+    "scope": "diagram",
+    "prefix": ["s-codepen"],
+    "body": ["<$$codepen>"],
+    "description": "codepen logo sprite"
+  },
+
+  "sprite codepicnic": {
+    "scope": "diagram",
+    "prefix": ["s-codepicnic"],
+    "body": ["<$$codepicnic>"],
+    "description": "codepicnic logo sprite"
+  },
+
+  "sprite codepush": {
+    "scope": "diagram",
+    "prefix": ["s-codepush"],
+    "body": ["<$$codepush>"],
+    "description": "codepush logo sprite"
+  },
+
+  "sprite coderwall": {
+    "scope": "diagram",
+    "prefix": ["s-coderwall"],
+    "body": ["<$$coderwall>"],
+    "description": "coderwall logo sprite"
+  },
+
+  "sprite codesandbox": {
+    "scope": "diagram",
+    "prefix": ["s-codesandbox"],
+    "body": ["<$$codesandbox>"],
+    "description": "codesandbox logo sprite"
+  },
+
+  "sprite codeschool": {
+    "scope": "diagram",
+    "prefix": ["s-codeschool"],
+    "body": ["<$$codeschool>"],
+    "description": "codeschool logo sprite"
+  },
+
+  "sprite codeship": {
+    "scope": "diagram",
+    "prefix": ["s-codeship"],
+    "body": ["<$$codeship>"],
+    "description": "codeship logo sprite"
+  },
+
+  "sprite codio": {
+    "scope": "diagram",
+    "prefix": ["s-codio"],
+    "body": ["<$$codio>"],
+    "description": "codio logo sprite"
+  },
+
+  "sprite codrops": {
+    "scope": "diagram",
+    "prefix": ["s-codrops"],
+    "body": ["<$$codrops>"],
+    "description": "codrops logo sprite"
+  },
+
+  "sprite coffeescript": {
+    "scope": "diagram",
+    "prefix": ["s-coffeescript"],
+    "body": ["<$$coffeescript>"],
+    "description": "coffeescript logo sprite"
+  },
+
+  "sprite compass": {
+    "scope": "diagram",
+    "prefix": ["s-compass"],
+    "body": ["<$$compass>"],
+    "description": "compass logo sprite"
+  },
+
+  "sprite component": {
+    "scope": "diagram",
+    "prefix": ["s-component"],
+    "body": ["<$$component>"],
+    "description": "component logo sprite"
+  },
+
+  "sprite componentkit": {
+    "scope": "diagram",
+    "prefix": ["s-componentkit"],
+    "body": ["<$$componentkit>"],
+    "description": "componentkit logo sprite"
+  },
+
+  "sprite compose": {
+    "scope": "diagram",
+    "prefix": ["s-compose"],
+    "body": ["<$$compose>"],
+    "description": "compose logo sprite"
+  },
+
+  "sprite composer": {
+    "scope": "diagram",
+    "prefix": ["s-composer"],
+    "body": ["<$$composer>"],
+    "description": "composer logo sprite"
+  },
+
+  "sprite concourse": {
+    "scope": "diagram",
+    "prefix": ["s-concourse"],
+    "body": ["<$$concourse>"],
+    "description": "concourse logo sprite"
+  },
+
+  "sprite concrete5": {
+    "scope": "diagram",
+    "prefix": ["s-concrete5"],
+    "body": ["<$$concrete5>"],
+    "description": "concrete5 logo sprite"
+  },
+
+  "sprite confluence": {
+    "scope": "diagram",
+    "prefix": ["s-confluence"],
+    "body": ["<$$confluence>"],
+    "description": "confluence logo sprite"
+  },
+
+  "sprite consul": {
+    "scope": "diagram",
+    "prefix": ["s-consul"],
+    "body": ["<$$consul>"],
+    "description": "consul logo sprite"
+  },
+
+  "sprite containership": {
+    "scope": "diagram",
+    "prefix": ["s-containership"],
+    "body": ["<$$containership>"],
+    "description": "containership logo sprite"
+  },
+
+  "sprite contentful": {
+    "scope": "diagram",
+    "prefix": ["s-contentful"],
+    "body": ["<$$contentful>"],
+    "description": "contentful logo sprite"
+  },
+
+  "sprite convox": {
+    "scope": "diagram",
+    "prefix": ["s-convox"],
+    "body": ["<$$convox>"],
+    "description": "convox logo sprite"
+  },
+
+  "sprite copyleft-pirate": {
+    "scope": "diagram",
+    "prefix": ["s-copyleft-pirate"],
+    "body": ["<$$copyleft-pirate>"],
+    "description": "copyleft-pirate logo sprite"
+  },
+
+  "sprite copyleft": {
+    "scope": "diagram",
+    "prefix": ["s-copyleft"],
+    "body": ["<$$copyleft>"],
+    "description": "copyleft logo sprite"
+  },
+
+  "sprite cordova": {
+    "scope": "diagram",
+    "prefix": ["s-cordova"],
+    "body": ["<$$cordova>"],
+    "description": "cordova logo sprite"
+  },
+
+  "sprite coreos-icon": {
+    "scope": "diagram",
+    "prefix": ["s-coreos-icon"],
+    "body": ["<$$coreos-icon>"],
+    "description": "coreos-icon logo sprite"
+  },
+
+  "sprite coreos": {
+    "scope": "diagram",
+    "prefix": ["s-coreos"],
+    "body": ["<$$coreos>"],
+    "description": "coreos logo sprite"
+  },
+
+  "sprite couchbase": {
+    "scope": "diagram",
+    "prefix": ["s-couchbase"],
+    "body": ["<$$couchbase>"],
+    "description": "couchbase logo sprite"
+  },
+
+  "sprite couchdb-icon": {
+    "scope": "diagram",
+    "prefix": ["s-couchdb-icon"],
+    "body": ["<$$couchdb-icon>"],
+    "description": "couchdb-icon logo sprite"
+  },
+
+  "sprite couchdb": {
+    "scope": "diagram",
+    "prefix": ["s-couchdb"],
+    "body": ["<$$couchdb>"],
+    "description": "couchdb logo sprite"
+  },
+
+  "sprite coursera": {
+    "scope": "diagram",
+    "prefix": ["s-coursera"],
+    "body": ["<$$coursera>"],
+    "description": "coursera logo sprite"
+  },
+
+  "sprite coveralls": {
+    "scope": "diagram",
+    "prefix": ["s-coveralls"],
+    "body": ["<$$coveralls>"],
+    "description": "coveralls logo sprite"
+  },
+
+  "sprite cpanel": {
+    "scope": "diagram",
+    "prefix": ["s-cpanel"],
+    "body": ["<$$cpanel>"],
+    "description": "cpanel logo sprite"
+  },
+
+  "sprite craftcms": {
+    "scope": "diagram",
+    "prefix": ["s-craftcms"],
+    "body": ["<$$craftcms>"],
+    "description": "craftcms logo sprite"
+  },
+
+  "sprite crashlytics": {
+    "scope": "diagram",
+    "prefix": ["s-crashlytics"],
+    "body": ["<$$crashlytics>"],
+    "description": "crashlytics logo sprite"
+  },
+
+  "sprite crateio": {
+    "scope": "diagram",
+    "prefix": ["s-crateio"],
+    "body": ["<$$crateio>"],
+    "description": "crateio logo sprite"
+  },
+
+  "sprite createjs": {
+    "scope": "diagram",
+    "prefix": ["s-createjs"],
+    "body": ["<$$createjs>"],
+    "description": "createjs logo sprite"
+  },
+
+  "sprite cross-browser-testing": {
+    "scope": "diagram",
+    "prefix": ["s-cross-browser-testing"],
+    "body": ["<$$cross-browser-testing>"],
+    "description": "cross-browser-testing logo sprite"
+  },
+
+  "sprite crucible": {
+    "scope": "diagram",
+    "prefix": ["s-crucible"],
+    "body": ["<$$crucible>"],
+    "description": "crucible logo sprite"
+  },
+
+  "sprite crystal": {
+    "scope": "diagram",
+    "prefix": ["s-crystal"],
+    "body": ["<$$crystal>"],
+    "description": "crystal logo sprite"
+  },
+
+  "sprite css-3": {
+    "scope": "diagram",
+    "prefix": ["s-css-3"],
+    "body": ["<$$css-3>"],
+    "description": "css-3 logo sprite"
+  },
+
+  "sprite css-3_official": {
+    "scope": "diagram",
+    "prefix": ["s-css-3_official"],
+    "body": ["<$$css-3_official>"],
+    "description": "css-3_official logo sprite"
+  },
+
+  "sprite cssnext": {
+    "scope": "diagram",
+    "prefix": ["s-cssnext"],
+    "body": ["<$$cssnext>"],
+    "description": "cssnext logo sprite"
+  },
+
+  "sprite cucumber": {
+    "scope": "diagram",
+    "prefix": ["s-cucumber"],
+    "body": ["<$$cucumber>"],
+    "description": "cucumber logo sprite"
+  },
+
+  "sprite customerio": {
+    "scope": "diagram",
+    "prefix": ["s-customerio"],
+    "body": ["<$$customerio>"],
+    "description": "customerio logo sprite"
+  },
+
+  "sprite cyclejs": {
+    "scope": "diagram",
+    "prefix": ["s-cyclejs"],
+    "body": ["<$$cyclejs>"],
+    "description": "cyclejs logo sprite"
+  },
+
+  "sprite cypress": {
+    "scope": "diagram",
+    "prefix": ["s-cypress"],
+    "body": ["<$$cypress>"],
+    "description": "cypress logo sprite"
+  },
+
+  "sprite d3": {
+    "scope": "diagram",
+    "prefix": ["s-d3"],
+    "body": ["<$$d3>"],
+    "description": "d3 logo sprite"
+  },
+
+  "sprite dapulse": {
+    "scope": "diagram",
+    "prefix": ["s-dapulse"],
+    "body": ["<$$dapulse>"],
+    "description": "dapulse logo sprite"
+  },
+
+  "sprite dart": {
+    "scope": "diagram",
+    "prefix": ["s-dart"],
+    "body": ["<$$dart>"],
+    "description": "dart logo sprite"
+  },
+
+  "sprite dashlane": {
+    "scope": "diagram",
+    "prefix": ["s-dashlane"],
+    "body": ["<$$dashlane>"],
+    "description": "dashlane logo sprite"
+  },
+
+  "sprite dat": {
+    "scope": "diagram",
+    "prefix": ["s-dat"],
+    "body": ["<$$dat>"],
+    "description": "dat logo sprite"
+  },
+
+  "sprite database-labs": {
+    "scope": "diagram",
+    "prefix": ["s-database-labs"],
+    "body": ["<$$database-labs>"],
+    "description": "database-labs logo sprite"
+  },
+
+  "sprite dcos": {
+    "scope": "diagram",
+    "prefix": ["s-dcos"],
+    "body": ["<$$dcos>"],
+    "description": "dcos logo sprite"
+  },
+
+  "sprite debian": {
+    "scope": "diagram",
+    "prefix": ["s-debian"],
+    "body": ["<$$debian>"],
+    "description": "debian logo sprite"
+  },
+
+  "sprite delicious": {
+    "scope": "diagram",
+    "prefix": ["s-delicious"],
+    "body": ["<$$delicious>"],
+    "description": "delicious logo sprite"
+  },
+
+  "sprite delighted": {
+    "scope": "diagram",
+    "prefix": ["s-delighted"],
+    "body": ["<$$delighted>"],
+    "description": "delighted logo sprite"
+  },
+
+  "sprite dependencyci": {
+    "scope": "diagram",
+    "prefix": ["s-dependencyci"],
+    "body": ["<$$dependencyci>"],
+    "description": "dependencyci logo sprite"
+  },
+
+  "sprite deploy": {
+    "scope": "diagram",
+    "prefix": ["s-deploy"],
+    "body": ["<$$deploy>"],
+    "description": "deploy logo sprite"
+  },
+
+  "sprite deppbot": {
+    "scope": "diagram",
+    "prefix": ["s-deppbot"],
+    "body": ["<$$deppbot>"],
+    "description": "deppbot logo sprite"
+  },
+
+  "sprite derby": {
+    "scope": "diagram",
+    "prefix": ["s-derby"],
+    "body": ["<$$derby>"],
+    "description": "derby logo sprite"
+  },
+
+  "sprite designernews": {
+    "scope": "diagram",
+    "prefix": ["s-designernews"],
+    "body": ["<$$designernews>"],
+    "description": "designernews logo sprite"
+  },
+
+  "sprite desk": {
+    "scope": "diagram",
+    "prefix": ["s-desk"],
+    "body": ["<$$desk>"],
+    "description": "desk logo sprite"
+  },
+
+  "sprite deviantart": {
+    "scope": "diagram",
+    "prefix": ["s-deviantart"],
+    "body": ["<$$deviantart>"],
+    "description": "deviantart logo sprite"
+  },
+
+  "sprite digital-ocean": {
+    "scope": "diagram",
+    "prefix": ["s-digital-ocean"],
+    "body": ["<$$digital-ocean>"],
+    "description": "digital-ocean logo sprite"
+  },
+
+  "sprite dimer": {
+    "scope": "diagram",
+    "prefix": ["s-dimer"],
+    "body": ["<$$dimer>"],
+    "description": "dimer logo sprite"
+  },
+
+  "sprite dinersclub": {
+    "scope": "diagram",
+    "prefix": ["s-dinersclub"],
+    "body": ["<$$dinersclub>"],
+    "description": "dinersclub logo sprite"
+  },
+
+  "sprite discord": {
+    "scope": "diagram",
+    "prefix": ["s-discord"],
+    "body": ["<$$discord>"],
+    "description": "discord logo sprite"
+  },
+
+  "sprite discover": {
+    "scope": "diagram",
+    "prefix": ["s-discover"],
+    "body": ["<$$discover>"],
+    "description": "discover logo sprite"
+  },
+
+  "sprite disqus": {
+    "scope": "diagram",
+    "prefix": ["s-disqus"],
+    "body": ["<$$disqus>"],
+    "description": "disqus logo sprite"
+  },
+
+  "sprite django": {
+    "scope": "diagram",
+    "prefix": ["s-django"],
+    "body": ["<$$django>"],
+    "description": "django logo sprite"
+  },
+
+  "sprite dockbit": {
+    "scope": "diagram",
+    "prefix": ["s-dockbit"],
+    "body": ["<$$dockbit>"],
+    "description": "dockbit logo sprite"
+  },
+
+  "sprite docker-icon": {
+    "scope": "diagram",
+    "prefix": ["s-docker-icon"],
+    "body": ["<$$docker-icon>"],
+    "description": "docker-icon logo sprite"
+  },
+
+  "sprite docker": {
+    "scope": "diagram",
+    "prefix": ["s-docker"],
+    "body": ["<$$docker>"],
+    "description": "docker logo sprite"
+  },
+
+  "sprite doctrine": {
+    "scope": "diagram",
+    "prefix": ["s-doctrine"],
+    "body": ["<$$doctrine>"],
+    "description": "doctrine logo sprite"
+  },
+
+  "sprite docusaurus": {
+    "scope": "diagram",
+    "prefix": ["s-docusaurus"],
+    "body": ["<$$docusaurus>"],
+    "description": "docusaurus logo sprite"
+  },
+
+  "sprite dojo-icon": {
+    "scope": "diagram",
+    "prefix": ["s-dojo-icon"],
+    "body": ["<$$dojo-icon>"],
+    "description": "dojo-icon logo sprite"
+  },
+
+  "sprite dojo-toolkit": {
+    "scope": "diagram",
+    "prefix": ["s-dojo-toolkit"],
+    "body": ["<$$dojo-toolkit>"],
+    "description": "dojo-toolkit logo sprite"
+  },
+
+  "sprite dojo": {
+    "scope": "diagram",
+    "prefix": ["s-dojo"],
+    "body": ["<$$dojo>"],
+    "description": "dojo logo sprite"
+  },
+
+  "sprite dotnet": {
+    "scope": "diagram",
+    "prefix": ["s-dotnet"],
+    "body": ["<$$dotnet>"],
+    "description": "dotnet logo sprite"
+  },
+
+  "sprite doubleclick": {
+    "scope": "diagram",
+    "prefix": ["s-doubleclick"],
+    "body": ["<$$doubleclick>"],
+    "description": "doubleclick logo sprite"
+  },
+
+  "sprite dreamfactory": {
+    "scope": "diagram",
+    "prefix": ["s-dreamfactory"],
+    "body": ["<$$dreamfactory>"],
+    "description": "dreamfactory logo sprite"
+  },
+
+  "sprite dreamhost": {
+    "scope": "diagram",
+    "prefix": ["s-dreamhost"],
+    "body": ["<$$dreamhost>"],
+    "description": "dreamhost logo sprite"
+  },
+
+  "sprite dribbble-icon": {
+    "scope": "diagram",
+    "prefix": ["s-dribbble-icon"],
+    "body": ["<$$dribbble-icon>"],
+    "description": "dribbble-icon logo sprite"
+  },
+
+  "sprite dribbble": {
+    "scope": "diagram",
+    "prefix": ["s-dribbble"],
+    "body": ["<$$dribbble>"],
+    "description": "dribbble logo sprite"
+  },
+
+  "sprite drift": {
+    "scope": "diagram",
+    "prefix": ["s-drift"],
+    "body": ["<$$drift>"],
+    "description": "drift logo sprite"
+  },
+
+  "sprite drip": {
+    "scope": "diagram",
+    "prefix": ["s-drip"],
+    "body": ["<$$drip>"],
+    "description": "drip logo sprite"
+  },
+
+  "sprite drone": {
+    "scope": "diagram",
+    "prefix": ["s-drone"],
+    "body": ["<$$drone>"],
+    "description": "drone logo sprite"
+  },
+
+  "sprite dropbox": {
+    "scope": "diagram",
+    "prefix": ["s-dropbox"],
+    "body": ["<$$dropbox>"],
+    "description": "dropbox logo sprite"
+  },
+
+  "sprite dropmark": {
+    "scope": "diagram",
+    "prefix": ["s-dropmark"],
+    "body": ["<$$dropmark>"],
+    "description": "dropmark logo sprite"
+  },
+
+  "sprite dropzone": {
+    "scope": "diagram",
+    "prefix": ["s-dropzone"],
+    "body": ["<$$dropzone>"],
+    "description": "dropzone logo sprite"
+  },
+
+  "sprite drupal-icon": {
+    "scope": "diagram",
+    "prefix": ["s-drupal-icon"],
+    "body": ["<$$drupal-icon>"],
+    "description": "drupal-icon logo sprite"
+  },
+
+  "sprite drupal": {
+    "scope": "diagram",
+    "prefix": ["s-drupal"],
+    "body": ["<$$drupal>"],
+    "description": "drupal logo sprite"
+  },
+
+  "sprite duckduckgo": {
+    "scope": "diagram",
+    "prefix": ["s-duckduckgo"],
+    "body": ["<$$duckduckgo>"],
+    "description": "duckduckgo logo sprite"
+  },
+
+  "sprite dyndns": {
+    "scope": "diagram",
+    "prefix": ["s-dyndns"],
+    "body": ["<$$dyndns>"],
+    "description": "dyndns logo sprite"
+  },
+
+  "sprite eager": {
+    "scope": "diagram",
+    "prefix": ["s-eager"],
+    "body": ["<$$eager>"],
+    "description": "eager logo sprite"
+  },
+
+  "sprite ebanx": {
+    "scope": "diagram",
+    "prefix": ["s-ebanx"],
+    "body": ["<$$ebanx>"],
+    "description": "ebanx logo sprite"
+  },
+
+  "sprite eclipse": {
+    "scope": "diagram",
+    "prefix": ["s-eclipse"],
+    "body": ["<$$eclipse>"],
+    "description": "eclipse logo sprite"
+  },
+
+  "sprite egghead": {
+    "scope": "diagram",
+    "prefix": ["s-egghead"],
+    "body": ["<$$egghead>"],
+    "description": "egghead logo sprite"
+  },
+
+  "sprite elasticbox": {
+    "scope": "diagram",
+    "prefix": ["s-elasticbox"],
+    "body": ["<$$elasticbox>"],
+    "description": "elasticbox logo sprite"
+  },
+
+  "sprite elasticsearch": {
+    "scope": "diagram",
+    "prefix": ["s-elasticsearch"],
+    "body": ["<$$elasticsearch>"],
+    "description": "elasticsearch logo sprite"
+  },
+
+  "sprite electron": {
+    "scope": "diagram",
+    "prefix": ["s-electron"],
+    "body": ["<$$electron>"],
+    "description": "electron logo sprite"
+  },
+
+  "sprite element": {
+    "scope": "diagram",
+    "prefix": ["s-element"],
+    "body": ["<$$element>"],
+    "description": "element logo sprite"
+  },
+
+  "sprite elemental-ui": {
+    "scope": "diagram",
+    "prefix": ["s-elemental-ui"],
+    "body": ["<$$elemental-ui>"],
+    "description": "elemental-ui logo sprite"
+  },
+
+  "sprite elementary": {
+    "scope": "diagram",
+    "prefix": ["s-elementary"],
+    "body": ["<$$elementary>"],
+    "description": "elementary logo sprite"
+  },
+
+  "sprite ello": {
+    "scope": "diagram",
+    "prefix": ["s-ello"],
+    "body": ["<$$ello>"],
+    "description": "ello logo sprite"
+  },
+
+  "sprite elm": {
+    "scope": "diagram",
+    "prefix": ["s-elm"],
+    "body": ["<$$elm>"],
+    "description": "elm logo sprite"
+  },
+
+  "sprite elo": {
+    "scope": "diagram",
+    "prefix": ["s-elo"],
+    "body": ["<$$elo>"],
+    "description": "elo logo sprite"
+  },
+
+  "sprite emacs": {
+    "scope": "diagram",
+    "prefix": ["s-emacs"],
+    "body": ["<$$emacs>"],
+    "description": "emacs logo sprite"
+  },
+
+  "sprite embedly": {
+    "scope": "diagram",
+    "prefix": ["s-embedly"],
+    "body": ["<$$embedly>"],
+    "description": "embedly logo sprite"
+  },
+
+  "sprite ember-tomster": {
+    "scope": "diagram",
+    "prefix": ["s-ember-tomster"],
+    "body": ["<$$ember-tomster>"],
+    "description": "ember-tomster logo sprite"
+  },
+
+  "sprite ember": {
+    "scope": "diagram",
+    "prefix": ["s-ember"],
+    "body": ["<$$ember>"],
+    "description": "ember logo sprite"
+  },
+
+  "sprite emmet": {
+    "scope": "diagram",
+    "prefix": ["s-emmet"],
+    "body": ["<$$emmet>"],
+    "description": "emmet logo sprite"
+  },
+
+  "sprite engine-yard": {
+    "scope": "diagram",
+    "prefix": ["s-engine-yard"],
+    "body": ["<$$engine-yard>"],
+    "description": "engine-yard logo sprite"
+  },
+
+  "sprite envato": {
+    "scope": "diagram",
+    "prefix": ["s-envato"],
+    "body": ["<$$envato>"],
+    "description": "envato logo sprite"
+  },
+
+  "sprite envoyer": {
+    "scope": "diagram",
+    "prefix": ["s-envoyer"],
+    "body": ["<$$envoyer>"],
+    "description": "envoyer logo sprite"
+  },
+
+  "sprite enyo": {
+    "scope": "diagram",
+    "prefix": ["s-enyo"],
+    "body": ["<$$enyo>"],
+    "description": "enyo logo sprite"
+  },
+
+  "sprite erlang": {
+    "scope": "diagram",
+    "prefix": ["s-erlang"],
+    "body": ["<$$erlang>"],
+    "description": "erlang logo sprite"
+  },
+
+  "sprite es6": {
+    "scope": "diagram",
+    "prefix": ["s-es6"],
+    "body": ["<$$es6>"],
+    "description": "es6 logo sprite"
+  },
+
+  "sprite esdoc": {
+    "scope": "diagram",
+    "prefix": ["s-esdoc"],
+    "body": ["<$$esdoc>"],
+    "description": "esdoc logo sprite"
+  },
+
+  "sprite eslint-old": {
+    "scope": "diagram",
+    "prefix": ["s-eslint-old"],
+    "body": ["<$$eslint-old>"],
+    "description": "eslint-old logo sprite"
+  },
+
+  "sprite eslint": {
+    "scope": "diagram",
+    "prefix": ["s-eslint"],
+    "body": ["<$$eslint>"],
+    "description": "eslint logo sprite"
+  },
+
+  "sprite eta-lang": {
+    "scope": "diagram",
+    "prefix": ["s-eta-lang"],
+    "body": ["<$$eta-lang>"],
+    "description": "eta-lang logo sprite"
+  },
+
+  "sprite etcd": {
+    "scope": "diagram",
+    "prefix": ["s-etcd"],
+    "body": ["<$$etcd>"],
+    "description": "etcd logo sprite"
+  },
+
+  "sprite ethereum": {
+    "scope": "diagram",
+    "prefix": ["s-ethereum"],
+    "body": ["<$$ethereum>"],
+    "description": "ethereum logo sprite"
+  },
+
+  "sprite ethnio": {
+    "scope": "diagram",
+    "prefix": ["s-ethnio"],
+    "body": ["<$$ethnio>"],
+    "description": "ethnio logo sprite"
+  },
+
+  "sprite eventbrite-icon": {
+    "scope": "diagram",
+    "prefix": ["s-eventbrite-icon"],
+    "body": ["<$$eventbrite-icon>"],
+    "description": "eventbrite-icon logo sprite"
+  },
+
+  "sprite eventbrite": {
+    "scope": "diagram",
+    "prefix": ["s-eventbrite"],
+    "body": ["<$$eventbrite>"],
+    "description": "eventbrite logo sprite"
+  },
+
+  "sprite eventsentry": {
+    "scope": "diagram",
+    "prefix": ["s-eventsentry"],
+    "body": ["<$$eventsentry>"],
+    "description": "eventsentry logo sprite"
+  },
+
+  "sprite expo": {
+    "scope": "diagram",
+    "prefix": ["s-expo"],
+    "body": ["<$$expo>"],
+    "description": "expo logo sprite"
+  },
+
+  "sprite exponent": {
+    "scope": "diagram",
+    "prefix": ["s-exponent"],
+    "body": ["<$$exponent>"],
+    "description": "exponent logo sprite"
+  },
+
+  "sprite express": {
+    "scope": "diagram",
+    "prefix": ["s-express"],
+    "body": ["<$$express>"],
+    "description": "express logo sprite"
+  },
+
+  "sprite fabric": {
+    "scope": "diagram",
+    "prefix": ["s-fabric"],
+    "body": ["<$$fabric>"],
+    "description": "fabric logo sprite"
+  },
+
+  "sprite fabric_io": {
+    "scope": "diagram",
+    "prefix": ["s-fabric_io"],
+    "body": ["<$$fabric_io>"],
+    "description": "fabric_io logo sprite"
+  },
+
+  "sprite facebook": {
+    "scope": "diagram",
+    "prefix": ["s-facebook"],
+    "body": ["<$$facebook>"],
+    "description": "facebook logo sprite"
+  },
+
+  "sprite falcor": {
+    "scope": "diagram",
+    "prefix": ["s-falcor"],
+    "body": ["<$$falcor>"],
+    "description": "falcor logo sprite"
+  },
+
+  "sprite fastlane": {
+    "scope": "diagram",
+    "prefix": ["s-fastlane"],
+    "body": ["<$$fastlane>"],
+    "description": "fastlane logo sprite"
+  },
+
+  "sprite fastly": {
+    "scope": "diagram",
+    "prefix": ["s-fastly"],
+    "body": ["<$$fastly>"],
+    "description": "fastly logo sprite"
+  },
+
+  "sprite feathersjs": {
+    "scope": "diagram",
+    "prefix": ["s-feathersjs"],
+    "body": ["<$$feathersjs>"],
+    "description": "feathersjs logo sprite"
+  },
+
+  "sprite fedora": {
+    "scope": "diagram",
+    "prefix": ["s-fedora"],
+    "body": ["<$$fedora>"],
+    "description": "fedora logo sprite"
+  },
+
+  "sprite figma": {
+    "scope": "diagram",
+    "prefix": ["s-figma"],
+    "body": ["<$$figma>"],
+    "description": "figma logo sprite"
+  },
+
+  "sprite firebase": {
+    "scope": "diagram",
+    "prefix": ["s-firebase"],
+    "body": ["<$$firebase>"],
+    "description": "firebase logo sprite"
+  },
+
+  "sprite firefox": {
+    "scope": "diagram",
+    "prefix": ["s-firefox"],
+    "body": ["<$$firefox>"],
+    "description": "firefox logo sprite"
+  },
+
+  "sprite flannel": {
+    "scope": "diagram",
+    "prefix": ["s-flannel"],
+    "body": ["<$$flannel>"],
+    "description": "flannel logo sprite"
+  },
+
+  "sprite flarum": {
+    "scope": "diagram",
+    "prefix": ["s-flarum"],
+    "body": ["<$$flarum>"],
+    "description": "flarum logo sprite"
+  },
+
+  "sprite flask": {
+    "scope": "diagram",
+    "prefix": ["s-flask"],
+    "body": ["<$$flask>"],
+    "description": "flask logo sprite"
+  },
+
+  "sprite flat-ui": {
+    "scope": "diagram",
+    "prefix": ["s-flat-ui"],
+    "body": ["<$$flat-ui>"],
+    "description": "flat-ui logo sprite"
+  },
+
+  "sprite flattr": {
+    "scope": "diagram",
+    "prefix": ["s-flattr"],
+    "body": ["<$$flattr>"],
+    "description": "flattr logo sprite"
+  },
+
+  "sprite fleep": {
+    "scope": "diagram",
+    "prefix": ["s-fleep"],
+    "body": ["<$$fleep>"],
+    "description": "fleep logo sprite"
+  },
+
+  "sprite flexible-gs": {
+    "scope": "diagram",
+    "prefix": ["s-flexible-gs"],
+    "body": ["<$$flexible-gs>"],
+    "description": "flexible-gs logo sprite"
+  },
+
+  "sprite flickr": {
+    "scope": "diagram",
+    "prefix": ["s-flickr"],
+    "body": ["<$$flickr>"],
+    "description": "flickr logo sprite"
+  },
+
+  "sprite flight": {
+    "scope": "diagram",
+    "prefix": ["s-flight"],
+    "body": ["<$$flight>"],
+    "description": "flight logo sprite"
+  },
+
+  "sprite flocker": {
+    "scope": "diagram",
+    "prefix": ["s-flocker"],
+    "body": ["<$$flocker>"],
+    "description": "flocker logo sprite"
+  },
+
+  "sprite floodio": {
+    "scope": "diagram",
+    "prefix": ["s-floodio"],
+    "body": ["<$$floodio>"],
+    "description": "floodio logo sprite"
+  },
+
+  "sprite flow": {
+    "scope": "diagram",
+    "prefix": ["s-flow"],
+    "body": ["<$$flow>"],
+    "description": "flow logo sprite"
+  },
+
+  "sprite flowxo": {
+    "scope": "diagram",
+    "prefix": ["s-flowxo"],
+    "body": ["<$$flowxo>"],
+    "description": "flowxo logo sprite"
+  },
+
+  "sprite floydhub": {
+    "scope": "diagram",
+    "prefix": ["s-floydhub"],
+    "body": ["<$$floydhub>"],
+    "description": "floydhub logo sprite"
+  },
+
+  "sprite flutter": {
+    "scope": "diagram",
+    "prefix": ["s-flutter"],
+    "body": ["<$$flutter>"],
+    "description": "flutter logo sprite"
+  },
+
+  "sprite flux": {
+    "scope": "diagram",
+    "prefix": ["s-flux"],
+    "body": ["<$$flux>"],
+    "description": "flux logo sprite"
+  },
+
+  "sprite fluxxor": {
+    "scope": "diagram",
+    "prefix": ["s-fluxxor"],
+    "body": ["<$$fluxxor>"],
+    "description": "fluxxor logo sprite"
+  },
+
+  "sprite fly": {
+    "scope": "diagram",
+    "prefix": ["s-fly"],
+    "body": ["<$$fly>"],
+    "description": "fly logo sprite"
+  },
+
+  "sprite flyjs": {
+    "scope": "diagram",
+    "prefix": ["s-flyjs"],
+    "body": ["<$$flyjs>"],
+    "description": "flyjs logo sprite"
+  },
+
+  "sprite fomo": {
+    "scope": "diagram",
+    "prefix": ["s-fomo"],
+    "body": ["<$$fomo>"],
+    "description": "fomo logo sprite"
+  },
+
+  "sprite font-awesome": {
+    "scope": "diagram",
+    "prefix": ["s-font-awesome"],
+    "body": ["<$$font-awesome>"],
+    "description": "font-awesome logo sprite"
+  },
+
+  "sprite forest": {
+    "scope": "diagram",
+    "prefix": ["s-forest"],
+    "body": ["<$$forest>"],
+    "description": "forest logo sprite"
+  },
+
+  "sprite forever": {
+    "scope": "diagram",
+    "prefix": ["s-forever"],
+    "body": ["<$$forever>"],
+    "description": "forever logo sprite"
+  },
+
+  "sprite formkeep": {
+    "scope": "diagram",
+    "prefix": ["s-formkeep"],
+    "body": ["<$$formkeep>"],
+    "description": "formkeep logo sprite"
+  },
+
+  "sprite foundation": {
+    "scope": "diagram",
+    "prefix": ["s-foundation"],
+    "body": ["<$$foundation>"],
+    "description": "foundation logo sprite"
+  },
+
+  "sprite framework7": {
+    "scope": "diagram",
+    "prefix": ["s-framework7"],
+    "body": ["<$$framework7>"],
+    "description": "framework7 logo sprite"
+  },
+
+  "sprite freebsd": {
+    "scope": "diagram",
+    "prefix": ["s-freebsd"],
+    "body": ["<$$freebsd>"],
+    "description": "freebsd logo sprite"
+  },
+
+  "sprite freedcamp-icon": {
+    "scope": "diagram",
+    "prefix": ["s-freedcamp-icon"],
+    "body": ["<$$freedcamp-icon>"],
+    "description": "freedcamp-icon logo sprite"
+  },
+
+  "sprite freedcamp": {
+    "scope": "diagram",
+    "prefix": ["s-freedcamp"],
+    "body": ["<$$freedcamp>"],
+    "description": "freedcamp logo sprite"
+  },
+
+  "sprite freedomdefined": {
+    "scope": "diagram",
+    "prefix": ["s-freedomdefined"],
+    "body": ["<$$freedomdefined>"],
+    "description": "freedomdefined logo sprite"
+  },
+
+  "sprite frontapp": {
+    "scope": "diagram",
+    "prefix": ["s-frontapp"],
+    "body": ["<$$frontapp>"],
+    "description": "frontapp logo sprite"
+  },
+
+  "sprite fsharp": {
+    "scope": "diagram",
+    "prefix": ["s-fsharp"],
+    "body": ["<$$fsharp>"],
+    "description": "fsharp logo sprite"
+  },
+
+  "sprite fuchsia": {
+    "scope": "diagram",
+    "prefix": ["s-fuchsia"],
+    "body": ["<$$fuchsia>"],
+    "description": "fuchsia logo sprite"
+  },
+
+  "sprite galliumos": {
+    "scope": "diagram",
+    "prefix": ["s-galliumos"],
+    "body": ["<$$galliumos>"],
+    "description": "galliumos logo sprite"
+  },
+
+  "sprite game-analytics": {
+    "scope": "diagram",
+    "prefix": ["s-game-analytics"],
+    "body": ["<$$game-analytics>"],
+    "description": "game-analytics logo sprite"
+  },
+
+  "sprite gatsby": {
+    "scope": "diagram",
+    "prefix": ["s-gatsby"],
+    "body": ["<$$gatsby>"],
+    "description": "gatsby logo sprite"
+  },
+
+  "sprite gaugeio": {
+    "scope": "diagram",
+    "prefix": ["s-gaugeio"],
+    "body": ["<$$gaugeio>"],
+    "description": "gaugeio logo sprite"
+  },
+
+  "sprite geekbot": {
+    "scope": "diagram",
+    "prefix": ["s-geekbot"],
+    "body": ["<$$geekbot>"],
+    "description": "geekbot logo sprite"
+  },
+
+  "sprite get-satisfaction": {
+    "scope": "diagram",
+    "prefix": ["s-get-satisfaction"],
+    "body": ["<$$get-satisfaction>"],
+    "description": "get-satisfaction logo sprite"
+  },
+
+  "sprite ghost": {
+    "scope": "diagram",
+    "prefix": ["s-ghost"],
+    "body": ["<$$ghost>"],
+    "description": "ghost logo sprite"
+  },
+
+  "sprite giantswarm": {
+    "scope": "diagram",
+    "prefix": ["s-giantswarm"],
+    "body": ["<$$giantswarm>"],
+    "description": "giantswarm logo sprite"
+  },
+
+  "sprite git-icon": {
+    "scope": "diagram",
+    "prefix": ["s-git-icon"],
+    "body": ["<$$git-icon>"],
+    "description": "git-icon logo sprite"
+  },
+
+  "sprite git": {
+    "scope": "diagram",
+    "prefix": ["s-git"],
+    "body": ["<$$git>"],
+    "description": "git logo sprite"
+  },
+
+  "sprite gitboard": {
+    "scope": "diagram",
+    "prefix": ["s-gitboard"],
+    "body": ["<$$gitboard>"],
+    "description": "gitboard logo sprite"
+  },
+
+  "sprite github-icon": {
+    "scope": "diagram",
+    "prefix": ["s-github-icon"],
+    "body": ["<$$github-icon>"],
+    "description": "github-icon logo sprite"
+  },
+
+  "sprite github-octocat": {
+    "scope": "diagram",
+    "prefix": ["s-github-octocat"],
+    "body": ["<$$github-octocat>"],
+    "description": "github-octocat logo sprite"
+  },
+
+  "sprite github": {
+    "scope": "diagram",
+    "prefix": ["s-github"],
+    "body": ["<$$github>"],
+    "description": "github logo sprite"
+  },
+
+  "sprite gitkraken": {
+    "scope": "diagram",
+    "prefix": ["s-gitkraken"],
+    "body": ["<$$gitkraken>"],
+    "description": "gitkraken logo sprite"
+  },
+
+  "sprite gitlab": {
+    "scope": "diagram",
+    "prefix": ["s-gitlab"],
+    "body": ["<$$gitlab>"],
+    "description": "gitlab logo sprite"
+  },
+
+  "sprite gitter": {
+    "scope": "diagram",
+    "prefix": ["s-gitter"],
+    "body": ["<$$gitter>"],
+    "description": "gitter logo sprite"
+  },
+
+  "sprite gitup": {
+    "scope": "diagram",
+    "prefix": ["s-gitup"],
+    "body": ["<$$gitup>"],
+    "description": "gitup logo sprite"
+  },
+
+  "sprite glamorous": {
+    "scope": "diagram",
+    "prefix": ["s-glamorous"],
+    "body": ["<$$glamorous>"],
+    "description": "glamorous logo sprite"
+  },
+
+  "sprite gleam": {
+    "scope": "diagram",
+    "prefix": ["s-gleam"],
+    "body": ["<$$gleam>"],
+    "description": "gleam logo sprite"
+  },
+
+  "sprite glimmerjs": {
+    "scope": "diagram",
+    "prefix": ["s-glimmerjs"],
+    "body": ["<$$glimmerjs>"],
+    "description": "glimmerjs logo sprite"
+  },
+
+  "sprite glint": {
+    "scope": "diagram",
+    "prefix": ["s-glint"],
+    "body": ["<$$glint>"],
+    "description": "glint logo sprite"
+  },
+
+  "sprite gnu": {
+    "scope": "diagram",
+    "prefix": ["s-gnu"],
+    "body": ["<$$gnu>"],
+    "description": "gnu logo sprite"
+  },
+
+  "sprite go": {
+    "scope": "diagram",
+    "prefix": ["s-go"],
+    "body": ["<$$go>"],
+    "description": "go logo sprite"
+  },
+
+  "sprite gocd": {
+    "scope": "diagram",
+    "prefix": ["s-gocd"],
+    "body": ["<$$gocd>"],
+    "description": "gocd logo sprite"
+  },
+
+  "sprite gomix": {
+    "scope": "diagram",
+    "prefix": ["s-gomix"],
+    "body": ["<$$gomix>"],
+    "description": "gomix logo sprite"
+  },
+
+  "sprite google-2014": {
+    "scope": "diagram",
+    "prefix": ["s-google-2014"],
+    "body": ["<$$google-2014>"],
+    "description": "google-2014 logo sprite"
+  },
+
+  "sprite google-360suite": {
+    "scope": "diagram",
+    "prefix": ["s-google-360suite"],
+    "body": ["<$$google-360suite>"],
+    "description": "google-360suite logo sprite"
+  },
+
+  "sprite google-ads": {
+    "scope": "diagram",
+    "prefix": ["s-google-ads"],
+    "body": ["<$$google-ads>"],
+    "description": "google-ads logo sprite"
+  },
+
+  "sprite google-adsense": {
+    "scope": "diagram",
+    "prefix": ["s-google-adsense"],
+    "body": ["<$$google-adsense>"],
+    "description": "google-adsense logo sprite"
+  },
+
+  "sprite google-adwords": {
+    "scope": "diagram",
+    "prefix": ["s-google-adwords"],
+    "body": ["<$$google-adwords>"],
+    "description": "google-adwords logo sprite"
+  },
+
+  "sprite google-analytics": {
+    "scope": "diagram",
+    "prefix": ["s-google-analytics"],
+    "body": ["<$$google-analytics>"],
+    "description": "google-analytics logo sprite"
+  },
+
+  "sprite google-calendar": {
+    "scope": "diagram",
+    "prefix": ["s-google-calendar"],
+    "body": ["<$$google-calendar>"],
+    "description": "google-calendar logo sprite"
+  },
+
+  "sprite google-cloud-functions": {
+    "scope": "diagram",
+    "prefix": ["s-google-cloud-functions"],
+    "body": ["<$$google-cloud-functions>"],
+    "description": "google-cloud-functions logo sprite"
+  },
+
+  "sprite google-cloud-platform": {
+    "scope": "diagram",
+    "prefix": ["s-google-cloud-platform"],
+    "body": ["<$$google-cloud-platform>"],
+    "description": "google-cloud-platform logo sprite"
+  },
+
+  "sprite google-cloud-run": {
+    "scope": "diagram",
+    "prefix": ["s-google-cloud-run"],
+    "body": ["<$$google-cloud-run>"],
+    "description": "google-cloud-run logo sprite"
+  },
+
+  "sprite google-cloud": {
+    "scope": "diagram",
+    "prefix": ["s-google-cloud"],
+    "body": ["<$$google-cloud>"],
+    "description": "google-cloud logo sprite"
+  },
+
+  "sprite google-data-studio": {
+    "scope": "diagram",
+    "prefix": ["s-google-data-studio"],
+    "body": ["<$$google-data-studio>"],
+    "description": "google-data-studio logo sprite"
+  },
+
+  "sprite google-developers-icon": {
+    "scope": "diagram",
+    "prefix": ["s-google-developers-icon"],
+    "body": ["<$$google-developers-icon>"],
+    "description": "google-developers-icon logo sprite"
+  },
+
+  "sprite google-developers": {
+    "scope": "diagram",
+    "prefix": ["s-google-developers"],
+    "body": ["<$$google-developers>"],
+    "description": "google-developers logo sprite"
+  },
+
+  "sprite google-drive": {
+    "scope": "diagram",
+    "prefix": ["s-google-drive"],
+    "body": ["<$$google-drive>"],
+    "description": "google-drive logo sprite"
+  },
+
+  "sprite google-gmail": {
+    "scope": "diagram",
+    "prefix": ["s-google-gmail"],
+    "body": ["<$$google-gmail>"],
+    "description": "google-gmail logo sprite"
+  },
+
+  "sprite google-gsuite": {
+    "scope": "diagram",
+    "prefix": ["s-google-gsuite"],
+    "body": ["<$$google-gsuite>"],
+    "description": "google-gsuite logo sprite"
+  },
+
+  "sprite google-icon": {
+    "scope": "diagram",
+    "prefix": ["s-google-icon"],
+    "body": ["<$$google-icon>"],
+    "description": "google-icon logo sprite"
+  },
+
+  "sprite google-inbox": {
+    "scope": "diagram",
+    "prefix": ["s-google-inbox"],
+    "body": ["<$$google-inbox>"],
+    "description": "google-inbox logo sprite"
+  },
+
+  "sprite google-marketing-platform": {
+    "scope": "diagram",
+    "prefix": ["s-google-marketing-platform"],
+    "body": ["<$$google-marketing-platform>"],
+    "description": "google-marketing-platform logo sprite"
+  },
+
+  "sprite google-meet": {
+    "scope": "diagram",
+    "prefix": ["s-google-meet"],
+    "body": ["<$$google-meet>"],
+    "description": "google-meet logo sprite"
+  },
+
+  "sprite google-optimize": {
+    "scope": "diagram",
+    "prefix": ["s-google-optimize"],
+    "body": ["<$$google-optimize>"],
+    "description": "google-optimize logo sprite"
+  },
+
+  "sprite google-pay": {
+    "scope": "diagram",
+    "prefix": ["s-google-pay"],
+    "body": ["<$$google-pay>"],
+    "description": "google-pay logo sprite"
+  },
+
+  "sprite google-photos": {
+    "scope": "diagram",
+    "prefix": ["s-google-photos"],
+    "body": ["<$$google-photos>"],
+    "description": "google-photos logo sprite"
+  },
+
+  "sprite google-play-icon": {
+    "scope": "diagram",
+    "prefix": ["s-google-play-icon"],
+    "body": ["<$$google-play-icon>"],
+    "description": "google-play-icon logo sprite"
+  },
+
+  "sprite google-play": {
+    "scope": "diagram",
+    "prefix": ["s-google-play"],
+    "body": ["<$$google-play>"],
+    "description": "google-play logo sprite"
+  },
+
+  "sprite google-plus": {
+    "scope": "diagram",
+    "prefix": ["s-google-plus"],
+    "body": ["<$$google-plus>"],
+    "description": "google-plus logo sprite"
+  },
+
+  "sprite google-tag-manager": {
+    "scope": "diagram",
+    "prefix": ["s-google-tag-manager"],
+    "body": ["<$$google-tag-manager>"],
+    "description": "google-tag-manager logo sprite"
+  },
+
+  "sprite google-wallet": {
+    "scope": "diagram",
+    "prefix": ["s-google-wallet"],
+    "body": ["<$$google-wallet>"],
+    "description": "google-wallet logo sprite"
+  },
+
+  "sprite google": {
+    "scope": "diagram",
+    "prefix": ["s-google"],
+    "body": ["<$$google>"],
+    "description": "google logo sprite"
+  },
+
+  "sprite gopher": {
+    "scope": "diagram",
+    "prefix": ["s-gopher"],
+    "body": ["<$$gopher>"],
+    "description": "gopher logo sprite"
+  },
+
+  "sprite gordon": {
+    "scope": "diagram",
+    "prefix": ["s-gordon"],
+    "body": ["<$$gordon>"],
+    "description": "gordon logo sprite"
+  },
+
+  "sprite gradle": {
+    "scope": "diagram",
+    "prefix": ["s-gradle"],
+    "body": ["<$$gradle>"],
+    "description": "gradle logo sprite"
+  },
+
+  "sprite grafana": {
+    "scope": "diagram",
+    "prefix": ["s-grafana"],
+    "body": ["<$$grafana>"],
+    "description": "grafana logo sprite"
+  },
+
+  "sprite grails": {
+    "scope": "diagram",
+    "prefix": ["s-grails"],
+    "body": ["<$$grails>"],
+    "description": "grails logo sprite"
+  },
+
+  "sprite grape": {
+    "scope": "diagram",
+    "prefix": ["s-grape"],
+    "body": ["<$$grape>"],
+    "description": "grape logo sprite"
+  },
+
+  "sprite graphcool": {
+    "scope": "diagram",
+    "prefix": ["s-graphcool"],
+    "body": ["<$$graphcool>"],
+    "description": "graphcool logo sprite"
+  },
+
+  "sprite graphene": {
+    "scope": "diagram",
+    "prefix": ["s-graphene"],
+    "body": ["<$$graphene>"],
+    "description": "graphene logo sprite"
+  },
+
+  "sprite graphql": {
+    "scope": "diagram",
+    "prefix": ["s-graphql"],
+    "body": ["<$$graphql>"],
+    "description": "graphql logo sprite"
+  },
+
+  "sprite gratipay": {
+    "scope": "diagram",
+    "prefix": ["s-gratipay"],
+    "body": ["<$$gratipay>"],
+    "description": "gratipay logo sprite"
+  },
+
+  "sprite grav": {
+    "scope": "diagram",
+    "prefix": ["s-grav"],
+    "body": ["<$$grav>"],
+    "description": "grav logo sprite"
+  },
+
+  "sprite gravatar": {
+    "scope": "diagram",
+    "prefix": ["s-gravatar"],
+    "body": ["<$$gravatar>"],
+    "description": "gravatar logo sprite"
+  },
+
+  "sprite graylog": {
+    "scope": "diagram",
+    "prefix": ["s-graylog"],
+    "body": ["<$$graylog>"],
+    "description": "graylog logo sprite"
+  },
+
+  "sprite gridsome-icon": {
+    "scope": "diagram",
+    "prefix": ["s-gridsome-icon"],
+    "body": ["<$$gridsome-icon>"],
+    "description": "gridsome-icon logo sprite"
+  },
+
+  "sprite gridsome": {
+    "scope": "diagram",
+    "prefix": ["s-gridsome"],
+    "body": ["<$$gridsome>"],
+    "description": "gridsome logo sprite"
+  },
+
+  "sprite grommet": {
+    "scope": "diagram",
+    "prefix": ["s-grommet"],
+    "body": ["<$$grommet>"],
+    "description": "grommet logo sprite"
+  },
+
+  "sprite groovehq": {
+    "scope": "diagram",
+    "prefix": ["s-groovehq"],
+    "body": ["<$$groovehq>"],
+    "description": "groovehq logo sprite"
+  },
+
+  "sprite grove": {
+    "scope": "diagram",
+    "prefix": ["s-grove"],
+    "body": ["<$$grove>"],
+    "description": "grove logo sprite"
+  },
+
+  "sprite grunt": {
+    "scope": "diagram",
+    "prefix": ["s-grunt"],
+    "body": ["<$$grunt>"],
+    "description": "grunt logo sprite"
+  },
+
+  "sprite gulp": {
+    "scope": "diagram",
+    "prefix": ["s-gulp"],
+    "body": ["<$$gulp>"],
+    "description": "gulp logo sprite"
+  },
+
+  "sprite gunicorn": {
+    "scope": "diagram",
+    "prefix": ["s-gunicorn"],
+    "body": ["<$$gunicorn>"],
+    "description": "gunicorn logo sprite"
+  },
+
+  "sprite gusto": {
+    "scope": "diagram",
+    "prefix": ["s-gusto"],
+    "body": ["<$$gusto>"],
+    "description": "gusto logo sprite"
+  },
+
+  "sprite gwt": {
+    "scope": "diagram",
+    "prefix": ["s-gwt"],
+    "body": ["<$$gwt>"],
+    "description": "gwt logo sprite"
+  },
+
+  "sprite hack": {
+    "scope": "diagram",
+    "prefix": ["s-hack"],
+    "body": ["<$$hack>"],
+    "description": "hack logo sprite"
+  },
+
+  "sprite hacker-one": {
+    "scope": "diagram",
+    "prefix": ["s-hacker-one"],
+    "body": ["<$$hacker-one>"],
+    "description": "hacker-one logo sprite"
+  },
+
+  "sprite hadoop": {
+    "scope": "diagram",
+    "prefix": ["s-hadoop"],
+    "body": ["<$$hadoop>"],
+    "description": "hadoop logo sprite"
+  },
+
+  "sprite haiku": {
+    "scope": "diagram",
+    "prefix": ["s-haiku"],
+    "body": ["<$$haiku>"],
+    "description": "haiku logo sprite"
+  },
+
+  "sprite haml": {
+    "scope": "diagram",
+    "prefix": ["s-haml"],
+    "body": ["<$$haml>"],
+    "description": "haml logo sprite"
+  },
+
+  "sprite hanami": {
+    "scope": "diagram",
+    "prefix": ["s-hanami"],
+    "body": ["<$$hanami>"],
+    "description": "hanami logo sprite"
+  },
+
+  "sprite handlebars": {
+    "scope": "diagram",
+    "prefix": ["s-handlebars"],
+    "body": ["<$$handlebars>"],
+    "description": "handlebars logo sprite"
+  },
+
+  "sprite hapi": {
+    "scope": "diagram",
+    "prefix": ["s-hapi"],
+    "body": ["<$$hapi>"],
+    "description": "hapi logo sprite"
+  },
+
+  "sprite harrow": {
+    "scope": "diagram",
+    "prefix": ["s-harrow"],
+    "body": ["<$$harrow>"],
+    "description": "harrow logo sprite"
+  },
+
+  "sprite hashnode": {
+    "scope": "diagram",
+    "prefix": ["s-hashnode"],
+    "body": ["<$$hashnode>"],
+    "description": "hashnode logo sprite"
+  },
+
+  "sprite haskell-icon": {
+    "scope": "diagram",
+    "prefix": ["s-haskell-icon"],
+    "body": ["<$$haskell-icon>"],
+    "description": "haskell-icon logo sprite"
+  },
+
+  "sprite haskell": {
+    "scope": "diagram",
+    "prefix": ["s-haskell"],
+    "body": ["<$$haskell>"],
+    "description": "haskell logo sprite"
+  },
+
+  "sprite hasura": {
+    "scope": "diagram",
+    "prefix": ["s-hasura"],
+    "body": ["<$$hasura>"],
+    "description": "hasura logo sprite"
+  },
+
+  "sprite haxe": {
+    "scope": "diagram",
+    "prefix": ["s-haxe"],
+    "body": ["<$$haxe>"],
+    "description": "haxe logo sprite"
+  },
+
+  "sprite haxl": {
+    "scope": "diagram",
+    "prefix": ["s-haxl"],
+    "body": ["<$$haxl>"],
+    "description": "haxl logo sprite"
+  },
+
+  "sprite hbase": {
+    "scope": "diagram",
+    "prefix": ["s-hbase"],
+    "body": ["<$$hbase>"],
+    "description": "hbase logo sprite"
+  },
+
+  "sprite heap": {
+    "scope": "diagram",
+    "prefix": ["s-heap"],
+    "body": ["<$$heap>"],
+    "description": "heap logo sprite"
+  },
+
+  "sprite helpscout": {
+    "scope": "diagram",
+    "prefix": ["s-helpscout"],
+    "body": ["<$$helpscout>"],
+    "description": "helpscout logo sprite"
+  },
+
+  "sprite heroku-icon": {
+    "scope": "diagram",
+    "prefix": ["s-heroku-icon"],
+    "body": ["<$$heroku-icon>"],
+    "description": "heroku-icon logo sprite"
+  },
+
+  "sprite heroku-redis": {
+    "scope": "diagram",
+    "prefix": ["s-heroku-redis"],
+    "body": ["<$$heroku-redis>"],
+    "description": "heroku-redis logo sprite"
+  },
+
+  "sprite heroku": {
+    "scope": "diagram",
+    "prefix": ["s-heroku"],
+    "body": ["<$$heroku>"],
+    "description": "heroku logo sprite"
+  },
+
+  "sprite heron": {
+    "scope": "diagram",
+    "prefix": ["s-heron"],
+    "body": ["<$$heron>"],
+    "description": "heron logo sprite"
+  },
+
+  "sprite hexo": {
+    "scope": "diagram",
+    "prefix": ["s-hexo"],
+    "body": ["<$$hexo>"],
+    "description": "hexo logo sprite"
+  },
+
+  "sprite hhvm": {
+    "scope": "diagram",
+    "prefix": ["s-hhvm"],
+    "body": ["<$$hhvm>"],
+    "description": "hhvm logo sprite"
+  },
+
+  "sprite hibernate": {
+    "scope": "diagram",
+    "prefix": ["s-hibernate"],
+    "body": ["<$$hibernate>"],
+    "description": "hibernate logo sprite"
+  },
+
+  "sprite highcharts": {
+    "scope": "diagram",
+    "prefix": ["s-highcharts"],
+    "body": ["<$$highcharts>"],
+    "description": "highcharts logo sprite"
+  },
+
+  "sprite hipercard": {
+    "scope": "diagram",
+    "prefix": ["s-hipercard"],
+    "body": ["<$$hipercard>"],
+    "description": "hipercard logo sprite"
+  },
+
+  "sprite hoa": {
+    "scope": "diagram",
+    "prefix": ["s-hoa"],
+    "body": ["<$$hoa>"],
+    "description": "hoa logo sprite"
+  },
+
+  "sprite hoodie": {
+    "scope": "diagram",
+    "prefix": ["s-hoodie"],
+    "body": ["<$$hoodie>"],
+    "description": "hoodie logo sprite"
+  },
+
+  "sprite horizon": {
+    "scope": "diagram",
+    "prefix": ["s-horizon"],
+    "body": ["<$$horizon>"],
+    "description": "horizon logo sprite"
+  },
+
+  "sprite hosted-graphite": {
+    "scope": "diagram",
+    "prefix": ["s-hosted-graphite"],
+    "body": ["<$$hosted-graphite>"],
+    "description": "hosted-graphite logo sprite"
+  },
+
+  "sprite hostgator": {
+    "scope": "diagram",
+    "prefix": ["s-hostgator"],
+    "body": ["<$$hostgator>"],
+    "description": "hostgator logo sprite"
+  },
+
+  "sprite houndci": {
+    "scope": "diagram",
+    "prefix": ["s-houndci"],
+    "body": ["<$$houndci>"],
+    "description": "houndci logo sprite"
+  },
+
+  "sprite html-5": {
+    "scope": "diagram",
+    "prefix": ["s-html-5"],
+    "body": ["<$$html-5>"],
+    "description": "html-5 logo sprite"
+  },
+
+  "sprite html5-boilerplate": {
+    "scope": "diagram",
+    "prefix": ["s-html5-boilerplate"],
+    "body": ["<$$html5-boilerplate>"],
+    "description": "html5-boilerplate logo sprite"
+  },
+
+  "sprite hubspot": {
+    "scope": "diagram",
+    "prefix": ["s-hubspot"],
+    "body": ["<$$hubspot>"],
+    "description": "hubspot logo sprite"
+  },
+
+  "sprite hugo": {
+    "scope": "diagram",
+    "prefix": ["s-hugo"],
+    "body": ["<$$hugo>"],
+    "description": "hugo logo sprite"
+  },
+
+  "sprite humongous": {
+    "scope": "diagram",
+    "prefix": ["s-humongous"],
+    "body": ["<$$humongous>"],
+    "description": "humongous logo sprite"
+  },
+
+  "sprite hyper": {
+    "scope": "diagram",
+    "prefix": ["s-hyper"],
+    "body": ["<$$hyper>"],
+    "description": "hyper logo sprite"
+  },
+
+  "sprite hyperapp": {
+    "scope": "diagram",
+    "prefix": ["s-hyperapp"],
+    "body": ["<$$hyperapp>"],
+    "description": "hyperapp logo sprite"
+  },
+
+  "sprite ibm": {
+    "scope": "diagram",
+    "prefix": ["s-ibm"],
+    "body": ["<$$ibm>"],
+    "description": "ibm logo sprite"
+  },
+
+  "sprite ieee": {
+    "scope": "diagram",
+    "prefix": ["s-ieee"],
+    "body": ["<$$ieee>"],
+    "description": "ieee logo sprite"
+  },
+
+  "sprite ifttt": {
+    "scope": "diagram",
+    "prefix": ["s-ifttt"],
+    "body": ["<$$ifttt>"],
+    "description": "ifttt logo sprite"
+  },
+
+  "sprite imagemin": {
+    "scope": "diagram",
+    "prefix": ["s-imagemin"],
+    "body": ["<$$imagemin>"],
+    "description": "imagemin logo sprite"
+  },
+
+  "sprite immutable": {
+    "scope": "diagram",
+    "prefix": ["s-immutable"],
+    "body": ["<$$immutable>"],
+    "description": "immutable logo sprite"
+  },
+
+  "sprite impala": {
+    "scope": "diagram",
+    "prefix": ["s-impala"],
+    "body": ["<$$impala>"],
+    "description": "impala logo sprite"
+  },
+
+  "sprite importio": {
+    "scope": "diagram",
+    "prefix": ["s-importio"],
+    "body": ["<$$importio>"],
+    "description": "importio logo sprite"
+  },
+
+  "sprite infer": {
+    "scope": "diagram",
+    "prefix": ["s-infer"],
+    "body": ["<$$infer>"],
+    "description": "infer logo sprite"
+  },
+
+  "sprite inferno": {
+    "scope": "diagram",
+    "prefix": ["s-inferno"],
+    "body": ["<$$inferno>"],
+    "description": "inferno logo sprite"
+  },
+
+  "sprite influxdb": {
+    "scope": "diagram",
+    "prefix": ["s-influxdb"],
+    "body": ["<$$influxdb>"],
+    "description": "influxdb logo sprite"
+  },
+
+  "sprite ink": {
+    "scope": "diagram",
+    "prefix": ["s-ink"],
+    "body": ["<$$ink>"],
+    "description": "ink logo sprite"
+  },
+
+  "sprite instagram-icon": {
+    "scope": "diagram",
+    "prefix": ["s-instagram-icon"],
+    "body": ["<$$instagram-icon>"],
+    "description": "instagram-icon logo sprite"
+  },
+
+  "sprite instagram": {
+    "scope": "diagram",
+    "prefix": ["s-instagram"],
+    "body": ["<$$instagram>"],
+    "description": "instagram logo sprite"
+  },
+
+  "sprite intellij-idea": {
+    "scope": "diagram",
+    "prefix": ["s-intellij-idea"],
+    "body": ["<$$intellij-idea>"],
+    "description": "intellij-idea logo sprite"
+  },
+
+  "sprite intercom": {
+    "scope": "diagram",
+    "prefix": ["s-intercom"],
+    "body": ["<$$intercom>"],
+    "description": "intercom logo sprite"
+  },
+
+  "sprite internetexplorer": {
+    "scope": "diagram",
+    "prefix": ["s-internetexplorer"],
+    "body": ["<$$internetexplorer>"],
+    "description": "internetexplorer logo sprite"
+  },
+
+  "sprite invision": {
+    "scope": "diagram",
+    "prefix": ["s-invision"],
+    "body": ["<$$invision>"],
+    "description": "invision logo sprite"
+  },
+
+  "sprite io": {
+    "scope": "diagram",
+    "prefix": ["s-io"],
+    "body": ["<$$io>"],
+    "description": "io logo sprite"
+  },
+
+  "sprite ionic": {
+    "scope": "diagram",
+    "prefix": ["s-ionic"],
+    "body": ["<$$ionic>"],
+    "description": "ionic logo sprite"
+  },
+
+  "sprite ios": {
+    "scope": "diagram",
+    "prefix": ["s-ios"],
+    "body": ["<$$ios>"],
+    "description": "ios logo sprite"
+  },
+
+  "sprite iron-icon": {
+    "scope": "diagram",
+    "prefix": ["s-iron-icon"],
+    "body": ["<$$iron-icon>"],
+    "description": "iron-icon logo sprite"
+  },
+
+  "sprite iron": {
+    "scope": "diagram",
+    "prefix": ["s-iron"],
+    "body": ["<$$iron>"],
+    "description": "iron logo sprite"
+  },
+
+  "sprite itsalive": {
+    "scope": "diagram",
+    "prefix": ["s-itsalive"],
+    "body": ["<$$itsalive>"],
+    "description": "itsalive logo sprite"
+  },
+
+  "sprite jade": {
+    "scope": "diagram",
+    "prefix": ["s-jade"],
+    "body": ["<$$jade>"],
+    "description": "jade logo sprite"
+  },
+
+  "sprite jaeger": {
+    "scope": "diagram",
+    "prefix": ["s-jaeger"],
+    "body": ["<$$jaeger>"],
+    "description": "jaeger logo sprite"
+  },
+
+  "sprite jamstack": {
+    "scope": "diagram",
+    "prefix": ["s-jamstack"],
+    "body": ["<$$jamstack>"],
+    "description": "jamstack logo sprite"
+  },
+
+  "sprite jasmine": {
+    "scope": "diagram",
+    "prefix": ["s-jasmine"],
+    "body": ["<$$jasmine>"],
+    "description": "jasmine logo sprite"
+  },
+
+  "sprite java": {
+    "scope": "diagram",
+    "prefix": ["s-java"],
+    "body": ["<$$java>"],
+    "description": "java logo sprite"
+  },
+
+  "sprite javascript": {
+    "scope": "diagram",
+    "prefix": ["s-javascript"],
+    "body": ["<$$javascript>"],
+    "description": "javascript logo sprite"
+  },
+
+  "sprite jcb": {
+    "scope": "diagram",
+    "prefix": ["s-jcb"],
+    "body": ["<$$jcb>"],
+    "description": "jcb logo sprite"
+  },
+
+  "sprite jekyll": {
+    "scope": "diagram",
+    "prefix": ["s-jekyll"],
+    "body": ["<$$jekyll>"],
+    "description": "jekyll logo sprite"
+  },
+
+  "sprite jelastic": {
+    "scope": "diagram",
+    "prefix": ["s-jelastic"],
+    "body": ["<$$jelastic>"],
+    "description": "jelastic logo sprite"
+  },
+
+  "sprite jenkins": {
+    "scope": "diagram",
+    "prefix": ["s-jenkins"],
+    "body": ["<$$jenkins>"],
+    "description": "jenkins logo sprite"
+  },
+
+  "sprite jest": {
+    "scope": "diagram",
+    "prefix": ["s-jest"],
+    "body": ["<$$jest>"],
+    "description": "jest logo sprite"
+  },
+
+  "sprite jetbrains": {
+    "scope": "diagram",
+    "prefix": ["s-jetbrains"],
+    "body": ["<$$jetbrains>"],
+    "description": "jetbrains logo sprite"
+  },
+
+  "sprite jhipster": {
+    "scope": "diagram",
+    "prefix": ["s-jhipster"],
+    "body": ["<$$jhipster>"],
+    "description": "jhipster logo sprite"
+  },
+
+  "sprite jira": {
+    "scope": "diagram",
+    "prefix": ["s-jira"],
+    "body": ["<$$jira>"],
+    "description": "jira logo sprite"
+  },
+
+  "sprite joomla": {
+    "scope": "diagram",
+    "prefix": ["s-joomla"],
+    "body": ["<$$joomla>"],
+    "description": "joomla logo sprite"
+  },
+
+  "sprite jquery-mobile": {
+    "scope": "diagram",
+    "prefix": ["s-jquery-mobile"],
+    "body": ["<$$jquery-mobile>"],
+    "description": "jquery-mobile logo sprite"
+  },
+
+  "sprite jquery": {
+    "scope": "diagram",
+    "prefix": ["s-jquery"],
+    "body": ["<$$jquery>"],
+    "description": "jquery logo sprite"
+  },
+
+  "sprite jruby": {
+    "scope": "diagram",
+    "prefix": ["s-jruby"],
+    "body": ["<$$jruby>"],
+    "description": "jruby logo sprite"
+  },
+
+  "sprite jsbin": {
+    "scope": "diagram",
+    "prefix": ["s-jsbin"],
+    "body": ["<$$jsbin>"],
+    "description": "jsbin logo sprite"
+  },
+
+  "sprite jsdelivr": {
+    "scope": "diagram",
+    "prefix": ["s-jsdelivr"],
+    "body": ["<$$jsdelivr>"],
+    "description": "jsdelivr logo sprite"
+  },
+
+  "sprite jsdom": {
+    "scope": "diagram",
+    "prefix": ["s-jsdom"],
+    "body": ["<$$jsdom>"],
+    "description": "jsdom logo sprite"
+  },
+
+  "sprite jsfiddle": {
+    "scope": "diagram",
+    "prefix": ["s-jsfiddle"],
+    "body": ["<$$jsfiddle>"],
+    "description": "jsfiddle logo sprite"
+  },
+
+  "sprite json": {
+    "scope": "diagram",
+    "prefix": ["s-json"],
+    "body": ["<$$json>"],
+    "description": "json logo sprite"
+  },
+
+  "sprite jspm": {
+    "scope": "diagram",
+    "prefix": ["s-jspm"],
+    "body": ["<$$jspm>"],
+    "description": "jspm logo sprite"
+  },
+
+  "sprite juju": {
+    "scope": "diagram",
+    "prefix": ["s-juju"],
+    "body": ["<$$juju>"],
+    "description": "juju logo sprite"
+  },
+
+  "sprite julia": {
+    "scope": "diagram",
+    "prefix": ["s-julia"],
+    "body": ["<$$julia>"],
+    "description": "julia logo sprite"
+  },
+
+  "sprite jupyter": {
+    "scope": "diagram",
+    "prefix": ["s-jupyter"],
+    "body": ["<$$jupyter>"],
+    "description": "jupyter logo sprite"
+  },
+
+  "sprite kafka-icon": {
+    "scope": "diagram",
+    "prefix": ["s-kafka-icon"],
+    "body": ["<$$kafka-icon>"],
+    "description": "kafka-icon logo sprite"
+  },
+
+  "sprite kafka": {
+    "scope": "diagram",
+    "prefix": ["s-kafka"],
+    "body": ["<$$kafka>"],
+    "description": "kafka logo sprite"
+  },
+
+  "sprite kaios": {
+    "scope": "diagram",
+    "prefix": ["s-kaios"],
+    "body": ["<$$kaios>"],
+    "description": "kaios logo sprite"
+  },
+
+  "sprite kallithea": {
+    "scope": "diagram",
+    "prefix": ["s-kallithea"],
+    "body": ["<$$kallithea>"],
+    "description": "kallithea logo sprite"
+  },
+
+  "sprite karma": {
+    "scope": "diagram",
+    "prefix": ["s-karma"],
+    "body": ["<$$karma>"],
+    "description": "karma logo sprite"
+  },
+
+  "sprite keen": {
+    "scope": "diagram",
+    "prefix": ["s-keen"],
+    "body": ["<$$keen>"],
+    "description": "keen logo sprite"
+  },
+
+  "sprite kemal": {
+    "scope": "diagram",
+    "prefix": ["s-kemal"],
+    "body": ["<$$kemal>"],
+    "description": "kemal logo sprite"
+  },
+
+  "sprite keycdn": {
+    "scope": "diagram",
+    "prefix": ["s-keycdn"],
+    "body": ["<$$keycdn>"],
+    "description": "keycdn logo sprite"
+  },
+
+  "sprite keystonejs": {
+    "scope": "diagram",
+    "prefix": ["s-keystonejs"],
+    "body": ["<$$keystonejs>"],
+    "description": "keystonejs logo sprite"
+  },
+
+  "sprite khan_academy": {
+    "scope": "diagram",
+    "prefix": ["s-khan_academy"],
+    "body": ["<$$khan_academy>"],
+    "description": "khan_academy logo sprite"
+  },
+
+  "sprite kibana": {
+    "scope": "diagram",
+    "prefix": ["s-kibana"],
+    "body": ["<$$kibana>"],
+    "description": "kibana logo sprite"
+  },
+
+  "sprite kickstarter": {
+    "scope": "diagram",
+    "prefix": ["s-kickstarter"],
+    "body": ["<$$kickstarter>"],
+    "description": "kickstarter logo sprite"
+  },
+
+  "sprite kinto": {
+    "scope": "diagram",
+    "prefix": ["s-kinto"],
+    "body": ["<$$kinto>"],
+    "description": "kinto logo sprite"
+  },
+
+  "sprite kinvey": {
+    "scope": "diagram",
+    "prefix": ["s-kinvey"],
+    "body": ["<$$kinvey>"],
+    "description": "kinvey logo sprite"
+  },
+
+  "sprite kirby": {
+    "scope": "diagram",
+    "prefix": ["s-kirby"],
+    "body": ["<$$kirby>"],
+    "description": "kirby logo sprite"
+  },
+
+  "sprite kissmetrics": {
+    "scope": "diagram",
+    "prefix": ["s-kissmetrics"],
+    "body": ["<$$kissmetrics>"],
+    "description": "kissmetrics logo sprite"
+  },
+
+  "sprite kitematic": {
+    "scope": "diagram",
+    "prefix": ["s-kitematic"],
+    "body": ["<$$kitematic>"],
+    "description": "kitematic logo sprite"
+  },
+
+  "sprite kloudless": {
+    "scope": "diagram",
+    "prefix": ["s-kloudless"],
+    "body": ["<$$kloudless>"],
+    "description": "kloudless logo sprite"
+  },
+
+  "sprite knex": {
+    "scope": "diagram",
+    "prefix": ["s-knex"],
+    "body": ["<$$knex>"],
+    "description": "knex logo sprite"
+  },
+
+  "sprite knockout": {
+    "scope": "diagram",
+    "prefix": ["s-knockout"],
+    "body": ["<$$knockout>"],
+    "description": "knockout logo sprite"
+  },
+
+  "sprite koa": {
+    "scope": "diagram",
+    "prefix": ["s-koa"],
+    "body": ["<$$koa>"],
+    "description": "koa logo sprite"
+  },
+
+  "sprite kong": {
+    "scope": "diagram",
+    "prefix": ["s-kong"],
+    "body": ["<$$kong>"],
+    "description": "kong logo sprite"
+  },
+
+  "sprite kontena": {
+    "scope": "diagram",
+    "prefix": ["s-kontena"],
+    "body": ["<$$kontena>"],
+    "description": "kontena logo sprite"
+  },
+
+  "sprite kops": {
+    "scope": "diagram",
+    "prefix": ["s-kops"],
+    "body": ["<$$kops>"],
+    "description": "kops logo sprite"
+  },
+
+  "sprite kore": {
+    "scope": "diagram",
+    "prefix": ["s-kore"],
+    "body": ["<$$kore>"],
+    "description": "kore logo sprite"
+  },
+
+  "sprite koreio": {
+    "scope": "diagram",
+    "prefix": ["s-koreio"],
+    "body": ["<$$koreio>"],
+    "description": "koreio logo sprite"
+  },
+
+  "sprite kotlin": {
+    "scope": "diagram",
+    "prefix": ["s-kotlin"],
+    "body": ["<$$kotlin>"],
+    "description": "kotlin logo sprite"
+  },
+
+  "sprite kraken": {
+    "scope": "diagram",
+    "prefix": ["s-kraken"],
+    "body": ["<$$kraken>"],
+    "description": "kraken logo sprite"
+  },
+
+  "sprite krakenjs": {
+    "scope": "diagram",
+    "prefix": ["s-krakenjs"],
+    "body": ["<$$krakenjs>"],
+    "description": "krakenjs logo sprite"
+  },
+
+  "sprite kubernetes": {
+    "scope": "diagram",
+    "prefix": ["s-kubernetes"],
+    "body": ["<$$kubernetes>"],
+    "description": "kubernetes logo sprite"
+  },
+
+  "sprite kustomer": {
+    "scope": "diagram",
+    "prefix": ["s-kustomer"],
+    "body": ["<$$kustomer>"],
+    "description": "kustomer logo sprite"
+  },
+
+  "sprite laravel": {
+    "scope": "diagram",
+    "prefix": ["s-laravel"],
+    "body": ["<$$laravel>"],
+    "description": "laravel logo sprite"
+  },
+
+  "sprite lastfm": {
+    "scope": "diagram",
+    "prefix": ["s-lastfm"],
+    "body": ["<$$lastfm>"],
+    "description": "lastfm logo sprite"
+  },
+
+  "sprite lateral": {
+    "scope": "diagram",
+    "prefix": ["s-lateral"],
+    "body": ["<$$lateral>"],
+    "description": "lateral logo sprite"
+  },
+
+  "sprite launchkit": {
+    "scope": "diagram",
+    "prefix": ["s-launchkit"],
+    "body": ["<$$launchkit>"],
+    "description": "launchkit logo sprite"
+  },
+
+  "sprite launchrock": {
+    "scope": "diagram",
+    "prefix": ["s-launchrock"],
+    "body": ["<$$launchrock>"],
+    "description": "launchrock logo sprite"
+  },
+
+  "sprite leafjet": {
+    "scope": "diagram",
+    "prefix": ["s-leafjet"],
+    "body": ["<$$leafjet>"],
+    "description": "leafjet logo sprite"
+  },
+
+  "sprite leankit-icon": {
+    "scope": "diagram",
+    "prefix": ["s-leankit-icon"],
+    "body": ["<$$leankit-icon>"],
+    "description": "leankit-icon logo sprite"
+  },
+
+  "sprite leankit": {
+    "scope": "diagram",
+    "prefix": ["s-leankit"],
+    "body": ["<$$leankit>"],
+    "description": "leankit logo sprite"
+  },
+
+  "sprite less": {
+    "scope": "diagram",
+    "prefix": ["s-less"],
+    "body": ["<$$less>"],
+    "description": "less logo sprite"
+  },
+
+  "sprite letsencrypt": {
+    "scope": "diagram",
+    "prefix": ["s-letsencrypt"],
+    "body": ["<$$letsencrypt>"],
+    "description": "letsencrypt logo sprite"
+  },
+
+  "sprite leveldb": {
+    "scope": "diagram",
+    "prefix": ["s-leveldb"],
+    "body": ["<$$leveldb>"],
+    "description": "leveldb logo sprite"
+  },
+
+  "sprite librato": {
+    "scope": "diagram",
+    "prefix": ["s-librato"],
+    "body": ["<$$librato>"],
+    "description": "librato logo sprite"
+  },
+
+  "sprite liftweb": {
+    "scope": "diagram",
+    "prefix": ["s-liftweb"],
+    "body": ["<$$liftweb>"],
+    "description": "liftweb logo sprite"
+  },
+
+  "sprite lighttpd": {
+    "scope": "diagram",
+    "prefix": ["s-lighttpd"],
+    "body": ["<$$lighttpd>"],
+    "description": "lighttpd logo sprite"
+  },
+
+  "sprite linkedin": {
+    "scope": "diagram",
+    "prefix": ["s-linkedin"],
+    "body": ["<$$linkedin>"],
+    "description": "linkedin logo sprite"
+  },
+
+  "sprite linkerd": {
+    "scope": "diagram",
+    "prefix": ["s-linkerd"],
+    "body": ["<$$linkerd>"],
+    "description": "linkerd logo sprite"
+  },
+
+  "sprite linode": {
+    "scope": "diagram",
+    "prefix": ["s-linode"],
+    "body": ["<$$linode>"],
+    "description": "linode logo sprite"
+  },
+
+  "sprite linux-mint": {
+    "scope": "diagram",
+    "prefix": ["s-linux-mint"],
+    "body": ["<$$linux-mint>"],
+    "description": "linux-mint logo sprite"
+  },
+
+  "sprite linux-tux": {
+    "scope": "diagram",
+    "prefix": ["s-linux-tux"],
+    "body": ["<$$linux-tux>"],
+    "description": "linux-tux logo sprite"
+  },
+
+  "sprite litmus": {
+    "scope": "diagram",
+    "prefix": ["s-litmus"],
+    "body": ["<$$litmus>"],
+    "description": "litmus logo sprite"
+  },
+
+  "sprite loader": {
+    "scope": "diagram",
+    "prefix": ["s-loader"],
+    "body": ["<$$loader>"],
+    "description": "loader logo sprite"
+  },
+
+  "sprite locent": {
+    "scope": "diagram",
+    "prefix": ["s-locent"],
+    "body": ["<$$locent>"],
+    "description": "locent logo sprite"
+  },
+
+  "sprite lodash": {
+    "scope": "diagram",
+    "prefix": ["s-lodash"],
+    "body": ["<$$lodash>"],
+    "description": "lodash logo sprite"
+  },
+
+  "sprite logentries": {
+    "scope": "diagram",
+    "prefix": ["s-logentries"],
+    "body": ["<$$logentries>"],
+    "description": "logentries logo sprite"
+  },
+
+  "sprite loggly": {
+    "scope": "diagram",
+    "prefix": ["s-loggly"],
+    "body": ["<$$loggly>"],
+    "description": "loggly logo sprite"
+  },
+
+  "sprite logmatic": {
+    "scope": "diagram",
+    "prefix": ["s-logmatic"],
+    "body": ["<$$logmatic>"],
+    "description": "logmatic logo sprite"
+  },
+
+  "sprite logstash": {
+    "scope": "diagram",
+    "prefix": ["s-logstash"],
+    "body": ["<$$logstash>"],
+    "description": "logstash logo sprite"
+  },
+
+  "sprite lookback": {
+    "scope": "diagram",
+    "prefix": ["s-lookback"],
+    "body": ["<$$lookback>"],
+    "description": "lookback logo sprite"
+  },
+
+  "sprite looker": {
+    "scope": "diagram",
+    "prefix": ["s-looker"],
+    "body": ["<$$looker>"],
+    "description": "looker logo sprite"
+  },
+
+  "sprite loopback-icon": {
+    "scope": "diagram",
+    "prefix": ["s-loopback-icon"],
+    "body": ["<$$loopback-icon>"],
+    "description": "loopback-icon logo sprite"
+  },
+
+  "sprite loopback": {
+    "scope": "diagram",
+    "prefix": ["s-loopback"],
+    "body": ["<$$loopback>"],
+    "description": "loopback logo sprite"
+  },
+
+  "sprite losant": {
+    "scope": "diagram",
+    "prefix": ["s-losant"],
+    "body": ["<$$losant>"],
+    "description": "losant logo sprite"
+  },
+
+  "sprite lua": {
+    "scope": "diagram",
+    "prefix": ["s-lua"],
+    "body": ["<$$lua>"],
+    "description": "lua logo sprite"
+  },
+
+  "sprite lucene": {
+    "scope": "diagram",
+    "prefix": ["s-lucene"],
+    "body": ["<$$lucene>"],
+    "description": "lucene logo sprite"
+  },
+
+  "sprite lucene": {
+    "scope": "diagram",
+    "prefix": ["s-lucene"],
+    "body": ["<$$lucene>"],
+    "description": "lucene logo sprite"
+  },
+
+  "sprite lumen": {
+    "scope": "diagram",
+    "prefix": ["s-lumen"],
+    "body": ["<$$lumen>"],
+    "description": "lumen logo sprite"
+  },
+
+  "sprite lynda": {
+    "scope": "diagram",
+    "prefix": ["s-lynda"],
+    "body": ["<$$lynda>"],
+    "description": "lynda logo sprite"
+  },
+
+  "sprite macOS": {
+    "scope": "diagram",
+    "prefix": ["s-macos"],
+    "body": ["<$$macOS>"],
+    "description": "macOS logo sprite"
+  },
+
+  "sprite maestro": {
+    "scope": "diagram",
+    "prefix": ["s-maestro"],
+    "body": ["<$$maestro>"],
+    "description": "maestro logo sprite"
+  },
+
+  "sprite mageia": {
+    "scope": "diagram",
+    "prefix": ["s-mageia"],
+    "body": ["<$$mageia>"],
+    "description": "mageia logo sprite"
+  },
+
+  "sprite magento": {
+    "scope": "diagram",
+    "prefix": ["s-magento"],
+    "body": ["<$$magento>"],
+    "description": "magento logo sprite"
+  },
+
+  "sprite magneto": {
+    "scope": "diagram",
+    "prefix": ["s-magneto"],
+    "body": ["<$$magneto>"],
+    "description": "magneto logo sprite"
+  },
+
+  "sprite mailchimp-freddie": {
+    "scope": "diagram",
+    "prefix": ["s-mailchimp-freddie"],
+    "body": ["<$$mailchimp-freddie>"],
+    "description": "mailchimp-freddie logo sprite"
+  },
+
+  "sprite mailchimp": {
+    "scope": "diagram",
+    "prefix": ["s-mailchimp"],
+    "body": ["<$$mailchimp>"],
+    "description": "mailchimp logo sprite"
+  },
+
+  "sprite maildeveloper": {
+    "scope": "diagram",
+    "prefix": ["s-maildeveloper"],
+    "body": ["<$$maildeveloper>"],
+    "description": "maildeveloper logo sprite"
+  },
+
+  "sprite mailgun-icon": {
+    "scope": "diagram",
+    "prefix": ["s-mailgun-icon"],
+    "body": ["<$$mailgun-icon>"],
+    "description": "mailgun-icon logo sprite"
+  },
+
+  "sprite mailgun": {
+    "scope": "diagram",
+    "prefix": ["s-mailgun"],
+    "body": ["<$$mailgun>"],
+    "description": "mailgun logo sprite"
+  },
+
+  "sprite mandrill-shield": {
+    "scope": "diagram",
+    "prefix": ["s-mandrill-shield"],
+    "body": ["<$$mandrill-shield>"],
+    "description": "mandrill-shield logo sprite"
+  },
+
+  "sprite mandrill": {
+    "scope": "diagram",
+    "prefix": ["s-mandrill"],
+    "body": ["<$$mandrill>"],
+    "description": "mandrill logo sprite"
+  },
+
+  "sprite manifoldjs": {
+    "scope": "diagram",
+    "prefix": ["s-manifoldjs"],
+    "body": ["<$$manifoldjs>"],
+    "description": "manifoldjs logo sprite"
+  },
+
+  "sprite mantl": {
+    "scope": "diagram",
+    "prefix": ["s-mantl"],
+    "body": ["<$$mantl>"],
+    "description": "mantl logo sprite"
+  },
+
+  "sprite manuscript": {
+    "scope": "diagram",
+    "prefix": ["s-manuscript"],
+    "body": ["<$$manuscript>"],
+    "description": "manuscript logo sprite"
+  },
+
+  "sprite mapbox": {
+    "scope": "diagram",
+    "prefix": ["s-mapbox"],
+    "body": ["<$$mapbox>"],
+    "description": "mapbox logo sprite"
+  },
+
+  "sprite maps-me": {
+    "scope": "diagram",
+    "prefix": ["s-maps-me"],
+    "body": ["<$$maps-me>"],
+    "description": "maps-me logo sprite"
+  },
+
+  "sprite mapzen": {
+    "scope": "diagram",
+    "prefix": ["s-mapzen"],
+    "body": ["<$$mapzen>"],
+    "description": "mapzen logo sprite"
+  },
+
+  "sprite mariadb-icon": {
+    "scope": "diagram",
+    "prefix": ["s-mariadb-icon"],
+    "body": ["<$$mariadb-icon>"],
+    "description": "mariadb-icon logo sprite"
+  },
+
+  "sprite mariadb": {
+    "scope": "diagram",
+    "prefix": ["s-mariadb"],
+    "body": ["<$$mariadb>"],
+    "description": "mariadb logo sprite"
+  },
+
+  "sprite marionette": {
+    "scope": "diagram",
+    "prefix": ["s-marionette"],
+    "body": ["<$$marionette>"],
+    "description": "marionette logo sprite"
+  },
+
+  "sprite markdown": {
+    "scope": "diagram",
+    "prefix": ["s-markdown"],
+    "body": ["<$$markdown>"],
+    "description": "markdown logo sprite"
+  },
+
+  "sprite marko": {
+    "scope": "diagram",
+    "prefix": ["s-marko"],
+    "body": ["<$$marko>"],
+    "description": "marko logo sprite"
+  },
+
+  "sprite marvel": {
+    "scope": "diagram",
+    "prefix": ["s-marvel"],
+    "body": ["<$$marvel>"],
+    "description": "marvel logo sprite"
+  },
+
+  "sprite mastercard": {
+    "scope": "diagram",
+    "prefix": ["s-mastercard"],
+    "body": ["<$$mastercard>"],
+    "description": "mastercard logo sprite"
+  },
+
+  "sprite material-ui": {
+    "scope": "diagram",
+    "prefix": ["s-material-ui"],
+    "body": ["<$$material-ui>"],
+    "description": "material-ui logo sprite"
+  },
+
+  "sprite materializecss": {
+    "scope": "diagram",
+    "prefix": ["s-materializecss"],
+    "body": ["<$$materializecss>"],
+    "description": "materializecss logo sprite"
+  },
+
+  "sprite mattermost": {
+    "scope": "diagram",
+    "prefix": ["s-mattermost"],
+    "body": ["<$$mattermost>"],
+    "description": "mattermost logo sprite"
+  },
+
+  "sprite maxcdn": {
+    "scope": "diagram",
+    "prefix": ["s-maxcdn"],
+    "body": ["<$$maxcdn>"],
+    "description": "maxcdn logo sprite"
+  },
+
+  "sprite mdn": {
+    "scope": "diagram",
+    "prefix": ["s-mdn"],
+    "body": ["<$$mdn>"],
+    "description": "mdn logo sprite"
+  },
+
+  "sprite mdx": {
+    "scope": "diagram",
+    "prefix": ["s-mdx"],
+    "body": ["<$$mdx>"],
+    "description": "mdx logo sprite"
+  },
+
+  "sprite medium": {
+    "scope": "diagram",
+    "prefix": ["s-medium"],
+    "body": ["<$$medium>"],
+    "description": "medium logo sprite"
+  },
+
+  "sprite memcached": {
+    "scope": "diagram",
+    "prefix": ["s-memcached"],
+    "body": ["<$$memcached>"],
+    "description": "memcached logo sprite"
+  },
+
+  "sprite memsql-icon": {
+    "scope": "diagram",
+    "prefix": ["s-memsql-icon"],
+    "body": ["<$$memsql-icon>"],
+    "description": "memsql-icon logo sprite"
+  },
+
+  "sprite memsql": {
+    "scope": "diagram",
+    "prefix": ["s-memsql"],
+    "body": ["<$$memsql>"],
+    "description": "memsql logo sprite"
+  },
+
+  "sprite mention": {
+    "scope": "diagram",
+    "prefix": ["s-mention"],
+    "body": ["<$$mention>"],
+    "description": "mention logo sprite"
+  },
+
+  "sprite mercurial": {
+    "scope": "diagram",
+    "prefix": ["s-mercurial"],
+    "body": ["<$$mercurial>"],
+    "description": "mercurial logo sprite"
+  },
+
+  "sprite mern": {
+    "scope": "diagram",
+    "prefix": ["s-mern"],
+    "body": ["<$$mern>"],
+    "description": "mern logo sprite"
+  },
+
+  "sprite mesos": {
+    "scope": "diagram",
+    "prefix": ["s-mesos"],
+    "body": ["<$$mesos>"],
+    "description": "mesos logo sprite"
+  },
+
+  "sprite mesosphere": {
+    "scope": "diagram",
+    "prefix": ["s-mesosphere"],
+    "body": ["<$$mesosphere>"],
+    "description": "mesosphere logo sprite"
+  },
+
+  "sprite metabase": {
+    "scope": "diagram",
+    "prefix": ["s-metabase"],
+    "body": ["<$$metabase>"],
+    "description": "metabase logo sprite"
+  },
+
+  "sprite meteor-icon": {
+    "scope": "diagram",
+    "prefix": ["s-meteor-icon"],
+    "body": ["<$$meteor-icon>"],
+    "description": "meteor-icon logo sprite"
+  },
+
+  "sprite meteor": {
+    "scope": "diagram",
+    "prefix": ["s-meteor"],
+    "body": ["<$$meteor>"],
+    "description": "meteor logo sprite"
+  },
+
+  "sprite microcosm": {
+    "scope": "diagram",
+    "prefix": ["s-microcosm"],
+    "body": ["<$$microcosm>"],
+    "description": "microcosm logo sprite"
+  },
+
+  "sprite microsoft-edge": {
+    "scope": "diagram",
+    "prefix": ["s-microsoft-edge"],
+    "body": ["<$$microsoft-edge>"],
+    "description": "microsoft-edge logo sprite"
+  },
+
+  "sprite microsoft-windows": {
+    "scope": "diagram",
+    "prefix": ["s-microsoft-windows"],
+    "body": ["<$$microsoft-windows>"],
+    "description": "microsoft-windows logo sprite"
+  },
+
+  "sprite microsoft": {
+    "scope": "diagram",
+    "prefix": ["s-microsoft"],
+    "body": ["<$$microsoft>"],
+    "description": "microsoft logo sprite"
+  },
+
+  "sprite middleman": {
+    "scope": "diagram",
+    "prefix": ["s-middleman"],
+    "body": ["<$$middleman>"],
+    "description": "middleman logo sprite"
+  },
+
+  "sprite milligram": {
+    "scope": "diagram",
+    "prefix": ["s-milligram"],
+    "body": ["<$$milligram>"],
+    "description": "milligram logo sprite"
+  },
+
+  "sprite mio": {
+    "scope": "diagram",
+    "prefix": ["s-mio"],
+    "body": ["<$$mio>"],
+    "description": "mio logo sprite"
+  },
+
+  "sprite mist": {
+    "scope": "diagram",
+    "prefix": ["s-mist"],
+    "body": ["<$$mist>"],
+    "description": "mist logo sprite"
+  },
+
+  "sprite mithril": {
+    "scope": "diagram",
+    "prefix": ["s-mithril"],
+    "body": ["<$$mithril>"],
+    "description": "mithril logo sprite"
+  },
+
+  "sprite mixmax": {
+    "scope": "diagram",
+    "prefix": ["s-mixmax"],
+    "body": ["<$$mixmax>"],
+    "description": "mixmax logo sprite"
+  },
+
+  "sprite mixpanel": {
+    "scope": "diagram",
+    "prefix": ["s-mixpanel"],
+    "body": ["<$$mixpanel>"],
+    "description": "mixpanel logo sprite"
+  },
+
+  "sprite mlab": {
+    "scope": "diagram",
+    "prefix": ["s-mlab"],
+    "body": ["<$$mlab>"],
+    "description": "mlab logo sprite"
+  },
+
+  "sprite mobx": {
+    "scope": "diagram",
+    "prefix": ["s-mobx"],
+    "body": ["<$$mobx>"],
+    "description": "mobx logo sprite"
+  },
+
+  "sprite mocha": {
+    "scope": "diagram",
+    "prefix": ["s-mocha"],
+    "body": ["<$$mocha>"],
+    "description": "mocha logo sprite"
+  },
+
+  "sprite mockflow": {
+    "scope": "diagram",
+    "prefix": ["s-mockflow"],
+    "body": ["<$$mockflow>"],
+    "description": "mockflow logo sprite"
+  },
+
+  "sprite modernizr": {
+    "scope": "diagram",
+    "prefix": ["s-modernizr"],
+    "body": ["<$$modernizr>"],
+    "description": "modernizr logo sprite"
+  },
+
+  "sprite modx": {
+    "scope": "diagram",
+    "prefix": ["s-modx"],
+    "body": ["<$$modx>"],
+    "description": "modx logo sprite"
+  },
+
+  "sprite moltin-icon": {
+    "scope": "diagram",
+    "prefix": ["s-moltin-icon"],
+    "body": ["<$$moltin-icon>"],
+    "description": "moltin-icon logo sprite"
+  },
+
+  "sprite moltin": {
+    "scope": "diagram",
+    "prefix": ["s-moltin"],
+    "body": ["<$$moltin>"],
+    "description": "moltin logo sprite"
+  },
+
+  "sprite momentjs": {
+    "scope": "diagram",
+    "prefix": ["s-momentjs"],
+    "body": ["<$$momentjs>"],
+    "description": "momentjs logo sprite"
+  },
+
+  "sprite monero": {
+    "scope": "diagram",
+    "prefix": ["s-monero"],
+    "body": ["<$$monero>"],
+    "description": "monero logo sprite"
+  },
+
+  "sprite mongodb": {
+    "scope": "diagram",
+    "prefix": ["s-mongodb"],
+    "body": ["<$$mongodb>"],
+    "description": "mongodb logo sprite"
+  },
+
+  "sprite mono": {
+    "scope": "diagram",
+    "prefix": ["s-mono"],
+    "body": ["<$$mono>"],
+    "description": "mono logo sprite"
+  },
+
+  "sprite moon": {
+    "scope": "diagram",
+    "prefix": ["s-moon"],
+    "body": ["<$$moon>"],
+    "description": "moon logo sprite"
+  },
+
+  "sprite mootools": {
+    "scope": "diagram",
+    "prefix": ["s-mootools"],
+    "body": ["<$$mootools>"],
+    "description": "mootools logo sprite"
+  },
+
+  "sprite morpheus": {
+    "scope": "diagram",
+    "prefix": ["s-morpheus"],
+    "body": ["<$$morpheus>"],
+    "description": "morpheus logo sprite"
+  },
+
+  "sprite mozilla": {
+    "scope": "diagram",
+    "prefix": ["s-mozilla"],
+    "body": ["<$$mozilla>"],
+    "description": "mozilla logo sprite"
+  },
+
+  "sprite mparticle": {
+    "scope": "diagram",
+    "prefix": ["s-mparticle"],
+    "body": ["<$$mparticle>"],
+    "description": "mparticle logo sprite"
+  },
+
+  "sprite mysql": {
+    "scope": "diagram",
+    "prefix": ["s-mysql"],
+    "body": ["<$$mysql>"],
+    "description": "mysql logo sprite"
+  },
+
+  "sprite myth": {
+    "scope": "diagram",
+    "prefix": ["s-myth"],
+    "body": ["<$$myth>"],
+    "description": "myth logo sprite"
+  },
+
+  "sprite namecheap": {
+    "scope": "diagram",
+    "prefix": ["s-namecheap"],
+    "body": ["<$$namecheap>"],
+    "description": "namecheap logo sprite"
+  },
+
+  "sprite nanonets": {
+    "scope": "diagram",
+    "prefix": ["s-nanonets"],
+    "body": ["<$$nanonets>"],
+    "description": "nanonets logo sprite"
+  },
+
+  "sprite nativescript": {
+    "scope": "diagram",
+    "prefix": ["s-nativescript"],
+    "body": ["<$$nativescript>"],
+    "description": "nativescript logo sprite"
+  },
+
+  "sprite neat": {
+    "scope": "diagram",
+    "prefix": ["s-neat"],
+    "body": ["<$$neat>"],
+    "description": "neat logo sprite"
+  },
+
+  "sprite neo4j": {
+    "scope": "diagram",
+    "prefix": ["s-neo4j"],
+    "body": ["<$$neo4j>"],
+    "description": "neo4j logo sprite"
+  },
+
+  "sprite neonmetrics": {
+    "scope": "diagram",
+    "prefix": ["s-neonmetrics"],
+    "body": ["<$$neonmetrics>"],
+    "description": "neonmetrics logo sprite"
+  },
+
+  "sprite neovim": {
+    "scope": "diagram",
+    "prefix": ["s-neovim"],
+    "body": ["<$$neovim>"],
+    "description": "neovim logo sprite"
+  },
+
+  "sprite nestjs": {
+    "scope": "diagram",
+    "prefix": ["s-nestjs"],
+    "body": ["<$$nestjs>"],
+    "description": "nestjs logo sprite"
+  },
+
+  "sprite netbeans": {
+    "scope": "diagram",
+    "prefix": ["s-netbeans"],
+    "body": ["<$$netbeans>"],
+    "description": "netbeans logo sprite"
+  },
+
+  "sprite netflix-icon": {
+    "scope": "diagram",
+    "prefix": ["s-netflix-icon"],
+    "body": ["<$$netflix-icon>"],
+    "description": "netflix-icon logo sprite"
+  },
+
+  "sprite netflix": {
+    "scope": "diagram",
+    "prefix": ["s-netflix"],
+    "body": ["<$$netflix>"],
+    "description": "netflix logo sprite"
+  },
+
+  "sprite netlify": {
+    "scope": "diagram",
+    "prefix": ["s-netlify"],
+    "body": ["<$$netlify>"],
+    "description": "netlify logo sprite"
+  },
+
+  "sprite netuitive": {
+    "scope": "diagram",
+    "prefix": ["s-netuitive"],
+    "body": ["<$$netuitive>"],
+    "description": "netuitive logo sprite"
+  },
+
+  "sprite new-relic": {
+    "scope": "diagram",
+    "prefix": ["s-new-relic"],
+    "body": ["<$$new-relic>"],
+    "description": "new-relic logo sprite"
+  },
+
+  "sprite nextjs": {
+    "scope": "diagram",
+    "prefix": ["s-nextjs"],
+    "body": ["<$$nextjs>"],
+    "description": "nextjs logo sprite"
+  },
+
+  "sprite nginx": {
+    "scope": "diagram",
+    "prefix": ["s-nginx"],
+    "body": ["<$$nginx>"],
+    "description": "nginx logo sprite"
+  },
+
+  "sprite nightwatch": {
+    "scope": "diagram",
+    "prefix": ["s-nightwatch"],
+    "body": ["<$$nightwatch>"],
+    "description": "nightwatch logo sprite"
+  },
+
+  "sprite nodal": {
+    "scope": "diagram",
+    "prefix": ["s-nodal"],
+    "body": ["<$$nodal>"],
+    "description": "nodal logo sprite"
+  },
+
+  "sprite node-sass": {
+    "scope": "diagram",
+    "prefix": ["s-node-sass"],
+    "body": ["<$$node-sass>"],
+    "description": "node-sass logo sprite"
+  },
+
+  "sprite nodebots": {
+    "scope": "diagram",
+    "prefix": ["s-nodebots"],
+    "body": ["<$$nodebots>"],
+    "description": "nodebots logo sprite"
+  },
+
+  "sprite nodejitsu": {
+    "scope": "diagram",
+    "prefix": ["s-nodejitsu"],
+    "body": ["<$$nodejitsu>"],
+    "description": "nodejitsu logo sprite"
+  },
+
+  "sprite nodejs-icon": {
+    "scope": "diagram",
+    "prefix": ["s-nodejs-icon"],
+    "body": ["<$$nodejs-icon>"],
+    "description": "nodejs-icon logo sprite"
+  },
+
+  "sprite nodejs": {
+    "scope": "diagram",
+    "prefix": ["s-nodejs"],
+    "body": ["<$$nodejs>"],
+    "description": "nodejs logo sprite"
+  },
+
+  "sprite nodemon": {
+    "scope": "diagram",
+    "prefix": ["s-nodemon"],
+    "body": ["<$$nodemon>"],
+    "description": "nodemon logo sprite"
+  },
+
+  "sprite nodeos": {
+    "scope": "diagram",
+    "prefix": ["s-nodeos"],
+    "body": ["<$$nodeos>"],
+    "description": "nodeos logo sprite"
+  },
+
+  "sprite nodewebkit": {
+    "scope": "diagram",
+    "prefix": ["s-nodewebkit"],
+    "body": ["<$$nodewebkit>"],
+    "description": "nodewebkit logo sprite"
+  },
+
+  "sprite nomad": {
+    "scope": "diagram",
+    "prefix": ["s-nomad"],
+    "body": ["<$$nomad>"],
+    "description": "nomad logo sprite"
+  },
+
+  "sprite now": {
+    "scope": "diagram",
+    "prefix": ["s-now"],
+    "body": ["<$$now>"],
+    "description": "now logo sprite"
+  },
+
+  "sprite noysi": {
+    "scope": "diagram",
+    "prefix": ["s-noysi"],
+    "body": ["<$$noysi>"],
+    "description": "noysi logo sprite"
+  },
+
+  "sprite npm-2": {
+    "scope": "diagram",
+    "prefix": ["s-npm-2"],
+    "body": ["<$$npm-2>"],
+    "description": "npm-2 logo sprite"
+  },
+
+  "sprite npm": {
+    "scope": "diagram",
+    "prefix": ["s-npm"],
+    "body": ["<$$npm>"],
+    "description": "npm logo sprite"
+  },
+
+  "sprite nuclide": {
+    "scope": "diagram",
+    "prefix": ["s-nuclide"],
+    "body": ["<$$nuclide>"],
+    "description": "nuclide logo sprite"
+  },
+
+  "sprite nuodb": {
+    "scope": "diagram",
+    "prefix": ["s-nuodb"],
+    "body": ["<$$nuodb>"],
+    "description": "nuodb logo sprite"
+  },
+
+  "sprite nuxt": {
+    "scope": "diagram",
+    "prefix": ["s-nuxt"],
+    "body": ["<$$nuxt>"],
+    "description": "nuxt logo sprite"
+  },
+
+  "sprite oauth": {
+    "scope": "diagram",
+    "prefix": ["s-oauth"],
+    "body": ["<$$oauth>"],
+    "description": "oauth logo sprite"
+  },
+
+  "sprite ocaml": {
+    "scope": "diagram",
+    "prefix": ["s-ocaml"],
+    "body": ["<$$ocaml>"],
+    "description": "ocaml logo sprite"
+  },
+
+  "sprite octodns": {
+    "scope": "diagram",
+    "prefix": ["s-octodns"],
+    "body": ["<$$octodns>"],
+    "description": "octodns logo sprite"
+  },
+
+  "sprite octopus-deploy": {
+    "scope": "diagram",
+    "prefix": ["s-octopus-deploy"],
+    "body": ["<$$octopus-deploy>"],
+    "description": "octopus-deploy logo sprite"
+  },
+
+  "sprite olapic": {
+    "scope": "diagram",
+    "prefix": ["s-olapic"],
+    "body": ["<$$olapic>"],
+    "description": "olapic logo sprite"
+  },
+
+  "sprite olark": {
+    "scope": "diagram",
+    "prefix": ["s-olark"],
+    "body": ["<$$olark>"],
+    "description": "olark logo sprite"
+  },
+
+  "sprite onesignal": {
+    "scope": "diagram",
+    "prefix": ["s-onesignal"],
+    "body": ["<$$onesignal>"],
+    "description": "onesignal logo sprite"
+  },
+
+  "sprite opbeat": {
+    "scope": "diagram",
+    "prefix": ["s-opbeat"],
+    "body": ["<$$opbeat>"],
+    "description": "opbeat logo sprite"
+  },
+
+  "sprite open-graph": {
+    "scope": "diagram",
+    "prefix": ["s-open-graph"],
+    "body": ["<$$open-graph>"],
+    "description": "open-graph logo sprite"
+  },
+
+  "sprite opencart": {
+    "scope": "diagram",
+    "prefix": ["s-opencart"],
+    "body": ["<$$opencart>"],
+    "description": "opencart logo sprite"
+  },
+
+  "sprite opencollective": {
+    "scope": "diagram",
+    "prefix": ["s-opencollective"],
+    "body": ["<$$opencollective>"],
+    "description": "opencollective logo sprite"
+  },
+
+  "sprite opencv": {
+    "scope": "diagram",
+    "prefix": ["s-opencv"],
+    "body": ["<$$opencv>"],
+    "description": "opencv logo sprite"
+  },
+
+  "sprite opengl": {
+    "scope": "diagram",
+    "prefix": ["s-opengl"],
+    "body": ["<$$opengl>"],
+    "description": "opengl logo sprite"
+  },
+
+  "sprite openlayers": {
+    "scope": "diagram",
+    "prefix": ["s-openlayers"],
+    "body": ["<$$openlayers>"],
+    "description": "openlayers logo sprite"
+  },
+
+  "sprite openshift": {
+    "scope": "diagram",
+    "prefix": ["s-openshift"],
+    "body": ["<$$openshift>"],
+    "description": "openshift logo sprite"
+  },
+
+  "sprite opensource": {
+    "scope": "diagram",
+    "prefix": ["s-opensource"],
+    "body": ["<$$opensource>"],
+    "description": "opensource logo sprite"
+  },
+
+  "sprite openstack": {
+    "scope": "diagram",
+    "prefix": ["s-openstack"],
+    "body": ["<$$openstack>"],
+    "description": "openstack logo sprite"
+  },
+
+  "sprite opera": {
+    "scope": "diagram",
+    "prefix": ["s-opera"],
+    "body": ["<$$opera>"],
+    "description": "opera logo sprite"
+  },
+
+  "sprite opsee": {
+    "scope": "diagram",
+    "prefix": ["s-opsee"],
+    "body": ["<$$opsee>"],
+    "description": "opsee logo sprite"
+  },
+
+  "sprite opsgenie": {
+    "scope": "diagram",
+    "prefix": ["s-opsgenie"],
+    "body": ["<$$opsgenie>"],
+    "description": "opsgenie logo sprite"
+  },
+
+  "sprite optimizely": {
+    "scope": "diagram",
+    "prefix": ["s-optimizely"],
+    "body": ["<$$optimizely>"],
+    "description": "optimizely logo sprite"
+  },
+
+  "sprite oracle": {
+    "scope": "diagram",
+    "prefix": ["s-oracle"],
+    "body": ["<$$oracle>"],
+    "description": "oracle logo sprite"
+  },
+
+  "sprite oreilly": {
+    "scope": "diagram",
+    "prefix": ["s-oreilly"],
+    "body": ["<$$oreilly>"],
+    "description": "oreilly logo sprite"
+  },
+
+  "sprite origami": {
+    "scope": "diagram",
+    "prefix": ["s-origami"],
+    "body": ["<$$origami>"],
+    "description": "origami logo sprite"
+  },
+
+  "sprite origin": {
+    "scope": "diagram",
+    "prefix": ["s-origin"],
+    "body": ["<$$origin>"],
+    "description": "origin logo sprite"
+  },
+
+  "sprite oshw": {
+    "scope": "diagram",
+    "prefix": ["s-oshw"],
+    "body": ["<$$oshw>"],
+    "description": "oshw logo sprite"
+  },
+
+  "sprite osquery": {
+    "scope": "diagram",
+    "prefix": ["s-osquery"],
+    "body": ["<$$osquery>"],
+    "description": "osquery logo sprite"
+  },
+
+  "sprite otto": {
+    "scope": "diagram",
+    "prefix": ["s-otto"],
+    "body": ["<$$otto>"],
+    "description": "otto logo sprite"
+  },
+
+  "sprite packer": {
+    "scope": "diagram",
+    "prefix": ["s-packer"],
+    "body": ["<$$packer>"],
+    "description": "packer logo sprite"
+  },
+
+  "sprite pagekit": {
+    "scope": "diagram",
+    "prefix": ["s-pagekit"],
+    "body": ["<$$pagekit>"],
+    "description": "pagekit logo sprite"
+  },
+
+  "sprite pagekite": {
+    "scope": "diagram",
+    "prefix": ["s-pagekite"],
+    "body": ["<$$pagekite>"],
+    "description": "pagekite logo sprite"
+  },
+
+  "sprite panda": {
+    "scope": "diagram",
+    "prefix": ["s-panda"],
+    "body": ["<$$panda>"],
+    "description": "panda logo sprite"
+  },
+
+  "sprite parse": {
+    "scope": "diagram",
+    "prefix": ["s-parse"],
+    "body": ["<$$parse>"],
+    "description": "parse logo sprite"
+  },
+
+  "sprite parsehub": {
+    "scope": "diagram",
+    "prefix": ["s-parsehub"],
+    "body": ["<$$parsehub>"],
+    "description": "parsehub logo sprite"
+  },
+
+  "sprite passbolt": {
+    "scope": "diagram",
+    "prefix": ["s-passbolt"],
+    "body": ["<$$passbolt>"],
+    "description": "passbolt logo sprite"
+  },
+
+  "sprite passport": {
+    "scope": "diagram",
+    "prefix": ["s-passport"],
+    "body": ["<$$passport>"],
+    "description": "passport logo sprite"
+  },
+
+  "sprite patreon": {
+    "scope": "diagram",
+    "prefix": ["s-patreon"],
+    "body": ["<$$patreon>"],
+    "description": "patreon logo sprite"
+  },
+
+  "sprite paypal": {
+    "scope": "diagram",
+    "prefix": ["s-paypal"],
+    "body": ["<$$paypal>"],
+    "description": "paypal logo sprite"
+  },
+
+  "sprite peer5": {
+    "scope": "diagram",
+    "prefix": ["s-peer5"],
+    "body": ["<$$peer5>"],
+    "description": "peer5 logo sprite"
+  },
+
+  "sprite pepperoni": {
+    "scope": "diagram",
+    "prefix": ["s-pepperoni"],
+    "body": ["<$$pepperoni>"],
+    "description": "pepperoni logo sprite"
+  },
+
+  "sprite percona": {
+    "scope": "diagram",
+    "prefix": ["s-percona"],
+    "body": ["<$$percona>"],
+    "description": "percona logo sprite"
+  },
+
+  "sprite percy": {
+    "scope": "diagram",
+    "prefix": ["s-percy"],
+    "body": ["<$$percy>"],
+    "description": "percy logo sprite"
+  },
+
+  "sprite perf-rocks": {
+    "scope": "diagram",
+    "prefix": ["s-perf-rocks"],
+    "body": ["<$$perf-rocks>"],
+    "description": "perf-rocks logo sprite"
+  },
+
+  "sprite periscope": {
+    "scope": "diagram",
+    "prefix": ["s-periscope"],
+    "body": ["<$$periscope>"],
+    "description": "periscope logo sprite"
+  },
+
+  "sprite perl": {
+    "scope": "diagram",
+    "prefix": ["s-perl"],
+    "body": ["<$$perl>"],
+    "description": "perl logo sprite"
+  },
+
+  "sprite phalcon": {
+    "scope": "diagram",
+    "prefix": ["s-phalcon"],
+    "body": ["<$$phalcon>"],
+    "description": "phalcon logo sprite"
+  },
+
+  "sprite phoenix": {
+    "scope": "diagram",
+    "prefix": ["s-phoenix"],
+    "body": ["<$$phoenix>"],
+    "description": "phoenix logo sprite"
+  },
+
+  "sprite phonegap-bot": {
+    "scope": "diagram",
+    "prefix": ["s-phonegap-bot"],
+    "body": ["<$$phonegap-bot>"],
+    "description": "phonegap-bot logo sprite"
+  },
+
+  "sprite phonegap": {
+    "scope": "diagram",
+    "prefix": ["s-phonegap"],
+    "body": ["<$$phonegap>"],
+    "description": "phonegap logo sprite"
+  },
+
+  "sprite php": {
+    "scope": "diagram",
+    "prefix": ["s-php"],
+    "body": ["<$$php>"],
+    "description": "php logo sprite"
+  },
+
+  "sprite phpstorm": {
+    "scope": "diagram",
+    "prefix": ["s-phpstorm"],
+    "body": ["<$$phpstorm>"],
+    "description": "phpstorm logo sprite"
+  },
+
+  "sprite picasa": {
+    "scope": "diagram",
+    "prefix": ["s-picasa"],
+    "body": ["<$$picasa>"],
+    "description": "picasa logo sprite"
+  },
+
+  "sprite pingdom": {
+    "scope": "diagram",
+    "prefix": ["s-pingdom"],
+    "body": ["<$$pingdom>"],
+    "description": "pingdom logo sprite"
+  },
+
+  "sprite pingy": {
+    "scope": "diagram",
+    "prefix": ["s-pingy"],
+    "body": ["<$$pingy>"],
+    "description": "pingy logo sprite"
+  },
+
+  "sprite pinterest": {
+    "scope": "diagram",
+    "prefix": ["s-pinterest"],
+    "body": ["<$$pinterest>"],
+    "description": "pinterest logo sprite"
+  },
+
+  "sprite pipedrive": {
+    "scope": "diagram",
+    "prefix": ["s-pipedrive"],
+    "body": ["<$$pipedrive>"],
+    "description": "pipedrive logo sprite"
+  },
+
+  "sprite pipefy": {
+    "scope": "diagram",
+    "prefix": ["s-pipefy"],
+    "body": ["<$$pipefy>"],
+    "description": "pipefy logo sprite"
+  },
+
+  "sprite pivotal_tracker": {
+    "scope": "diagram",
+    "prefix": ["s-pivotal_tracker"],
+    "body": ["<$$pivotal_tracker>"],
+    "description": "pivotal_tracker logo sprite"
+  },
+
+  "sprite pixate": {
+    "scope": "diagram",
+    "prefix": ["s-pixate"],
+    "body": ["<$$pixate>"],
+    "description": "pixate logo sprite"
+  },
+
+  "sprite pkg": {
+    "scope": "diagram",
+    "prefix": ["s-pkg"],
+    "body": ["<$$pkg>"],
+    "description": "pkg logo sprite"
+  },
+
+  "sprite planless": {
+    "scope": "diagram",
+    "prefix": ["s-planless"],
+    "body": ["<$$planless>"],
+    "description": "planless logo sprite"
+  },
+
+  "sprite plastic-scm": {
+    "scope": "diagram",
+    "prefix": ["s-plastic-scm"],
+    "body": ["<$$plastic-scm>"],
+    "description": "plastic-scm logo sprite"
+  },
+
+  "sprite platformio": {
+    "scope": "diagram",
+    "prefix": ["s-platformio"],
+    "body": ["<$$platformio>"],
+    "description": "platformio logo sprite"
+  },
+
+  "sprite play": {
+    "scope": "diagram",
+    "prefix": ["s-play"],
+    "body": ["<$$play>"],
+    "description": "play logo sprite"
+  },
+
+  "sprite pm2": {
+    "scope": "diagram",
+    "prefix": ["s-pm2"],
+    "body": ["<$$pm2>"],
+    "description": "pm2 logo sprite"
+  },
+
+  "sprite podio": {
+    "scope": "diagram",
+    "prefix": ["s-podio"],
+    "body": ["<$$podio>"],
+    "description": "podio logo sprite"
+  },
+
+  "sprite poeditor": {
+    "scope": "diagram",
+    "prefix": ["s-poeditor"],
+    "body": ["<$$poeditor>"],
+    "description": "poeditor logo sprite"
+  },
+
+  "sprite polymer": {
+    "scope": "diagram",
+    "prefix": ["s-polymer"],
+    "body": ["<$$polymer>"],
+    "description": "polymer logo sprite"
+  },
+
+  "sprite positionly": {
+    "scope": "diagram",
+    "prefix": ["s-positionly"],
+    "body": ["<$$positionly>"],
+    "description": "positionly logo sprite"
+  },
+
+  "sprite postcss": {
+    "scope": "diagram",
+    "prefix": ["s-postcss"],
+    "body": ["<$$postcss>"],
+    "description": "postcss logo sprite"
+  },
+
+  "sprite postgresql": {
+    "scope": "diagram",
+    "prefix": ["s-postgresql"],
+    "body": ["<$$postgresql>"],
+    "description": "postgresql logo sprite"
+  },
+
+  "sprite postman": {
+    "scope": "diagram",
+    "prefix": ["s-postman"],
+    "body": ["<$$postman>"],
+    "description": "postman logo sprite"
+  },
+
+  "sprite pouchdb": {
+    "scope": "diagram",
+    "prefix": ["s-pouchdb"],
+    "body": ["<$$pouchdb>"],
+    "description": "pouchdb logo sprite"
+  },
+
+  "sprite preact": {
+    "scope": "diagram",
+    "prefix": ["s-preact"],
+    "body": ["<$$preact>"],
+    "description": "preact logo sprite"
+  },
+
+  "sprite precursor": {
+    "scope": "diagram",
+    "prefix": ["s-precursor"],
+    "body": ["<$$precursor>"],
+    "description": "precursor logo sprite"
+  },
+
+  "sprite prestashop": {
+    "scope": "diagram",
+    "prefix": ["s-prestashop"],
+    "body": ["<$$prestashop>"],
+    "description": "prestashop logo sprite"
+  },
+
+  "sprite presto": {
+    "scope": "diagram",
+    "prefix": ["s-presto"],
+    "body": ["<$$presto>"],
+    "description": "presto logo sprite"
+  },
+
+  "sprite prettier": {
+    "scope": "diagram",
+    "prefix": ["s-prettier"],
+    "body": ["<$$prettier>"],
+    "description": "prettier logo sprite"
+  },
+
+  "sprite prisma": {
+    "scope": "diagram",
+    "prefix": ["s-prisma"],
+    "body": ["<$$prisma>"],
+    "description": "prisma logo sprite"
+  },
+
+  "sprite processwire-icon": {
+    "scope": "diagram",
+    "prefix": ["s-processwire-icon"],
+    "body": ["<$$processwire-icon>"],
+    "description": "processwire-icon logo sprite"
+  },
+
+  "sprite processwire": {
+    "scope": "diagram",
+    "prefix": ["s-processwire"],
+    "body": ["<$$processwire>"],
+    "description": "processwire logo sprite"
+  },
+
+  "sprite productboard": {
+    "scope": "diagram",
+    "prefix": ["s-productboard"],
+    "body": ["<$$productboard>"],
+    "description": "productboard logo sprite"
+  },
+
+  "sprite producthunt": {
+    "scope": "diagram",
+    "prefix": ["s-producthunt"],
+    "body": ["<$$producthunt>"],
+    "description": "producthunt logo sprite"
+  },
+
+  "sprite progress": {
+    "scope": "diagram",
+    "prefix": ["s-progress"],
+    "body": ["<$$progress>"],
+    "description": "progress logo sprite"
+  },
+
+  "sprite prometheus": {
+    "scope": "diagram",
+    "prefix": ["s-prometheus"],
+    "body": ["<$$prometheus>"],
+    "description": "prometheus logo sprite"
+  },
+
+  "sprite promises": {
+    "scope": "diagram",
+    "prefix": ["s-promises"],
+    "body": ["<$$promises>"],
+    "description": "promises logo sprite"
+  },
+
+  "sprite proofy": {
+    "scope": "diagram",
+    "prefix": ["s-proofy"],
+    "body": ["<$$proofy>"],
+    "description": "proofy logo sprite"
+  },
+
+  "sprite prospect": {
+    "scope": "diagram",
+    "prefix": ["s-prospect"],
+    "body": ["<$$prospect>"],
+    "description": "prospect logo sprite"
+  },
+
+  "sprite protactor": {
+    "scope": "diagram",
+    "prefix": ["s-protactor"],
+    "body": ["<$$protactor>"],
+    "description": "protactor logo sprite"
+  },
+
+  "sprite protoio": {
+    "scope": "diagram",
+    "prefix": ["s-protoio"],
+    "body": ["<$$protoio>"],
+    "description": "protoio logo sprite"
+  },
+
+  "sprite protonet": {
+    "scope": "diagram",
+    "prefix": ["s-protonet"],
+    "body": ["<$$protonet>"],
+    "description": "protonet logo sprite"
+  },
+
+  "sprite prott": {
+    "scope": "diagram",
+    "prefix": ["s-prott"],
+    "body": ["<$$prott>"],
+    "description": "prott logo sprite"
+  },
+
+  "sprite pug": {
+    "scope": "diagram",
+    "prefix": ["s-pug"],
+    "body": ["<$$pug>"],
+    "description": "pug logo sprite"
+  },
+
+  "sprite pumpkindb": {
+    "scope": "diagram",
+    "prefix": ["s-pumpkindb"],
+    "body": ["<$$pumpkindb>"],
+    "description": "pumpkindb logo sprite"
+  },
+
+  "sprite puppet-icon": {
+    "scope": "diagram",
+    "prefix": ["s-puppet-icon"],
+    "body": ["<$$puppet-icon>"],
+    "description": "puppet-icon logo sprite"
+  },
+
+  "sprite puppet": {
+    "scope": "diagram",
+    "prefix": ["s-puppet"],
+    "body": ["<$$puppet>"],
+    "description": "puppet logo sprite"
+  },
+
+  "sprite puppeteer": {
+    "scope": "diagram",
+    "prefix": ["s-puppeteer"],
+    "body": ["<$$puppeteer>"],
+    "description": "puppeteer logo sprite"
+  },
+
+  "sprite puppy-linux": {
+    "scope": "diagram",
+    "prefix": ["s-puppy-linux"],
+    "body": ["<$$puppy-linux>"],
+    "description": "puppy-linux logo sprite"
+  },
+
+  "sprite pushbullet": {
+    "scope": "diagram",
+    "prefix": ["s-pushbullet"],
+    "body": ["<$$pushbullet>"],
+    "description": "pushbullet logo sprite"
+  },
+
+  "sprite pusher": {
+    "scope": "diagram",
+    "prefix": ["s-pusher"],
+    "body": ["<$$pusher>"],
+    "description": "pusher logo sprite"
+  },
+
+  "sprite pycharm": {
+    "scope": "diagram",
+    "prefix": ["s-pycharm"],
+    "body": ["<$$pycharm>"],
+    "description": "pycharm logo sprite"
+  },
+
+  "sprite python": {
+    "scope": "diagram",
+    "prefix": ["s-python"],
+    "body": ["<$$python>"],
+    "description": "python logo sprite"
+  },
+
+  "sprite pytorch": {
+    "scope": "diagram",
+    "prefix": ["s-pytorch"],
+    "body": ["<$$pytorch>"],
+    "description": "pytorch logo sprite"
+  },
+
+  "sprite pyup": {
+    "scope": "diagram",
+    "prefix": ["s-pyup"],
+    "body": ["<$$pyup>"],
+    "description": "pyup logo sprite"
+  },
+
+  "sprite q": {
+    "scope": "diagram",
+    "prefix": ["s-q"],
+    "body": ["<$$q>"],
+    "description": "q logo sprite"
+  },
+
+  "sprite qordoba": {
+    "scope": "diagram",
+    "prefix": ["s-qordoba"],
+    "body": ["<$$qordoba>"],
+    "description": "qordoba logo sprite"
+  },
+
+  "sprite qt": {
+    "scope": "diagram",
+    "prefix": ["s-qt"],
+    "body": ["<$$qt>"],
+    "description": "qt logo sprite"
+  },
+
+  "sprite quay": {
+    "scope": "diagram",
+    "prefix": ["s-quay"],
+    "body": ["<$$quay>"],
+    "description": "quay logo sprite"
+  },
+
+  "sprite quobyte": {
+    "scope": "diagram",
+    "prefix": ["s-quobyte"],
+    "body": ["<$$quobyte>"],
+    "description": "quobyte logo sprite"
+  },
+
+  "sprite quora": {
+    "scope": "diagram",
+    "prefix": ["s-quora"],
+    "body": ["<$$quora>"],
+    "description": "quora logo sprite"
+  },
+
+  "sprite r-lang": {
+    "scope": "diagram",
+    "prefix": ["s-r-lang"],
+    "body": ["<$$r-lang>"],
+    "description": "r-lang logo sprite"
+  },
+
+  "sprite rabbitmq": {
+    "scope": "diagram",
+    "prefix": ["s-rabbitmq"],
+    "body": ["<$$rabbitmq>"],
+    "description": "rabbitmq logo sprite"
+  },
+
+  "sprite rackspace": {
+    "scope": "diagram",
+    "prefix": ["s-rackspace"],
+    "body": ["<$$rackspace>"],
+    "description": "rackspace logo sprite"
+  },
+
+  "sprite rails": {
+    "scope": "diagram",
+    "prefix": ["s-rails"],
+    "body": ["<$$rails>"],
+    "description": "rails logo sprite"
+  },
+
+  "sprite ramda": {
+    "scope": "diagram",
+    "prefix": ["s-ramda"],
+    "body": ["<$$ramda>"],
+    "description": "ramda logo sprite"
+  },
+
+  "sprite raml": {
+    "scope": "diagram",
+    "prefix": ["s-raml"],
+    "body": ["<$$raml>"],
+    "description": "raml logo sprite"
+  },
+
+  "sprite rancher": {
+    "scope": "diagram",
+    "prefix": ["s-rancher"],
+    "body": ["<$$rancher>"],
+    "description": "rancher logo sprite"
+  },
+
+  "sprite raphael": {
+    "scope": "diagram",
+    "prefix": ["s-raphael"],
+    "body": ["<$$raphael>"],
+    "description": "raphael logo sprite"
+  },
+
+  "sprite raspberry-pi": {
+    "scope": "diagram",
+    "prefix": ["s-raspberry-pi"],
+    "body": ["<$$raspberry-pi>"],
+    "description": "raspberry-pi logo sprite"
+  },
+
+  "sprite rax": {
+    "scope": "diagram",
+    "prefix": ["s-rax"],
+    "body": ["<$$rax>"],
+    "description": "rax logo sprite"
+  },
+
+  "sprite react-router": {
+    "scope": "diagram",
+    "prefix": ["s-react-router"],
+    "body": ["<$$react-router>"],
+    "description": "react-router logo sprite"
+  },
+
+  "sprite react-styleguidist": {
+    "scope": "diagram",
+    "prefix": ["s-react-styleguidist"],
+    "body": ["<$$react-styleguidist>"],
+    "description": "react-styleguidist logo sprite"
+  },
+
+  "sprite react": {
+    "scope": "diagram",
+    "prefix": ["s-react"],
+    "body": ["<$$react>"],
+    "description": "react logo sprite"
+  },
+
+  "sprite reactivex": {
+    "scope": "diagram",
+    "prefix": ["s-reactivex"],
+    "body": ["<$$reactivex>"],
+    "description": "reactivex logo sprite"
+  },
+
+  "sprite realm": {
+    "scope": "diagram",
+    "prefix": ["s-realm"],
+    "body": ["<$$realm>"],
+    "description": "realm logo sprite"
+  },
+
+  "sprite reapp": {
+    "scope": "diagram",
+    "prefix": ["s-reapp"],
+    "body": ["<$$reapp>"],
+    "description": "reapp logo sprite"
+  },
+
+  "sprite reasonml-icon": {
+    "scope": "diagram",
+    "prefix": ["s-reasonml-icon"],
+    "body": ["<$$reasonml-icon>"],
+    "description": "reasonml-icon logo sprite"
+  },
+
+  "sprite reasonml": {
+    "scope": "diagram",
+    "prefix": ["s-reasonml"],
+    "body": ["<$$reasonml>"],
+    "description": "reasonml logo sprite"
+  },
+
+  "sprite recast": {
+    "scope": "diagram",
+    "prefix": ["s-recast"],
+    "body": ["<$$recast>"],
+    "description": "recast logo sprite"
+  },
+
+  "sprite reddit-icon": {
+    "scope": "diagram",
+    "prefix": ["s-reddit-icon"],
+    "body": ["<$$reddit-icon>"],
+    "description": "reddit-icon logo sprite"
+  },
+
+  "sprite reddit": {
+    "scope": "diagram",
+    "prefix": ["s-reddit"],
+    "body": ["<$$reddit>"],
+    "description": "reddit logo sprite"
+  },
+
+  "sprite redhat": {
+    "scope": "diagram",
+    "prefix": ["s-redhat"],
+    "body": ["<$$redhat>"],
+    "description": "redhat logo sprite"
+  },
+
+  "sprite redis": {
+    "scope": "diagram",
+    "prefix": ["s-redis"],
+    "body": ["<$$redis>"],
+    "description": "redis logo sprite"
+  },
+
+  "sprite redsmin": {
+    "scope": "diagram",
+    "prefix": ["s-redsmin"],
+    "body": ["<$$redsmin>"],
+    "description": "redsmin logo sprite"
+  },
+
+  "sprite redspread": {
+    "scope": "diagram",
+    "prefix": ["s-redspread"],
+    "body": ["<$$redspread>"],
+    "description": "redspread logo sprite"
+  },
+
+  "sprite redux-observable": {
+    "scope": "diagram",
+    "prefix": ["s-redux-observable"],
+    "body": ["<$$redux-observable>"],
+    "description": "redux-observable logo sprite"
+  },
+
+  "sprite redux-saga": {
+    "scope": "diagram",
+    "prefix": ["s-redux-saga"],
+    "body": ["<$$redux-saga>"],
+    "description": "redux-saga logo sprite"
+  },
+
+  "sprite redux": {
+    "scope": "diagram",
+    "prefix": ["s-redux"],
+    "body": ["<$$redux>"],
+    "description": "redux logo sprite"
+  },
+
+  "sprite refactor": {
+    "scope": "diagram",
+    "prefix": ["s-refactor"],
+    "body": ["<$$refactor>"],
+    "description": "refactor logo sprite"
+  },
+
+  "sprite reindex": {
+    "scope": "diagram",
+    "prefix": ["s-reindex"],
+    "body": ["<$$reindex>"],
+    "description": "reindex logo sprite"
+  },
+
+  "sprite relay": {
+    "scope": "diagram",
+    "prefix": ["s-relay"],
+    "body": ["<$$relay>"],
+    "description": "relay logo sprite"
+  },
+
+  "sprite remergr": {
+    "scope": "diagram",
+    "prefix": ["s-remergr"],
+    "body": ["<$$remergr>"],
+    "description": "remergr logo sprite"
+  },
+
+  "sprite require": {
+    "scope": "diagram",
+    "prefix": ["s-require"],
+    "body": ["<$$require>"],
+    "description": "require logo sprite"
+  },
+
+  "sprite rest-li": {
+    "scope": "diagram",
+    "prefix": ["s-rest-li"],
+    "body": ["<$$rest-li>"],
+    "description": "rest-li logo sprite"
+  },
+
+  "sprite rest": {
+    "scope": "diagram",
+    "prefix": ["s-rest"],
+    "body": ["<$$rest>"],
+    "description": "rest logo sprite"
+  },
+
+  "sprite rethinkdb": {
+    "scope": "diagram",
+    "prefix": ["s-rethinkdb"],
+    "body": ["<$$rethinkdb>"],
+    "description": "rethinkdb logo sprite"
+  },
+
+  "sprite riak": {
+    "scope": "diagram",
+    "prefix": ["s-riak"],
+    "body": ["<$$riak>"],
+    "description": "riak logo sprite"
+  },
+
+  "sprite riot": {
+    "scope": "diagram",
+    "prefix": ["s-riot"],
+    "body": ["<$$riot>"],
+    "description": "riot logo sprite"
+  },
+
+  "sprite rkt": {
+    "scope": "diagram",
+    "prefix": ["s-rkt"],
+    "body": ["<$$rkt>"],
+    "description": "rkt logo sprite"
+  },
+
+  "sprite rocket-chat": {
+    "scope": "diagram",
+    "prefix": ["s-rocket-chat"],
+    "body": ["<$$rocket-chat>"],
+    "description": "rocket-chat logo sprite"
+  },
+
+  "sprite rocksdb": {
+    "scope": "diagram",
+    "prefix": ["s-rocksdb"],
+    "body": ["<$$rocksdb>"],
+    "description": "rocksdb logo sprite"
+  },
+
+  "sprite rollbar": {
+    "scope": "diagram",
+    "prefix": ["s-rollbar"],
+    "body": ["<$$rollbar>"],
+    "description": "rollbar logo sprite"
+  },
+
+  "sprite rollup": {
+    "scope": "diagram",
+    "prefix": ["s-rollup"],
+    "body": ["<$$rollup>"],
+    "description": "rollup logo sprite"
+  },
+
+  "sprite rollupjs": {
+    "scope": "diagram",
+    "prefix": ["s-rollupjs"],
+    "body": ["<$$rollupjs>"],
+    "description": "rollupjs logo sprite"
+  },
+
+  "sprite rsa": {
+    "scope": "diagram",
+    "prefix": ["s-rsa"],
+    "body": ["<$$rsa>"],
+    "description": "rsa logo sprite"
+  },
+
+  "sprite rsmq": {
+    "scope": "diagram",
+    "prefix": ["s-rsmq"],
+    "body": ["<$$rsmq>"],
+    "description": "rsmq logo sprite"
+  },
+
+  "sprite rubocop": {
+    "scope": "diagram",
+    "prefix": ["s-rubocop"],
+    "body": ["<$$rubocop>"],
+    "description": "rubocop logo sprite"
+  },
+
+  "sprite ruby": {
+    "scope": "diagram",
+    "prefix": ["s-ruby"],
+    "body": ["<$$ruby>"],
+    "description": "ruby logo sprite"
+  },
+
+  "sprite rubygems": {
+    "scope": "diagram",
+    "prefix": ["s-rubygems"],
+    "body": ["<$$rubygems>"],
+    "description": "rubygems logo sprite"
+  },
+
+  "sprite rubymine": {
+    "scope": "diagram",
+    "prefix": ["s-rubymine"],
+    "body": ["<$$rubymine>"],
+    "description": "rubymine logo sprite"
+  },
+
+  "sprite rum": {
+    "scope": "diagram",
+    "prefix": ["s-rum"],
+    "body": ["<$$rum>"],
+    "description": "rum logo sprite"
+  },
+
+  "sprite run-above": {
+    "scope": "diagram",
+    "prefix": ["s-run-above"],
+    "body": ["<$$run-above>"],
+    "description": "run-above logo sprite"
+  },
+
+  "sprite runnable": {
+    "scope": "diagram",
+    "prefix": ["s-runnable"],
+    "body": ["<$$runnable>"],
+    "description": "runnable logo sprite"
+  },
+
+  "sprite runscope": {
+    "scope": "diagram",
+    "prefix": ["s-runscope"],
+    "body": ["<$$runscope>"],
+    "description": "runscope logo sprite"
+  },
+
+  "sprite rust": {
+    "scope": "diagram",
+    "prefix": ["s-rust"],
+    "body": ["<$$rust>"],
+    "description": "rust logo sprite"
+  },
+
+  "sprite rxdb": {
+    "scope": "diagram",
+    "prefix": ["s-rxdb"],
+    "body": ["<$$rxdb>"],
+    "description": "rxdb logo sprite"
+  },
+
+  "sprite safari": {
+    "scope": "diagram",
+    "prefix": ["s-safari"],
+    "body": ["<$$safari>"],
+    "description": "safari logo sprite"
+  },
+
+  "sprite sagui": {
+    "scope": "diagram",
+    "prefix": ["s-sagui"],
+    "body": ["<$$sagui>"],
+    "description": "sagui logo sprite"
+  },
+
+  "sprite sails": {
+    "scope": "diagram",
+    "prefix": ["s-sails"],
+    "body": ["<$$sails>"],
+    "description": "sails logo sprite"
+  },
+
+  "sprite salesforce": {
+    "scope": "diagram",
+    "prefix": ["s-salesforce"],
+    "body": ["<$$salesforce>"],
+    "description": "salesforce logo sprite"
+  },
+
+  "sprite saltstack": {
+    "scope": "diagram",
+    "prefix": ["s-saltstack"],
+    "body": ["<$$saltstack>"],
+    "description": "saltstack logo sprite"
+  },
+
+  "sprite sameroom": {
+    "scope": "diagram",
+    "prefix": ["s-sameroom"],
+    "body": ["<$$sameroom>"],
+    "description": "sameroom logo sprite"
+  },
+
+  "sprite sanity": {
+    "scope": "diagram",
+    "prefix": ["s-sanity"],
+    "body": ["<$$sanity>"],
+    "description": "sanity logo sprite"
+  },
+
+  "sprite sass-doc": {
+    "scope": "diagram",
+    "prefix": ["s-sass-doc"],
+    "body": ["<$$sass-doc>"],
+    "description": "sass-doc logo sprite"
+  },
+
+  "sprite sass": {
+    "scope": "diagram",
+    "prefix": ["s-sass"],
+    "body": ["<$$sass>"],
+    "description": "sass logo sprite"
+  },
+
+  "sprite saucelabs": {
+    "scope": "diagram",
+    "prefix": ["s-saucelabs"],
+    "body": ["<$$saucelabs>"],
+    "description": "saucelabs logo sprite"
+  },
+
+  "sprite scala": {
+    "scope": "diagram",
+    "prefix": ["s-scala"],
+    "body": ["<$$scala>"],
+    "description": "scala logo sprite"
+  },
+
+  "sprite scaledrone": {
+    "scope": "diagram",
+    "prefix": ["s-scaledrone"],
+    "body": ["<$$scaledrone>"],
+    "description": "scaledrone logo sprite"
+  },
+
+  "sprite scaphold": {
+    "scope": "diagram",
+    "prefix": ["s-scaphold"],
+    "body": ["<$$scaphold>"],
+    "description": "scaphold logo sprite"
+  },
+
+  "sprite scribd": {
+    "scope": "diagram",
+    "prefix": ["s-scribd"],
+    "body": ["<$$scribd>"],
+    "description": "scribd logo sprite"
+  },
+
+  "sprite sectionio": {
+    "scope": "diagram",
+    "prefix": ["s-sectionio"],
+    "body": ["<$$sectionio>"],
+    "description": "sectionio logo sprite"
+  },
+
+  "sprite segment": {
+    "scope": "diagram",
+    "prefix": ["s-segment"],
+    "body": ["<$$segment>"],
+    "description": "segment logo sprite"
+  },
+
+  "sprite selenium": {
+    "scope": "diagram",
+    "prefix": ["s-selenium"],
+    "body": ["<$$selenium>"],
+    "description": "selenium logo sprite"
+  },
+
+  "sprite semantic-ui": {
+    "scope": "diagram",
+    "prefix": ["s-semantic-ui"],
+    "body": ["<$$semantic-ui>"],
+    "description": "semantic-ui logo sprite"
+  },
+
+  "sprite semantic-web": {
+    "scope": "diagram",
+    "prefix": ["s-semantic-web"],
+    "body": ["<$$semantic-web>"],
+    "description": "semantic-web logo sprite"
+  },
+
+  "sprite semaphore": {
+    "scope": "diagram",
+    "prefix": ["s-semaphore"],
+    "body": ["<$$semaphore>"],
+    "description": "semaphore logo sprite"
+  },
+
+  "sprite sencha": {
+    "scope": "diagram",
+    "prefix": ["s-sencha"],
+    "body": ["<$$sencha>"],
+    "description": "sencha logo sprite"
+  },
+
+  "sprite sendgrid": {
+    "scope": "diagram",
+    "prefix": ["s-sendgrid"],
+    "body": ["<$$sendgrid>"],
+    "description": "sendgrid logo sprite"
+  },
+
+  "sprite seneca": {
+    "scope": "diagram",
+    "prefix": ["s-seneca"],
+    "body": ["<$$seneca>"],
+    "description": "seneca logo sprite"
+  },
+
+  "sprite sensu": {
+    "scope": "diagram",
+    "prefix": ["s-sensu"],
+    "body": ["<$$sensu>"],
+    "description": "sensu logo sprite"
+  },
+
+  "sprite sentry": {
+    "scope": "diagram",
+    "prefix": ["s-sentry"],
+    "body": ["<$$sentry>"],
+    "description": "sentry logo sprite"
+  },
+
+  "sprite sequelize": {
+    "scope": "diagram",
+    "prefix": ["s-sequelize"],
+    "body": ["<$$sequelize>"],
+    "description": "sequelize logo sprite"
+  },
+
+  "sprite serveless": {
+    "scope": "diagram",
+    "prefix": ["s-serveless"],
+    "body": ["<$$serveless>"],
+    "description": "serveless logo sprite"
+  },
+
+  "sprite serverless": {
+    "scope": "diagram",
+    "prefix": ["s-serverless"],
+    "body": ["<$$serverless>"],
+    "description": "serverless logo sprite"
+  },
+
+  "sprite sherlock": {
+    "scope": "diagram",
+    "prefix": ["s-sherlock"],
+    "body": ["<$$sherlock>"],
+    "description": "sherlock logo sprite"
+  },
+
+  "sprite shields": {
+    "scope": "diagram",
+    "prefix": ["s-shields"],
+    "body": ["<$$shields>"],
+    "description": "shields logo sprite"
+  },
+
+  "sprite shipit": {
+    "scope": "diagram",
+    "prefix": ["s-shipit"],
+    "body": ["<$$shipit>"],
+    "description": "shipit logo sprite"
+  },
+
+  "sprite shippable": {
+    "scope": "diagram",
+    "prefix": ["s-shippable"],
+    "body": ["<$$shippable>"],
+    "description": "shippable logo sprite"
+  },
+
+  "sprite shogun": {
+    "scope": "diagram",
+    "prefix": ["s-shogun"],
+    "body": ["<$$shogun>"],
+    "description": "shogun logo sprite"
+  },
+
+  "sprite shopify": {
+    "scope": "diagram",
+    "prefix": ["s-shopify"],
+    "body": ["<$$shopify>"],
+    "description": "shopify logo sprite"
+  },
+
+  "sprite sidekick": {
+    "scope": "diagram",
+    "prefix": ["s-sidekick"],
+    "body": ["<$$sidekick>"],
+    "description": "sidekick logo sprite"
+  },
+
+  "sprite sidekiq": {
+    "scope": "diagram",
+    "prefix": ["s-sidekiq"],
+    "body": ["<$$sidekiq>"],
+    "description": "sidekiq logo sprite"
+  },
+
+  "sprite signal": {
+    "scope": "diagram",
+    "prefix": ["s-signal"],
+    "body": ["<$$signal>"],
+    "description": "signal logo sprite"
+  },
+
+  "sprite sinatra": {
+    "scope": "diagram",
+    "prefix": ["s-sinatra"],
+    "body": ["<$$sinatra>"],
+    "description": "sinatra logo sprite"
+  },
+
+  "sprite siphon": {
+    "scope": "diagram",
+    "prefix": ["s-siphon"],
+    "body": ["<$$siphon>"],
+    "description": "siphon logo sprite"
+  },
+
+  "sprite sitepoint": {
+    "scope": "diagram",
+    "prefix": ["s-sitepoint"],
+    "body": ["<$$sitepoint>"],
+    "description": "sitepoint logo sprite"
+  },
+
+  "sprite sketch": {
+    "scope": "diagram",
+    "prefix": ["s-sketch"],
+    "body": ["<$$sketch>"],
+    "description": "sketch logo sprite"
+  },
+
+  "sprite sketchapp": {
+    "scope": "diagram",
+    "prefix": ["s-sketchapp"],
+    "body": ["<$$sketchapp>"],
+    "description": "sketchapp logo sprite"
+  },
+
+  "sprite skylight": {
+    "scope": "diagram",
+    "prefix": ["s-skylight"],
+    "body": ["<$$skylight>"],
+    "description": "skylight logo sprite"
+  },
+
+  "sprite skype": {
+    "scope": "diagram",
+    "prefix": ["s-skype"],
+    "body": ["<$$skype>"],
+    "description": "skype logo sprite"
+  },
+
+  "sprite slack-icon": {
+    "scope": "diagram",
+    "prefix": ["s-slack-icon"],
+    "body": ["<$$slack-icon>"],
+    "description": "slack-icon logo sprite"
+  },
+
+  "sprite slack": {
+    "scope": "diagram",
+    "prefix": ["s-slack"],
+    "body": ["<$$slack>"],
+    "description": "slack logo sprite"
+  },
+
+  "sprite slides": {
+    "scope": "diagram",
+    "prefix": ["s-slides"],
+    "body": ["<$$slides>"],
+    "description": "slides logo sprite"
+  },
+
+  "sprite slim": {
+    "scope": "diagram",
+    "prefix": ["s-slim"],
+    "body": ["<$$slim>"],
+    "description": "slim logo sprite"
+  },
+
+  "sprite smartling": {
+    "scope": "diagram",
+    "prefix": ["s-smartling"],
+    "body": ["<$$smartling>"],
+    "description": "smartling logo sprite"
+  },
+
+  "sprite smashingmagazine": {
+    "scope": "diagram",
+    "prefix": ["s-smashingmagazine"],
+    "body": ["<$$smashingmagazine>"],
+    "description": "smashingmagazine logo sprite"
+  },
+
+  "sprite snap-svg": {
+    "scope": "diagram",
+    "prefix": ["s-snap-svg"],
+    "body": ["<$$snap-svg>"],
+    "description": "snap-svg logo sprite"
+  },
+
+  "sprite sninnaker": {
+    "scope": "diagram",
+    "prefix": ["s-sninnaker"],
+    "body": ["<$$sninnaker>"],
+    "description": "sninnaker logo sprite"
+  },
+
+  "sprite snupps": {
+    "scope": "diagram",
+    "prefix": ["s-snupps"],
+    "body": ["<$$snupps>"],
+    "description": "snupps logo sprite"
+  },
+
+  "sprite snyk": {
+    "scope": "diagram",
+    "prefix": ["s-snyk"],
+    "body": ["<$$snyk>"],
+    "description": "snyk logo sprite"
+  },
+
+  "sprite socket": {
+    "scope": "diagram",
+    "prefix": ["s-socket"],
+    "body": ["<$$socket>"],
+    "description": "socket logo sprite"
+  },
+
+  "sprite solid": {
+    "scope": "diagram",
+    "prefix": ["s-solid"],
+    "body": ["<$$solid>"],
+    "description": "solid logo sprite"
+  },
+
+  "sprite solr": {
+    "scope": "diagram",
+    "prefix": ["s-solr"],
+    "body": ["<$$solr>"],
+    "description": "solr logo sprite"
+  },
+
+  "sprite sonarqube": {
+    "scope": "diagram",
+    "prefix": ["s-sonarqube"],
+    "body": ["<$$sonarqube>"],
+    "description": "sonarqube logo sprite"
+  },
+
+  "sprite soundcloud": {
+    "scope": "diagram",
+    "prefix": ["s-soundcloud"],
+    "body": ["<$$soundcloud>"],
+    "description": "soundcloud logo sprite"
+  },
+
+  "sprite sourcegraph": {
+    "scope": "diagram",
+    "prefix": ["s-sourcegraph"],
+    "body": ["<$$sourcegraph>"],
+    "description": "sourcegraph logo sprite"
+  },
+
+  "sprite sourcetrail": {
+    "scope": "diagram",
+    "prefix": ["s-sourcetrail"],
+    "body": ["<$$sourcetrail>"],
+    "description": "sourcetrail logo sprite"
+  },
+
+  "sprite sourcetree": {
+    "scope": "diagram",
+    "prefix": ["s-sourcetree"],
+    "body": ["<$$sourcetree>"],
+    "description": "sourcetree logo sprite"
+  },
+
+  "sprite spark": {
+    "scope": "diagram",
+    "prefix": ["s-spark"],
+    "body": ["<$$spark>"],
+    "description": "spark logo sprite"
+  },
+
+  "sprite sparkcentral": {
+    "scope": "diagram",
+    "prefix": ["s-sparkcentral"],
+    "body": ["<$$sparkcentral>"],
+    "description": "sparkcentral logo sprite"
+  },
+
+  "sprite sparkpost": {
+    "scope": "diagram",
+    "prefix": ["s-sparkpost"],
+    "body": ["<$$sparkpost>"],
+    "description": "sparkpost logo sprite"
+  },
+
+  "sprite speakerdeck": {
+    "scope": "diagram",
+    "prefix": ["s-speakerdeck"],
+    "body": ["<$$speakerdeck>"],
+    "description": "speakerdeck logo sprite"
+  },
+
+  "sprite speedcurve": {
+    "scope": "diagram",
+    "prefix": ["s-speedcurve"],
+    "body": ["<$$speedcurve>"],
+    "description": "speedcurve logo sprite"
+  },
+
+  "sprite spinnaker": {
+    "scope": "diagram",
+    "prefix": ["s-spinnaker"],
+    "body": ["<$$spinnaker>"],
+    "description": "spinnaker logo sprite"
+  },
+
+  "sprite spree": {
+    "scope": "diagram",
+    "prefix": ["s-spree"],
+    "body": ["<$$spree>"],
+    "description": "spree logo sprite"
+  },
+
+  "sprite spring": {
+    "scope": "diagram",
+    "prefix": ["s-spring"],
+    "body": ["<$$spring>"],
+    "description": "spring logo sprite"
+  },
+
+  "sprite sqldep": {
+    "scope": "diagram",
+    "prefix": ["s-sqldep"],
+    "body": ["<$$sqldep>"],
+    "description": "sqldep logo sprite"
+  },
+
+  "sprite sqlite": {
+    "scope": "diagram",
+    "prefix": ["s-sqlite"],
+    "body": ["<$$sqlite>"],
+    "description": "sqlite logo sprite"
+  },
+
+  "sprite square": {
+    "scope": "diagram",
+    "prefix": ["s-square"],
+    "body": ["<$$square>"],
+    "description": "square logo sprite"
+  },
+
+  "sprite squarespace": {
+    "scope": "diagram",
+    "prefix": ["s-squarespace"],
+    "body": ["<$$squarespace>"],
+    "description": "squarespace logo sprite"
+  },
+
+  "sprite stackoverflow-icon": {
+    "scope": "diagram",
+    "prefix": ["s-stackoverflow-icon"],
+    "body": ["<$$stackoverflow-icon>"],
+    "description": "stackoverflow-icon logo sprite"
+  },
+
+  "sprite stackoverflow": {
+    "scope": "diagram",
+    "prefix": ["s-stackoverflow"],
+    "body": ["<$$stackoverflow>"],
+    "description": "stackoverflow logo sprite"
+  },
+
+  "sprite stackshare": {
+    "scope": "diagram",
+    "prefix": ["s-stackshare"],
+    "body": ["<$$stackshare>"],
+    "description": "stackshare logo sprite"
+  },
+
+  "sprite stacksmith": {
+    "scope": "diagram",
+    "prefix": ["s-stacksmith"],
+    "body": ["<$$stacksmith>"],
+    "description": "stacksmith logo sprite"
+  },
+
+  "sprite statuspage": {
+    "scope": "diagram",
+    "prefix": ["s-statuspage"],
+    "body": ["<$$statuspage>"],
+    "description": "statuspage logo sprite"
+  },
+
+  "sprite steam": {
+    "scope": "diagram",
+    "prefix": ["s-steam"],
+    "body": ["<$$steam>"],
+    "description": "steam logo sprite"
+  },
+
+  "sprite steroids": {
+    "scope": "diagram",
+    "prefix": ["s-steroids"],
+    "body": ["<$$steroids>"],
+    "description": "steroids logo sprite"
+  },
+
+  "sprite stetho": {
+    "scope": "diagram",
+    "prefix": ["s-stetho"],
+    "body": ["<$$stetho>"],
+    "description": "stetho logo sprite"
+  },
+
+  "sprite stickermule": {
+    "scope": "diagram",
+    "prefix": ["s-stickermule"],
+    "body": ["<$$stickermule>"],
+    "description": "stickermule logo sprite"
+  },
+
+  "sprite stitch": {
+    "scope": "diagram",
+    "prefix": ["s-stitch"],
+    "body": ["<$$stitch>"],
+    "description": "stitch logo sprite"
+  },
+
+  "sprite stoplight": {
+    "scope": "diagram",
+    "prefix": ["s-stoplight"],
+    "body": ["<$$stoplight>"],
+    "description": "stoplight logo sprite"
+  },
+
+  "sprite stormpath": {
+    "scope": "diagram",
+    "prefix": ["s-stormpath"],
+    "body": ["<$$stormpath>"],
+    "description": "stormpath logo sprite"
+  },
+
+  "sprite storybook-icon": {
+    "scope": "diagram",
+    "prefix": ["s-storybook-icon"],
+    "body": ["<$$storybook-icon>"],
+    "description": "storybook-icon logo sprite"
+  },
+
+  "sprite storybook": {
+    "scope": "diagram",
+    "prefix": ["s-storybook"],
+    "body": ["<$$storybook>"],
+    "description": "storybook logo sprite"
+  },
+
+  "sprite strapi": {
+    "scope": "diagram",
+    "prefix": ["s-strapi"],
+    "body": ["<$$strapi>"],
+    "description": "strapi logo sprite"
+  },
+
+  "sprite strider": {
+    "scope": "diagram",
+    "prefix": ["s-strider"],
+    "body": ["<$$strider>"],
+    "description": "strider logo sprite"
+  },
+
+  "sprite stripe": {
+    "scope": "diagram",
+    "prefix": ["s-stripe"],
+    "body": ["<$$stripe>"],
+    "description": "stripe logo sprite"
+  },
+
+  "sprite struts": {
+    "scope": "diagram",
+    "prefix": ["s-struts"],
+    "body": ["<$$struts>"],
+    "description": "struts logo sprite"
+  },
+
+  "sprite styleci": {
+    "scope": "diagram",
+    "prefix": ["s-styleci"],
+    "body": ["<$$styleci>"],
+    "description": "styleci logo sprite"
+  },
+
+  "sprite stylefmt": {
+    "scope": "diagram",
+    "prefix": ["s-stylefmt"],
+    "body": ["<$$stylefmt>"],
+    "description": "stylefmt logo sprite"
+  },
+
+  "sprite stylelint": {
+    "scope": "diagram",
+    "prefix": ["s-stylelint"],
+    "body": ["<$$stylelint>"],
+    "description": "stylelint logo sprite"
+  },
+
+  "sprite stylus": {
+    "scope": "diagram",
+    "prefix": ["s-stylus"],
+    "body": ["<$$stylus>"],
+    "description": "stylus logo sprite"
+  },
+
+  "sprite subversion": {
+    "scope": "diagram",
+    "prefix": ["s-subversion"],
+    "body": ["<$$subversion>"],
+    "description": "subversion logo sprite"
+  },
+
+  "sprite sugarss": {
+    "scope": "diagram",
+    "prefix": ["s-sugarss"],
+    "body": ["<$$sugarss>"],
+    "description": "sugarss logo sprite"
+  },
+
+  "sprite supergiant": {
+    "scope": "diagram",
+    "prefix": ["s-supergiant"],
+    "body": ["<$$supergiant>"],
+    "description": "supergiant logo sprite"
+  },
+
+  "sprite supersonic": {
+    "scope": "diagram",
+    "prefix": ["s-supersonic"],
+    "body": ["<$$supersonic>"],
+    "description": "supersonic logo sprite"
+  },
+
+  "sprite supportkit": {
+    "scope": "diagram",
+    "prefix": ["s-supportkit"],
+    "body": ["<$$supportkit>"],
+    "description": "supportkit logo sprite"
+  },
+
+  "sprite surge": {
+    "scope": "diagram",
+    "prefix": ["s-surge"],
+    "body": ["<$$surge>"],
+    "description": "surge logo sprite"
+  },
+
+  "sprite survicate": {
+    "scope": "diagram",
+    "prefix": ["s-survicate"],
+    "body": ["<$$survicate>"],
+    "description": "survicate logo sprite"
+  },
+
+  "sprite suse": {
+    "scope": "diagram",
+    "prefix": ["s-suse"],
+    "body": ["<$$suse>"],
+    "description": "suse logo sprite"
+  },
+
+  "sprite susy": {
+    "scope": "diagram",
+    "prefix": ["s-susy"],
+    "body": ["<$$susy>"],
+    "description": "susy logo sprite"
+  },
+
+  "sprite svelte-icon": {
+    "scope": "diagram",
+    "prefix": ["s-svelte-icon"],
+    "body": ["<$$svelte-icon>"],
+    "description": "svelte-icon logo sprite"
+  },
+
+  "sprite svelte": {
+    "scope": "diagram",
+    "prefix": ["s-svelte"],
+    "body": ["<$$svelte>"],
+    "description": "svelte logo sprite"
+  },
+
+  "sprite svg": {
+    "scope": "diagram",
+    "prefix": ["s-svg"],
+    "body": ["<$$svg>"],
+    "description": "svg logo sprite"
+  },
+
+  "sprite swagger": {
+    "scope": "diagram",
+    "prefix": ["s-swagger"],
+    "body": ["<$$swagger>"],
+    "description": "swagger logo sprite"
+  },
+
+  "sprite swift": {
+    "scope": "diagram",
+    "prefix": ["s-swift"],
+    "body": ["<$$swift>"],
+    "description": "swift logo sprite"
+  },
+
+  "sprite swiftype": {
+    "scope": "diagram",
+    "prefix": ["s-swiftype"],
+    "body": ["<$$swiftype>"],
+    "description": "swiftype logo sprite"
+  },
+
+  "sprite symfony": {
+    "scope": "diagram",
+    "prefix": ["s-symfony"],
+    "body": ["<$$symfony>"],
+    "description": "symfony logo sprite"
+  },
+
+  "sprite sysdig": {
+    "scope": "diagram",
+    "prefix": ["s-sysdig"],
+    "body": ["<$$sysdig>"],
+    "description": "sysdig logo sprite"
+  },
+
+  "sprite t3": {
+    "scope": "diagram",
+    "prefix": ["s-t3"],
+    "body": ["<$$t3>"],
+    "description": "t3 logo sprite"
+  },
+
+  "sprite taiga": {
+    "scope": "diagram",
+    "prefix": ["s-taiga"],
+    "body": ["<$$taiga>"],
+    "description": "taiga logo sprite"
+  },
+
+  "sprite tailwindcss-icon": {
+    "scope": "diagram",
+    "prefix": ["s-tailwindcss-icon"],
+    "body": ["<$$tailwindcss-icon>"],
+    "description": "tailwindcss-icon logo sprite"
+  },
+
+  "sprite tailwindcss": {
+    "scope": "diagram",
+    "prefix": ["s-tailwindcss"],
+    "body": ["<$$tailwindcss>"],
+    "description": "tailwindcss logo sprite"
+  },
+
+  "sprite tapcart": {
+    "scope": "diagram",
+    "prefix": ["s-tapcart"],
+    "body": ["<$$tapcart>"],
+    "description": "tapcart logo sprite"
+  },
+
+  "sprite targetprocess": {
+    "scope": "diagram",
+    "prefix": ["s-targetprocess"],
+    "body": ["<$$targetprocess>"],
+    "description": "targetprocess logo sprite"
+  },
+
+  "sprite tastejs": {
+    "scope": "diagram",
+    "prefix": ["s-tastejs"],
+    "body": ["<$$tastejs>"],
+    "description": "tastejs logo sprite"
+  },
+
+  "sprite tealium": {
+    "scope": "diagram",
+    "prefix": ["s-tealium"],
+    "body": ["<$$tealium>"],
+    "description": "tealium logo sprite"
+  },
+
+  "sprite teamgrid": {
+    "scope": "diagram",
+    "prefix": ["s-teamgrid"],
+    "body": ["<$$teamgrid>"],
+    "description": "teamgrid logo sprite"
+  },
+
+  "sprite teamwork-icon": {
+    "scope": "diagram",
+    "prefix": ["s-teamwork-icon"],
+    "body": ["<$$teamwork-icon>"],
+    "description": "teamwork-icon logo sprite"
+  },
+
+  "sprite teamwork": {
+    "scope": "diagram",
+    "prefix": ["s-teamwork"],
+    "body": ["<$$teamwork>"],
+    "description": "teamwork logo sprite"
+  },
+
+  "sprite tectonic": {
+    "scope": "diagram",
+    "prefix": ["s-tectonic"],
+    "body": ["<$$tectonic>"],
+    "description": "tectonic logo sprite"
+  },
+
+  "sprite telegram": {
+    "scope": "diagram",
+    "prefix": ["s-telegram"],
+    "body": ["<$$telegram>"],
+    "description": "telegram logo sprite"
+  },
+
+  "sprite tensorflow": {
+    "scope": "diagram",
+    "prefix": ["s-tensorflow"],
+    "body": ["<$$tensorflow>"],
+    "description": "tensorflow logo sprite"
+  },
+
+  "sprite terminal": {
+    "scope": "diagram",
+    "prefix": ["s-terminal"],
+    "body": ["<$$terminal>"],
+    "description": "terminal logo sprite"
+  },
+
+  "sprite terraform": {
+    "scope": "diagram",
+    "prefix": ["s-terraform"],
+    "body": ["<$$terraform>"],
+    "description": "terraform logo sprite"
+  },
+
+  "sprite testlodge": {
+    "scope": "diagram",
+    "prefix": ["s-testlodge"],
+    "body": ["<$$testlodge>"],
+    "description": "testlodge logo sprite"
+  },
+
+  "sprite testmunk": {
+    "scope": "diagram",
+    "prefix": ["s-testmunk"],
+    "body": ["<$$testmunk>"],
+    "description": "testmunk logo sprite"
+  },
+
+  "sprite thimble": {
+    "scope": "diagram",
+    "prefix": ["s-thimble"],
+    "body": ["<$$thimble>"],
+    "description": "thimble logo sprite"
+  },
+
+  "sprite titon": {
+    "scope": "diagram",
+    "prefix": ["s-titon"],
+    "body": ["<$$titon>"],
+    "description": "titon logo sprite"
+  },
+
+  "sprite tnw": {
+    "scope": "diagram",
+    "prefix": ["s-tnw"],
+    "body": ["<$$tnw>"],
+    "description": "tnw logo sprite"
+  },
+
+  "sprite todoist-icon": {
+    "scope": "diagram",
+    "prefix": ["s-todoist-icon"],
+    "body": ["<$$todoist-icon>"],
+    "description": "todoist-icon logo sprite"
+  },
+
+  "sprite todoist": {
+    "scope": "diagram",
+    "prefix": ["s-todoist"],
+    "body": ["<$$todoist>"],
+    "description": "todoist logo sprite"
+  },
+
+  "sprite todomvc": {
+    "scope": "diagram",
+    "prefix": ["s-todomvc"],
+    "body": ["<$$todomvc>"],
+    "description": "todomvc logo sprite"
+  },
+
+  "sprite tomcat": {
+    "scope": "diagram",
+    "prefix": ["s-tomcat"],
+    "body": ["<$$tomcat>"],
+    "description": "tomcat logo sprite"
+  },
+
+  "sprite torus": {
+    "scope": "diagram",
+    "prefix": ["s-torus"],
+    "body": ["<$$torus>"],
+    "description": "torus logo sprite"
+  },
+
+  "sprite traackr": {
+    "scope": "diagram",
+    "prefix": ["s-traackr"],
+    "body": ["<$$traackr>"],
+    "description": "traackr logo sprite"
+  },
+
+  "sprite trac": {
+    "scope": "diagram",
+    "prefix": ["s-trac"],
+    "body": ["<$$trac>"],
+    "description": "trac logo sprite"
+  },
+
+  "sprite travis-ci-monochrome": {
+    "scope": "diagram",
+    "prefix": ["s-travis-ci-monochrome"],
+    "body": ["<$$travis-ci-monochrome>"],
+    "description": "travis-ci-monochrome logo sprite"
+  },
+
+  "sprite travis-ci": {
+    "scope": "diagram",
+    "prefix": ["s-travis-ci"],
+    "body": ["<$$travis-ci>"],
+    "description": "travis-ci logo sprite"
+  },
+
+  "sprite treasuredata": {
+    "scope": "diagram",
+    "prefix": ["s-treasuredata"],
+    "body": ["<$$treasuredata>"],
+    "description": "treasuredata logo sprite"
+  },
+
+  "sprite treehouse": {
+    "scope": "diagram",
+    "prefix": ["s-treehouse"],
+    "body": ["<$$treehouse>"],
+    "description": "treehouse logo sprite"
+  },
+
+  "sprite trello": {
+    "scope": "diagram",
+    "prefix": ["s-trello"],
+    "body": ["<$$trello>"],
+    "description": "trello logo sprite"
+  },
+
+  "sprite tsu": {
+    "scope": "diagram",
+    "prefix": ["s-tsu"],
+    "body": ["<$$tsu>"],
+    "description": "tsu logo sprite"
+  },
+
+  "sprite tsuru": {
+    "scope": "diagram",
+    "prefix": ["s-tsuru"],
+    "body": ["<$$tsuru>"],
+    "description": "tsuru logo sprite"
+  },
+
+  "sprite tumblr-icon": {
+    "scope": "diagram",
+    "prefix": ["s-tumblr-icon"],
+    "body": ["<$$tumblr-icon>"],
+    "description": "tumblr-icon logo sprite"
+  },
+
+  "sprite tumblr": {
+    "scope": "diagram",
+    "prefix": ["s-tumblr"],
+    "body": ["<$$tumblr>"],
+    "description": "tumblr logo sprite"
+  },
+
+  "sprite tunein": {
+    "scope": "diagram",
+    "prefix": ["s-tunein"],
+    "body": ["<$$tunein>"],
+    "description": "tunein logo sprite"
+  },
+
+  "sprite turret": {
+    "scope": "diagram",
+    "prefix": ["s-turret"],
+    "body": ["<$$turret>"],
+    "description": "turret logo sprite"
+  },
+
+  "sprite tutsplus": {
+    "scope": "diagram",
+    "prefix": ["s-tutsplus"],
+    "body": ["<$$tutsplus>"],
+    "description": "tutsplus logo sprite"
+  },
+
+  "sprite tutum": {
+    "scope": "diagram",
+    "prefix": ["s-tutum"],
+    "body": ["<$$tutum>"],
+    "description": "tutum logo sprite"
+  },
+
+  "sprite tux": {
+    "scope": "diagram",
+    "prefix": ["s-tux"],
+    "body": ["<$$tux>"],
+    "description": "tux logo sprite"
+  },
+
+  "sprite twilio": {
+    "scope": "diagram",
+    "prefix": ["s-twilio"],
+    "body": ["<$$twilio>"],
+    "description": "twilio logo sprite"
+  },
+
+  "sprite twitch": {
+    "scope": "diagram",
+    "prefix": ["s-twitch"],
+    "body": ["<$$twitch>"],
+    "description": "twitch logo sprite"
+  },
+
+  "sprite twitter": {
+    "scope": "diagram",
+    "prefix": ["s-twitter"],
+    "body": ["<$$twitter>"],
+    "description": "twitter logo sprite"
+  },
+
+  "sprite typeform-icon": {
+    "scope": "diagram",
+    "prefix": ["s-typeform-icon"],
+    "body": ["<$$typeform-icon>"],
+    "description": "typeform-icon logo sprite"
+  },
+
+  "sprite typeform": {
+    "scope": "diagram",
+    "prefix": ["s-typeform"],
+    "body": ["<$$typeform>"],
+    "description": "typeform logo sprite"
+  },
+
+  "sprite typescript-icon": {
+    "scope": "diagram",
+    "prefix": ["s-typescript-icon"],
+    "body": ["<$$typescript-icon>"],
+    "description": "typescript-icon logo sprite"
+  },
+
+  "sprite typescript": {
+    "scope": "diagram",
+    "prefix": ["s-typescript"],
+    "body": ["<$$typescript>"],
+    "description": "typescript logo sprite"
+  },
+
+  "sprite ubuntu": {
+    "scope": "diagram",
+    "prefix": ["s-ubuntu"],
+    "body": ["<$$ubuntu>"],
+    "description": "ubuntu logo sprite"
+  },
+
+  "sprite udacity": {
+    "scope": "diagram",
+    "prefix": ["s-udacity"],
+    "body": ["<$$udacity>"],
+    "description": "udacity logo sprite"
+  },
+
+  "sprite udemy": {
+    "scope": "diagram",
+    "prefix": ["s-udemy"],
+    "body": ["<$$udemy>"],
+    "description": "udemy logo sprite"
+  },
+
+  "sprite uikit": {
+    "scope": "diagram",
+    "prefix": ["s-uikit"],
+    "body": ["<$$uikit>"],
+    "description": "uikit logo sprite"
+  },
+
+  "sprite umu": {
+    "scope": "diagram",
+    "prefix": ["s-umu"],
+    "body": ["<$$umu>"],
+    "description": "umu logo sprite"
+  },
+
+  "sprite unbounce": {
+    "scope": "diagram",
+    "prefix": ["s-unbounce"],
+    "body": ["<$$unbounce>"],
+    "description": "unbounce logo sprite"
+  },
+
+  "sprite undertow": {
+    "scope": "diagram",
+    "prefix": ["s-undertow"],
+    "body": ["<$$undertow>"],
+    "description": "undertow logo sprite"
+  },
+
+  "sprite unionpay": {
+    "scope": "diagram",
+    "prefix": ["s-unionpay"],
+    "body": ["<$$unionpay>"],
+    "description": "unionpay logo sprite"
+  },
+
+  "sprite unitjs": {
+    "scope": "diagram",
+    "prefix": ["s-unitjs"],
+    "body": ["<$$unitjs>"],
+    "description": "unitjs logo sprite"
+  },
+
+  "sprite unito": {
+    "scope": "diagram",
+    "prefix": ["s-unito"],
+    "body": ["<$$unito>"],
+    "description": "unito logo sprite"
+  },
+
+  "sprite unity": {
+    "scope": "diagram",
+    "prefix": ["s-unity"],
+    "body": ["<$$unity>"],
+    "description": "unity logo sprite"
+  },
+
+  "sprite upcase": {
+    "scope": "diagram",
+    "prefix": ["s-upcase"],
+    "body": ["<$$upcase>"],
+    "description": "upcase logo sprite"
+  },
+
+  "sprite upwork": {
+    "scope": "diagram",
+    "prefix": ["s-upwork"],
+    "body": ["<$$upwork>"],
+    "description": "upwork logo sprite"
+  },
+
+  "sprite user-testing": {
+    "scope": "diagram",
+    "prefix": ["s-user-testing"],
+    "body": ["<$$user-testing>"],
+    "description": "user-testing logo sprite"
+  },
+
+  "sprite uservoice": {
+    "scope": "diagram",
+    "prefix": ["s-uservoice"],
+    "body": ["<$$uservoice>"],
+    "description": "uservoice logo sprite"
+  },
+
+  "sprite v8-ignition": {
+    "scope": "diagram",
+    "prefix": ["s-v8-ignition"],
+    "body": ["<$$v8-ignition>"],
+    "description": "v8-ignition logo sprite"
+  },
+
+  "sprite v8-turbofan": {
+    "scope": "diagram",
+    "prefix": ["s-v8-turbofan"],
+    "body": ["<$$v8-turbofan>"],
+    "description": "v8-turbofan logo sprite"
+  },
+
+  "sprite v8": {
+    "scope": "diagram",
+    "prefix": ["s-v8"],
+    "body": ["<$$v8>"],
+    "description": "v8 logo sprite"
+  },
+
+  "sprite vaadin": {
+    "scope": "diagram",
+    "prefix": ["s-vaadin"],
+    "body": ["<$$vaadin>"],
+    "description": "vaadin logo sprite"
+  },
+
+  "sprite vaddy": {
+    "scope": "diagram",
+    "prefix": ["s-vaddy"],
+    "body": ["<$$vaddy>"],
+    "description": "vaddy logo sprite"
+  },
+
+  "sprite vagrant": {
+    "scope": "diagram",
+    "prefix": ["s-vagrant"],
+    "body": ["<$$vagrant>"],
+    "description": "vagrant logo sprite"
+  },
+
+  "sprite vault": {
+    "scope": "diagram",
+    "prefix": ["s-vault"],
+    "body": ["<$$vault>"],
+    "description": "vault logo sprite"
+  },
+
+  "sprite vernemq": {
+    "scope": "diagram",
+    "prefix": ["s-vernemq"],
+    "body": ["<$$vernemq>"],
+    "description": "vernemq logo sprite"
+  },
+
+  "sprite victorops": {
+    "scope": "diagram",
+    "prefix": ["s-victorops"],
+    "body": ["<$$victorops>"],
+    "description": "victorops logo sprite"
+  },
+
+  "sprite vim": {
+    "scope": "diagram",
+    "prefix": ["s-vim"],
+    "body": ["<$$vim>"],
+    "description": "vim logo sprite"
+  },
+
+  "sprite vimeo-icon": {
+    "scope": "diagram",
+    "prefix": ["s-vimeo-icon"],
+    "body": ["<$$vimeo-icon>"],
+    "description": "vimeo-icon logo sprite"
+  },
+
+  "sprite vimeo": {
+    "scope": "diagram",
+    "prefix": ["s-vimeo"],
+    "body": ["<$$vimeo>"],
+    "description": "vimeo logo sprite"
+  },
+
+  "sprite vine": {
+    "scope": "diagram",
+    "prefix": ["s-vine"],
+    "body": ["<$$vine>"],
+    "description": "vine logo sprite"
+  },
+
+  "sprite visa": {
+    "scope": "diagram",
+    "prefix": ["s-visa"],
+    "body": ["<$$visa>"],
+    "description": "visa logo sprite"
+  },
+
+  "sprite visaelectron": {
+    "scope": "diagram",
+    "prefix": ["s-visaelectron"],
+    "body": ["<$$visaelectron>"],
+    "description": "visaelectron logo sprite"
+  },
+
+  "sprite visual-studio-code": {
+    "scope": "diagram",
+    "prefix": ["s-visual-studio-code"],
+    "body": ["<$$visual-studio-code>"],
+    "description": "visual-studio-code logo sprite"
+  },
+
+  "sprite visual-studio": {
+    "scope": "diagram",
+    "prefix": ["s-visual-studio"],
+    "body": ["<$$visual-studio>"],
+    "description": "visual-studio logo sprite"
+  },
+
+  "sprite visual_website_optimizer": {
+    "scope": "diagram",
+    "prefix": ["s-visual_website_optimizer"],
+    "body": ["<$$visual_website_optimizer>"],
+    "description": "visual_website_optimizer logo sprite"
+  },
+
+  "sprite vivaldi": {
+    "scope": "diagram",
+    "prefix": ["s-vivaldi"],
+    "body": ["<$$vivaldi>"],
+    "description": "vivaldi logo sprite"
+  },
+
+  "sprite void": {
+    "scope": "diagram",
+    "prefix": ["s-void"],
+    "body": ["<$$void>"],
+    "description": "void logo sprite"
+  },
+
+  "sprite vue": {
+    "scope": "diagram",
+    "prefix": ["s-vue"],
+    "body": ["<$$vue>"],
+    "description": "vue logo sprite"
+  },
+
+  "sprite vuetifyjs": {
+    "scope": "diagram",
+    "prefix": ["s-vuetifyjs"],
+    "body": ["<$$vuetifyjs>"],
+    "description": "vuetifyjs logo sprite"
+  },
+
+  "sprite vulkan": {
+    "scope": "diagram",
+    "prefix": ["s-vulkan"],
+    "body": ["<$$vulkan>"],
+    "description": "vulkan logo sprite"
+  },
+
+  "sprite vultr": {
+    "scope": "diagram",
+    "prefix": ["s-vultr"],
+    "body": ["<$$vultr>"],
+    "description": "vultr logo sprite"
+  },
+
+  "sprite w3c": {
+    "scope": "diagram",
+    "prefix": ["s-w3c"],
+    "body": ["<$$w3c>"],
+    "description": "w3c logo sprite"
+  },
+
+  "sprite waffle": {
+    "scope": "diagram",
+    "prefix": ["s-waffle"],
+    "body": ["<$$waffle>"],
+    "description": "waffle logo sprite"
+  },
+
+  "sprite wagtail": {
+    "scope": "diagram",
+    "prefix": ["s-wagtail"],
+    "body": ["<$$wagtail>"],
+    "description": "wagtail logo sprite"
+  },
+
+  "sprite wakatime": {
+    "scope": "diagram",
+    "prefix": ["s-wakatime"],
+    "body": ["<$$wakatime>"],
+    "description": "wakatime logo sprite"
+  },
+
+  "sprite watchman": {
+    "scope": "diagram",
+    "prefix": ["s-watchman"],
+    "body": ["<$$watchman>"],
+    "description": "watchman logo sprite"
+  },
+
+  "sprite weave": {
+    "scope": "diagram",
+    "prefix": ["s-weave"],
+    "body": ["<$$weave>"],
+    "description": "weave logo sprite"
+  },
+
+  "sprite webassembly": {
+    "scope": "diagram",
+    "prefix": ["s-webassembly"],
+    "body": ["<$$webassembly>"],
+    "description": "webassembly logo sprite"
+  },
+
+  "sprite webcomponents": {
+    "scope": "diagram",
+    "prefix": ["s-webcomponents"],
+    "body": ["<$$webcomponents>"],
+    "description": "webcomponents logo sprite"
+  },
+
+  "sprite webflow": {
+    "scope": "diagram",
+    "prefix": ["s-webflow"],
+    "body": ["<$$webflow>"],
+    "description": "webflow logo sprite"
+  },
+
+  "sprite webhooks": {
+    "scope": "diagram",
+    "prefix": ["s-webhooks"],
+    "body": ["<$$webhooks>"],
+    "description": "webhooks logo sprite"
+  },
+
+  "sprite webmin": {
+    "scope": "diagram",
+    "prefix": ["s-webmin"],
+    "body": ["<$$webmin>"],
+    "description": "webmin logo sprite"
+  },
+
+  "sprite webpack": {
+    "scope": "diagram",
+    "prefix": ["s-webpack"],
+    "body": ["<$$webpack>"],
+    "description": "webpack logo sprite"
+  },
+
+  "sprite webplatform": {
+    "scope": "diagram",
+    "prefix": ["s-webplatform"],
+    "body": ["<$$webplatform>"],
+    "description": "webplatform logo sprite"
+  },
+
+  "sprite webrtc": {
+    "scope": "diagram",
+    "prefix": ["s-webrtc"],
+    "body": ["<$$webrtc>"],
+    "description": "webrtc logo sprite"
+  },
+
+  "sprite websocket": {
+    "scope": "diagram",
+    "prefix": ["s-websocket"],
+    "body": ["<$$websocket>"],
+    "description": "websocket logo sprite"
+  },
+
+  "sprite webstorm": {
+    "scope": "diagram",
+    "prefix": ["s-webstorm"],
+    "body": ["<$$webstorm>"],
+    "description": "webstorm logo sprite"
+  },
+
+  "sprite webtask": {
+    "scope": "diagram",
+    "prefix": ["s-webtask"],
+    "body": ["<$$webtask>"],
+    "description": "webtask logo sprite"
+  },
+
+  "sprite webtorrent": {
+    "scope": "diagram",
+    "prefix": ["s-webtorrent"],
+    "body": ["<$$webtorrent>"],
+    "description": "webtorrent logo sprite"
+  },
+
+  "sprite weebly": {
+    "scope": "diagram",
+    "prefix": ["s-weebly"],
+    "body": ["<$$weebly>"],
+    "description": "weebly logo sprite"
+  },
+
+  "sprite wercker": {
+    "scope": "diagram",
+    "prefix": ["s-wercker"],
+    "body": ["<$$wercker>"],
+    "description": "wercker logo sprite"
+  },
+
+  "sprite whalar": {
+    "scope": "diagram",
+    "prefix": ["s-whalar"],
+    "body": ["<$$whalar>"],
+    "description": "whalar logo sprite"
+  },
+
+  "sprite whatsapp": {
+    "scope": "diagram",
+    "prefix": ["s-whatsapp"],
+    "body": ["<$$whatsapp>"],
+    "description": "whatsapp logo sprite"
+  },
+
+  "sprite whatwg": {
+    "scope": "diagram",
+    "prefix": ["s-whatwg"],
+    "body": ["<$$whatwg>"],
+    "description": "whatwg logo sprite"
+  },
+
+  "sprite wicket-icon": {
+    "scope": "diagram",
+    "prefix": ["s-wicket-icon"],
+    "body": ["<$$wicket-icon>"],
+    "description": "wicket-icon logo sprite"
+  },
+
+  "sprite wicket": {
+    "scope": "diagram",
+    "prefix": ["s-wicket"],
+    "body": ["<$$wicket>"],
+    "description": "wicket logo sprite"
+  },
+
+  "sprite wifi": {
+    "scope": "diagram",
+    "prefix": ["s-wifi"],
+    "body": ["<$$wifi>"],
+    "description": "wifi logo sprite"
+  },
+
+  "sprite wire": {
+    "scope": "diagram",
+    "prefix": ["s-wire"],
+    "body": ["<$$wire>"],
+    "description": "wire logo sprite"
+  },
+
+  "sprite wiredtree": {
+    "scope": "diagram",
+    "prefix": ["s-wiredtree"],
+    "body": ["<$$wiredtree>"],
+    "description": "wiredtree logo sprite"
+  },
+
+  "sprite wix": {
+    "scope": "diagram",
+    "prefix": ["s-wix"],
+    "body": ["<$$wix>"],
+    "description": "wix logo sprite"
+  },
+
+  "sprite woocommerce": {
+    "scope": "diagram",
+    "prefix": ["s-woocommerce"],
+    "body": ["<$$woocommerce>"],
+    "description": "woocommerce logo sprite"
+  },
+
+  "sprite woopra": {
+    "scope": "diagram",
+    "prefix": ["s-woopra"],
+    "body": ["<$$woopra>"],
+    "description": "woopra logo sprite"
+  },
+
+  "sprite wordpress-icon": {
+    "scope": "diagram",
+    "prefix": ["s-wordpress-icon"],
+    "body": ["<$$wordpress-icon>"],
+    "description": "wordpress-icon logo sprite"
+  },
+
+  "sprite wordpress": {
+    "scope": "diagram",
+    "prefix": ["s-wordpress"],
+    "body": ["<$$wordpress>"],
+    "description": "wordpress logo sprite"
+  },
+
+  "sprite workboard": {
+    "scope": "diagram",
+    "prefix": ["s-workboard"],
+    "body": ["<$$workboard>"],
+    "description": "workboard logo sprite"
+  },
+
+  "sprite wpengine": {
+    "scope": "diagram",
+    "prefix": ["s-wpengine"],
+    "body": ["<$$wpengine>"],
+    "description": "wpengine logo sprite"
+  },
+
+  "sprite wufoo": {
+    "scope": "diagram",
+    "prefix": ["s-wufoo"],
+    "body": ["<$$wufoo>"],
+    "description": "wufoo logo sprite"
+  },
+
+  "sprite x-ray-goggles": {
+    "scope": "diagram",
+    "prefix": ["s-x-ray-goggles"],
+    "body": ["<$$x-ray-goggles>"],
+    "description": "x-ray-goggles logo sprite"
+  },
+
+  "sprite xamarin": {
+    "scope": "diagram",
+    "prefix": ["s-xamarin"],
+    "body": ["<$$xamarin>"],
+    "description": "xamarin logo sprite"
+  },
+
+  "sprite xampp": {
+    "scope": "diagram",
+    "prefix": ["s-xampp"],
+    "body": ["<$$xampp>"],
+    "description": "xampp logo sprite"
+  },
+
+  "sprite xcart": {
+    "scope": "diagram",
+    "prefix": ["s-xcart"],
+    "body": ["<$$xcart>"],
+    "description": "xcart logo sprite"
+  },
+
+  "sprite xero": {
+    "scope": "diagram",
+    "prefix": ["s-xero"],
+    "body": ["<$$xero>"],
+    "description": "xero logo sprite"
+  },
+
+  "sprite xplenty": {
+    "scope": "diagram",
+    "prefix": ["s-xplenty"],
+    "body": ["<$$xplenty>"],
+    "description": "xplenty logo sprite"
+  },
+
+  "sprite xtend": {
+    "scope": "diagram",
+    "prefix": ["s-xtend"],
+    "body": ["<$$xtend>"],
+    "description": "xtend logo sprite"
+  },
+
+  "sprite xwiki": {
+    "scope": "diagram",
+    "prefix": ["s-xwiki"],
+    "body": ["<$$xwiki>"],
+    "description": "xwiki logo sprite"
+  },
+
+  "sprite yahoo": {
+    "scope": "diagram",
+    "prefix": ["s-yahoo"],
+    "body": ["<$$yahoo>"],
+    "description": "yahoo logo sprite"
+  },
+
+  "sprite yammer": {
+    "scope": "diagram",
+    "prefix": ["s-yammer"],
+    "body": ["<$$yammer>"],
+    "description": "yammer logo sprite"
+  },
+
+  "sprite yandex-ru": {
+    "scope": "diagram",
+    "prefix": ["s-yandex-ru"],
+    "body": ["<$$yandex-ru>"],
+    "description": "yandex-ru logo sprite"
+  },
+
+  "sprite yarn": {
+    "scope": "diagram",
+    "prefix": ["s-yarn"],
+    "body": ["<$$yarn>"],
+    "description": "yarn logo sprite"
+  },
+
+  "sprite ycombinator": {
+    "scope": "diagram",
+    "prefix": ["s-ycombinator"],
+    "body": ["<$$ycombinator>"],
+    "description": "ycombinator logo sprite"
+  },
+
+  "sprite yeoman": {
+    "scope": "diagram",
+    "prefix": ["s-yeoman"],
+    "body": ["<$$yeoman>"],
+    "description": "yeoman logo sprite"
+  },
+
+  "sprite yii": {
+    "scope": "diagram",
+    "prefix": ["s-yii"],
+    "body": ["<$$yii>"],
+    "description": "yii logo sprite"
+  },
+
+  "sprite youtrack": {
+    "scope": "diagram",
+    "prefix": ["s-youtrack"],
+    "body": ["<$$youtrack>"],
+    "description": "youtrack logo sprite"
+  },
+
+  "sprite youtube": {
+    "scope": "diagram",
+    "prefix": ["s-youtube"],
+    "body": ["<$$youtube>"],
+    "description": "youtube logo sprite"
+  },
+
+  "sprite zapier": {
+    "scope": "diagram",
+    "prefix": ["s-zapier"],
+    "body": ["<$$zapier>"],
+    "description": "zapier logo sprite"
+  },
+
+  "sprite zeit-icon": {
+    "scope": "diagram",
+    "prefix": ["s-zeit-icon"],
+    "body": ["<$$zeit-icon>"],
+    "description": "zeit-icon logo sprite"
+  },
+
+  "sprite zeit": {
+    "scope": "diagram",
+    "prefix": ["s-zeit"],
+    "body": ["<$$zeit>"],
+    "description": "zeit logo sprite"
+  },
+
+  "sprite zend-framework": {
+    "scope": "diagram",
+    "prefix": ["s-zend-framework"],
+    "body": ["<$$zend-framework>"],
+    "description": "zend-framework logo sprite"
+  },
+
+  "sprite zendesk": {
+    "scope": "diagram",
+    "prefix": ["s-zendesk"],
+    "body": ["<$$zendesk>"],
+    "description": "zendesk logo sprite"
+  },
+
+  "sprite zenhub": {
+    "scope": "diagram",
+    "prefix": ["s-zenhub"],
+    "body": ["<$$zenhub>"],
+    "description": "zenhub logo sprite"
+  },
+
+  "sprite zeplin": {
+    "scope": "diagram",
+    "prefix": ["s-zeplin"],
+    "body": ["<$$zeplin>"],
+    "description": "zeplin logo sprite"
+  },
+
+  "sprite zest": {
+    "scope": "diagram",
+    "prefix": ["s-zest"],
+    "body": ["<$$zest>"],
+    "description": "zest logo sprite"
+  },
+
+  "sprite zigbee": {
+    "scope": "diagram",
+    "prefix": ["s-zigbee"],
+    "body": ["<$$zigbee>"],
+    "description": "zigbee logo sprite"
+  },
+
+  "sprite zoho": {
+    "scope": "diagram",
+    "prefix": ["s-zoho"],
+    "body": ["<$$zoho>"],
+    "description": "zoho logo sprite"
+  },
+
+  "sprite zube": {
+    "scope": "diagram",
+    "prefix": ["s-zube"],
+    "body": ["<$$zube>"],
+    "description": "zube logo sprite"
+  },
+
+  "sprite zulip": {
+    "scope": "diagram",
+    "prefix": ["s-zulip"],
+    "body": ["<$$zulip>"],
+    "description": "zulip logo sprite"
+  },
+
+  "sprite zwave": {
+    "scope": "diagram",
+    "prefix": ["s-zwave"],
+    "body": ["<$$zwave>"],
+    "description": "zwave logo sprite"
+  }

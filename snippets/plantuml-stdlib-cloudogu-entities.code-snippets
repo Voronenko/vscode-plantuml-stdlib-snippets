@@ -1,0 +1,198 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "DOGU_CAS(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-cas", "DOGU_CAS","CAS"],
+    "body": ["DOGU_CAS(e_alias, \"e_label\")"],
+    "description": "dogus/cas - DOGU_CAS tupadr3 icon"
+  },
+
+  "DOGU_CLOUDOGU(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-cloudogu", "DOGU_CLOUDOGU","CLOUDOGU"],
+    "body": ["DOGU_CLOUDOGU(e_alias, \"e_label\")"],
+    "description": "dogus/cloudogu - DOGU_CLOUDOGU tupadr3 icon"
+  },
+
+  "DOGU_COCKPIT(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-cockpit", "DOGU_COCKPIT","COCKPIT"],
+    "body": ["DOGU_COCKPIT(e_alias, \"e_label\")"],
+    "description": "dogus/cockpit - DOGU_COCKPIT tupadr3 icon"
+  },
+
+  "DOGU_JENKINS(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-jenkins", "DOGU_JENKINS","JENKINS"],
+    "body": ["DOGU_JENKINS(e_alias, \"e_label\")"],
+    "description": "dogus/jenkins - DOGU_JENKINS tupadr3 icon"
+  },
+
+  "DOGU_NEXUS(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-nexus", "DOGU_NEXUS","NEXUS"],
+    "body": ["DOGU_NEXUS(e_alias, \"e_label\")"],
+    "description": "dogus/nexus - DOGU_NEXUS tupadr3 icon"
+  },
+
+  "DOGU_NGINX(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-nginx", "DOGU_NGINX","NGINX"],
+    "body": ["DOGU_NGINX(e_alias, \"e_label\")"],
+    "description": "dogus/nginx - DOGU_NGINX tupadr3 icon"
+  },
+
+  "DOGU_OPENLDAP(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-openldap", "DOGU_OPENLDAP","OPENLDAP"],
+    "body": ["DOGU_OPENLDAP(e_alias, \"e_label\")"],
+    "description": "dogus/openldap - DOGU_OPENLDAP tupadr3 icon"
+  },
+
+  "DOGU_PLANTUML(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-plantuml", "DOGU_PLANTUML","PLANTUML"],
+    "body": ["DOGU_PLANTUML(e_alias, \"e_label\")"],
+    "description": "dogus/plantuml - DOGU_PLANTUML tupadr3 icon"
+  },
+
+  "DOGU_POSTFIX(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-postfix", "DOGU_POSTFIX","POSTFIX"],
+    "body": ["DOGU_POSTFIX(e_alias, \"e_label\")"],
+    "description": "dogus/postfix - DOGU_POSTFIX tupadr3 icon"
+  },
+
+  "DOGU_REDMINE(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-redmine", "DOGU_REDMINE","REDMINE"],
+    "body": ["DOGU_REDMINE(e_alias, \"e_label\")"],
+    "description": "dogus/redmine - DOGU_REDMINE tupadr3 icon"
+  },
+
+  "DOGU_REGISTRATOR(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-registrator", "DOGU_REGISTRATOR","REGISTRATOR"],
+    "body": ["DOGU_REGISTRATOR(e_alias, \"e_label\")"],
+    "description": "dogus/registrator - DOGU_REGISTRATOR tupadr3 icon"
+  },
+
+  "DOGU_SCM(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-scm", "DOGU_SCM","SCM"],
+    "body": ["DOGU_SCM(e_alias, \"e_label\")"],
+    "description": "dogus/scm - DOGU_SCM tupadr3 icon"
+  },
+
+  "DOGU_SMEAGOL(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-smeagol", "DOGU_SMEAGOL","SMEAGOL"],
+    "body": ["DOGU_SMEAGOL(e_alias, \"e_label\")"],
+    "description": "dogus/smeagol - DOGU_SMEAGOL tupadr3 icon"
+  },
+
+  "DOGU_SONARQUBE(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-sonarqube", "DOGU_SONARQUBE","SONARQUBE"],
+    "body": ["DOGU_SONARQUBE(e_alias, \"e_label\")"],
+    "description": "dogus/sonarqube - DOGU_SONARQUBE tupadr3 icon"
+  },
+
+  "DOGU_USERMGMT(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-usermgmt", "DOGU_USERMGMT","USERMGMT"],
+    "body": ["DOGU_USERMGMT(e_alias, \"e_label\")"],
+    "description": "dogus/usermgmt - DOGU_USERMGMT tupadr3 icon"
+  },
+
+  "TOOL_ANSIBLE(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-ansible", "TOOL_ANSIBLE","ANSIBLE"],
+    "body": ["TOOL_ANSIBLE(e_alias, \"e_label\")"],
+    "description": "tools/ansible - TOOL_ANSIBLE tupadr3 icon"
+  },
+
+  "TOOL_DOCKER(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-docker", "TOOL_DOCKER","DOCKER"],
+    "body": ["TOOL_DOCKER(e_alias, \"e_label\")"],
+    "description": "tools/docker - TOOL_DOCKER tupadr3 icon"
+  },
+
+  "TOOL_ELASTIC(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-elastic", "TOOL_ELASTIC","ELASTIC"],
+    "body": ["TOOL_ELASTIC(e_alias, \"e_label\")"],
+    "description": "tools/elastic - TOOL_ELASTIC tupadr3 icon"
+  },
+
+  "TOOL_ETCD(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-etcd", "TOOL_ETCD","ETCD"],
+    "body": ["TOOL_ETCD(e_alias, \"e_label\")"],
+    "description": "tools/etcd - TOOL_ETCD tupadr3 icon"
+  },
+
+  "TOOL_GRAFANA(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-grafana", "TOOL_GRAFANA","GRAFANA"],
+    "body": ["TOOL_GRAFANA(e_alias, \"e_label\")"],
+    "description": "tools/grafana - TOOL_GRAFANA tupadr3 icon"
+  },
+
+  "TOOL_JUNIT(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-junit", "TOOL_JUNIT","JUNIT"],
+    "body": ["TOOL_JUNIT(e_alias, \"e_label\")"],
+    "description": "tools/junit - TOOL_JUNIT tupadr3 icon"
+  },
+
+  "TOOL_K8S(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-k8s", "TOOL_K8S","K8S"],
+    "body": ["TOOL_K8S(e_alias, \"e_label\")"],
+    "description": "tools/k8s - TOOL_K8S tupadr3 icon"
+  },
+
+  "TOOL_PROMETHEUS(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-prometheus", "TOOL_PROMETHEUS","PROMETHEUS"],
+    "body": ["TOOL_PROMETHEUS(e_alias, \"e_label\")"],
+    "description": "tools/prometheus - TOOL_PROMETHEUS tupadr3 icon"
+  },
+
+  "TOOL_QEMU(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-qemu", "TOOL_QEMU","QEMU"],
+    "body": ["TOOL_QEMU(e_alias, \"e_label\")"],
+    "description": "tools/qemu - TOOL_QEMU tupadr3 icon"
+  },
+
+  "TOOL_TERRAFORM(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-terraform", "TOOL_TERRAFORM","TERRAFORM"],
+    "body": ["TOOL_TERRAFORM(e_alias, \"e_label\")"],
+    "description": "tools/terraform - TOOL_TERRAFORM tupadr3 icon"
+  },
+
+  "TOOL_UBUNTU(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-ubuntu", "TOOL_UBUNTU","UBUNTU"],
+    "body": ["TOOL_UBUNTU(e_alias, \"e_label\")"],
+    "description": "tools/ubuntu - TOOL_UBUNTU tupadr3 icon"
+  },
+
+  "TOOL_VIRTUALBOX(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-virtualbox", "TOOL_VIRTUALBOX","VIRTUALBOX"],
+    "body": ["TOOL_VIRTUALBOX(e_alias, \"e_label\")"],
+    "description": "tools/virtualbox - TOOL_VIRTUALBOX tupadr3 icon"
+  },
+
+  "TOOL_VMWARE(e_alias, e_label, e_shape, e_color)": {
+    "scope": "diagram",
+    "prefix": ["co-vmware", "TOOL_VMWARE","VMWARE"],
+    "body": ["TOOL_VMWARE(e_alias, \"e_label\")"],
+    "description": "tools/vmware - TOOL_VMWARE tupadr3 icon"
+  }

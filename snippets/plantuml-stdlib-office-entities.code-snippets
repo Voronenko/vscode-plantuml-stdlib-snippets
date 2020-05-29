@@ -1,0 +1,3754 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "OFF_AZURE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-azure", "OFF_AZURE"],
+    "body": ["OFF_AZURE(e_alias, \"e_label\")"],
+    "description": "AZURE office icon"
+  },
+
+  "OFF_CLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud", "OFF_CLOUD"],
+    "body": ["OFF_CLOUD(e_alias, \"e_label\")"],
+    "description": "CLOUD office icon"
+  },
+
+  "OFF_CLOUD_DISASTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud_disaster", "OFF_CLOUD_DISASTER"],
+    "body": ["OFF_CLOUD_DISASTER(e_alias, \"e_label\")"],
+    "description": "CLOUD_DISASTER office icon"
+  },
+
+  "OFF_CLOUD_DISASTER_RED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud_disaster_red", "OFF_CLOUD_DISASTER_RED"],
+    "body": ["OFF_CLOUD_DISASTER_RED(e_alias, \"e_label\")"],
+    "description": "CLOUD_DISASTER_RED office icon"
+  },
+
+  "OFF_CLOUD_EXCHANGE_ONLINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud_exchange_online", "OFF_CLOUD_EXCHANGE_ONLINE"],
+    "body": ["OFF_CLOUD_EXCHANGE_ONLINE(e_alias, \"e_label\")"],
+    "description": "CLOUD_EXCHANGE_ONLINE office icon"
+  },
+
+  "OFF_CLOUD_SERVICE_REQUEST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud_service_request", "OFF_CLOUD_SERVICE_REQUEST"],
+    "body": ["OFF_CLOUD_SERVICE_REQUEST(e_alias, \"e_label\")"],
+    "description": "CLOUD_SERVICE_REQUEST office icon"
+  },
+
+  "OFF_CLOUD_SHAREPOINT_ONLINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cloud_sharepoint_online", "OFF_CLOUD_SHAREPOINT_ONLINE"],
+    "body": ["OFF_CLOUD_SHAREPOINT_ONLINE(e_alias, \"e_label\")"],
+    "description": "CLOUD_SHAREPOINT_ONLINE office icon"
+  },
+
+  "OFF_OFFICE_365_CLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-office_365_cloud", "OFF_OFFICE_365_CLOUD"],
+    "body": ["OFF_OFFICE_365_CLOUD(e_alias, \"e_label\")"],
+    "description": "OFFICE_365_CLOUD office icon"
+  },
+
+  "OFF_ONLINE_BACKUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-online_backup", "OFF_ONLINE_BACKUP"],
+    "body": ["OFF_ONLINE_BACKUP(e_alias, \"e_label\")"],
+    "description": "ONLINE_BACKUP office icon"
+  },
+
+  "OFF_ONLINE_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-online_user", "OFF_ONLINE_USER"],
+    "body": ["OFF_ONLINE_USER(e_alias, \"e_label\")"],
+    "description": "ONLINE_USER office icon"
+  },
+
+  "OFF_PRIVATE_CLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-private_cloud", "OFF_PRIVATE_CLOUD"],
+    "body": ["OFF_PRIVATE_CLOUD(e_alias, \"e_label\")"],
+    "description": "PRIVATE_CLOUD office icon"
+  },
+
+  "OFF_PUBLIC_CLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-public_cloud", "OFF_PUBLIC_CLOUD"],
+    "body": ["OFF_PUBLIC_CLOUD(e_alias, \"e_label\")"],
+    "description": "PUBLIC_CLOUD office icon"
+  },
+
+  "OFF_PUBLIC_IM_CLOUD_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-public_im_cloud_service", "OFF_PUBLIC_IM_CLOUD_SERVICE"],
+    "body": ["OFF_PUBLIC_IM_CLOUD_SERVICE(e_alias, \"e_label\")"],
+    "description": "PUBLIC_IM_CLOUD_SERVICE office icon"
+  },
+
+  "OFF_3RD_PARTY_CALL_CENTER_SOLUTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-3rd_party_call_center_solution", "OFF_3RD_PARTY_CALL_CENTER_SOLUTION"],
+    "body": ["OFF_3RD_PARTY_CALL_CENTER_SOLUTION(e_alias, \"e_label\")"],
+    "description": "3RD_PARTY_CALL_CENTER_SOLUTION office icon"
+  },
+
+  "OFF_3RD_PARTY_INTEGRATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-3rd_party_integration", "OFF_3RD_PARTY_INTEGRATION"],
+    "body": ["OFF_3RD_PARTY_INTEGRATION(e_alias, \"e_label\")"],
+    "description": "3RD_PARTY_INTEGRATION office icon"
+  },
+
+  "OFF_3RD_PARTY_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-3rd_party_service", "OFF_3RD_PARTY_SERVICE"],
+    "body": ["OFF_3RD_PARTY_SERVICE(e_alias, \"e_label\")"],
+    "description": "3RD_PARTY_SERVICE office icon"
+  },
+
+  "OFF_APPLICATION_SHARING_WORKLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_sharing_workload", "OFF_APPLICATION_SHARING_WORKLOAD"],
+    "body": ["OFF_APPLICATION_SHARING_WORKLOAD(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SHARING_WORKLOAD office icon"
+  },
+
+  "OFF_AUDIO_CONFERENCING_APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-audio_conferencing_application", "OFF_AUDIO_CONFERENCING_APPLICATION"],
+    "body": ["OFF_AUDIO_CONFERENCING_APPLICATION(e_alias, \"e_label\")"],
+    "description": "AUDIO_CONFERENCING_APPLICATION office icon"
+  },
+
+  "OFF_CENTRAL_MANAGEMENT_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-central_management_service", "OFF_CENTRAL_MANAGEMENT_SERVICE"],
+    "body": ["OFF_CENTRAL_MANAGEMENT_SERVICE(e_alias, \"e_label\")"],
+    "description": "CENTRAL_MANAGEMENT_SERVICE office icon"
+  },
+
+  "OFF_CHAT_ROOM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-chat_room", "OFF_CHAT_ROOM"],
+    "body": ["OFF_CHAT_ROOM(e_alias, \"e_label\")"],
+    "description": "CHAT_ROOM office icon"
+  },
+
+  "OFF_CONFERENCE_ANNOUNCEMENT_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-conference_announcement_service", "OFF_CONFERENCE_ANNOUNCEMENT_SERVICE"],
+    "body": ["OFF_CONFERENCE_ANNOUNCEMENT_SERVICE(e_alias, \"e_label\")"],
+    "description": "CONFERENCE_ANNOUNCEMENT_SERVICE office icon"
+  },
+
+  "OFF_DISCONNECTED_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-disconnected_mailbox", "OFF_DISCONNECTED_MAILBOX"],
+    "body": ["OFF_DISCONNECTED_MAILBOX(e_alias, \"e_label\")"],
+    "description": "DISCONNECTED_MAILBOX office icon"
+  },
+
+  "OFF_DISCOVERY_SEARCH_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-discovery_search_mailbox", "OFF_DISCOVERY_SEARCH_MAILBOX"],
+    "body": ["OFF_DISCOVERY_SEARCH_MAILBOX(e_alias, \"e_label\")"],
+    "description": "DISCOVERY_SEARCH_MAILBOX office icon"
+  },
+
+  "OFF_DYNAMIC_DISTRIBUTION_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-dynamic_distribution_group", "OFF_DYNAMIC_DISTRIBUTION_GROUP"],
+    "body": ["OFF_DYNAMIC_DISTRIBUTION_GROUP(e_alias, \"e_label\")"],
+    "description": "DYNAMIC_DISTRIBUTION_GROUP office icon"
+  },
+
+  "OFF_EDGE_SUBSCRIPTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-edge_subscription", "OFF_EDGE_SUBSCRIPTION"],
+    "body": ["OFF_EDGE_SUBSCRIPTION(e_alias, \"e_label\")"],
+    "description": "EDGE_SUBSCRIPTION office icon"
+  },
+
+  "OFF_EMAIL_WORKLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_workload", "OFF_EMAIL_WORKLOAD"],
+    "body": ["OFF_EMAIL_WORKLOAD(e_alias, \"e_label\")"],
+    "description": "EMAIL_WORKLOAD office icon"
+  },
+
+  "OFF_EQUIPMENT_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-equipment_mailbox", "OFF_EQUIPMENT_MAILBOX"],
+    "body": ["OFF_EQUIPMENT_MAILBOX(e_alias, \"e_label\")"],
+    "description": "EQUIPMENT_MAILBOX office icon"
+  },
+
+  "OFF_EXCHANGE_ACTIVE_SYNC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_active_sync", "OFF_EXCHANGE_ACTIVE_SYNC"],
+    "body": ["OFF_EXCHANGE_ACTIVE_SYNC(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_ACTIVE_SYNC office icon"
+  },
+
+  "OFF_EXCHANGE_ACTIVE_SYNC_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_active_sync_blue", "OFF_EXCHANGE_ACTIVE_SYNC_BLUE"],
+    "body": ["OFF_EXCHANGE_ACTIVE_SYNC_BLUE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_ACTIVE_SYNC_BLUE office icon"
+  },
+
+  "OFF_FAX_PARTNER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-fax_partner", "OFF_FAX_PARTNER"],
+    "body": ["OFF_FAX_PARTNER(e_alias, \"e_label\")"],
+    "description": "FAX_PARTNER office icon"
+  },
+
+  "OFF_GLOBAL_ADDRESS_LIST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-global_address_list", "OFF_GLOBAL_ADDRESS_LIST"],
+    "body": ["OFF_GLOBAL_ADDRESS_LIST(e_alias, \"e_label\")"],
+    "description": "GLOBAL_ADDRESS_LIST office icon"
+  },
+
+  "OFF_HYBRID_VOIP_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-hybrid_voip_gateway", "OFF_HYBRID_VOIP_GATEWAY"],
+    "body": ["OFF_HYBRID_VOIP_GATEWAY(e_alias, \"e_label\")"],
+    "description": "HYBRID_VOIP_GATEWAY office icon"
+  },
+
+  "OFF_IM_WORKLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-im_workload", "OFF_IM_WORKLOAD"],
+    "body": ["OFF_IM_WORKLOAD(e_alias, \"e_label\")"],
+    "description": "IM_WORKLOAD office icon"
+  },
+
+  "OFF_JOURNALING_RULE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-journaling_rule", "OFF_JOURNALING_RULE"],
+    "body": ["OFF_JOURNALING_RULE(e_alias, \"e_label\")"],
+    "description": "JOURNALING_RULE office icon"
+  },
+
+  "OFF_LOCAL_MOVE_REQUEST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-local_move_request", "OFF_LOCAL_MOVE_REQUEST"],
+    "body": ["OFF_LOCAL_MOVE_REQUEST(e_alias, \"e_label\")"],
+    "description": "LOCAL_MOVE_REQUEST office icon"
+  },
+
+  "OFF_LYNC_CONTROL_PANEL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_control_panel", "OFF_LYNC_CONTROL_PANEL"],
+    "body": ["OFF_LYNC_CONTROL_PANEL(e_alias, \"e_label\")"],
+    "description": "LYNC_CONTROL_PANEL office icon"
+  },
+
+  "OFF_LYNC_PHONE_EDITION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_phone_edition", "OFF_LYNC_PHONE_EDITION"],
+    "body": ["OFF_LYNC_PHONE_EDITION(e_alias, \"e_label\")"],
+    "description": "LYNC_PHONE_EDITION office icon"
+  },
+
+  "OFF_LYNC_ROOM_SYSTEM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_room_system", "OFF_LYNC_ROOM_SYSTEM"],
+    "body": ["OFF_LYNC_ROOM_SYSTEM(e_alias, \"e_label\")"],
+    "description": "LYNC_ROOM_SYSTEM office icon"
+  },
+
+  "OFF_LYNC_SERVER_MANAGEMENT_TOOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_server_management_tool", "OFF_LYNC_SERVER_MANAGEMENT_TOOL"],
+    "body": ["OFF_LYNC_SERVER_MANAGEMENT_TOOL(e_alias, \"e_label\")"],
+    "description": "LYNC_SERVER_MANAGEMENT_TOOL office icon"
+  },
+
+  "OFF_LYNC_STORAGE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_storage_service", "OFF_LYNC_STORAGE_SERVICE"],
+    "body": ["OFF_LYNC_STORAGE_SERVICE(e_alias, \"e_label\")"],
+    "description": "LYNC_STORAGE_SERVICE office icon"
+  },
+
+  "OFF_LYNC_WEB_APP_CLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_web_app_client", "OFF_LYNC_WEB_APP_CLIENT"],
+    "body": ["OFF_LYNC_WEB_APP_CLIENT(e_alias, \"e_label\")"],
+    "description": "LYNC_WEB_APP_CLIENT office icon"
+  },
+
+  "OFF_MAIL_ENABLED_PUBLIC_FOLDER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mail_enabled_public_folder", "OFF_MAIL_ENABLED_PUBLIC_FOLDER"],
+    "body": ["OFF_MAIL_ENABLED_PUBLIC_FOLDER(e_alias, \"e_label\")"],
+    "description": "MAIL_ENABLED_PUBLIC_FOLDER office icon"
+  },
+
+  "OFF_MAILBOX_ASSISTANT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mailbox_assistant", "OFF_MAILBOX_ASSISTANT"],
+    "body": ["OFF_MAILBOX_ASSISTANT(e_alias, \"e_label\")"],
+    "description": "MAILBOX_ASSISTANT office icon"
+  },
+
+  "OFF_MESSAGES_QUEUED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-messages_queued", "OFF_MESSAGES_QUEUED"],
+    "body": ["OFF_MESSAGES_QUEUED(e_alias, \"e_label\")"],
+    "description": "MESSAGES_QUEUED office icon"
+  },
+
+  "OFF_OFFLINE_ADDRESS_BOOK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-offline_address_book", "OFF_OFFLINE_ADDRESS_BOOK"],
+    "body": ["OFF_OFFLINE_ADDRESS_BOOK(e_alias, \"e_label\")"],
+    "description": "OFFLINE_ADDRESS_BOOK office icon"
+  },
+
+  "OFF_PERSONAL_ARCHIVE_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-personal_archive_mailbox", "OFF_PERSONAL_ARCHIVE_MAILBOX"],
+    "body": ["OFF_PERSONAL_ARCHIVE_MAILBOX(e_alias, \"e_label\")"],
+    "description": "PERSONAL_ARCHIVE_MAILBOX office icon"
+  },
+
+  "OFF_PUBLIC_IM_CLOUD_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-public_im_cloud_service", "OFF_PUBLIC_IM_CLOUD_SERVICE"],
+    "body": ["OFF_PUBLIC_IM_CLOUD_SERVICE(e_alias, \"e_label\")"],
+    "description": "PUBLIC_IM_CLOUD_SERVICE office icon"
+  },
+
+  "OFF_PUSH_NOTIFICATION_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-push_notification_service", "OFF_PUSH_NOTIFICATION_SERVICE"],
+    "body": ["OFF_PUSH_NOTIFICATION_SERVICE(e_alias, \"e_label\")"],
+    "description": "PUSH_NOTIFICATION_SERVICE office icon"
+  },
+
+  "OFF_QUEUE_VIEWER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-queue_viewer", "OFF_QUEUE_VIEWER"],
+    "body": ["OFF_QUEUE_VIEWER(e_alias, \"e_label\")"],
+    "description": "QUEUE_VIEWER office icon"
+  },
+
+  "OFF_REMOTE_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-remote_mailbox", "OFF_REMOTE_MAILBOX"],
+    "body": ["OFF_REMOTE_MAILBOX(e_alias, \"e_label\")"],
+    "description": "REMOTE_MAILBOX office icon"
+  },
+
+  "OFF_REMOTE_MOVE_REQUEST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-remote_move_request", "OFF_REMOTE_MOVE_REQUEST"],
+    "body": ["OFF_REMOTE_MOVE_REQUEST(e_alias, \"e_label\")"],
+    "description": "REMOTE_MOVE_REQUEST office icon"
+  },
+
+  "OFF_RESPONSE_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-response_group", "OFF_RESPONSE_GROUP"],
+    "body": ["OFF_RESPONSE_GROUP(e_alias, \"e_label\")"],
+    "description": "RESPONSE_GROUP office icon"
+  },
+
+  "OFF_RESPONSE_GROUP_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-response_group_service", "OFF_RESPONSE_GROUP_SERVICE"],
+    "body": ["OFF_RESPONSE_GROUP_SERVICE(e_alias, \"e_label\")"],
+    "description": "RESPONSE_GROUP_SERVICE office icon"
+  },
+
+  "OFF_ROOM_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-room_mailbox", "OFF_ROOM_MAILBOX"],
+    "body": ["OFF_ROOM_MAILBOX(e_alias, \"e_label\")"],
+    "description": "ROOM_MAILBOX office icon"
+  },
+
+  "OFF_SHARED_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-shared_mailbox", "OFF_SHARED_MAILBOX"],
+    "body": ["OFF_SHARED_MAILBOX(e_alias, \"e_label\")"],
+    "description": "SHARED_MAILBOX office icon"
+  },
+
+  "OFF_SIP_URI_UM_DIAL_PLAN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sip_uri_um_dial_plan", "OFF_SIP_URI_UM_DIAL_PLAN"],
+    "body": ["OFF_SIP_URI_UM_DIAL_PLAN(e_alias, \"e_label\")"],
+    "description": "SIP_URI_UM_DIAL_PLAN office icon"
+  },
+
+  "OFF_SITE_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-site_mailbox", "OFF_SITE_MAILBOX"],
+    "body": ["OFF_SITE_MAILBOX(e_alias, \"e_label\")"],
+    "description": "SITE_MAILBOX office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_CONTROL_PANEL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_control_panel", "OFF_SKYPE_FOR_BUSINESS_CONTROL_PANEL"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_CONTROL_PANEL(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_CONTROL_PANEL office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_PHONE_EDITION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_phone_edition", "OFF_SKYPE_FOR_BUSINESS_PHONE_EDITION"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_PHONE_EDITION(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_PHONE_EDITION office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_ROOM_SYSTEM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_room_system", "OFF_SKYPE_FOR_BUSINESS_ROOM_SYSTEM"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_ROOM_SYSTEM(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_ROOM_SYSTEM office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_SERVER_MANAGEMENT_TOOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_server_management_tool", "OFF_SKYPE_FOR_BUSINESS_SERVER_MANAGEMENT_TOOL"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_SERVER_MANAGEMENT_TOOL(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_SERVER_MANAGEMENT_TOOL office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_storage_service", "OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_STORAGE_SERVICE office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_WEB_APP_CLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_web_app_client", "OFF_SKYPE_FOR_BUSINESS_WEB_APP_CLIENT"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_WEB_APP_CLIENT(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_WEB_APP_CLIENT office icon"
+  },
+
+  "OFF_SMS_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sms_gateway", "OFF_SMS_GATEWAY"],
+    "body": ["OFF_SMS_GATEWAY(e_alias, \"e_label\")"],
+    "description": "SMS_GATEWAY office icon"
+  },
+
+  "OFF_SMTP_CONNECTOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-smtp_connector", "OFF_SMTP_CONNECTOR"],
+    "body": ["OFF_SMTP_CONNECTOR(e_alias, \"e_label\")"],
+    "description": "SMTP_CONNECTOR office icon"
+  },
+
+  "OFF_SYSTEM_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-system_mailbox", "OFF_SYSTEM_MAILBOX"],
+    "body": ["OFF_SYSTEM_MAILBOX(e_alias, \"e_label\")"],
+    "description": "SYSTEM_MAILBOX office icon"
+  },
+
+  "OFF_TDM_PBX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-tdm_pbx", "OFF_TDM_PBX"],
+    "body": ["OFF_TDM_PBX(e_alias, \"e_label\")"],
+    "description": "TDM_PBX office icon"
+  },
+
+  "OFF_TELEPHONE_EXTENSION_DIAL_PLAN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-telephone_extension_dial_plan", "OFF_TELEPHONE_EXTENSION_DIAL_PLAN"],
+    "body": ["OFF_TELEPHONE_EXTENSION_DIAL_PLAN(e_alias, \"e_label\")"],
+    "description": "TELEPHONE_EXTENSION_DIAL_PLAN office icon"
+  },
+
+  "OFF_TRANSPORT_RULE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-transport_rule", "OFF_TRANSPORT_RULE"],
+    "body": ["OFF_TRANSPORT_RULE(e_alias, \"e_label\")"],
+    "description": "TRANSPORT_RULE office icon"
+  },
+
+  "OFF_UCMA_APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-ucma_application", "OFF_UCMA_APPLICATION"],
+    "body": ["OFF_UCMA_APPLICATION(e_alias, \"e_label\")"],
+    "description": "UCMA_APPLICATION office icon"
+  },
+
+  "OFF_UCWA_APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-ucwa_application", "OFF_UCWA_APPLICATION"],
+    "body": ["OFF_UCWA_APPLICATION(e_alias, \"e_label\")"],
+    "description": "UCWA_APPLICATION office icon"
+  },
+
+  "OFF_UM_AUTO_ATTENDANT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_auto_attendant", "OFF_UM_AUTO_ATTENDANT"],
+    "body": ["OFF_UM_AUTO_ATTENDANT(e_alias, \"e_label\")"],
+    "description": "UM_AUTO_ATTENDANT office icon"
+  },
+
+  "OFF_UM_DIAL_PLAN_E164(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_dial_plan_e164", "OFF_UM_DIAL_PLAN_E164"],
+    "body": ["OFF_UM_DIAL_PLAN_E164(e_alias, \"e_label\")"],
+    "description": "UM_DIAL_PLAN_E164 office icon"
+  },
+
+  "OFF_UM_DIAL_PLAN_SECONDARY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_dial_plan_secondary", "OFF_UM_DIAL_PLAN_SECONDARY"],
+    "body": ["OFF_UM_DIAL_PLAN_SECONDARY(e_alias, \"e_label\")"],
+    "description": "UM_DIAL_PLAN_SECONDARY office icon"
+  },
+
+  "OFF_UM_ENABLED_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_enabled_mailbox", "OFF_UM_ENABLED_MAILBOX"],
+    "body": ["OFF_UM_ENABLED_MAILBOX(e_alias, \"e_label\")"],
+    "description": "UM_ENABLED_MAILBOX office icon"
+  },
+
+  "OFF_UM_HUNT_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_hunt_group", "OFF_UM_HUNT_GROUP"],
+    "body": ["OFF_UM_HUNT_GROUP(e_alias, \"e_label\")"],
+    "description": "UM_HUNT_GROUP office icon"
+  },
+
+  "OFF_UM_IP_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_ip_gateway", "OFF_UM_IP_GATEWAY"],
+    "body": ["OFF_UM_IP_GATEWAY(e_alias, \"e_label\")"],
+    "description": "UM_IP_GATEWAY office icon"
+  },
+
+  "OFF_USER_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_mailbox", "OFF_USER_MAILBOX"],
+    "body": ["OFF_USER_MAILBOX(e_alias, \"e_label\")"],
+    "description": "USER_MAILBOX office icon"
+  },
+
+  "OFF_VIDEO_WORKLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-video_workload", "OFF_VIDEO_WORKLOAD"],
+    "body": ["OFF_VIDEO_WORKLOAD(e_alias, \"e_label\")"],
+    "description": "VIDEO_WORKLOAD office icon"
+  },
+
+  "OFF_VOICE_MAIL_PREVIEW_PARTNER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voice_mail_preview_partner", "OFF_VOICE_MAIL_PREVIEW_PARTNER"],
+    "body": ["OFF_VOICE_MAIL_PREVIEW_PARTNER(e_alias, \"e_label\")"],
+    "description": "VOICE_MAIL_PREVIEW_PARTNER office icon"
+  },
+
+  "OFF_VOICE_WORKLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voice_workload", "OFF_VOICE_WORKLOAD"],
+    "body": ["OFF_VOICE_WORKLOAD(e_alias, \"e_label\")"],
+    "description": "VOICE_WORKLOAD office icon"
+  },
+
+  "OFF_VOIP_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voip_gateway", "OFF_VOIP_GATEWAY"],
+    "body": ["OFF_VOIP_GATEWAY(e_alias, \"e_label\")"],
+    "description": "VOIP_GATEWAY office icon"
+  },
+
+  "OFF_WATCHER_NODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-watcher_node", "OFF_WATCHER_NODE"],
+    "body": ["OFF_WATCHER_NODE(e_alias, \"e_label\")"],
+    "description": "WATCHER_NODE office icon"
+  },
+
+  "OFF_XMPP_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-xmpp_service", "OFF_XMPP_SERVICE"],
+    "body": ["OFF_XMPP_SERVICE(e_alias, \"e_label\")"],
+    "description": "XMPP_SERVICE office icon"
+  },
+
+  "OFF_ADDRESS_BOOK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-address_book", "OFF_ADDRESS_BOOK"],
+    "body": ["OFF_ADDRESS_BOOK(e_alias, \"e_label\")"],
+    "description": "ADDRESS_BOOK office icon"
+  },
+
+  "OFF_ANTI_SPAM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-anti_spam", "OFF_ANTI_SPAM"],
+    "body": ["OFF_ANTI_SPAM(e_alias, \"e_label\")"],
+    "description": "ANTI_SPAM office icon"
+  },
+
+  "OFF_APP_FOR_OFFICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-app_for_office", "OFF_APP_FOR_OFFICE"],
+    "body": ["OFF_APP_FOR_OFFICE(e_alias, \"e_label\")"],
+    "description": "APP_FOR_OFFICE office icon"
+  },
+
+  "OFF_APP_FOR_SHAREPOINT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-app_for_sharepoint", "OFF_APP_FOR_SHAREPOINT"],
+    "body": ["OFF_APP_FOR_SHAREPOINT(e_alias, \"e_label\")"],
+    "description": "APP_FOR_SHAREPOINT office icon"
+  },
+
+  "OFF_APP_PART(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-app_part", "OFF_APP_PART"],
+    "body": ["OFF_APP_PART(e_alias, \"e_label\")"],
+    "description": "APP_PART office icon"
+  },
+
+  "OFF_APPLICATION_ANDROID(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_android", "OFF_APPLICATION_ANDROID"],
+    "body": ["OFF_APPLICATION_ANDROID(e_alias, \"e_label\")"],
+    "description": "APPLICATION_ANDROID office icon"
+  },
+
+  "OFF_APPLICATION_GENERIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_generic", "OFF_APPLICATION_GENERIC"],
+    "body": ["OFF_APPLICATION_GENERIC(e_alias, \"e_label\")"],
+    "description": "APPLICATION_GENERIC office icon"
+  },
+
+  "OFF_APPLICATION_HYBRID(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_hybrid", "OFF_APPLICATION_HYBRID"],
+    "body": ["OFF_APPLICATION_HYBRID(e_alias, \"e_label\")"],
+    "description": "APPLICATION_HYBRID office icon"
+  },
+
+  "OFF_APPLICATION_IOS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_ios", "OFF_APPLICATION_IOS"],
+    "body": ["OFF_APPLICATION_IOS(e_alias, \"e_label\")"],
+    "description": "APPLICATION_IOS office icon"
+  },
+
+  "OFF_APPLICATION_WEB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_web", "OFF_APPLICATION_WEB"],
+    "body": ["OFF_APPLICATION_WEB(e_alias, \"e_label\")"],
+    "description": "APPLICATION_WEB office icon"
+  },
+
+  "OFF_APPLICATION_WINDOWS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_windows", "OFF_APPLICATION_WINDOWS"],
+    "body": ["OFF_APPLICATION_WINDOWS(e_alias, \"e_label\")"],
+    "description": "APPLICATION_WINDOWS office icon"
+  },
+
+  "OFF_ARCHIVE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-archive", "OFF_ARCHIVE"],
+    "body": ["OFF_ARCHIVE(e_alias, \"e_label\")"],
+    "description": "ARCHIVE office icon"
+  },
+
+  "OFF_ATTACHMENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-attachment", "OFF_ATTACHMENT"],
+    "body": ["OFF_ATTACHMENT(e_alias, \"e_label\")"],
+    "description": "ATTACHMENT office icon"
+  },
+
+  "OFF_BACKUP_LOCAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-backup_local", "OFF_BACKUP_LOCAL"],
+    "body": ["OFF_BACKUP_LOCAL(e_alias, \"e_label\")"],
+    "description": "BACKUP_LOCAL office icon"
+  },
+
+  "OFF_BACKUP_ONLINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-backup_online", "OFF_BACKUP_ONLINE"],
+    "body": ["OFF_BACKUP_ONLINE(e_alias, \"e_label\")"],
+    "description": "BACKUP_ONLINE office icon"
+  },
+
+  "OFF_BANDWIDTH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-bandwidth", "OFF_BANDWIDTH"],
+    "body": ["OFF_BANDWIDTH(e_alias, \"e_label\")"],
+    "description": "BANDWIDTH office icon"
+  },
+
+  "OFF_BANDWIDTH_CALCULATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-bandwidth_calculator", "OFF_BANDWIDTH_CALCULATOR"],
+    "body": ["OFF_BANDWIDTH_CALCULATOR(e_alias, \"e_label\")"],
+    "description": "BANDWIDTH_CALCULATOR office icon"
+  },
+
+  "OFF_BEST_PRACTICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-best_practices", "OFF_BEST_PRACTICES"],
+    "body": ["OFF_BEST_PRACTICES(e_alias, \"e_label\")"],
+    "description": "BEST_PRACTICES office icon"
+  },
+
+  "OFF_BOOK_JOURNAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-book_journal", "OFF_BOOK_JOURNAL"],
+    "body": ["OFF_BOOK_JOURNAL(e_alias, \"e_label\")"],
+    "description": "BOOK_JOURNAL office icon"
+  },
+
+  "OFF_CALCULATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-calculator", "OFF_CALCULATOR"],
+    "body": ["OFF_CALCULATOR(e_alias, \"e_label\")"],
+    "description": "CALCULATOR office icon"
+  },
+
+  "OFF_CALENDAR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-calendar", "OFF_CALENDAR"],
+    "body": ["OFF_CALENDAR(e_alias, \"e_label\")"],
+    "description": "CALENDAR office icon"
+  },
+
+  "OFF_CLIPBOARD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-clipboard", "OFF_CLIPBOARD"],
+    "body": ["OFF_CLIPBOARD(e_alias, \"e_label\")"],
+    "description": "CLIPBOARD office icon"
+  },
+
+  "OFF_CLOCK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-clock", "OFF_CLOCK"],
+    "body": ["OFF_CLOCK(e_alias, \"e_label\")"],
+    "description": "CLOCK office icon"
+  },
+
+  "OFF_COLUMN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-column", "OFF_COLUMN"],
+    "body": ["OFF_COLUMN(e_alias, \"e_label\")"],
+    "description": "COLUMN office icon"
+  },
+
+  "OFF_CONNECTOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-connector", "OFF_CONNECTOR"],
+    "body": ["OFF_CONNECTOR(e_alias, \"e_label\")"],
+    "description": "CONNECTOR office icon"
+  },
+
+  "OFF_CONTACTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-contacts", "OFF_CONTACTS"],
+    "body": ["OFF_CONTACTS(e_alias, \"e_label\")"],
+    "description": "CONTACTS office icon"
+  },
+
+  "OFF_CONTENT_TYPE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-content_type", "OFF_CONTENT_TYPE"],
+    "body": ["OFF_CONTENT_TYPE(e_alias, \"e_label\")"],
+    "description": "CONTENT_TYPE office icon"
+  },
+
+  "OFF_CREDIT_CARD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-credit_card", "OFF_CREDIT_CARD"],
+    "body": ["OFF_CREDIT_CARD(e_alias, \"e_label\")"],
+    "description": "CREDIT_CARD office icon"
+  },
+
+  "OFF_DOCUMENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-document", "OFF_DOCUMENT"],
+    "body": ["OFF_DOCUMENT(e_alias, \"e_label\")"],
+    "description": "DOCUMENT office icon"
+  },
+
+  "OFF_DOCUMENT_BLANK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-document_blank", "OFF_DOCUMENT_BLANK"],
+    "body": ["OFF_DOCUMENT_BLANK(e_alias, \"e_label\")"],
+    "description": "DOCUMENT_BLANK office icon"
+  },
+
+  "OFF_DOCUMENT_SHARED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-document_shared", "OFF_DOCUMENT_SHARED"],
+    "body": ["OFF_DOCUMENT_SHARED(e_alias, \"e_label\")"],
+    "description": "DOCUMENT_SHARED office icon"
+  },
+
+  "OFF_DOCUMENTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-documents", "OFF_DOCUMENTS"],
+    "body": ["OFF_DOCUMENTS(e_alias, \"e_label\")"],
+    "description": "DOCUMENTS office icon"
+  },
+
+  "OFF_DOCUMENTS_SHARED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-documents_shared", "OFF_DOCUMENTS_SHARED"],
+    "body": ["OFF_DOCUMENTS_SHARED(e_alias, \"e_label\")"],
+    "description": "DOCUMENTS_SHARED office icon"
+  },
+
+  "OFF_DOWNLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-download", "OFF_DOWNLOAD"],
+    "body": ["OFF_DOWNLOAD(e_alias, \"e_label\")"],
+    "description": "DOWNLOAD office icon"
+  },
+
+  "OFF_EMAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email", "OFF_EMAIL"],
+    "body": ["OFF_EMAIL(e_alias, \"e_label\")"],
+    "description": "EMAIL office icon"
+  },
+
+  "OFF_EMAIL_APPROVED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_approved", "OFF_EMAIL_APPROVED"],
+    "body": ["OFF_EMAIL_APPROVED(e_alias, \"e_label\")"],
+    "description": "EMAIL_APPROVED office icon"
+  },
+
+  "OFF_EMAIL_EXPIRED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_expired", "OFF_EMAIL_EXPIRED"],
+    "body": ["OFF_EMAIL_EXPIRED(e_alias, \"e_label\")"],
+    "description": "EMAIL_EXPIRED office icon"
+  },
+
+  "OFF_EMAIL_REJECTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_rejected", "OFF_EMAIL_REJECTED"],
+    "body": ["OFF_EMAIL_REJECTED(e_alias, \"e_label\")"],
+    "description": "EMAIL_REJECTED office icon"
+  },
+
+  "OFF_FILE_KEY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-file_key", "OFF_FILE_KEY"],
+    "body": ["OFF_FILE_KEY(e_alias, \"e_label\")"],
+    "description": "FILE_KEY office icon"
+  },
+
+  "OFF_FIREWALL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-firewall", "OFF_FIREWALL"],
+    "body": ["OFF_FIREWALL(e_alias, \"e_label\")"],
+    "description": "FIREWALL office icon"
+  },
+
+  "OFF_FIREWALL_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-firewall_blue", "OFF_FIREWALL_BLUE"],
+    "body": ["OFF_FIREWALL_BLUE(e_alias, \"e_label\")"],
+    "description": "FIREWALL_BLUE office icon"
+  },
+
+  "OFF_FIREWALL_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-firewall_ghosted", "OFF_FIREWALL_GHOSTED"],
+    "body": ["OFF_FIREWALL_GHOSTED(e_alias, \"e_label\")"],
+    "description": "FIREWALL_GHOSTED office icon"
+  },
+
+  "OFF_FIREWALL_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-firewall_green", "OFF_FIREWALL_GREEN"],
+    "body": ["OFF_FIREWALL_GREEN(e_alias, \"e_label\")"],
+    "description": "FIREWALL_GREEN office icon"
+  },
+
+  "OFF_FIREWALL_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-firewall_orange", "OFF_FIREWALL_ORANGE"],
+    "body": ["OFF_FIREWALL_ORANGE(e_alias, \"e_label\")"],
+    "description": "FIREWALL_ORANGE office icon"
+  },
+
+  "OFF_FOLDER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder", "OFF_FOLDER"],
+    "body": ["OFF_FOLDER(e_alias, \"e_label\")"],
+    "description": "FOLDER office icon"
+  },
+
+  "OFF_FOLDER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_blue", "OFF_FOLDER_BLUE"],
+    "body": ["OFF_FOLDER_BLUE(e_alias, \"e_label\")"],
+    "description": "FOLDER_BLUE office icon"
+  },
+
+  "OFF_FOLDER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_ghosted", "OFF_FOLDER_GHOSTED"],
+    "body": ["OFF_FOLDER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "FOLDER_GHOSTED office icon"
+  },
+
+  "OFF_FOLDER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_green", "OFF_FOLDER_GREEN"],
+    "body": ["OFF_FOLDER_GREEN(e_alias, \"e_label\")"],
+    "description": "FOLDER_GREEN office icon"
+  },
+
+  "OFF_FOLDER_OPEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_open", "OFF_FOLDER_OPEN"],
+    "body": ["OFF_FOLDER_OPEN(e_alias, \"e_label\")"],
+    "description": "FOLDER_OPEN office icon"
+  },
+
+  "OFF_FOLDER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_orange", "OFF_FOLDER_ORANGE"],
+    "body": ["OFF_FOLDER_ORANGE(e_alias, \"e_label\")"],
+    "description": "FOLDER_ORANGE office icon"
+  },
+
+  "OFF_FOLDER_PUBLIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_public", "OFF_FOLDER_PUBLIC"],
+    "body": ["OFF_FOLDER_PUBLIC(e_alias, \"e_label\")"],
+    "description": "FOLDER_PUBLIC office icon"
+  },
+
+  "OFF_FOLDER_SHARED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folder_shared", "OFF_FOLDER_SHARED"],
+    "body": ["OFF_FOLDER_SHARED(e_alias, \"e_label\")"],
+    "description": "FOLDER_SHARED office icon"
+  },
+
+  "OFF_FOLDERS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-folders", "OFF_FOLDERS"],
+    "body": ["OFF_FOLDERS(e_alias, \"e_label\")"],
+    "description": "FOLDERS office icon"
+  },
+
+  "OFF_FORM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-form", "OFF_FORM"],
+    "body": ["OFF_FORM(e_alias, \"e_label\")"],
+    "description": "FORM office icon"
+  },
+
+  "OFF_GET_STARTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-get_started", "OFF_GET_STARTED"],
+    "body": ["OFF_GET_STARTED(e_alias, \"e_label\")"],
+    "description": "GET_STARTED office icon"
+  },
+
+  "OFF_GLOBE_INTERNET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-globe_internet", "OFF_GLOBE_INTERNET"],
+    "body": ["OFF_GLOBE_INTERNET(e_alias, \"e_label\")"],
+    "description": "GLOBE_INTERNET office icon"
+  },
+
+  "OFF_HELP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-help", "OFF_HELP"],
+    "body": ["OFF_HELP(e_alias, \"e_label\")"],
+    "description": "HELP office icon"
+  },
+
+  "OFF_HOME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home", "OFF_HOME"],
+    "body": ["OFF_HOME(e_alias, \"e_label\")"],
+    "description": "HOME office icon"
+  },
+
+  "OFF_HOME_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_blue", "OFF_HOME_BLUE"],
+    "body": ["OFF_HOME_BLUE(e_alias, \"e_label\")"],
+    "description": "HOME_BLUE office icon"
+  },
+
+  "OFF_HOME_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_ghosted", "OFF_HOME_GHOSTED"],
+    "body": ["OFF_HOME_GHOSTED(e_alias, \"e_label\")"],
+    "description": "HOME_GHOSTED office icon"
+  },
+
+  "OFF_HOME_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_green", "OFF_HOME_GREEN"],
+    "body": ["OFF_HOME_GREEN(e_alias, \"e_label\")"],
+    "description": "HOME_GREEN office icon"
+  },
+
+  "OFF_HOME_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_orange", "OFF_HOME_ORANGE"],
+    "body": ["OFF_HOME_ORANGE(e_alias, \"e_label\")"],
+    "description": "HOME_ORANGE office icon"
+  },
+
+  "OFF_HOME_PAGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_page", "OFF_HOME_PAGE"],
+    "body": ["OFF_HOME_PAGE(e_alias, \"e_label\")"],
+    "description": "HOME_PAGE office icon"
+  },
+
+  "OFF_HOME_PAGE_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_page_blue", "OFF_HOME_PAGE_BLUE"],
+    "body": ["OFF_HOME_PAGE_BLUE(e_alias, \"e_label\")"],
+    "description": "HOME_PAGE_BLUE office icon"
+  },
+
+  "OFF_HOME_PAGE_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_page_ghosted", "OFF_HOME_PAGE_GHOSTED"],
+    "body": ["OFF_HOME_PAGE_GHOSTED(e_alias, \"e_label\")"],
+    "description": "HOME_PAGE_GHOSTED office icon"
+  },
+
+  "OFF_HOME_PAGE_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_page_green", "OFF_HOME_PAGE_GREEN"],
+    "body": ["OFF_HOME_PAGE_GREEN(e_alias, \"e_label\")"],
+    "description": "HOME_PAGE_GREEN office icon"
+  },
+
+  "OFF_HOME_PAGE_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-home_page_orange", "OFF_HOME_PAGE_ORANGE"],
+    "body": ["OFF_HOME_PAGE_ORANGE(e_alias, \"e_label\")"],
+    "description": "HOME_PAGE_ORANGE office icon"
+  },
+
+  "OFF_HYBRID(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-hybrid", "OFF_HYBRID"],
+    "body": ["OFF_HYBRID(e_alias, \"e_label\")"],
+    "description": "HYBRID office icon"
+  },
+
+  "OFF_INPUT_OUTPUT_FILTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-input_output_filter", "OFF_INPUT_OUTPUT_FILTER"],
+    "body": ["OFF_INPUT_OUTPUT_FILTER(e_alias, \"e_label\")"],
+    "description": "INPUT_OUTPUT_FILTER office icon"
+  },
+
+  "OFF_INSTALL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-install", "OFF_INSTALL"],
+    "body": ["OFF_INSTALL(e_alias, \"e_label\")"],
+    "description": "INSTALL office icon"
+  },
+
+  "OFF_INTEGRATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-integration", "OFF_INTEGRATION"],
+    "body": ["OFF_INTEGRATION(e_alias, \"e_label\")"],
+    "description": "INTEGRATION office icon"
+  },
+
+  "OFF_LAB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lab", "OFF_LAB"],
+    "body": ["OFF_LAB(e_alias, \"e_label\")"],
+    "description": "LAB office icon"
+  },
+
+  "OFF_LEARN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-learn", "OFF_LEARN"],
+    "body": ["OFF_LEARN(e_alias, \"e_label\")"],
+    "description": "LEARN office icon"
+  },
+
+  "OFF_LICENSE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-license", "OFF_LICENSE"],
+    "body": ["OFF_LICENSE(e_alias, \"e_label\")"],
+    "description": "LICENSE office icon"
+  },
+
+  "OFF_LINK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-link", "OFF_LINK"],
+    "body": ["OFF_LINK(e_alias, \"e_label\")"],
+    "description": "LINK office icon"
+  },
+
+  "OFF_LIST_LIBRARY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-list_library", "OFF_LIST_LIBRARY"],
+    "body": ["OFF_LIST_LIBRARY(e_alias, \"e_label\")"],
+    "description": "LIST_LIBRARY office icon"
+  },
+
+  "OFF_MAILBOX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mailbox", "OFF_MAILBOX"],
+    "body": ["OFF_MAILBOX(e_alias, \"e_label\")"],
+    "description": "MAILBOX office icon"
+  },
+
+  "OFF_MAILBOX2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mailbox2", "OFF_MAILBOX2"],
+    "body": ["OFF_MAILBOX2(e_alias, \"e_label\")"],
+    "description": "MAILBOX2 office icon"
+  },
+
+  "OFF_MAINTENANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-maintenance", "OFF_MAINTENANCE"],
+    "body": ["OFF_MAINTENANCE(e_alias, \"e_label\")"],
+    "description": "MAINTENANCE office icon"
+  },
+
+  "OFF_MARKETPLACE_SHOPPING_BAG(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-marketplace_shopping_bag", "OFF_MARKETPLACE_SHOPPING_BAG"],
+    "body": ["OFF_MARKETPLACE_SHOPPING_BAG(e_alias, \"e_label\")"],
+    "description": "MARKETPLACE_SHOPPING_BAG office icon"
+  },
+
+  "OFF_MEETS_REQUIREMENTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-meets_requirements", "OFF_MEETS_REQUIREMENTS"],
+    "body": ["OFF_MEETS_REQUIREMENTS(e_alias, \"e_label\")"],
+    "description": "MEETS_REQUIREMENTS office icon"
+  },
+
+  "OFF_MIGRATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-migration", "OFF_MIGRATION"],
+    "body": ["OFF_MIGRATION(e_alias, \"e_label\")"],
+    "description": "MIGRATION office icon"
+  },
+
+  "OFF_MOES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-moes", "OFF_MOES"],
+    "body": ["OFF_MOES(e_alias, \"e_label\")"],
+    "description": "MOES office icon"
+  },
+
+  "OFF_NAVIGATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-navigation", "OFF_NAVIGATION"],
+    "body": ["OFF_NAVIGATION(e_alias, \"e_label\")"],
+    "description": "NAVIGATION office icon"
+  },
+
+  "OFF_NODE_GENERIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-node_generic", "OFF_NODE_GENERIC"],
+    "body": ["OFF_NODE_GENERIC(e_alias, \"e_label\")"],
+    "description": "NODE_GENERIC office icon"
+  },
+
+  "OFF_NODE_GENERIC_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-node_generic_blue", "OFF_NODE_GENERIC_BLUE"],
+    "body": ["OFF_NODE_GENERIC_BLUE(e_alias, \"e_label\")"],
+    "description": "NODE_GENERIC_BLUE office icon"
+  },
+
+  "OFF_NODE_GENERIC_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-node_generic_ghosted", "OFF_NODE_GENERIC_GHOSTED"],
+    "body": ["OFF_NODE_GENERIC_GHOSTED(e_alias, \"e_label\")"],
+    "description": "NODE_GENERIC_GHOSTED office icon"
+  },
+
+  "OFF_NODE_GENERIC_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-node_generic_green", "OFF_NODE_GENERIC_GREEN"],
+    "body": ["OFF_NODE_GENERIC_GREEN(e_alias, \"e_label\")"],
+    "description": "NODE_GENERIC_GREEN office icon"
+  },
+
+  "OFF_NODE_GENERIC_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-node_generic_orange", "OFF_NODE_GENERIC_ORANGE"],
+    "body": ["OFF_NODE_GENERIC_ORANGE(e_alias, \"e_label\")"],
+    "description": "NODE_GENERIC_ORANGE office icon"
+  },
+
+  "OFF_OFFICE_INSTALLED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-office_installed", "OFF_OFFICE_INSTALLED"],
+    "body": ["OFF_OFFICE_INSTALLED(e_alias, \"e_label\")"],
+    "description": "OFFICE_INSTALLED office icon"
+  },
+
+  "OFF_ON_PREMISES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-on_premises", "OFF_ON_PREMISES"],
+    "body": ["OFF_ON_PREMISES(e_alias, \"e_label\")"],
+    "description": "ON_PREMISES office icon"
+  },
+
+  "OFF_ON_PREMISES_DIRECTORY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-on_premises_directory", "OFF_ON_PREMISES_DIRECTORY"],
+    "body": ["OFF_ON_PREMISES_DIRECTORY(e_alias, \"e_label\")"],
+    "description": "ON_PREMISES_DIRECTORY office icon"
+  },
+
+  "OFF_PHISHING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-phishing", "OFF_PHISHING"],
+    "body": ["OFF_PHISHING(e_alias, \"e_label\")"],
+    "description": "PHISHING office icon"
+  },
+
+  "OFF_PIN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-pin", "OFF_PIN"],
+    "body": ["OFF_PIN(e_alias, \"e_label\")"],
+    "description": "PIN office icon"
+  },
+
+  "OFF_PLATFORM_OPTIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-platform_options", "OFF_PLATFORM_OPTIONS"],
+    "body": ["OFF_PLATFORM_OPTIONS(e_alias, \"e_label\")"],
+    "description": "PLATFORM_OPTIONS office icon"
+  },
+
+  "OFF_PROPERTIES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-properties", "OFF_PROPERTIES"],
+    "body": ["OFF_PROPERTIES(e_alias, \"e_label\")"],
+    "description": "PROPERTIES office icon"
+  },
+
+  "OFF_PUBLISH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-publish", "OFF_PUBLISH"],
+    "body": ["OFF_PUBLISH(e_alias, \"e_label\")"],
+    "description": "PUBLISH office icon"
+  },
+
+  "OFF_REMOTE_ACCESS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-remote_access", "OFF_REMOTE_ACCESS"],
+    "body": ["OFF_REMOTE_ACCESS(e_alias, \"e_label\")"],
+    "description": "REMOTE_ACCESS office icon"
+  },
+
+  "OFF_SCRIPT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-script", "OFF_SCRIPT"],
+    "body": ["OFF_SCRIPT(e_alias, \"e_label\")"],
+    "description": "SCRIPT office icon"
+  },
+
+  "OFF_SEARCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-search", "OFF_SEARCH"],
+    "body": ["OFF_SEARCH(e_alias, \"e_label\")"],
+    "description": "SEARCH office icon"
+  },
+
+  "OFF_SERVICE_APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-service_application", "OFF_SERVICE_APPLICATION"],
+    "body": ["OFF_SERVICE_APPLICATION(e_alias, \"e_label\")"],
+    "description": "SERVICE_APPLICATION office icon"
+  },
+
+  "OFF_SETTINGS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-settings", "OFF_SETTINGS"],
+    "body": ["OFF_SETTINGS(e_alias, \"e_label\")"],
+    "description": "SETTINGS office icon"
+  },
+
+  "OFF_SETTINGS_OFFICE_365(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-settings_office_365", "OFF_SETTINGS_OFFICE_365"],
+    "body": ["OFF_SETTINGS_OFFICE_365(e_alias, \"e_label\")"],
+    "description": "SETTINGS_OFFICE_365 office icon"
+  },
+
+  "OFF_SIGN_UP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sign_up", "OFF_SIGN_UP"],
+    "body": ["OFF_SIGN_UP(e_alias, \"e_label\")"],
+    "description": "SIGN_UP office icon"
+  },
+
+  "OFF_SOUND_FILE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sound_file", "OFF_SOUND_FILE"],
+    "body": ["OFF_SOUND_FILE(e_alias, \"e_label\")"],
+    "description": "SOUND_FILE office icon"
+  },
+
+  "OFF_TASKS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-tasks", "OFF_TASKS"],
+    "body": ["OFF_TASKS(e_alias, \"e_label\")"],
+    "description": "TASKS office icon"
+  },
+
+  "OFF_TECHNICAL_DIAGRAM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-technical_diagram", "OFF_TECHNICAL_DIAGRAM"],
+    "body": ["OFF_TECHNICAL_DIAGRAM(e_alias, \"e_label\")"],
+    "description": "TECHNICAL_DIAGRAM office icon"
+  },
+
+  "OFF_UPGRADE_APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-upgrade_application", "OFF_UPGRADE_APPLICATION"],
+    "body": ["OFF_UPGRADE_APPLICATION(e_alias, \"e_label\")"],
+    "description": "UPGRADE_APPLICATION office icon"
+  },
+
+  "OFF_UPGRADE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-upgrade_server", "OFF_UPGRADE_SERVER"],
+    "body": ["OFF_UPGRADE_SERVER(e_alias, \"e_label\")"],
+    "description": "UPGRADE_SERVER office icon"
+  },
+
+  "OFF_UPGRADE_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-upgrade_site", "OFF_UPGRADE_SITE"],
+    "body": ["OFF_UPGRADE_SITE(e_alias, \"e_label\")"],
+    "description": "UPGRADE_SITE office icon"
+  },
+
+  "OFF_UPLOAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-upload", "OFF_UPLOAD"],
+    "body": ["OFF_UPLOAD(e_alias, \"e_label\")"],
+    "description": "UPLOAD office icon"
+  },
+
+  "OFF_VIDEO_PLAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-video_play", "OFF_VIDEO_PLAY"],
+    "body": ["OFF_VIDEO_PLAY(e_alias, \"e_label\")"],
+    "description": "VIDEO_PLAY office icon"
+  },
+
+  "OFF_VIEW_FORM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-view_form", "OFF_VIEW_FORM"],
+    "body": ["OFF_VIEW_FORM(e_alias, \"e_label\")"],
+    "description": "VIEW_FORM office icon"
+  },
+
+  "OFF_VOICEMAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voicemail", "OFF_VOICEMAIL"],
+    "body": ["OFF_VOICEMAIL(e_alias, \"e_label\")"],
+    "description": "VOICEMAIL office icon"
+  },
+
+  "OFF_VOICEMAIL_PREVIEW(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voicemail_preview", "OFF_VOICEMAIL_PREVIEW"],
+    "body": ["OFF_VOICEMAIL_PREVIEW(e_alias, \"e_label\")"],
+    "description": "VOICEMAIL_PREVIEW office icon"
+  },
+
+  "OFF_WALKTHROUGH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-walkthrough", "OFF_WALKTHROUGH"],
+    "body": ["OFF_WALKTHROUGH(e_alias, \"e_label\")"],
+    "description": "WALKTHROUGH office icon"
+  },
+
+  "OFF_WEB_CONFERENCING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_conferencing", "OFF_WEB_CONFERENCING"],
+    "body": ["OFF_WEB_CONFERENCING(e_alias, \"e_label\")"],
+    "description": "WEB_CONFERENCING office icon"
+  },
+
+  "OFF_WEB_PAGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_page", "OFF_WEB_PAGE"],
+    "body": ["OFF_WEB_PAGE(e_alias, \"e_label\")"],
+    "description": "WEB_PAGE office icon"
+  },
+
+  "OFF_WEB_PART(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_part", "OFF_WEB_PART"],
+    "body": ["OFF_WEB_PART(e_alias, \"e_label\")"],
+    "description": "WEB_PART office icon"
+  },
+
+  "OFF_WEB_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_services", "OFF_WEB_SERVICES"],
+    "body": ["OFF_WEB_SERVICES(e_alias, \"e_label\")"],
+    "description": "WEB_SERVICES office icon"
+  },
+
+  "OFF_WEBSITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-website", "OFF_WEBSITE"],
+    "body": ["OFF_WEBSITE(e_alias, \"e_label\")"],
+    "description": "WEBSITE office icon"
+  },
+
+  "OFF_WHATS_NEW(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-whats_new", "OFF_WHATS_NEW"],
+    "body": ["OFF_WHATS_NEW(e_alias, \"e_label\")"],
+    "description": "WHATS_NEW office icon"
+  },
+
+  "OFF_WINDOWS_POWERSHELL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-windows_powershell", "OFF_WINDOWS_POWERSHELL"],
+    "body": ["OFF_WINDOWS_POWERSHELL(e_alias, \"e_label\")"],
+    "description": "WINDOWS_POWERSHELL office icon"
+  },
+
+  "OFF_WRITING_PEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-writing_pen", "OFF_WRITING_PEN"],
+    "body": ["OFF_WRITING_PEN(e_alias, \"e_label\")"],
+    "description": "WRITING_PEN office icon"
+  },
+
+  "OFF_WRITING_PENCIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-writing_pencil", "OFF_WRITING_PENCIL"],
+    "body": ["OFF_WRITING_PENCIL(e_alias, \"e_label\")"],
+    "description": "WRITING_PENCIL office icon"
+  },
+
+  "OFF_ADDRESS_BOOK_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-address_book_store", "OFF_ADDRESS_BOOK_STORE"],
+    "body": ["OFF_ADDRESS_BOOK_STORE(e_alias, \"e_label\")"],
+    "description": "ADDRESS_BOOK_STORE office icon"
+  },
+
+  "OFF_APPLICATION_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_store", "OFF_APPLICATION_STORE"],
+    "body": ["OFF_APPLICATION_STORE(e_alias, \"e_label\")"],
+    "description": "APPLICATION_STORE office icon"
+  },
+
+  "OFF_DATABASE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database", "OFF_DATABASE"],
+    "body": ["OFF_DATABASE(e_alias, \"e_label\")"],
+    "description": "DATABASE office icon"
+  },
+
+  "OFF_DATABASE_AVAILABILITY_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_availability_group", "OFF_DATABASE_AVAILABILITY_GROUP"],
+    "body": ["OFF_DATABASE_AVAILABILITY_GROUP(e_alias, \"e_label\")"],
+    "description": "DATABASE_AVAILABILITY_GROUP office icon"
+  },
+
+  "OFF_DATABASE_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_blue", "OFF_DATABASE_BLUE"],
+    "body": ["OFF_DATABASE_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_BLUE office icon"
+  },
+
+  "OFF_DATABASE_CUBE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_cube", "OFF_DATABASE_CUBE"],
+    "body": ["OFF_DATABASE_CUBE(e_alias, \"e_label\")"],
+    "description": "DATABASE_CUBE office icon"
+  },
+
+  "OFF_DATABASE_CUBE_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_cube_blue", "OFF_DATABASE_CUBE_BLUE"],
+    "body": ["OFF_DATABASE_CUBE_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_CUBE_BLUE office icon"
+  },
+
+  "OFF_DATABASE_CUBE_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_cube_ghosted", "OFF_DATABASE_CUBE_GHOSTED"],
+    "body": ["OFF_DATABASE_CUBE_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_CUBE_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_CUBE_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_cube_green", "OFF_DATABASE_CUBE_GREEN"],
+    "body": ["OFF_DATABASE_CUBE_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_CUBE_GREEN office icon"
+  },
+
+  "OFF_DATABASE_CUBE_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_cube_orange", "OFF_DATABASE_CUBE_ORANGE"],
+    "body": ["OFF_DATABASE_CUBE_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_CUBE_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_ghosted", "OFF_DATABASE_GHOSTED"],
+    "body": ["OFF_DATABASE_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_green", "OFF_DATABASE_GREEN"],
+    "body": ["OFF_DATABASE_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_GREEN office icon"
+  },
+
+  "OFF_DATABASE_MINI_1(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_1", "OFF_DATABASE_MINI_1"],
+    "body": ["OFF_DATABASE_MINI_1(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_1 office icon"
+  },
+
+  "OFF_DATABASE_MINI_1_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_1_blue", "OFF_DATABASE_MINI_1_BLUE"],
+    "body": ["OFF_DATABASE_MINI_1_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_1_BLUE office icon"
+  },
+
+  "OFF_DATABASE_MINI_1_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_1_ghosted", "OFF_DATABASE_MINI_1_GHOSTED"],
+    "body": ["OFF_DATABASE_MINI_1_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_1_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_MINI_1_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_1_green", "OFF_DATABASE_MINI_1_GREEN"],
+    "body": ["OFF_DATABASE_MINI_1_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_1_GREEN office icon"
+  },
+
+  "OFF_DATABASE_MINI_1_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_1_orange", "OFF_DATABASE_MINI_1_ORANGE"],
+    "body": ["OFF_DATABASE_MINI_1_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_1_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_MINI_2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_2", "OFF_DATABASE_MINI_2"],
+    "body": ["OFF_DATABASE_MINI_2(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_2 office icon"
+  },
+
+  "OFF_DATABASE_MINI_2_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_2_blue", "OFF_DATABASE_MINI_2_BLUE"],
+    "body": ["OFF_DATABASE_MINI_2_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_2_BLUE office icon"
+  },
+
+  "OFF_DATABASE_MINI_2_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_2_ghosted", "OFF_DATABASE_MINI_2_GHOSTED"],
+    "body": ["OFF_DATABASE_MINI_2_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_2_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_MINI_2_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_2_green", "OFF_DATABASE_MINI_2_GREEN"],
+    "body": ["OFF_DATABASE_MINI_2_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_2_GREEN office icon"
+  },
+
+  "OFF_DATABASE_MINI_2_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_2_orange", "OFF_DATABASE_MINI_2_ORANGE"],
+    "body": ["OFF_DATABASE_MINI_2_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_2_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_MINI_3(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_3", "OFF_DATABASE_MINI_3"],
+    "body": ["OFF_DATABASE_MINI_3(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_3 office icon"
+  },
+
+  "OFF_DATABASE_MINI_3_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_3_blue", "OFF_DATABASE_MINI_3_BLUE"],
+    "body": ["OFF_DATABASE_MINI_3_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_3_BLUE office icon"
+  },
+
+  "OFF_DATABASE_MINI_3_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_3_ghosted", "OFF_DATABASE_MINI_3_GHOSTED"],
+    "body": ["OFF_DATABASE_MINI_3_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_3_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_MINI_3_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_3_green", "OFF_DATABASE_MINI_3_GREEN"],
+    "body": ["OFF_DATABASE_MINI_3_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_3_GREEN office icon"
+  },
+
+  "OFF_DATABASE_MINI_3_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mini_3_orange", "OFF_DATABASE_MINI_3_ORANGE"],
+    "body": ["OFF_DATABASE_MINI_3_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MINI_3_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_MIRROR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mirror", "OFF_DATABASE_MIRROR"],
+    "body": ["OFF_DATABASE_MIRROR(e_alias, \"e_label\")"],
+    "description": "DATABASE_MIRROR office icon"
+  },
+
+  "OFF_DATABASE_MIRROR_WITNESS_NODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_mirror_witness_node", "OFF_DATABASE_MIRROR_WITNESS_NODE"],
+    "body": ["OFF_DATABASE_MIRROR_WITNESS_NODE(e_alias, \"e_label\")"],
+    "description": "DATABASE_MIRROR_WITNESS_NODE office icon"
+  },
+
+  "OFF_DATABASE_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_orange", "OFF_DATABASE_ORANGE"],
+    "body": ["OFF_DATABASE_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_PARTITION_2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_partition_2", "OFF_DATABASE_PARTITION_2"],
+    "body": ["OFF_DATABASE_PARTITION_2(e_alias, \"e_label\")"],
+    "description": "DATABASE_PARTITION_2 office icon"
+  },
+
+  "OFF_DATABASE_PARTITION_3(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_partition_3", "OFF_DATABASE_PARTITION_3"],
+    "body": ["OFF_DATABASE_PARTITION_3(e_alias, \"e_label\")"],
+    "description": "DATABASE_PARTITION_3 office icon"
+  },
+
+  "OFF_DATABASE_PARTITION_4(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_partition_4", "OFF_DATABASE_PARTITION_4"],
+    "body": ["OFF_DATABASE_PARTITION_4(e_alias, \"e_label\")"],
+    "description": "DATABASE_PARTITION_4 office icon"
+  },
+
+  "OFF_DATABASE_PARTITION_5(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_partition_5", "OFF_DATABASE_PARTITION_5"],
+    "body": ["OFF_DATABASE_PARTITION_5(e_alias, \"e_label\")"],
+    "description": "DATABASE_PARTITION_5 office icon"
+  },
+
+  "OFF_DATABASE_PUBLIC_FOLDER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_public_folder", "OFF_DATABASE_PUBLIC_FOLDER"],
+    "body": ["OFF_DATABASE_PUBLIC_FOLDER(e_alias, \"e_label\")"],
+    "description": "DATABASE_PUBLIC_FOLDER office icon"
+  },
+
+  "OFF_DATABASE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server", "OFF_DATABASE_SERVER"],
+    "body": ["OFF_DATABASE_SERVER(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER office icon"
+  },
+
+  "OFF_DATABASE_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_blue", "OFF_DATABASE_SERVER_BLUE"],
+    "body": ["OFF_DATABASE_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_BLUE office icon"
+  },
+
+  "OFF_DATABASE_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_ghosted", "OFF_DATABASE_SERVER_GHOSTED"],
+    "body": ["OFF_DATABASE_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_green", "OFF_DATABASE_SERVER_GREEN"],
+    "body": ["OFF_DATABASE_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_GREEN office icon"
+  },
+
+  "OFF_DATABASE_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_orange", "OFF_DATABASE_SERVER_ORANGE"],
+    "body": ["OFF_DATABASE_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_ORANGE office icon"
+  },
+
+  "OFF_MAILBOX_DATABASE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mailbox_database", "OFF_MAILBOX_DATABASE"],
+    "body": ["OFF_MAILBOX_DATABASE(e_alias, \"e_label\")"],
+    "description": "MAILBOX_DATABASE office icon"
+  },
+
+  "OFF_MONITORING_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-monitoring_store", "OFF_MONITORING_STORE"],
+    "body": ["OFF_MONITORING_STORE(e_alias, \"e_label\")"],
+    "description": "MONITORING_STORE office icon"
+  },
+
+  "OFF_UNIFIED_CONTACT_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-unified_contact_store", "OFF_UNIFIED_CONTACT_STORE"],
+    "body": ["OFF_UNIFIED_CONTACT_STORE(e_alias, \"e_label\")"],
+    "description": "UNIFIED_CONTACT_STORE office icon"
+  },
+
+  "OFF_WEB_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_store", "OFF_WEB_STORE"],
+    "body": ["OFF_WEB_STORE(e_alias, \"e_label\")"],
+    "description": "WEB_STORE office icon"
+  },
+
+  "OFF_CD_DVD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cd_dvd", "OFF_CD_DVD"],
+    "body": ["OFF_CD_DVD(e_alias, \"e_label\")"],
+    "description": "CD_DVD office icon"
+  },
+
+  "OFF_CELL_PHONE_ANDROID_PROPORTIONAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_android_proportional", "OFF_CELL_PHONE_ANDROID_PROPORTIONAL"],
+    "body": ["OFF_CELL_PHONE_ANDROID_PROPORTIONAL(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_ANDROID_PROPORTIONAL office icon"
+  },
+
+  "OFF_CELL_PHONE_ANDROID_STAND_ALONE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_android_stand_alone", "OFF_CELL_PHONE_ANDROID_STAND_ALONE"],
+    "body": ["OFF_CELL_PHONE_ANDROID_STAND_ALONE(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_ANDROID_STAND_ALONE office icon"
+  },
+
+  "OFF_CELL_PHONE_GENERIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_generic", "OFF_CELL_PHONE_GENERIC"],
+    "body": ["OFF_CELL_PHONE_GENERIC(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_GENERIC office icon"
+  },
+
+  "OFF_CELL_PHONE_IPHONE_PROPORTIONAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_iphone_proportional", "OFF_CELL_PHONE_IPHONE_PROPORTIONAL"],
+    "body": ["OFF_CELL_PHONE_IPHONE_PROPORTIONAL(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_IPHONE_PROPORTIONAL office icon"
+  },
+
+  "OFF_CELL_PHONE_IPHONE_STAND_ALONE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_iphone_stand_alone", "OFF_CELL_PHONE_IPHONE_STAND_ALONE"],
+    "body": ["OFF_CELL_PHONE_IPHONE_STAND_ALONE(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_IPHONE_STAND_ALONE office icon"
+  },
+
+  "OFF_CELL_PHONE_WINDOWS_PHONE_PROPORTIONAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_windows_phone_proportional", "OFF_CELL_PHONE_WINDOWS_PHONE_PROPORTIONAL"],
+    "body": ["OFF_CELL_PHONE_WINDOWS_PHONE_PROPORTIONAL(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_WINDOWS_PHONE_PROPORTIONAL office icon"
+  },
+
+  "OFF_CELL_PHONE_WINDOWS_PHONE_STAND_ALONE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cell_phone_windows_phone_stand_alone", "OFF_CELL_PHONE_WINDOWS_PHONE_STAND_ALONE"],
+    "body": ["OFF_CELL_PHONE_WINDOWS_PHONE_STAND_ALONE(e_alias, \"e_label\")"],
+    "description": "CELL_PHONE_WINDOWS_PHONE_STAND_ALONE office icon"
+  },
+
+  "OFF_DATA_JACK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-data_jack", "OFF_DATA_JACK"],
+    "body": ["OFF_DATA_JACK(e_alias, \"e_label\")"],
+    "description": "DATA_JACK office icon"
+  },
+
+  "OFF_DEVICE_BLUETOOTH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_bluetooth", "OFF_DEVICE_BLUETOOTH"],
+    "body": ["OFF_DEVICE_BLUETOOTH(e_alias, \"e_label\")"],
+    "description": "DEVICE_BLUETOOTH office icon"
+  },
+
+  "OFF_DEVICE_FAX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_fax", "OFF_DEVICE_FAX"],
+    "body": ["OFF_DEVICE_FAX(e_alias, \"e_label\")"],
+    "description": "DEVICE_FAX office icon"
+  },
+
+  "OFF_DEVICE_HEADSET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_headset", "OFF_DEVICE_HEADSET"],
+    "body": ["OFF_DEVICE_HEADSET(e_alias, \"e_label\")"],
+    "description": "DEVICE_HEADSET office icon"
+  },
+
+  "OFF_DEVICE_LAPTOP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_laptop", "OFF_DEVICE_LAPTOP"],
+    "body": ["OFF_DEVICE_LAPTOP(e_alias, \"e_label\")"],
+    "description": "DEVICE_LAPTOP office icon"
+  },
+
+  "OFF_DEVICE_LCD_MONITOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_lcd_monitor", "OFF_DEVICE_LCD_MONITOR"],
+    "body": ["OFF_DEVICE_LCD_MONITOR(e_alias, \"e_label\")"],
+    "description": "DEVICE_LCD_MONITOR office icon"
+  },
+
+  "OFF_DEVICE_MAC_CLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_mac_client", "OFF_DEVICE_MAC_CLIENT"],
+    "body": ["OFF_DEVICE_MAC_CLIENT(e_alias, \"e_label\")"],
+    "description": "DEVICE_MAC_CLIENT office icon"
+  },
+
+  "OFF_DEVICE_MICROPHONE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_microphone", "OFF_DEVICE_MICROPHONE"],
+    "body": ["OFF_DEVICE_MICROPHONE(e_alias, \"e_label\")"],
+    "description": "DEVICE_MICROPHONE office icon"
+  },
+
+  "OFF_DEVICE_PHONE_DIGITAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_phone_digital", "OFF_DEVICE_PHONE_DIGITAL"],
+    "body": ["OFF_DEVICE_PHONE_DIGITAL(e_alias, \"e_label\")"],
+    "description": "DEVICE_PHONE_DIGITAL office icon"
+  },
+
+  "OFF_DEVICE_PHONE_TRADITIONAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_phone_traditional", "OFF_DEVICE_PHONE_TRADITIONAL"],
+    "body": ["OFF_DEVICE_PHONE_TRADITIONAL(e_alias, \"e_label\")"],
+    "description": "DEVICE_PHONE_TRADITIONAL office icon"
+  },
+
+  "OFF_DEVICE_PHONE_USB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_phone_usb", "OFF_DEVICE_PHONE_USB"],
+    "body": ["OFF_DEVICE_PHONE_USB(e_alias, \"e_label\")"],
+    "description": "DEVICE_PHONE_USB office icon"
+  },
+
+  "OFF_DEVICE_PHONE_VOIP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_phone_voip", "OFF_DEVICE_PHONE_VOIP"],
+    "body": ["OFF_DEVICE_PHONE_VOIP(e_alias, \"e_label\")"],
+    "description": "DEVICE_PHONE_VOIP office icon"
+  },
+
+  "OFF_DEVICE_PRINTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_printer", "OFF_DEVICE_PRINTER"],
+    "body": ["OFF_DEVICE_PRINTER(e_alias, \"e_label\")"],
+    "description": "DEVICE_PRINTER office icon"
+  },
+
+  "OFF_DEVICE_ROUNDTABLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_roundtable", "OFF_DEVICE_ROUNDTABLE"],
+    "body": ["OFF_DEVICE_ROUNDTABLE(e_alias, \"e_label\")"],
+    "description": "DEVICE_ROUNDTABLE office icon"
+  },
+
+  "OFF_DEVICE_STYLUS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_stylus", "OFF_DEVICE_STYLUS"],
+    "body": ["OFF_DEVICE_STYLUS(e_alias, \"e_label\")"],
+    "description": "DEVICE_STYLUS office icon"
+  },
+
+  "OFF_DEVICE_TABLET_ANDROID(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tablet_android", "OFF_DEVICE_TABLET_ANDROID"],
+    "body": ["OFF_DEVICE_TABLET_ANDROID(e_alias, \"e_label\")"],
+    "description": "DEVICE_TABLET_ANDROID office icon"
+  },
+
+  "OFF_DEVICE_TABLET_IPAD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tablet_ipad", "OFF_DEVICE_TABLET_IPAD"],
+    "body": ["OFF_DEVICE_TABLET_IPAD(e_alias, \"e_label\")"],
+    "description": "DEVICE_TABLET_IPAD office icon"
+  },
+
+  "OFF_DEVICE_TABLET_IPAD_MINI(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tablet_ipad_mini", "OFF_DEVICE_TABLET_IPAD_MINI"],
+    "body": ["OFF_DEVICE_TABLET_IPAD_MINI(e_alias, \"e_label\")"],
+    "description": "DEVICE_TABLET_IPAD_MINI office icon"
+  },
+
+  "OFF_DEVICE_TABLET_WINDOWS_7_INCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tablet_windows_7_inch", "OFF_DEVICE_TABLET_WINDOWS_7_INCH"],
+    "body": ["OFF_DEVICE_TABLET_WINDOWS_7_INCH(e_alias, \"e_label\")"],
+    "description": "DEVICE_TABLET_WINDOWS_7_INCH office icon"
+  },
+
+  "OFF_DEVICE_TABLET_WINDOWS_8(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tablet_windows_8", "OFF_DEVICE_TABLET_WINDOWS_8"],
+    "body": ["OFF_DEVICE_TABLET_WINDOWS_8(e_alias, \"e_label\")"],
+    "description": "DEVICE_TABLET_WINDOWS_8 office icon"
+  },
+
+  "OFF_DEVICE_TV(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_tv", "OFF_DEVICE_TV"],
+    "body": ["OFF_DEVICE_TV(e_alias, \"e_label\")"],
+    "description": "DEVICE_TV office icon"
+  },
+
+  "OFF_DEVICE_UPDATE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_update_service", "OFF_DEVICE_UPDATE_SERVICE"],
+    "body": ["OFF_DEVICE_UPDATE_SERVICE(e_alias, \"e_label\")"],
+    "description": "DEVICE_UPDATE_SERVICE office icon"
+  },
+
+  "OFF_DEVICE_WEBCAM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_webcam", "OFF_DEVICE_WEBCAM"],
+    "body": ["OFF_DEVICE_WEBCAM(e_alias, \"e_label\")"],
+    "description": "DEVICE_WEBCAM office icon"
+  },
+
+  "OFF_DEVICE_WEBCAM_HD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_webcam_hd", "OFF_DEVICE_WEBCAM_HD"],
+    "body": ["OFF_DEVICE_WEBCAM_HD(e_alias, \"e_label\")"],
+    "description": "DEVICE_WEBCAM_HD office icon"
+  },
+
+  "OFF_HARD_DISK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-hard_disk", "OFF_HARD_DISK"],
+    "body": ["OFF_HARD_DISK(e_alias, \"e_label\")"],
+    "description": "HARD_DISK office icon"
+  },
+
+  "OFF_IP_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-ip_gateway", "OFF_IP_GATEWAY"],
+    "body": ["OFF_IP_GATEWAY(e_alias, \"e_label\")"],
+    "description": "IP_GATEWAY office icon"
+  },
+
+  "OFF_IP_PBX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-ip_pbx", "OFF_IP_PBX"],
+    "body": ["OFF_IP_PBX(e_alias, \"e_label\")"],
+    "description": "IP_PBX office icon"
+  },
+
+  "OFF_LOAD_BALANCER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-load_balancer", "OFF_LOAD_BALANCER"],
+    "body": ["OFF_LOAD_BALANCER(e_alias, \"e_label\")"],
+    "description": "LOAD_BALANCER office icon"
+  },
+
+  "OFF_MANAGEMENT_CONSOLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-management_console", "OFF_MANAGEMENT_CONSOLE"],
+    "body": ["OFF_MANAGEMENT_CONSOLE(e_alias, \"e_label\")"],
+    "description": "MANAGEMENT_CONSOLE office icon"
+  },
+
+  "OFF_MODEM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-modem", "OFF_MODEM"],
+    "body": ["OFF_MODEM(e_alias, \"e_label\")"],
+    "description": "MODEM office icon"
+  },
+
+  "OFF_NIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-nic", "OFF_NIC"],
+    "body": ["OFF_NIC(e_alias, \"e_label\")"],
+    "description": "NIC office icon"
+  },
+
+  "OFF_ROUTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-router", "OFF_ROUTER"],
+    "body": ["OFF_ROUTER(e_alias, \"e_label\")"],
+    "description": "ROUTER office icon"
+  },
+
+  "OFF_SESSION_BORDER_CONTROLLER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-session_border_controller", "OFF_SESSION_BORDER_CONTROLLER"],
+    "body": ["OFF_SESSION_BORDER_CONTROLLER(e_alias, \"e_label\")"],
+    "description": "SESSION_BORDER_CONTROLLER office icon"
+  },
+
+  "OFF_SHADOWED_ROUTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-shadowed_router", "OFF_SHADOWED_ROUTER"],
+    "body": ["OFF_SHADOWED_ROUTER(e_alias, \"e_label\")"],
+    "description": "SHADOWED_ROUTER office icon"
+  },
+
+  "OFF_SWITCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-switch", "OFF_SWITCH"],
+    "body": ["OFF_SWITCH(e_alias, \"e_label\")"],
+    "description": "SWITCH office icon"
+  },
+
+  "OFF_VIDEO_CAMERA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-video_camera", "OFF_VIDEO_CAMERA"],
+    "body": ["OFF_VIDEO_CAMERA(e_alias, \"e_label\")"],
+    "description": "VIDEO_CAMERA office icon"
+  },
+
+  "OFF_VIDEO_GATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-video_gateway", "OFF_VIDEO_GATEWAY"],
+    "body": ["OFF_VIDEO_GATEWAY(e_alias, \"e_label\")"],
+    "description": "VIDEO_GATEWAY office icon"
+  },
+
+  "OFF_WORKSTATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-workstation", "OFF_WORKSTATION"],
+    "body": ["OFF_WORKSTATION(e_alias, \"e_label\")"],
+    "description": "WORKSTATION office icon"
+  },
+
+  "OFF_WORKSTATION_PC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-workstation_pc", "OFF_WORKSTATION_PC"],
+    "body": ["OFF_WORKSTATION_PC(e_alias, \"e_label\")"],
+    "description": "WORKSTATION_PC office icon"
+  },
+
+  "OFF_WORKSTATION_VISUAL_STUDIO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-workstation_visual_studio", "OFF_WORKSTATION_VISUAL_STUDIO"],
+    "body": ["OFF_WORKSTATION_VISUAL_STUDIO(e_alias, \"e_label\")"],
+    "description": "WORKSTATION_VISUAL_STUDIO office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory", "OFF_ACTIVE_DIRECTORY"],
+    "body": ["OFF_ACTIVE_DIRECTORY(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY office icon"
+  },
+
+  "OFF_ADDRESS_BOOK_POLICIES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-address_book_policies", "OFF_ADDRESS_BOOK_POLICIES"],
+    "body": ["OFF_ADDRESS_BOOK_POLICIES(e_alias, \"e_label\")"],
+    "description": "ADDRESS_BOOK_POLICIES office icon"
+  },
+
+  "OFF_CERTIFICATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-certificate", "OFF_CERTIFICATE"],
+    "body": ["OFF_CERTIFICATE(e_alias, \"e_label\")"],
+    "description": "CERTIFICATE office icon"
+  },
+
+  "OFF_CREDENTIALS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-credentials", "OFF_CREDENTIALS"],
+    "body": ["OFF_CREDENTIALS(e_alias, \"e_label\")"],
+    "description": "CREDENTIALS office icon"
+  },
+
+  "OFF_DOMAIN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-domain", "OFF_DOMAIN"],
+    "body": ["OFF_DOMAIN(e_alias, \"e_label\")"],
+    "description": "DOMAIN office icon"
+  },
+
+  "OFF_EMAIL_ADDRESS_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_address_policy", "OFF_EMAIL_ADDRESS_POLICY"],
+    "body": ["OFF_EMAIL_ADDRESS_POLICY(e_alias, \"e_label\")"],
+    "description": "EMAIL_ADDRESS_POLICY office icon"
+  },
+
+  "OFF_FEDERATION_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-federation_service", "OFF_FEDERATION_SERVICE"],
+    "body": ["OFF_FEDERATION_SERVICE(e_alias, \"e_label\")"],
+    "description": "FEDERATION_SERVICE office icon"
+  },
+
+  "OFF_FEDERATION_TRUST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-federation_trust", "OFF_FEDERATION_TRUST"],
+    "body": ["OFF_FEDERATION_TRUST(e_alias, \"e_label\")"],
+    "description": "FEDERATION_TRUST office icon"
+  },
+
+  "OFF_IRM_PROTECTED_MESSAGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-irm_protected_message", "OFF_IRM_PROTECTED_MESSAGE"],
+    "body": ["OFF_IRM_PROTECTED_MESSAGE(e_alias, \"e_label\")"],
+    "description": "IRM_PROTECTED_MESSAGE office icon"
+  },
+
+  "OFF_KEY_PERMISSIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-key_permissions", "OFF_KEY_PERMISSIONS"],
+    "body": ["OFF_KEY_PERMISSIONS(e_alias, \"e_label\")"],
+    "description": "KEY_PERMISSIONS office icon"
+  },
+
+  "OFF_KEY_PERMISSIONS_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-key_permissions_blue", "OFF_KEY_PERMISSIONS_BLUE"],
+    "body": ["OFF_KEY_PERMISSIONS_BLUE(e_alias, \"e_label\")"],
+    "description": "KEY_PERMISSIONS_BLUE office icon"
+  },
+
+  "OFF_KEY_PERMISSIONS_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-key_permissions_ghosted", "OFF_KEY_PERMISSIONS_GHOSTED"],
+    "body": ["OFF_KEY_PERMISSIONS_GHOSTED(e_alias, \"e_label\")"],
+    "description": "KEY_PERMISSIONS_GHOSTED office icon"
+  },
+
+  "OFF_KEY_PERMISSIONS_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-key_permissions_green", "OFF_KEY_PERMISSIONS_GREEN"],
+    "body": ["OFF_KEY_PERMISSIONS_GREEN(e_alias, \"e_label\")"],
+    "description": "KEY_PERMISSIONS_GREEN office icon"
+  },
+
+  "OFF_KEY_PERMISSIONS_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-key_permissions_orange", "OFF_KEY_PERMISSIONS_ORANGE"],
+    "body": ["OFF_KEY_PERMISSIONS_ORANGE(e_alias, \"e_label\")"],
+    "description": "KEY_PERMISSIONS_ORANGE office icon"
+  },
+
+  "OFF_LOCK_PROTECTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_protected", "OFF_LOCK_PROTECTED"],
+    "body": ["OFF_LOCK_PROTECTED(e_alias, \"e_label\")"],
+    "description": "LOCK_PROTECTED office icon"
+  },
+
+  "OFF_LOCK_PROTECTED_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_protected_blue", "OFF_LOCK_PROTECTED_BLUE"],
+    "body": ["OFF_LOCK_PROTECTED_BLUE(e_alias, \"e_label\")"],
+    "description": "LOCK_PROTECTED_BLUE office icon"
+  },
+
+  "OFF_LOCK_PROTECTED_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_protected_ghosted", "OFF_LOCK_PROTECTED_GHOSTED"],
+    "body": ["OFF_LOCK_PROTECTED_GHOSTED(e_alias, \"e_label\")"],
+    "description": "LOCK_PROTECTED_GHOSTED office icon"
+  },
+
+  "OFF_LOCK_PROTECTED_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_protected_green", "OFF_LOCK_PROTECTED_GREEN"],
+    "body": ["OFF_LOCK_PROTECTED_GREEN(e_alias, \"e_label\")"],
+    "description": "LOCK_PROTECTED_GREEN office icon"
+  },
+
+  "OFF_LOCK_PROTECTED_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_protected_orange", "OFF_LOCK_PROTECTED_ORANGE"],
+    "body": ["OFF_LOCK_PROTECTED_ORANGE(e_alias, \"e_label\")"],
+    "description": "LOCK_PROTECTED_ORANGE office icon"
+  },
+
+  "OFF_LOCK_UNPROTECTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_unprotected", "OFF_LOCK_UNPROTECTED"],
+    "body": ["OFF_LOCK_UNPROTECTED(e_alias, \"e_label\")"],
+    "description": "LOCK_UNPROTECTED office icon"
+  },
+
+  "OFF_LOCK_UNPROTECTED_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_unprotected_blue", "OFF_LOCK_UNPROTECTED_BLUE"],
+    "body": ["OFF_LOCK_UNPROTECTED_BLUE(e_alias, \"e_label\")"],
+    "description": "LOCK_UNPROTECTED_BLUE office icon"
+  },
+
+  "OFF_LOCK_UNPROTECTED_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_unprotected_ghosted", "OFF_LOCK_UNPROTECTED_GHOSTED"],
+    "body": ["OFF_LOCK_UNPROTECTED_GHOSTED(e_alias, \"e_label\")"],
+    "description": "LOCK_UNPROTECTED_GHOSTED office icon"
+  },
+
+  "OFF_LOCK_UNPROTECTED_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_unprotected_green", "OFF_LOCK_UNPROTECTED_GREEN"],
+    "body": ["OFF_LOCK_UNPROTECTED_GREEN(e_alias, \"e_label\")"],
+    "description": "LOCK_UNPROTECTED_GREEN office icon"
+  },
+
+  "OFF_LOCK_UNPROTECTED_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_unprotected_orange", "OFF_LOCK_UNPROTECTED_ORANGE"],
+    "body": ["OFF_LOCK_UNPROTECTED_ORANGE(e_alias, \"e_label\")"],
+    "description": "LOCK_UNPROTECTED_ORANGE office icon"
+  },
+
+  "OFF_LOCK_WITH_KEY_SECURITY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_with_key_security", "OFF_LOCK_WITH_KEY_SECURITY"],
+    "body": ["OFF_LOCK_WITH_KEY_SECURITY(e_alias, \"e_label\")"],
+    "description": "LOCK_WITH_KEY_SECURITY office icon"
+  },
+
+  "OFF_LOCK_WITH_KEY_SECURITY_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_with_key_security_blue", "OFF_LOCK_WITH_KEY_SECURITY_BLUE"],
+    "body": ["OFF_LOCK_WITH_KEY_SECURITY_BLUE(e_alias, \"e_label\")"],
+    "description": "LOCK_WITH_KEY_SECURITY_BLUE office icon"
+  },
+
+  "OFF_LOCK_WITH_KEY_SECURITY_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_with_key_security_ghosted", "OFF_LOCK_WITH_KEY_SECURITY_GHOSTED"],
+    "body": ["OFF_LOCK_WITH_KEY_SECURITY_GHOSTED(e_alias, \"e_label\")"],
+    "description": "LOCK_WITH_KEY_SECURITY_GHOSTED office icon"
+  },
+
+  "OFF_LOCK_WITH_KEY_SECURITY_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_with_key_security_green", "OFF_LOCK_WITH_KEY_SECURITY_GREEN"],
+    "body": ["OFF_LOCK_WITH_KEY_SECURITY_GREEN(e_alias, \"e_label\")"],
+    "description": "LOCK_WITH_KEY_SECURITY_GREEN office icon"
+  },
+
+  "OFF_LOCK_WITH_KEY_SECURITY_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lock_with_key_security_orange", "OFF_LOCK_WITH_KEY_SECURITY_ORANGE"],
+    "body": ["OFF_LOCK_WITH_KEY_SECURITY_ORANGE(e_alias, \"e_label\")"],
+    "description": "LOCK_WITH_KEY_SECURITY_ORANGE office icon"
+  },
+
+  "OFF_MANAGEMENT_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-management_role", "OFF_MANAGEMENT_ROLE"],
+    "body": ["OFF_MANAGEMENT_ROLE(e_alias, \"e_label\")"],
+    "description": "MANAGEMENT_ROLE office icon"
+  },
+
+  "OFF_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-policy", "OFF_POLICY"],
+    "body": ["OFF_POLICY(e_alias, \"e_label\")"],
+    "description": "POLICY office icon"
+  },
+
+  "OFF_PROTECTED_VOICE_MAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-protected_voice_mail", "OFF_PROTECTED_VOICE_MAIL"],
+    "body": ["OFF_PROTECTED_VOICE_MAIL(e_alias, \"e_label\")"],
+    "description": "PROTECTED_VOICE_MAIL office icon"
+  },
+
+  "OFF_RETENTION_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-retention_policy", "OFF_RETENTION_POLICY"],
+    "body": ["OFF_RETENTION_POLICY(e_alias, \"e_label\")"],
+    "description": "RETENTION_POLICY office icon"
+  },
+
+  "OFF_RETENTION_POLICY_TAG(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-retention_policy_tag", "OFF_RETENTION_POLICY_TAG"],
+    "body": ["OFF_RETENTION_POLICY_TAG(e_alias, \"e_label\")"],
+    "description": "RETENTION_POLICY_TAG office icon"
+  },
+
+  "OFF_ROLE_ASSIGNMENT_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-role_assignment_policy", "OFF_ROLE_ASSIGNMENT_POLICY"],
+    "body": ["OFF_ROLE_ASSIGNMENT_POLICY(e_alias, \"e_label\")"],
+    "description": "ROLE_ASSIGNMENT_POLICY office icon"
+  },
+
+  "OFF_ROLE_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-role_group", "OFF_ROLE_GROUP"],
+    "body": ["OFF_ROLE_GROUP(e_alias, \"e_label\")"],
+    "description": "ROLE_GROUP office icon"
+  },
+
+  "OFF_SECURE_MESSAGING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-secure_messaging", "OFF_SECURE_MESSAGING"],
+    "body": ["OFF_SECURE_MESSAGING(e_alias, \"e_label\")"],
+    "description": "SECURE_MESSAGING office icon"
+  },
+
+  "OFF_SECURITY_ACCESS_PORTAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-security_access_portal", "OFF_SECURITY_ACCESS_PORTAL"],
+    "body": ["OFF_SECURITY_ACCESS_PORTAL(e_alias, \"e_label\")"],
+    "description": "SECURITY_ACCESS_PORTAL office icon"
+  },
+
+  "OFF_SHARING_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sharing_policy", "OFF_SHARING_POLICY"],
+    "body": ["OFF_SHARING_POLICY(e_alias, \"e_label\")"],
+    "description": "SHARING_POLICY office icon"
+  },
+
+  "OFF_SPLIT_DOMAIN_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-split_domain_user", "OFF_SPLIT_DOMAIN_USER"],
+    "body": ["OFF_SPLIT_DOMAIN_USER(e_alias, \"e_label\")"],
+    "description": "SPLIT_DOMAIN_USER office icon"
+  },
+
+  "OFF_TOKEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-token", "OFF_TOKEN"],
+    "body": ["OFF_TOKEN(e_alias, \"e_label\")"],
+    "description": "TOKEN office icon"
+  },
+
+  "OFF_TOKEN_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-token_service", "OFF_TOKEN_SERVICE"],
+    "body": ["OFF_TOKEN_SERVICE(e_alias, \"e_label\")"],
+    "description": "TOKEN_SERVICE office icon"
+  },
+
+  "OFF_TRUSTED_APPLICATION_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-trusted_application_server", "OFF_TRUSTED_APPLICATION_SERVER"],
+    "body": ["OFF_TRUSTED_APPLICATION_SERVER(e_alias, \"e_label\")"],
+    "description": "TRUSTED_APPLICATION_SERVER office icon"
+  },
+
+  "OFF_UM_MAILBOX_POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_mailbox_policy", "OFF_UM_MAILBOX_POLICY"],
+    "body": ["OFF_UM_MAILBOX_POLICY(e_alias, \"e_label\")"],
+    "description": "UM_MAILBOX_POLICY office icon"
+  },
+
+  "OFF_UNIVERSAL_SECURITY_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-universal_security_group", "OFF_UNIVERSAL_SECURITY_GROUP"],
+    "body": ["OFF_UNIVERSAL_SECURITY_GROUP(e_alias, \"e_label\")"],
+    "description": "UNIVERSAL_SECURITY_GROUP office icon"
+  },
+
+  "OFF_3RD_PARTY_MAIL_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-3rd_party_mail_server", "OFF_3RD_PARTY_MAIL_SERVER"],
+    "body": ["OFF_3RD_PARTY_MAIL_SERVER(e_alias, \"e_label\")"],
+    "description": "3RD_PARTY_MAIL_SERVER office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_PROXY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_proxy", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_PROXY"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_PROXY(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_PROXY office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_server", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_server_blue", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_BLUE"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_BLUE office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_server_ghosted", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GHOSTED"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_server_green", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GREEN"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_GREEN office icon"
+  },
+
+  "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-active_directory_federation_services_server_orange", "OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_ORANGE"],
+    "body": ["OFF_ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "ACTIVE_DIRECTORY_FEDERATION_SERVICES_SERVER_ORANGE office icon"
+  },
+
+  "OFF_APPLICATION_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_server", "OFF_APPLICATION_SERVER"],
+    "body": ["OFF_APPLICATION_SERVER(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SERVER office icon"
+  },
+
+  "OFF_APPLICATION_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_server_blue", "OFF_APPLICATION_SERVER_BLUE"],
+    "body": ["OFF_APPLICATION_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SERVER_BLUE office icon"
+  },
+
+  "OFF_APPLICATION_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_server_ghosted", "OFF_APPLICATION_SERVER_GHOSTED"],
+    "body": ["OFF_APPLICATION_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_APPLICATION_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_server_green", "OFF_APPLICATION_SERVER_GREEN"],
+    "body": ["OFF_APPLICATION_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SERVER_GREEN office icon"
+  },
+
+  "OFF_APPLICATION_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-application_server_orange", "OFF_APPLICATION_SERVER_ORANGE"],
+    "body": ["OFF_APPLICATION_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "APPLICATION_SERVER_ORANGE office icon"
+  },
+
+  "OFF_CALL_ADMISSION_CONTROL_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-call_admission_control_service", "OFF_CALL_ADMISSION_CONTROL_SERVICE"],
+    "body": ["OFF_CALL_ADMISSION_CONTROL_SERVICE(e_alias, \"e_label\")"],
+    "description": "CALL_ADMISSION_CONTROL_SERVICE office icon"
+  },
+
+  "OFF_CERTIFICATE_AUTHORITY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-certificate_authority", "OFF_CERTIFICATE_AUTHORITY"],
+    "body": ["OFF_CERTIFICATE_AUTHORITY(e_alias, \"e_label\")"],
+    "description": "CERTIFICATE_AUTHORITY office icon"
+  },
+
+  "OFF_CLUSTER_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cluster_server", "OFF_CLUSTER_SERVER"],
+    "body": ["OFF_CLUSTER_SERVER(e_alias, \"e_label\")"],
+    "description": "CLUSTER_SERVER office icon"
+  },
+
+  "OFF_CLUSTER_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cluster_server_blue", "OFF_CLUSTER_SERVER_BLUE"],
+    "body": ["OFF_CLUSTER_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "CLUSTER_SERVER_BLUE office icon"
+  },
+
+  "OFF_CLUSTER_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cluster_server_ghosted", "OFF_CLUSTER_SERVER_GHOSTED"],
+    "body": ["OFF_CLUSTER_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "CLUSTER_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_CLUSTER_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cluster_server_green", "OFF_CLUSTER_SERVER_GREEN"],
+    "body": ["OFF_CLUSTER_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "CLUSTER_SERVER_GREEN office icon"
+  },
+
+  "OFF_CLUSTER_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-cluster_server_orange", "OFF_CLUSTER_SERVER_ORANGE"],
+    "body": ["OFF_CLUSTER_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "CLUSTER_SERVER_ORANGE office icon"
+  },
+
+  "OFF_DATABASE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server", "OFF_DATABASE_SERVER"],
+    "body": ["OFF_DATABASE_SERVER(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER office icon"
+  },
+
+  "OFF_DATABASE_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_blue", "OFF_DATABASE_SERVER_BLUE"],
+    "body": ["OFF_DATABASE_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_BLUE office icon"
+  },
+
+  "OFF_DATABASE_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_ghosted", "OFF_DATABASE_SERVER_GHOSTED"],
+    "body": ["OFF_DATABASE_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_DATABASE_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_green", "OFF_DATABASE_SERVER_GREEN"],
+    "body": ["OFF_DATABASE_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_GREEN office icon"
+  },
+
+  "OFF_DATABASE_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-database_server_orange", "OFF_DATABASE_SERVER_ORANGE"],
+    "body": ["OFF_DATABASE_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "DATABASE_SERVER_ORANGE office icon"
+  },
+
+  "OFF_DATACENTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-datacenter", "OFF_DATACENTER"],
+    "body": ["OFF_DATACENTER(e_alias, \"e_label\")"],
+    "description": "DATACENTER office icon"
+  },
+
+  "OFF_DIRSYNC_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-dirsync_server", "OFF_DIRSYNC_SERVER"],
+    "body": ["OFF_DIRSYNC_SERVER(e_alias, \"e_label\")"],
+    "description": "DIRSYNC_SERVER office icon"
+  },
+
+  "OFF_DOMAIN_CONTROLLER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-domain_controller", "OFF_DOMAIN_CONTROLLER"],
+    "body": ["OFF_DOMAIN_CONTROLLER(e_alias, \"e_label\")"],
+    "description": "DOMAIN_CONTROLLER office icon"
+  },
+
+  "OFF_EXCHANGE_2010_CLIENT_ACCESS_SERVER_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2010_client_access_server_role", "OFF_EXCHANGE_2010_CLIENT_ACCESS_SERVER_ROLE"],
+    "body": ["OFF_EXCHANGE_2010_CLIENT_ACCESS_SERVER_ROLE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2010_CLIENT_ACCESS_SERVER_ROLE office icon"
+  },
+
+  "OFF_EXCHANGE_2010_EDGE_TRANSPORT_SERVER_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2010_edge_transport_server_role", "OFF_EXCHANGE_2010_EDGE_TRANSPORT_SERVER_ROLE"],
+    "body": ["OFF_EXCHANGE_2010_EDGE_TRANSPORT_SERVER_ROLE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2010_EDGE_TRANSPORT_SERVER_ROLE office icon"
+  },
+
+  "OFF_EXCHANGE_2010_HUB_TRANSPORT_SERVER_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2010_hub_transport_server_role", "OFF_EXCHANGE_2010_HUB_TRANSPORT_SERVER_ROLE"],
+    "body": ["OFF_EXCHANGE_2010_HUB_TRANSPORT_SERVER_ROLE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2010_HUB_TRANSPORT_SERVER_ROLE office icon"
+  },
+
+  "OFF_EXCHANGE_2010_MAILBOX_SERVER_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2010_mailbox_server_role", "OFF_EXCHANGE_2010_MAILBOX_SERVER_ROLE"],
+    "body": ["OFF_EXCHANGE_2010_MAILBOX_SERVER_ROLE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2010_MAILBOX_SERVER_ROLE office icon"
+  },
+
+  "OFF_EXCHANGE_2010_UM_SERVER_ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2010_um_server_role", "OFF_EXCHANGE_2010_UM_SERVER_ROLE"],
+    "body": ["OFF_EXCHANGE_2010_UM_SERVER_ROLE(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2010_UM_SERVER_ROLE office icon"
+  },
+
+  "OFF_EXCHANGE_2013_CLIENT_ACCESS_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2013_client_access_server", "OFF_EXCHANGE_2013_CLIENT_ACCESS_SERVER"],
+    "body": ["OFF_EXCHANGE_2013_CLIENT_ACCESS_SERVER(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2013_CLIENT_ACCESS_SERVER office icon"
+  },
+
+  "OFF_EXCHANGE_2013_EDGE_TRANSPORT_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2013_edge_transport_server", "OFF_EXCHANGE_2013_EDGE_TRANSPORT_SERVER"],
+    "body": ["OFF_EXCHANGE_2013_EDGE_TRANSPORT_SERVER(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2013_EDGE_TRANSPORT_SERVER office icon"
+  },
+
+  "OFF_EXCHANGE_2013_MAILBOX_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2013_mailbox_server", "OFF_EXCHANGE_2013_MAILBOX_SERVER"],
+    "body": ["OFF_EXCHANGE_2013_MAILBOX_SERVER(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2013_MAILBOX_SERVER office icon"
+  },
+
+  "OFF_EXCHANGE_2013_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-exchange_2013_server", "OFF_EXCHANGE_2013_SERVER"],
+    "body": ["OFF_EXCHANGE_2013_SERVER(e_alias, \"e_label\")"],
+    "description": "EXCHANGE_2013_SERVER office icon"
+  },
+
+  "OFF_FILE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-file_server", "OFF_FILE_SERVER"],
+    "body": ["OFF_FILE_SERVER(e_alias, \"e_label\")"],
+    "description": "FILE_SERVER office icon"
+  },
+
+  "OFF_HYBRID_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-hybrid_server", "OFF_HYBRID_SERVER"],
+    "body": ["OFF_HYBRID_SERVER(e_alias, \"e_label\")"],
+    "description": "HYBRID_SERVER office icon"
+  },
+
+  "OFF_MAINFRAME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mainframe", "OFF_MAINFRAME"],
+    "body": ["OFF_MAINFRAME(e_alias, \"e_label\")"],
+    "description": "MAINFRAME office icon"
+  },
+
+  "OFF_MAINFRAME_HOST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mainframe_host", "OFF_MAINFRAME_HOST"],
+    "body": ["OFF_MAINFRAME_HOST(e_alias, \"e_label\")"],
+    "description": "MAINFRAME_HOST office icon"
+  },
+
+  "OFF_MONITORING_SQL_REPORTING_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-monitoring_sql_reporting_services", "OFF_MONITORING_SQL_REPORTING_SERVICES"],
+    "body": ["OFF_MONITORING_SQL_REPORTING_SERVICES(e_alias, \"e_label\")"],
+    "description": "MONITORING_SQL_REPORTING_SERVICES office icon"
+  },
+
+  "OFF_NETWORK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-network", "OFF_NETWORK"],
+    "body": ["OFF_NETWORK(e_alias, \"e_label\")"],
+    "description": "NETWORK office icon"
+  },
+
+  "OFF_OFFICE_WEB_APPS_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-office_web_apps_server", "OFF_OFFICE_WEB_APPS_SERVER"],
+    "body": ["OFF_OFFICE_WEB_APPS_SERVER(e_alias, \"e_label\")"],
+    "description": "OFFICE_WEB_APPS_SERVER office icon"
+  },
+
+  "OFF_ON_PREMISES_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-on_premises_server", "OFF_ON_PREMISES_SERVER"],
+    "body": ["OFF_ON_PREMISES_SERVER(e_alias, \"e_label\")"],
+    "description": "ON_PREMISES_SERVER office icon"
+  },
+
+  "OFF_PHYSICAL_HOST_FARM_SOLID_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-physical_host_farm_solid_blue", "OFF_PHYSICAL_HOST_FARM_SOLID_BLUE"],
+    "body": ["OFF_PHYSICAL_HOST_FARM_SOLID_BLUE(e_alias, \"e_label\")"],
+    "description": "PHYSICAL_HOST_FARM_SOLID_BLUE office icon"
+  },
+
+  "OFF_PHYSICAL_HOST_SOLID_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-physical_host_solid_blue", "OFF_PHYSICAL_HOST_SOLID_BLUE"],
+    "body": ["OFF_PHYSICAL_HOST_SOLID_BLUE(e_alias, \"e_label\")"],
+    "description": "PHYSICAL_HOST_SOLID_BLUE office icon"
+  },
+
+  "OFF_REVERSE_PROXY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-reverse_proxy", "OFF_REVERSE_PROXY"],
+    "body": ["OFF_REVERSE_PROXY(e_alias, \"e_label\")"],
+    "description": "REVERSE_PROXY office icon"
+  },
+
+  "OFF_SCOM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-scom", "OFF_SCOM"],
+    "body": ["OFF_SCOM(e_alias, \"e_label\")"],
+    "description": "SCOM office icon"
+  },
+
+  "OFF_SERVER_DISASTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_disaster", "OFF_SERVER_DISASTER"],
+    "body": ["OFF_SERVER_DISASTER(e_alias, \"e_label\")"],
+    "description": "SERVER_DISASTER office icon"
+  },
+
+  "OFF_SERVER_FARM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_farm", "OFF_SERVER_FARM"],
+    "body": ["OFF_SERVER_FARM(e_alias, \"e_label\")"],
+    "description": "SERVER_FARM office icon"
+  },
+
+  "OFF_SERVER_FARM_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_farm_blue", "OFF_SERVER_FARM_BLUE"],
+    "body": ["OFF_SERVER_FARM_BLUE(e_alias, \"e_label\")"],
+    "description": "SERVER_FARM_BLUE office icon"
+  },
+
+  "OFF_SERVER_FARM_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_farm_ghosted", "OFF_SERVER_FARM_GHOSTED"],
+    "body": ["OFF_SERVER_FARM_GHOSTED(e_alias, \"e_label\")"],
+    "description": "SERVER_FARM_GHOSTED office icon"
+  },
+
+  "OFF_SERVER_FARM_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_farm_green", "OFF_SERVER_FARM_GREEN"],
+    "body": ["OFF_SERVER_FARM_GREEN(e_alias, \"e_label\")"],
+    "description": "SERVER_FARM_GREEN office icon"
+  },
+
+  "OFF_SERVER_FARM_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_farm_orange", "OFF_SERVER_FARM_ORANGE"],
+    "body": ["OFF_SERVER_FARM_ORANGE(e_alias, \"e_label\")"],
+    "description": "SERVER_FARM_ORANGE office icon"
+  },
+
+  "OFF_SERVER_GENERIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_generic", "OFF_SERVER_GENERIC"],
+    "body": ["OFF_SERVER_GENERIC(e_alias, \"e_label\")"],
+    "description": "SERVER_GENERIC office icon"
+  },
+
+  "OFF_SERVER_GENERIC_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_generic_blue", "OFF_SERVER_GENERIC_BLUE"],
+    "body": ["OFF_SERVER_GENERIC_BLUE(e_alias, \"e_label\")"],
+    "description": "SERVER_GENERIC_BLUE office icon"
+  },
+
+  "OFF_SERVER_GENERIC_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_generic_ghosted", "OFF_SERVER_GENERIC_GHOSTED"],
+    "body": ["OFF_SERVER_GENERIC_GHOSTED(e_alias, \"e_label\")"],
+    "description": "SERVER_GENERIC_GHOSTED office icon"
+  },
+
+  "OFF_SERVER_GENERIC_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_generic_green", "OFF_SERVER_GENERIC_GREEN"],
+    "body": ["OFF_SERVER_GENERIC_GREEN(e_alias, \"e_label\")"],
+    "description": "SERVER_GENERIC_GREEN office icon"
+  },
+
+  "OFF_SERVER_GENERIC_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_generic_orange", "OFF_SERVER_GENERIC_ORANGE"],
+    "body": ["OFF_SERVER_GENERIC_ORANGE(e_alias, \"e_label\")"],
+    "description": "SERVER_GENERIC_ORANGE office icon"
+  },
+
+  "OFF_SERVER_SIDE_CODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-server_side_code", "OFF_SERVER_SIDE_CODE"],
+    "body": ["OFF_SERVER_SIDE_CODE(e_alias, \"e_label\")"],
+    "description": "SERVER_SIDE_CODE office icon"
+  },
+
+  "OFF_SHAREPOINT_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sharepoint_server", "OFF_SHAREPOINT_SERVER"],
+    "body": ["OFF_SHAREPOINT_SERVER(e_alias, \"e_label\")"],
+    "description": "SHAREPOINT_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_back_end_server", "OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_BACK_END_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER_MIRROR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_back_end_server_mirror", "OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER_MIRROR"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_BACK_END_SERVER_MIRROR(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_BACK_END_SERVER_MIRROR office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_DIRECTOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_director", "OFF_SKYPE_FOR_BUSINESS_DIRECTOR"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_DIRECTOR(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_DIRECTOR office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_DIRECTOR_ARRAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_director_array", "OFF_SKYPE_FOR_BUSINESS_DIRECTOR_ARRAY"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_DIRECTOR_ARRAY(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_DIRECTOR_ARRAY office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_edge_server", "OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_EDGE_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER_POOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_edge_server_pool", "OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER_POOL"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_EDGE_SERVER_POOL(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_EDGE_SERVER_POOL office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_FRONT_END_POOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_front_end_pool", "OFF_SKYPE_FOR_BUSINESS_FRONT_END_POOL"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_FRONT_END_POOL(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_FRONT_END_POOL office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_FRONT_END_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_front_end_server", "OFF_SKYPE_FOR_BUSINESS_FRONT_END_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_FRONT_END_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_FRONT_END_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_MEDIATION_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_mediation_server", "OFF_SKYPE_FOR_BUSINESS_MEDIATION_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_MEDIATION_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_MEDIATION_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_MONITORING_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_monitoring_server", "OFF_SKYPE_FOR_BUSINESS_MONITORING_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_MONITORING_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_MONITORING_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_PERSISTENT_CHAT_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_persistent_chat_server", "OFF_SKYPE_FOR_BUSINESS_PERSISTENT_CHAT_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_PERSISTENT_CHAT_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_PERSISTENT_CHAT_SERVER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_server", "OFF_SKYPE_FOR_BUSINESS_SERVER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_SERVER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_SERVER office icon"
+  },
+
+  "OFF_SQL_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-sql_server", "OFF_SQL_SERVER"],
+    "body": ["OFF_SQL_SERVER(e_alias, \"e_label\")"],
+    "description": "SQL_SERVER office icon"
+  },
+
+  "OFF_SURVIVABLE_BRANCH_APPLIANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-survivable_branch_appliance", "OFF_SURVIVABLE_BRANCH_APPLIANCE"],
+    "body": ["OFF_SURVIVABLE_BRANCH_APPLIANCE(e_alias, \"e_label\")"],
+    "description": "SURVIVABLE_BRANCH_APPLIANCE office icon"
+  },
+
+  "OFF_SURVIVABLE_BRANCH_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-survivable_branch_server", "OFF_SURVIVABLE_BRANCH_SERVER"],
+    "body": ["OFF_SURVIVABLE_BRANCH_SERVER(e_alias, \"e_label\")"],
+    "description": "SURVIVABLE_BRANCH_SERVER office icon"
+  },
+
+  "OFF_TOPOLOGY_BUILDER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-topology_builder", "OFF_TOPOLOGY_BUILDER"],
+    "body": ["OFF_TOPOLOGY_BUILDER(e_alias, \"e_label\")"],
+    "description": "TOPOLOGY_BUILDER office icon"
+  },
+
+  "OFF_TRUSTED_APPLICATION_POOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-trusted_application_pool", "OFF_TRUSTED_APPLICATION_POOL"],
+    "body": ["OFF_TRUSTED_APPLICATION_POOL(e_alias, \"e_label\")"],
+    "description": "TRUSTED_APPLICATION_POOL office icon"
+  },
+
+  "OFF_TRUSTED_APPLICATION_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-trusted_application_server", "OFF_TRUSTED_APPLICATION_SERVER"],
+    "body": ["OFF_TRUSTED_APPLICATION_SERVER(e_alias, \"e_label\")"],
+    "description": "TRUSTED_APPLICATION_SERVER office icon"
+  },
+
+  "OFF_TUNNEL_ANGLED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-tunnel_angled", "OFF_TUNNEL_ANGLED"],
+    "body": ["OFF_TUNNEL_ANGLED(e_alias, \"e_label\")"],
+    "description": "TUNNEL_ANGLED office icon"
+  },
+
+  "OFF_TUNNEL_STRAIGHT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-tunnel_straight", "OFF_TUNNEL_STRAIGHT"],
+    "body": ["OFF_TUNNEL_STRAIGHT(e_alias, \"e_label\")"],
+    "description": "TUNNEL_STRAIGHT office icon"
+  },
+
+  "OFF_VIDEO_INTEROP_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-video_interop_server", "OFF_VIDEO_INTEROP_SERVER"],
+    "body": ["OFF_VIDEO_INTEROP_SERVER(e_alias, \"e_label\")"],
+    "description": "VIDEO_INTEROP_SERVER office icon"
+  },
+
+  "OFF_VIRTUAL_APPLICATION_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_application_server", "OFF_VIRTUAL_APPLICATION_SERVER"],
+    "body": ["OFF_VIRTUAL_APPLICATION_SERVER(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_APPLICATION_SERVER office icon"
+  },
+
+  "OFF_VIRTUAL_APPLICATION_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_application_server_blue", "OFF_VIRTUAL_APPLICATION_SERVER_BLUE"],
+    "body": ["OFF_VIRTUAL_APPLICATION_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_APPLICATION_SERVER_BLUE office icon"
+  },
+
+  "OFF_VIRTUAL_DATABASE_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_database_server", "OFF_VIRTUAL_DATABASE_SERVER"],
+    "body": ["OFF_VIRTUAL_DATABASE_SERVER(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_DATABASE_SERVER office icon"
+  },
+
+  "OFF_VIRTUAL_DATABASE_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_database_server_blue", "OFF_VIRTUAL_DATABASE_SERVER_BLUE"],
+    "body": ["OFF_VIRTUAL_DATABASE_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_DATABASE_SERVER_BLUE office icon"
+  },
+
+  "OFF_VIRTUAL_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_server", "OFF_VIRTUAL_SERVER"],
+    "body": ["OFF_VIRTUAL_SERVER(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_SERVER office icon"
+  },
+
+  "OFF_VIRTUAL_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_server_blue", "OFF_VIRTUAL_SERVER_BLUE"],
+    "body": ["OFF_VIRTUAL_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_SERVER_BLUE office icon"
+  },
+
+  "OFF_VIRTUAL_WEB_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_web_server", "OFF_VIRTUAL_WEB_SERVER"],
+    "body": ["OFF_VIRTUAL_WEB_SERVER(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_WEB_SERVER office icon"
+  },
+
+  "OFF_VIRTUAL_WEB_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-virtual_web_server_blue", "OFF_VIRTUAL_WEB_SERVER_BLUE"],
+    "body": ["OFF_VIRTUAL_WEB_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "VIRTUAL_WEB_SERVER_BLUE office icon"
+  },
+
+  "OFF_VOICEMAIL_PREVIEW_PARTNER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-voicemail_preview_partner", "OFF_VOICEMAIL_PREVIEW_PARTNER"],
+    "body": ["OFF_VOICEMAIL_PREVIEW_PARTNER(e_alias, \"e_label\")"],
+    "description": "VOICEMAIL_PREVIEW_PARTNER office icon"
+  },
+
+  "OFF_WEB_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_server", "OFF_WEB_SERVER"],
+    "body": ["OFF_WEB_SERVER(e_alias, \"e_label\")"],
+    "description": "WEB_SERVER office icon"
+  },
+
+  "OFF_WEB_SERVER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_server_blue", "OFF_WEB_SERVER_BLUE"],
+    "body": ["OFF_WEB_SERVER_BLUE(e_alias, \"e_label\")"],
+    "description": "WEB_SERVER_BLUE office icon"
+  },
+
+  "OFF_WEB_SERVER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_server_ghosted", "OFF_WEB_SERVER_GHOSTED"],
+    "body": ["OFF_WEB_SERVER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "WEB_SERVER_GHOSTED office icon"
+  },
+
+  "OFF_WEB_SERVER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_server_green", "OFF_WEB_SERVER_GREEN"],
+    "body": ["OFF_WEB_SERVER_GREEN(e_alias, \"e_label\")"],
+    "description": "WEB_SERVER_GREEN office icon"
+  },
+
+  "OFF_WEB_SERVER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_server_orange", "OFF_WEB_SERVER_ORANGE"],
+    "body": ["OFF_WEB_SERVER_ORANGE(e_alias, \"e_label\")"],
+    "description": "WEB_SERVER_ORANGE office icon"
+  },
+
+  "OFF_WINDOWS_ROUTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-windows_router", "OFF_WINDOWS_ROUTER"],
+    "body": ["OFF_WINDOWS_ROUTER(e_alias, \"e_label\")"],
+    "description": "WINDOWS_ROUTER office icon"
+  },
+
+  "OFF_WINDOWS_SERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-windows_server", "OFF_WINDOWS_SERVER"],
+    "body": ["OFF_WINDOWS_SERVER(e_alias, \"e_label\")"],
+    "description": "WINDOWS_SERVER office icon"
+  },
+
+  "OFF_3RD_PARTY_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-3rd_party_service", "OFF_3RD_PARTY_SERVICE"],
+    "body": ["OFF_3RD_PARTY_SERVICE(e_alias, \"e_label\")"],
+    "description": "3RD_PARTY_SERVICE office icon"
+  },
+
+  "OFF_ACCESS_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-access_services", "OFF_ACCESS_SERVICES"],
+    "body": ["OFF_ACCESS_SERVICES(e_alias, \"e_label\")"],
+    "description": "ACCESS_SERVICES office icon"
+  },
+
+  "OFF_BUSINESS_CONNECTIVITY_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-business_connectivity_services", "OFF_BUSINESS_CONNECTIVITY_SERVICES"],
+    "body": ["OFF_BUSINESS_CONNECTIVITY_SERVICES(e_alias, \"e_label\")"],
+    "description": "BUSINESS_CONNECTIVITY_SERVICES office icon"
+  },
+
+  "OFF_CALL_ADMISSION_CONTROL_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-call_admission_control_service", "OFF_CALL_ADMISSION_CONTROL_SERVICE"],
+    "body": ["OFF_CALL_ADMISSION_CONTROL_SERVICE(e_alias, \"e_label\")"],
+    "description": "CALL_ADMISSION_CONTROL_SERVICE office icon"
+  },
+
+  "OFF_CENTRAL_MANAGEMENT_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-central_management_service", "OFF_CENTRAL_MANAGEMENT_SERVICE"],
+    "body": ["OFF_CENTRAL_MANAGEMENT_SERVICE(e_alias, \"e_label\")"],
+    "description": "CENTRAL_MANAGEMENT_SERVICE office icon"
+  },
+
+  "OFF_CONFERENCE_ANNOUNCEMENT_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-conference_announcement_service", "OFF_CONFERENCE_ANNOUNCEMENT_SERVICE"],
+    "body": ["OFF_CONFERENCE_ANNOUNCEMENT_SERVICE(e_alias, \"e_label\")"],
+    "description": "CONFERENCE_ANNOUNCEMENT_SERVICE office icon"
+  },
+
+  "OFF_DEVICE_UPDATE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-device_update_service", "OFF_DEVICE_UPDATE_SERVICE"],
+    "body": ["OFF_DEVICE_UPDATE_SERVICE(e_alias, \"e_label\")"],
+    "description": "DEVICE_UPDATE_SERVICE office icon"
+  },
+
+  "OFF_EMAIL_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-email_service", "OFF_EMAIL_SERVICE"],
+    "body": ["OFF_EMAIL_SERVICE(e_alias, \"e_label\")"],
+    "description": "EMAIL_SERVICE office icon"
+  },
+
+  "OFF_EXCEL_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-excel_services", "OFF_EXCEL_SERVICES"],
+    "body": ["OFF_EXCEL_SERVICES(e_alias, \"e_label\")"],
+    "description": "EXCEL_SERVICES office icon"
+  },
+
+  "OFF_FEDERATION_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-federation_service", "OFF_FEDERATION_SERVICE"],
+    "body": ["OFF_FEDERATION_SERVICE(e_alias, \"e_label\")"],
+    "description": "FEDERATION_SERVICE office icon"
+  },
+
+  "OFF_LYNC_STORAGE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_storage_service", "OFF_LYNC_STORAGE_SERVICE"],
+    "body": ["OFF_LYNC_STORAGE_SERVICE(e_alias, \"e_label\")"],
+    "description": "LYNC_STORAGE_SERVICE office icon"
+  },
+
+  "OFF_LYNC_WEB_APP_CLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-lync_web_app_client", "OFF_LYNC_WEB_APP_CLIENT"],
+    "body": ["OFF_LYNC_WEB_APP_CLIENT(e_alias, \"e_label\")"],
+    "description": "LYNC_WEB_APP_CLIENT office icon"
+  },
+
+  "OFF_MOBILITY_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mobility_service", "OFF_MOBILITY_SERVICE"],
+    "body": ["OFF_MOBILITY_SERVICE(e_alias, \"e_label\")"],
+    "description": "MOBILITY_SERVICE office icon"
+  },
+
+  "OFF_NETWORK_FILE_SHARE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-network_file_share_service", "OFF_NETWORK_FILE_SHARE_SERVICE"],
+    "body": ["OFF_NETWORK_FILE_SHARE_SERVICE(e_alias, \"e_label\")"],
+    "description": "NETWORK_FILE_SHARE_SERVICE office icon"
+  },
+
+  "OFF_ONLINE_HOSTED_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-online_hosted_services", "OFF_ONLINE_HOSTED_SERVICES"],
+    "body": ["OFF_ONLINE_HOSTED_SERVICES(e_alias, \"e_label\")"],
+    "description": "ONLINE_HOSTED_SERVICES office icon"
+  },
+
+  "OFF_OUTLOOK_WEB_APP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-outlook_web_app", "OFF_OUTLOOK_WEB_APP"],
+    "body": ["OFF_OUTLOOK_WEB_APP(e_alias, \"e_label\")"],
+    "description": "OUTLOOK_WEB_APP office icon"
+  },
+
+  "OFF_POWERPOINT_AUTOMATION_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-powerpoint_automation_services", "OFF_POWERPOINT_AUTOMATION_SERVICES"],
+    "body": ["OFF_POWERPOINT_AUTOMATION_SERVICES(e_alias, \"e_label\")"],
+    "description": "POWERPOINT_AUTOMATION_SERVICES office icon"
+  },
+
+  "OFF_PUSH_NOTIFICATION_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-push_notification_service", "OFF_PUSH_NOTIFICATION_SERVICE"],
+    "body": ["OFF_PUSH_NOTIFICATION_SERVICE(e_alias, \"e_label\")"],
+    "description": "PUSH_NOTIFICATION_SERVICE office icon"
+  },
+
+  "OFF_REGISTRAR_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-registrar_service", "OFF_REGISTRAR_SERVICE"],
+    "body": ["OFF_REGISTRAR_SERVICE(e_alias, \"e_label\")"],
+    "description": "REGISTRAR_SERVICE office icon"
+  },
+
+  "OFF_RESPONSE_GROUP_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-response_group_service", "OFF_RESPONSE_GROUP_SERVICE"],
+    "body": ["OFF_RESPONSE_GROUP_SERVICE(e_alias, \"e_label\")"],
+    "description": "RESPONSE_GROUP_SERVICE office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_storage_service", "OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_STORAGE_SERVICE(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_STORAGE_SERVICE office icon"
+  },
+
+  "OFF_USER_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_services", "OFF_USER_SERVICES"],
+    "body": ["OFF_USER_SERVICES(e_alias, \"e_label\")"],
+    "description": "USER_SERVICES office icon"
+  },
+
+  "OFF_VERIFICATION_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-verification_service", "OFF_VERIFICATION_SERVICE"],
+    "body": ["OFF_VERIFICATION_SERVICE(e_alias, \"e_label\")"],
+    "description": "VERIFICATION_SERVICE office icon"
+  },
+
+  "OFF_VISIO_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-visio_services", "OFF_VISIO_SERVICES"],
+    "body": ["OFF_VISIO_SERVICES(e_alias, \"e_label\")"],
+    "description": "VISIO_SERVICES office icon"
+  },
+
+  "OFF_WEB_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-web_services", "OFF_WEB_SERVICES"],
+    "body": ["OFF_WEB_SERVICES(e_alias, \"e_label\")"],
+    "description": "WEB_SERVICES office icon"
+  },
+
+  "OFF_WORD_AUTOMATION_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-word_automation_services", "OFF_WORD_AUTOMATION_SERVICES"],
+    "body": ["OFF_WORD_AUTOMATION_SERVICES(e_alias, \"e_label\")"],
+    "description": "WORD_AUTOMATION_SERVICES office icon"
+  },
+
+  "OFF_XMPP_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-xmpp_service", "OFF_XMPP_SERVICE"],
+    "body": ["OFF_XMPP_SERVICE(e_alias, \"e_label\")"],
+    "description": "XMPP_SERVICE office icon"
+  },
+
+  "OFF_ACCESS_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-access_services", "OFF_ACCESS_SERVICES"],
+    "body": ["OFF_ACCESS_SERVICES(e_alias, \"e_label\")"],
+    "description": "ACCESS_SERVICES office icon"
+  },
+
+  "OFF_BLOG_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-blog_site", "OFF_BLOG_SITE"],
+    "body": ["OFF_BLOG_SITE(e_alias, \"e_label\")"],
+    "description": "BLOG_SITE office icon"
+  },
+
+  "OFF_BUSINESS_CONNECTIVITY_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-business_connectivity_services", "OFF_BUSINESS_CONNECTIVITY_SERVICES"],
+    "body": ["OFF_BUSINESS_CONNECTIVITY_SERVICES(e_alias, \"e_label\")"],
+    "description": "BUSINESS_CONNECTIVITY_SERVICES office icon"
+  },
+
+  "OFF_EXCEL_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-excel_services", "OFF_EXCEL_SERVICES"],
+    "body": ["OFF_EXCEL_SERVICES(e_alias, \"e_label\")"],
+    "description": "EXCEL_SERVICES office icon"
+  },
+
+  "OFF_MEETING_WORKSPACE_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-meeting_workspace_site", "OFF_MEETING_WORKSPACE_SITE"],
+    "body": ["OFF_MEETING_WORKSPACE_SITE(e_alias, \"e_label\")"],
+    "description": "MEETING_WORKSPACE_SITE office icon"
+  },
+
+  "OFF_MY_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-my_site", "OFF_MY_SITE"],
+    "body": ["OFF_MY_SITE(e_alias, \"e_label\")"],
+    "description": "MY_SITE office icon"
+  },
+
+  "OFF_POWERPOINT_AUTOMATION_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-powerpoint_automation_services", "OFF_POWERPOINT_AUTOMATION_SERVICES"],
+    "body": ["OFF_POWERPOINT_AUTOMATION_SERVICES(e_alias, \"e_label\")"],
+    "description": "POWERPOINT_AUTOMATION_SERVICES office icon"
+  },
+
+  "OFF_PUBLISH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-publish", "OFF_PUBLISH"],
+    "body": ["OFF_PUBLISH(e_alias, \"e_label\")"],
+    "description": "PUBLISH office icon"
+  },
+
+  "OFF_SITE_COLLECTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-site_collection", "OFF_SITE_COLLECTION"],
+    "body": ["OFF_SITE_COLLECTION(e_alias, \"e_label\")"],
+    "description": "SITE_COLLECTION office icon"
+  },
+
+  "OFF_SITE_SHARED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-site_shared", "OFF_SITE_SHARED"],
+    "body": ["OFF_SITE_SHARED(e_alias, \"e_label\")"],
+    "description": "SITE_SHARED office icon"
+  },
+
+  "OFF_SITE_TEAM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-site_team", "OFF_SITE_TEAM"],
+    "body": ["OFF_SITE_TEAM(e_alias, \"e_label\")"],
+    "description": "SITE_TEAM office icon"
+  },
+
+  "OFF_SUBSITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-subsite", "OFF_SUBSITE"],
+    "body": ["OFF_SUBSITE(e_alias, \"e_label\")"],
+    "description": "SUBSITE office icon"
+  },
+
+  "OFF_SUBSITE_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-subsite_blue", "OFF_SUBSITE_BLUE"],
+    "body": ["OFF_SUBSITE_BLUE(e_alias, \"e_label\")"],
+    "description": "SUBSITE_BLUE office icon"
+  },
+
+  "OFF_SUBSITE_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-subsite_ghosted", "OFF_SUBSITE_GHOSTED"],
+    "body": ["OFF_SUBSITE_GHOSTED(e_alias, \"e_label\")"],
+    "description": "SUBSITE_GHOSTED office icon"
+  },
+
+  "OFF_SUBSITE_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-subsite_green", "OFF_SUBSITE_GREEN"],
+    "body": ["OFF_SUBSITE_GREEN(e_alias, \"e_label\")"],
+    "description": "SUBSITE_GREEN office icon"
+  },
+
+  "OFF_SUBSITE_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-subsite_orange", "OFF_SUBSITE_ORANGE"],
+    "body": ["OFF_SUBSITE_ORANGE(e_alias, \"e_label\")"],
+    "description": "SUBSITE_ORANGE office icon"
+  },
+
+  "OFF_UPGRADE_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-upgrade_site", "OFF_UPGRADE_SITE"],
+    "body": ["OFF_UPGRADE_SITE(e_alias, \"e_label\")"],
+    "description": "UPGRADE_SITE office icon"
+  },
+
+  "OFF_VISIO_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-visio_services", "OFF_VISIO_SERVICES"],
+    "body": ["OFF_VISIO_SERVICES(e_alias, \"e_label\")"],
+    "description": "VISIO_SERVICES office icon"
+  },
+
+  "OFF_WEBSITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-website", "OFF_WEBSITE"],
+    "body": ["OFF_WEBSITE(e_alias, \"e_label\")"],
+    "description": "WEBSITE office icon"
+  },
+
+  "OFF_WEBSITE_PUBLIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-website_public", "OFF_WEBSITE_PUBLIC"],
+    "body": ["OFF_WEBSITE_PUBLIC(e_alias, \"e_label\")"],
+    "description": "WEBSITE_PUBLIC office icon"
+  },
+
+  "OFF_WIKI_SITE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-wiki_site", "OFF_WIKI_SITE"],
+    "body": ["OFF_WIKI_SITE(e_alias, \"e_label\")"],
+    "description": "WIKI_SITE office icon"
+  },
+
+  "OFF_WORD_AUTOMATION_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-word_automation_services", "OFF_WORD_AUTOMATION_SERVICES"],
+    "body": ["OFF_WORD_AUTOMATION_SERVICES(e_alias, \"e_label\")"],
+    "description": "WORD_AUTOMATION_SERVICES office icon"
+  },
+
+  "OFF_ADMINISTRATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-administrator", "OFF_ADMINISTRATOR"],
+    "body": ["OFF_ADMINISTRATOR(e_alias, \"e_label\")"],
+    "description": "ADMINISTRATOR office icon"
+  },
+
+  "OFF_APPROVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-approver", "OFF_APPROVER"],
+    "body": ["OFF_APPROVER(e_alias, \"e_label\")"],
+    "description": "APPROVER office icon"
+  },
+
+  "OFF_CALL_CENTER_AGENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-call_center_agent", "OFF_CALL_CENTER_AGENT"],
+    "body": ["OFF_CALL_CENTER_AGENT(e_alias, \"e_label\")"],
+    "description": "CALL_CENTER_AGENT office icon"
+  },
+
+  "OFF_COMMUNICATIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-communications", "OFF_COMMUNICATIONS"],
+    "body": ["OFF_COMMUNICATIONS(e_alias, \"e_label\")"],
+    "description": "COMMUNICATIONS office icon"
+  },
+
+  "OFF_CONFERENCING_ATTENDANT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-conferencing_attendant", "OFF_CONFERENCING_ATTENDANT"],
+    "body": ["OFF_CONFERENCING_ATTENDANT(e_alias, \"e_label\")"],
+    "description": "CONFERENCING_ATTENDANT office icon"
+  },
+
+  "OFF_CREDENTIALS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-credentials", "OFF_CREDENTIALS"],
+    "body": ["OFF_CREDENTIALS(e_alias, \"e_label\")"],
+    "description": "CREDENTIALS office icon"
+  },
+
+  "OFF_CSV_FILE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-csv_file", "OFF_CSV_FILE"],
+    "body": ["OFF_CSV_FILE(e_alias, \"e_label\")"],
+    "description": "CSV_FILE office icon"
+  },
+
+  "OFF_DISTRIBUTION_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-distribution_group", "OFF_DISTRIBUTION_GROUP"],
+    "body": ["OFF_DISTRIBUTION_GROUP(e_alias, \"e_label\")"],
+    "description": "DISTRIBUTION_GROUP office icon"
+  },
+
+  "OFF_DYNAMIC_DISTRIBUTION_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-dynamic_distribution_group", "OFF_DYNAMIC_DISTRIBUTION_GROUP"],
+    "body": ["OFF_DYNAMIC_DISTRIBUTION_GROUP(e_alias, \"e_label\")"],
+    "description": "DYNAMIC_DISTRIBUTION_GROUP office icon"
+  },
+
+  "OFF_MAIL_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mail_user", "OFF_MAIL_USER"],
+    "body": ["OFF_MAIL_USER(e_alias, \"e_label\")"],
+    "description": "MAIL_USER office icon"
+  },
+
+  "OFF_MEETING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-meeting", "OFF_MEETING"],
+    "body": ["OFF_MEETING(e_alias, \"e_label\")"],
+    "description": "MEETING office icon"
+  },
+
+  "OFF_MOBILE_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-mobile_user", "OFF_MOBILE_USER"],
+    "body": ["OFF_MOBILE_USER(e_alias, \"e_label\")"],
+    "description": "MOBILE_USER office icon"
+  },
+
+  "OFF_ON_PREMISES_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-on_premises_user", "OFF_ON_PREMISES_USER"],
+    "body": ["OFF_ON_PREMISES_USER(e_alias, \"e_label\")"],
+    "description": "ON_PREMISES_USER office icon"
+  },
+
+  "OFF_ONLINE_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-online_user", "OFF_ONLINE_USER"],
+    "body": ["OFF_ONLINE_USER(e_alias, \"e_label\")"],
+    "description": "ONLINE_USER office icon"
+  },
+
+  "OFF_OUTLOOK_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-outlook_user", "OFF_OUTLOOK_USER"],
+    "body": ["OFF_OUTLOOK_USER(e_alias, \"e_label\")"],
+    "description": "OUTLOOK_USER office icon"
+  },
+
+  "OFF_RESPONSE_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-response_group", "OFF_RESPONSE_GROUP"],
+    "body": ["OFF_RESPONSE_GROUP(e_alias, \"e_label\")"],
+    "description": "RESPONSE_GROUP office icon"
+  },
+
+  "OFF_RESPONSE_GROUP_SERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-response_group_service", "OFF_RESPONSE_GROUP_SERVICE"],
+    "body": ["OFF_RESPONSE_GROUP_SERVICE(e_alias, \"e_label\")"],
+    "description": "RESPONSE_GROUP_SERVICE office icon"
+  },
+
+  "OFF_ROLE_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-role_group", "OFF_ROLE_GROUP"],
+    "body": ["OFF_ROLE_GROUP(e_alias, \"e_label\")"],
+    "description": "ROLE_GROUP office icon"
+  },
+
+  "OFF_SKYPE_COMMERCIAL_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_commercial_user", "OFF_SKYPE_COMMERCIAL_USER"],
+    "body": ["OFF_SKYPE_COMMERCIAL_USER(e_alias, \"e_label\")"],
+    "description": "SKYPE_COMMERCIAL_USER office icon"
+  },
+
+  "OFF_SKYPE_FOR_BUSINESS_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-skype_for_business_user", "OFF_SKYPE_FOR_BUSINESS_USER"],
+    "body": ["OFF_SKYPE_FOR_BUSINESS_USER(e_alias, \"e_label\")"],
+    "description": "SKYPE_FOR_BUSINESS_USER office icon"
+  },
+
+  "OFF_TENANT_ADMIN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-tenant_admin", "OFF_TENANT_ADMIN"],
+    "body": ["OFF_TENANT_ADMIN(e_alias, \"e_label\")"],
+    "description": "TENANT_ADMIN office icon"
+  },
+
+  "OFF_UM_ENABLED_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-um_enabled_user", "OFF_UM_ENABLED_USER"],
+    "body": ["OFF_UM_ENABLED_USER(e_alias, \"e_label\")"],
+    "description": "UM_ENABLED_USER office icon"
+  },
+
+  "OFF_UNIVERSAL_SECURITY_GROUP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-universal_security_group", "OFF_UNIVERSAL_SECURITY_GROUP"],
+    "body": ["OFF_UNIVERSAL_SECURITY_GROUP(e_alias, \"e_label\")"],
+    "description": "UNIVERSAL_SECURITY_GROUP office icon"
+  },
+
+  "OFF_USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user", "OFF_USER"],
+    "body": ["OFF_USER(e_alias, \"e_label\")"],
+    "description": "USER office icon"
+  },
+
+  "OFF_USER_ACCOUNTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_accounts", "OFF_USER_ACCOUNTS"],
+    "body": ["OFF_USER_ACCOUNTS(e_alias, \"e_label\")"],
+    "description": "USER_ACCOUNTS office icon"
+  },
+
+  "OFF_USER_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_blue", "OFF_USER_BLUE"],
+    "body": ["OFF_USER_BLUE(e_alias, \"e_label\")"],
+    "description": "USER_BLUE office icon"
+  },
+
+  "OFF_USER_EXTERNAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_external", "OFF_USER_EXTERNAL"],
+    "body": ["OFF_USER_EXTERNAL(e_alias, \"e_label\")"],
+    "description": "USER_EXTERNAL office icon"
+  },
+
+  "OFF_USER_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_ghosted", "OFF_USER_GHOSTED"],
+    "body": ["OFF_USER_GHOSTED(e_alias, \"e_label\")"],
+    "description": "USER_GHOSTED office icon"
+  },
+
+  "OFF_USER_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_green", "OFF_USER_GREEN"],
+    "body": ["OFF_USER_GREEN(e_alias, \"e_label\")"],
+    "description": "USER_GREEN office icon"
+  },
+
+  "OFF_USER_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_orange", "OFF_USER_ORANGE"],
+    "body": ["OFF_USER_ORANGE(e_alias, \"e_label\")"],
+    "description": "USER_ORANGE office icon"
+  },
+
+  "OFF_USER_SERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_services", "OFF_USER_SERVICES"],
+    "body": ["OFF_USER_SERVICES(e_alias, \"e_label\")"],
+    "description": "USER_SERVICES office icon"
+  },
+
+  "OFF_USER_STORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-user_store", "OFF_USER_STORE"],
+    "body": ["OFF_USER_STORE(e_alias, \"e_label\")"],
+    "description": "USER_STORE office icon"
+  },
+
+  "OFF_USERS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users", "OFF_USERS"],
+    "body": ["OFF_USERS(e_alias, \"e_label\")"],
+    "description": "USERS office icon"
+  },
+
+  "OFF_USERS_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_blue", "OFF_USERS_BLUE"],
+    "body": ["OFF_USERS_BLUE(e_alias, \"e_label\")"],
+    "description": "USERS_BLUE office icon"
+  },
+
+  "OFF_USERS_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_ghosted", "OFF_USERS_GHOSTED"],
+    "body": ["OFF_USERS_GHOSTED(e_alias, \"e_label\")"],
+    "description": "USERS_GHOSTED office icon"
+  },
+
+  "OFF_USERS_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_green", "OFF_USERS_GREEN"],
+    "body": ["OFF_USERS_GREEN(e_alias, \"e_label\")"],
+    "description": "USERS_GREEN office icon"
+  },
+
+  "OFF_USERS_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_orange", "OFF_USERS_ORANGE"],
+    "body": ["OFF_USERS_ORANGE(e_alias, \"e_label\")"],
+    "description": "USERS_ORANGE office icon"
+  },
+
+  "OFF_USERS_TWO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_two", "OFF_USERS_TWO"],
+    "body": ["OFF_USERS_TWO(e_alias, \"e_label\")"],
+    "description": "USERS_TWO office icon"
+  },
+
+  "OFF_USERS_TWO_BLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_two_blue", "OFF_USERS_TWO_BLUE"],
+    "body": ["OFF_USERS_TWO_BLUE(e_alias, \"e_label\")"],
+    "description": "USERS_TWO_BLUE office icon"
+  },
+
+  "OFF_USERS_TWO_GHOSTED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_two_ghosted", "OFF_USERS_TWO_GHOSTED"],
+    "body": ["OFF_USERS_TWO_GHOSTED(e_alias, \"e_label\")"],
+    "description": "USERS_TWO_GHOSTED office icon"
+  },
+
+  "OFF_USERS_TWO_GREEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_two_green", "OFF_USERS_TWO_GREEN"],
+    "body": ["OFF_USERS_TWO_GREEN(e_alias, \"e_label\")"],
+    "description": "USERS_TWO_GREEN office icon"
+  },
+
+  "OFF_USERS_TWO_ORANGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-users_two_orange", "OFF_USERS_TWO_ORANGE"],
+    "body": ["OFF_USERS_TWO_ORANGE(e_alias, \"e_label\")"],
+    "description": "USERS_TWO_ORANGE office icon"
+  },
+
+  "OFF_WRITER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["off-writer", "OFF_WRITER"],
+    "body": ["OFF_WRITER(e_alias, \"e_label\")"],
+    "description": "WRITER office icon"
+  }

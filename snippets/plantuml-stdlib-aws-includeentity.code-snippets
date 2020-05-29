@@ -1,0 +1,4602 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "inc aws/AI/AmazonLex": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonlex","i-aws-AI-amazonlex"],
+    "body": ["!include <aws/AI/AmazonLex/AmazonLex>"],
+    "description": "ai/AmazonLex aws"
+  },
+
+  "inc aws/AI/AmazonLex_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonlex_large","i-aws-AI-amazonlex_large"],
+    "body": ["!include <aws/AI/AmazonLex/AmazonLex_LARGE>"],
+    "description": "ai/AmazonLex_LARGE aws"
+  },
+
+  "inc aws/AI/AmazonMachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmachinelearning","i-aws-AI-amazonmachinelearning"],
+    "body": ["!include <aws/AI/AmazonMachineLearning/AmazonMachineLearning>"],
+    "description": "ai/AmazonMachineLearning aws"
+  },
+
+  "inc aws/AI/AmazonMachineLearning_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmachinelearning_large","i-aws-AI-amazonmachinelearning_large"],
+    "body": ["!include <aws/AI/AmazonMachineLearning/AmazonMachineLearning_LARGE>"],
+    "description": "ai/AmazonMachineLearning_LARGE aws"
+  },
+
+  "inc aws/AI/AmazonPolly": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpolly","i-aws-AI-amazonpolly"],
+    "body": ["!include <aws/AI/AmazonPolly/AmazonPolly>"],
+    "description": "ai/AmazonPolly aws"
+  },
+
+  "inc aws/AI/AmazonPolly_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpolly_large","i-aws-AI-amazonpolly_large"],
+    "body": ["!include <aws/AI/AmazonPolly/AmazonPolly_LARGE>"],
+    "description": "ai/AmazonPolly_LARGE aws"
+  },
+
+  "inc aws/AI/AmazonRekognition": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonrekognition","i-aws-AI-amazonrekognition"],
+    "body": ["!include <aws/AI/AmazonRekognition/AmazonRekognition>"],
+    "description": "ai/AmazonRekognition aws"
+  },
+
+  "inc aws/AI/AmazonRekognition_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonrekognition_large","i-aws-AI-amazonrekognition_large"],
+    "body": ["!include <aws/AI/AmazonRekognition/AmazonRekognition_LARGE>"],
+    "description": "ai/AmazonRekognition_LARGE aws"
+  },
+
+  "inc aws/Analytics/AWSDataPipeline": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdatapipeline","i-aws-Analytics-awsdatapipeline"],
+    "body": ["!include <aws/Analytics/AWSDataPipeline/AWSDataPipeline>"],
+    "description": "analytics/AWSDataPipeline aws"
+  },
+
+  "inc aws/Analytics/AWSDataPipeline_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdatapipeline_large","i-aws-Analytics-awsdatapipeline_large"],
+    "body": ["!include <aws/Analytics/AWSDataPipeline/AWSDataPipeline_LARGE>"],
+    "description": "analytics/AWSDataPipeline_LARGE aws"
+  },
+
+  "inc aws/Analytics/AWSGlue": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsglue","i-aws-Analytics-awsglue"],
+    "body": ["!include <aws/Analytics/AWSGlue/AWSGlue>"],
+    "description": "analytics/AWSGlue aws"
+  },
+
+  "inc aws/Analytics/AWSGlue_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsglue_large","i-aws-Analytics-awsglue_large"],
+    "body": ["!include <aws/Analytics/AWSGlue/AWSGlue_LARGE>"],
+    "description": "analytics/AWSGlue_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonAthena": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonathena","i-aws-Analytics-amazonathena"],
+    "body": ["!include <aws/Analytics/AmazonAthena/AmazonAthena>"],
+    "description": "analytics/AmazonAthena aws"
+  },
+
+  "inc aws/Analytics/AmazonAthena_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonathena_large","i-aws-Analytics-amazonathena_large"],
+    "body": ["!include <aws/Analytics/AmazonAthena/AmazonAthena_LARGE>"],
+    "description": "analytics/AmazonAthena_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonCloudSearch": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudsearch","i-aws-Analytics-amazoncloudsearch"],
+    "body": ["!include <aws/Analytics/AmazonCloudSearch/AmazonCloudSearch>"],
+    "description": "analytics/AmazonCloudSearch aws"
+  },
+
+  "inc aws/Analytics/AmazonCloudSearch_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudsearch_large","i-aws-Analytics-amazoncloudsearch_large"],
+    "body": ["!include <aws/Analytics/AmazonCloudSearch/AmazonCloudSearch_LARGE>"],
+    "description": "analytics/AmazonCloudSearch_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonEMR": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonemr","i-aws-Analytics-amazonemr"],
+    "body": ["!include <aws/Analytics/AmazonEMR/AmazonEMR>"],
+    "description": "analytics/AmazonEMR aws"
+  },
+
+  "inc aws/Analytics/AmazonEMR_HDFScluster": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonemr_hdfscluster","i-aws-Analytics-amazonemr_hdfscluster"],
+    "body": ["!include <aws/Analytics/AmazonEMR_HDFScluster/AmazonEMR_HDFScluster>"],
+    "description": "analytics/AmazonEMR_HDFScluster aws"
+  },
+
+  "inc aws/Analytics/AmazonEMR_HDFScluster_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonemr_hdfscluster_large","i-aws-Analytics-amazonemr_hdfscluster_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR_HDFScluster/AmazonEMR_HDFScluster_LARGE>"],
+    "description": "analytics/AmazonEMR_HDFScluster_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonEMR_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonemr_large","i-aws-Analytics-amazonemr_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/AmazonEMR_LARGE>"],
+    "description": "analytics/AmazonEMR_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonES": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazones","i-aws-Analytics-amazones"],
+    "body": ["!include <aws/Analytics/AmazonES/AmazonES>"],
+    "description": "analytics/AmazonES aws"
+  },
+
+  "inc aws/Analytics/AmazonES_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazones_large","i-aws-Analytics-amazones_large"],
+    "body": ["!include <aws/Analytics/AmazonES/AmazonES_LARGE>"],
+    "description": "analytics/AmazonES_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesis": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesis","i-aws-Analytics-amazonkinesis"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesis>"],
+    "description": "analytics/AmazonKinesis aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisAnalytics": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisanalytics","i-aws-Analytics-amazonkinesisanalytics"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisAnalytics/AmazonKinesisAnalytics>"],
+    "description": "analytics/AmazonKinesisAnalytics aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisAnalytics_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisanalytics_large","i-aws-Analytics-amazonkinesisanalytics_large"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisAnalytics/AmazonKinesisAnalytics_LARGE>"],
+    "description": "analytics/AmazonKinesisAnalytics_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisFirehose": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisfirehose","i-aws-Analytics-amazonkinesisfirehose"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisFirehose/AmazonKinesisFirehose>"],
+    "description": "analytics/AmazonKinesisFirehose aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisFirehose_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisfirehose_large","i-aws-Analytics-amazonkinesisfirehose_large"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisFirehose/AmazonKinesisFirehose_LARGE>"],
+    "description": "analytics/AmazonKinesisFirehose_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisStreams": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisstreams","i-aws-Analytics-amazonkinesisstreams"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisStreams/AmazonKinesisStreams>"],
+    "description": "analytics/AmazonKinesisStreams aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesisStreams_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesisstreams_large","i-aws-Analytics-amazonkinesisstreams_large"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesisStreams/AmazonKinesisStreams_LARGE>"],
+    "description": "analytics/AmazonKinesisStreams_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesis_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesis_large","i-aws-Analytics-amazonkinesis_large"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesis_LARGE>"],
+    "description": "analytics/AmazonKinesis_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesis_enabledapp": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesis_enabledapp","i-aws-Analytics-amazonkinesis_enabledapp"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesis_enabledapp/AmazonKinesis_enabledapp>"],
+    "description": "analytics/AmazonKinesis_enabledapp aws"
+  },
+
+  "inc aws/Analytics/AmazonKinesis_enabledapp_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonkinesis_enabledapp_large","i-aws-Analytics-amazonkinesis_enabledapp_large"],
+    "body": ["!include <aws/Analytics/AmazonKinesis/AmazonKinesis_enabledapp/AmazonKinesis_enabledapp_LARGE>"],
+    "description": "analytics/AmazonKinesis_enabledapp_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonQuickSight": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonquicksight","i-aws-Analytics-amazonquicksight"],
+    "body": ["!include <aws/Analytics/AmazonQuickSight/AmazonQuickSight>"],
+    "description": "analytics/AmazonQuickSight aws"
+  },
+
+  "inc aws/Analytics/AmazonQuickSight_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonquicksight_large","i-aws-Analytics-amazonquicksight_large"],
+    "body": ["!include <aws/Analytics/AmazonQuickSight/AmazonQuickSight_LARGE>"],
+    "description": "analytics/AmazonQuickSight_LARGE aws"
+  },
+
+  "inc aws/Analytics/AmazonRedshift": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonredshift","i-aws-Analytics-amazonredshift"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/AmazonRedshift>"],
+    "description": "analytics/AmazonRedshift aws"
+  },
+
+  "inc aws/Analytics/AmazonRedshift_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonredshift_large","i-aws-Analytics-amazonredshift_large"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/AmazonRedshift_LARGE>"],
+    "description": "analytics/AmazonRedshift_LARGE aws"
+  },
+
+  "inc aws/Analytics/EMRengine": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrengine","i-aws-Analytics-emrengine"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengine/EMRengine>"],
+    "description": "analytics/EMRengine aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM3": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm3","i-aws-Analytics-emrenginemaprm3"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM3/EMRengineMapRM3>"],
+    "description": "analytics/EMRengineMapRM3 aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM3_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm3_large","i-aws-Analytics-emrenginemaprm3_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM3/EMRengineMapRM3_LARGE>"],
+    "description": "analytics/EMRengineMapRM3_LARGE aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM5": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm5","i-aws-Analytics-emrenginemaprm5"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM5/EMRengineMapRM5>"],
+    "description": "analytics/EMRengineMapRM5 aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM5_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm5_large","i-aws-Analytics-emrenginemaprm5_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM5/EMRengineMapRM5_LARGE>"],
+    "description": "analytics/EMRengineMapRM5_LARGE aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM7": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm7","i-aws-Analytics-emrenginemaprm7"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM7/EMRengineMapRM7>"],
+    "description": "analytics/EMRengineMapRM7 aws"
+  },
+
+  "inc aws/Analytics/EMRengineMapRM7_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrenginemaprm7_large","i-aws-Analytics-emrenginemaprm7_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengineMapRM7/EMRengineMapRM7_LARGE>"],
+    "description": "analytics/EMRengineMapRM7_LARGE aws"
+  },
+
+  "inc aws/Analytics/EMRengine_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emrengine_large","i-aws-Analytics-emrengine_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/EMRengine/EMRengine_LARGE>"],
+    "description": "analytics/EMRengine_LARGE aws"
+  },
+
+  "inc aws/Analytics/cluster": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cluster","i-aws-Analytics-cluster"],
+    "body": ["!include <aws/Analytics/AmazonEMR/cluster/cluster>"],
+    "description": "analytics/cluster aws"
+  },
+
+  "inc aws/Analytics/cluster_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cluster_large","i-aws-Analytics-cluster_large"],
+    "body": ["!include <aws/Analytics/AmazonEMR/cluster/cluster_LARGE>"],
+    "description": "analytics/cluster_LARGE aws"
+  },
+
+  "inc aws/Analytics/densecomputenode": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densecomputenode","i-aws-Analytics-densecomputenode"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/densecomputenode/densecomputenode>"],
+    "description": "analytics/densecomputenode aws"
+  },
+
+  "inc aws/Analytics/densecomputenode_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densecomputenode_large","i-aws-Analytics-densecomputenode_large"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/densecomputenode/densecomputenode_LARGE>"],
+    "description": "analytics/densecomputenode_LARGE aws"
+  },
+
+  "inc aws/Analytics/densestoragenode": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densestoragenode","i-aws-Analytics-densestoragenode"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/densestoragenode/densestoragenode>"],
+    "description": "analytics/densestoragenode aws"
+  },
+
+  "inc aws/Analytics/densestoragenode_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densestoragenode_large","i-aws-Analytics-densestoragenode_large"],
+    "body": ["!include <aws/Analytics/AmazonRedshift/densestoragenode/densestoragenode_LARGE>"],
+    "description": "analytics/densestoragenode_LARGE aws"
+  },
+
+  "inc aws/Analytics/searchdocuments": {
+    "scope": "diagram",
+    "prefix": ["i-aws-searchdocuments","i-aws-Analytics-searchdocuments"],
+    "body": ["!include <aws/Analytics/AmazonCloudSearch/searchdocuments/searchdocuments>"],
+    "description": "analytics/searchdocuments aws"
+  },
+
+  "inc aws/Analytics/searchdocuments_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-searchdocuments_large","i-aws-Analytics-searchdocuments_large"],
+    "body": ["!include <aws/Analytics/AmazonCloudSearch/searchdocuments/searchdocuments_LARGE>"],
+    "description": "analytics/searchdocuments_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/AWSStepFunctions": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsstepfunctions","i-aws-ApplicationServices-awsstepfunctions"],
+    "body": ["!include <aws/ApplicationServices/AWSStepFunctions/AWSStepFunctions>"],
+    "description": "applicationservices/AWSStepFunctions aws"
+  },
+
+  "inc aws/ApplicationServices/AWSStepFunctions_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsstepfunctions_large","i-aws-ApplicationServices-awsstepfunctions_large"],
+    "body": ["!include <aws/ApplicationServices/AWSStepFunctions/AWSStepFunctions_LARGE>"],
+    "description": "applicationservices/AWSStepFunctions_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonAPIGateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonapigateway","i-aws-ApplicationServices-amazonapigateway"],
+    "body": ["!include <aws/ApplicationServices/AmazonAPIGateway/AmazonAPIGateway>"],
+    "description": "applicationservices/AmazonAPIGateway aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonAPIGateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonapigateway_large","i-aws-ApplicationServices-amazonapigateway_large"],
+    "body": ["!include <aws/ApplicationServices/AmazonAPIGateway/AmazonAPIGateway_LARGE>"],
+    "description": "applicationservices/AmazonAPIGateway_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonElasticTranscoder": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonelastictranscoder","i-aws-ApplicationServices-amazonelastictranscoder"],
+    "body": ["!include <aws/ApplicationServices/AmazonElasticTranscoder/AmazonElasticTranscoder>"],
+    "description": "applicationservices/AmazonElasticTranscoder aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonElasticTranscoder_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonelastictranscoder_large","i-aws-ApplicationServices-amazonelastictranscoder_large"],
+    "body": ["!include <aws/ApplicationServices/AmazonElasticTranscoder/AmazonElasticTranscoder_LARGE>"],
+    "description": "applicationservices/AmazonElasticTranscoder_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonSWF": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonswf","i-aws-ApplicationServices-amazonswf"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/AmazonSWF>"],
+    "description": "applicationservices/AmazonSWF aws"
+  },
+
+  "inc aws/ApplicationServices/AmazonSWF_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonswf_large","i-aws-ApplicationServices-amazonswf_large"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/AmazonSWF_LARGE>"],
+    "description": "applicationservices/AmazonSWF_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/decider": {
+    "scope": "diagram",
+    "prefix": ["i-aws-decider","i-aws-ApplicationServices-decider"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/decider/decider>"],
+    "description": "applicationservices/decider aws"
+  },
+
+  "inc aws/ApplicationServices/decider_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-decider_large","i-aws-ApplicationServices-decider_large"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/decider/decider_LARGE>"],
+    "description": "applicationservices/decider_LARGE aws"
+  },
+
+  "inc aws/ApplicationServices/worker": {
+    "scope": "diagram",
+    "prefix": ["i-aws-worker","i-aws-ApplicationServices-worker"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/worker/worker>"],
+    "description": "applicationservices/worker aws"
+  },
+
+  "inc aws/ApplicationServices/worker_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-worker_large","i-aws-ApplicationServices-worker_large"],
+    "body": ["!include <aws/ApplicationServices/AmazonSWF/worker/worker_LARGE>"],
+    "description": "applicationservices/worker_LARGE aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonChime": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonchime","i-aws-BusinessProductivity-amazonchime"],
+    "body": ["!include <aws/BusinessProductivity/AmazonChime/AmazonChime>"],
+    "description": "businessproductivity/AmazonChime aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonChime_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonchime_large","i-aws-BusinessProductivity-amazonchime_large"],
+    "body": ["!include <aws/BusinessProductivity/AmazonChime/AmazonChime_LARGE>"],
+    "description": "businessproductivity/AmazonChime_LARGE aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonWorkDocs": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkdocs","i-aws-BusinessProductivity-amazonworkdocs"],
+    "body": ["!include <aws/BusinessProductivity/AmazonWorkDocs/AmazonWorkDocs>"],
+    "description": "businessproductivity/AmazonWorkDocs aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonWorkDocs_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkdocs_large","i-aws-BusinessProductivity-amazonworkdocs_large"],
+    "body": ["!include <aws/BusinessProductivity/AmazonWorkDocs/AmazonWorkDocs_LARGE>"],
+    "description": "businessproductivity/AmazonWorkDocs_LARGE aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonWorkMail": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkmail","i-aws-BusinessProductivity-amazonworkmail"],
+    "body": ["!include <aws/BusinessProductivity/AmazonWorkMail/AmazonWorkMail>"],
+    "description": "businessproductivity/AmazonWorkMail aws"
+  },
+
+  "inc aws/BusinessProductivity/AmazonWorkMail_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkmail_large","i-aws-BusinessProductivity-amazonworkmail_large"],
+    "body": ["!include <aws/BusinessProductivity/AmazonWorkMail/AmazonWorkMail_LARGE>"],
+    "description": "businessproductivity/AmazonWorkMail_LARGE aws"
+  },
+
+  "inc aws/Compute/AMI": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ami","i-aws-Compute-ami"],
+    "body": ["!include <aws/Compute/AmazonEC2/AMI/AMI>"],
+    "description": "compute/AMI aws"
+  },
+
+  "inc aws/Compute/AMI_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ami_large","i-aws-Compute-ami_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/AMI/AMI_LARGE>"],
+    "description": "compute/AMI_LARGE aws"
+  },
+
+  "inc aws/Compute/AWSBatch": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsbatch","i-aws-Compute-awsbatch"],
+    "body": ["!include <aws/Compute/AWSBatch/AWSBatch>"],
+    "description": "compute/AWSBatch aws"
+  },
+
+  "inc aws/Compute/AWSBatch_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsbatch_large","i-aws-Compute-awsbatch_large"],
+    "body": ["!include <aws/Compute/AWSBatch/AWSBatch_LARGE>"],
+    "description": "compute/AWSBatch_LARGE aws"
+  },
+
+  "inc aws/Compute/AWSElasticBeanstalk": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awselasticbeanstalk","i-aws-Compute-awselasticbeanstalk"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/AWSElasticBeanstalk>"],
+    "description": "compute/AWSElasticBeanstalk aws"
+  },
+
+  "inc aws/Compute/AWSElasticBeanstalk_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awselasticbeanstalk_large","i-aws-Compute-awselasticbeanstalk_large"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/AWSElasticBeanstalk_LARGE>"],
+    "description": "compute/AWSElasticBeanstalk_LARGE aws"
+  },
+
+  "inc aws/Compute/AWSLambda": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awslambda","i-aws-Compute-awslambda"],
+    "body": ["!include <aws/Compute/AWSLambda/AWSLambda>"],
+    "description": "compute/AWSLambda aws"
+  },
+
+  "inc aws/Compute/AWSLambda_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awslambda_large","i-aws-Compute-awslambda_large"],
+    "body": ["!include <aws/Compute/AWSLambda/AWSLambda_LARGE>"],
+    "description": "compute/AWSLambda_LARGE aws"
+  },
+
+  "inc aws/Compute/AmazonEC2": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonec2","i-aws-Compute-amazonec2"],
+    "body": ["!include <aws/Compute/AmazonEC2/AmazonEC2>"],
+    "description": "compute/AmazonEC2 aws"
+  },
+
+  "inc aws/Compute/AmazonEC2_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonec2_large","i-aws-Compute-amazonec2_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/AmazonEC2_LARGE>"],
+    "description": "compute/AmazonEC2_LARGE aws"
+  },
+
+  "inc aws/Compute/AmazonECR": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonecr","i-aws-Compute-amazonecr"],
+    "body": ["!include <aws/Compute/AmazonECR/AmazonECR>"],
+    "description": "compute/AmazonECR aws"
+  },
+
+  "inc aws/Compute/AmazonECR_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonecr_large","i-aws-Compute-amazonecr_large"],
+    "body": ["!include <aws/Compute/AmazonECR/AmazonECR_LARGE>"],
+    "description": "compute/AmazonECR_LARGE aws"
+  },
+
+  "inc aws/Compute/AmazonECS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonecs","i-aws-Compute-amazonecs"],
+    "body": ["!include <aws/Compute/AmazonECS/AmazonECS>"],
+    "description": "compute/AmazonECS aws"
+  },
+
+  "inc aws/Compute/AmazonECS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonecs_large","i-aws-Compute-amazonecs_large"],
+    "body": ["!include <aws/Compute/AmazonECS/AmazonECS_LARGE>"],
+    "description": "compute/AmazonECS_LARGE aws"
+  },
+
+  "inc aws/Compute/AmazonLightsail": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonlightsail","i-aws-Compute-amazonlightsail"],
+    "body": ["!include <aws/Compute/AmazonLightsail/AmazonLightsail>"],
+    "description": "compute/AmazonLightsail aws"
+  },
+
+  "inc aws/Compute/AmazonLightsail_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonlightsail_large","i-aws-Compute-amazonlightsail_large"],
+    "body": ["!include <aws/Compute/AmazonLightsail/AmazonLightsail_LARGE>"],
+    "description": "compute/AmazonLightsail_LARGE aws"
+  },
+
+  "inc aws/Compute/AmazonVPC": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonvpc","i-aws-Compute-amazonvpc"],
+    "body": ["!include <aws/Compute/AmazonVPC/AmazonVPC>"],
+    "description": "compute/AmazonVPC aws"
+  },
+
+  "inc aws/Compute/AmazonVPC_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonvpc_large","i-aws-Compute-amazonvpc_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/AmazonVPC_LARGE>"],
+    "description": "compute/AmazonVPC_LARGE aws"
+  },
+
+  "inc aws/Compute/ApplicationLoadBalancer": {
+    "scope": "diagram",
+    "prefix": ["i-aws-applicationloadbalancer","i-aws-Compute-applicationloadbalancer"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ApplicationLoadBalancer/ApplicationLoadBalancer>"],
+    "description": "compute/ApplicationLoadBalancer aws"
+  },
+
+  "inc aws/Compute/ApplicationLoadBalancing_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-applicationloadbalancing_large","i-aws-Compute-applicationloadbalancing_large"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ApplicationLoadBalancing/ApplicationLoadBalancing_LARGE>"],
+    "description": "compute/ApplicationLoadBalancing_LARGE aws"
+  },
+
+  "inc aws/Compute/AutoScaling": {
+    "scope": "diagram",
+    "prefix": ["i-aws-autoscaling","i-aws-Compute-autoscaling"],
+    "body": ["!include <aws/Compute/AmazonEC2/AutoScaling/AutoScaling>"],
+    "description": "compute/AutoScaling aws"
+  },
+
+  "inc aws/Compute/AutoScaling_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-autoscaling_large","i-aws-Compute-autoscaling_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/AutoScaling/AutoScaling_LARGE>"],
+    "description": "compute/AutoScaling_LARGE aws"
+  },
+
+  "inc aws/Compute/ClassicLoadbalancer": {
+    "scope": "diagram",
+    "prefix": ["i-aws-classicloadbalancer","i-aws-Compute-classicloadbalancer"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ClassicLoadbalancer/ClassicLoadbalancer>"],
+    "description": "compute/ClassicLoadbalancer aws"
+  },
+
+  "inc aws/Compute/ClassicLoadbalancer_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-classicloadbalancer_large","i-aws-Compute-classicloadbalancer_large"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ClassicLoadbalancer/ClassicLoadbalancer_LARGE>"],
+    "description": "compute/ClassicLoadbalancer_LARGE aws"
+  },
+
+  "inc aws/Compute/DBoninstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dboninstance","i-aws-Compute-dboninstance"],
+    "body": ["!include <aws/Compute/AmazonEC2/DBoninstance/DBoninstance>"],
+    "description": "compute/DBoninstance aws"
+  },
+
+  "inc aws/Compute/DBoninstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dboninstance_large","i-aws-Compute-dboninstance_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/DBoninstance/DBoninstance_LARGE>"],
+    "description": "compute/DBoninstance_LARGE aws"
+  },
+
+  "inc aws/Compute/EC2rescue": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ec2rescue","i-aws-Compute-ec2rescue"],
+    "body": ["!include <aws/Compute/AmazonEC2/EC2rescue/EC2rescue>"],
+    "description": "compute/EC2rescue aws"
+  },
+
+  "inc aws/Compute/EC2rescue_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ec2rescue_large","i-aws-Compute-ec2rescue_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/EC2rescue/EC2rescue_LARGE>"],
+    "description": "compute/EC2rescue_LARGE aws"
+  },
+
+  "inc aws/Compute/ECRRegistry": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecrregistry","i-aws-Compute-ecrregistry"],
+    "body": ["!include <aws/Compute/AmazonECR/ECRRegistry/ECRRegistry>"],
+    "description": "compute/ECRRegistry aws"
+  },
+
+  "inc aws/Compute/ECRRegistry_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecrregistry_large","i-aws-Compute-ecrregistry_large"],
+    "body": ["!include <aws/Compute/AmazonECR/ECRRegistry/ECRRegistry_LARGE>"],
+    "description": "compute/ECRRegistry_LARGE aws"
+  },
+
+  "inc aws/Compute/ECScontainer": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer","i-aws-Compute-ecscontainer"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer/ECScontainer>"],
+    "description": "compute/ECScontainer aws"
+  },
+
+  "inc aws/Compute/ECScontainer_Alt1": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer_alt1","i-aws-Compute-ecscontainer_alt1"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer_Alt1/ECScontainer_Alt1>"],
+    "description": "compute/ECScontainer_Alt1 aws"
+  },
+
+  "inc aws/Compute/ECScontainer_Alt1_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer_alt1_large","i-aws-Compute-ecscontainer_alt1_large"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer_Alt1/ECScontainer_Alt1_LARGE>"],
+    "description": "compute/ECScontainer_Alt1_LARGE aws"
+  },
+
+  "inc aws/Compute/ECScontainer_Alt2": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer_alt2","i-aws-Compute-ecscontainer_alt2"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer_Alt2/ECScontainer_Alt2>"],
+    "description": "compute/ECScontainer_Alt2 aws"
+  },
+
+  "inc aws/Compute/ECScontainer_Alt2_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer_alt2_large","i-aws-Compute-ecscontainer_alt2_large"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer_Alt2/ECScontainer_Alt2_LARGE>"],
+    "description": "compute/ECScontainer_Alt2_LARGE aws"
+  },
+
+  "inc aws/Compute/ECScontainer_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ecscontainer_large","i-aws-Compute-ecscontainer_large"],
+    "body": ["!include <aws/Compute/AmazonECS/ECScontainer/ECScontainer_LARGE>"],
+    "description": "compute/ECScontainer_LARGE aws"
+  },
+
+  "inc aws/Compute/ElasticIPaddress": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticipaddress","i-aws-Compute-elasticipaddress"],
+    "body": ["!include <aws/Compute/AmazonEC2/ElasticIPaddress/ElasticIPaddress>"],
+    "description": "compute/ElasticIPaddress aws"
+  },
+
+  "inc aws/Compute/ElasticIPaddress_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticipaddress_large","i-aws-Compute-elasticipaddress_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/ElasticIPaddress/ElasticIPaddress_LARGE>"],
+    "description": "compute/ElasticIPaddress_LARGE aws"
+  },
+
+  "inc aws/Compute/ElasticLoadBalancing": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticloadbalancing","i-aws-Compute-elasticloadbalancing"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ElasticLoadBalancing>"],
+    "description": "compute/ElasticLoadBalancing aws"
+  },
+
+  "inc aws/Compute/ElasticLoadBalancing_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticloadbalancing_large","i-aws-Compute-elasticloadbalancing_large"],
+    "body": ["!include <aws/Compute/ElasticLoadBalancing/ElasticLoadBalancing_LARGE>"],
+    "description": "compute/ElasticLoadBalancing_LARGE aws"
+  },
+
+  "inc aws/Compute/Internetgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetgateway","i-aws-Compute-internetgateway"],
+    "body": ["!include <aws/Compute/AmazonVPC/Internetgateway/Internetgateway>"],
+    "description": "compute/Internetgateway aws"
+  },
+
+  "inc aws/Compute/Internetgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetgateway_large","i-aws-Compute-internetgateway_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/Internetgateway/Internetgateway_LARGE>"],
+    "description": "compute/Internetgateway_LARGE aws"
+  },
+
+  "inc aws/Compute/LambdaFunction": {
+    "scope": "diagram",
+    "prefix": ["i-aws-lambdafunction","i-aws-Compute-lambdafunction"],
+    "body": ["!include <aws/Compute/AWSLambda/LambdaFunction/LambdaFunction>"],
+    "description": "compute/LambdaFunction aws"
+  },
+
+  "inc aws/Compute/LambdaFunction_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-lambdafunction_large","i-aws-Compute-lambdafunction_large"],
+    "body": ["!include <aws/Compute/AWSLambda/LambdaFunction/LambdaFunction_LARGE>"],
+    "description": "compute/LambdaFunction_LARGE aws"
+  },
+
+  "inc aws/Compute/SpotFleet": {
+    "scope": "diagram",
+    "prefix": ["i-aws-spotfleet","i-aws-Compute-spotfleet"],
+    "body": ["!include <aws/Compute/AmazonEC2/SpotFleet/SpotFleet>"],
+    "description": "compute/SpotFleet aws"
+  },
+
+  "inc aws/Compute/SpotFleet_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-spotfleet_large","i-aws-Compute-spotfleet_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/SpotFleet/SpotFleet_LARGE>"],
+    "description": "compute/SpotFleet_LARGE aws"
+  },
+
+  "inc aws/Compute/SpotInstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-spotinstance","i-aws-Compute-spotinstance"],
+    "body": ["!include <aws/Compute/AmazonEC2/SpotInstance/SpotInstance>"],
+    "description": "compute/SpotInstance aws"
+  },
+
+  "inc aws/Compute/SpotInstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-spotinstance_large","i-aws-Compute-spotinstance_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/SpotInstance/SpotInstance_LARGE>"],
+    "description": "compute/SpotInstance_LARGE aws"
+  },
+
+  "inc aws/Compute/VPCNATgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcnatgateway","i-aws-Compute-vpcnatgateway"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPCNATgateway/VPCNATgateway>"],
+    "description": "compute/VPCNATgateway aws"
+  },
+
+  "inc aws/Compute/VPCNATgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcnatgateway_large","i-aws-Compute-vpcnatgateway_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPCNATgateway/VPCNATgateway_LARGE>"],
+    "description": "compute/VPCNATgateway_LARGE aws"
+  },
+
+  "inc aws/Compute/VPCpeering": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcpeering","i-aws-Compute-vpcpeering"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPCpeering/VPCpeering>"],
+    "description": "compute/VPCpeering aws"
+  },
+
+  "inc aws/Compute/VPCpeering_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcpeering_large","i-aws-Compute-vpcpeering_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPCpeering/VPCpeering_LARGE>"],
+    "description": "compute/VPCpeering_LARGE aws"
+  },
+
+  "inc aws/Compute/VPNconnection": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpnconnection","i-aws-Compute-vpnconnection"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPNconnection/VPNconnection>"],
+    "description": "compute/VPNconnection aws"
+  },
+
+  "inc aws/Compute/VPNconnection_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpnconnection_large","i-aws-Compute-vpnconnection_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPNconnection/VPNconnection_LARGE>"],
+    "description": "compute/VPNconnection_LARGE aws"
+  },
+
+  "inc aws/Compute/VPNgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpngateway","i-aws-Compute-vpngateway"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPNgateway/VPNgateway>"],
+    "description": "compute/VPNgateway aws"
+  },
+
+  "inc aws/Compute/VPNgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpngateway_large","i-aws-Compute-vpngateway_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/VPNgateway/VPNgateway_LARGE>"],
+    "description": "compute/VPNgateway_LARGE aws"
+  },
+
+  "inc aws/Compute/X1instance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-x1instance","i-aws-Compute-x1instance"],
+    "body": ["!include <aws/Compute/AmazonEC2/X1instance/X1instance>"],
+    "description": "compute/X1instance aws"
+  },
+
+  "inc aws/Compute/X1instance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-x1instance_large","i-aws-Compute-x1instance_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/X1instance/X1instance_LARGE>"],
+    "description": "compute/X1instance_LARGE aws"
+  },
+
+  "inc aws/Compute/application": {
+    "scope": "diagram",
+    "prefix": ["i-aws-application","i-aws-Compute-application"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/application/application>"],
+    "description": "compute/application aws"
+  },
+
+  "inc aws/Compute/application_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-application_large","i-aws-Compute-application_large"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/application/application_LARGE>"],
+    "description": "compute/application_LARGE aws"
+  },
+
+  "inc aws/Compute/customergateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-customergateway","i-aws-Compute-customergateway"],
+    "body": ["!include <aws/Compute/AmazonVPC/customergateway/customergateway>"],
+    "description": "compute/customergateway aws"
+  },
+
+  "inc aws/Compute/customergateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-customergateway_large","i-aws-Compute-customergateway_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/customergateway/customergateway_LARGE>"],
+    "description": "compute/customergateway_LARGE aws"
+  },
+
+  "inc aws/Compute/deployment": {
+    "scope": "diagram",
+    "prefix": ["i-aws-deployment","i-aws-Compute-deployment"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/deployment/deployment>"],
+    "description": "compute/deployment aws"
+  },
+
+  "inc aws/Compute/deployment_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-deployment_large","i-aws-Compute-deployment_large"],
+    "body": ["!include <aws/Compute/AWSElasticBeanstalk/deployment/deployment_LARGE>"],
+    "description": "compute/deployment_LARGE aws"
+  },
+
+  "inc aws/Compute/elasticnetworkadapter": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkadapter","i-aws-Compute-elasticnetworkadapter"],
+    "body": ["!include <aws/Compute/AmazonVPC/elasticnetworkadapter/elasticnetworkadapter>"],
+    "description": "compute/elasticnetworkadapter aws"
+  },
+
+  "inc aws/Compute/elasticnetworkadapter_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkadapter_large","i-aws-Compute-elasticnetworkadapter_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/elasticnetworkadapter/elasticnetworkadapter_LARGE>"],
+    "description": "compute/elasticnetworkadapter_LARGE aws"
+  },
+
+  "inc aws/Compute/elasticnetworkinterface": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkinterface","i-aws-Compute-elasticnetworkinterface"],
+    "body": ["!include <aws/Compute/AmazonVPC/elasticnetworkinterface/elasticnetworkinterface>"],
+    "description": "compute/elasticnetworkinterface aws"
+  },
+
+  "inc aws/Compute/elasticnetworkinterface_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkinterface_large","i-aws-Compute-elasticnetworkinterface_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/elasticnetworkinterface/elasticnetworkinterface_LARGE>"],
+    "description": "compute/elasticnetworkinterface_LARGE aws"
+  },
+
+  "inc aws/Compute/endpoints": {
+    "scope": "diagram",
+    "prefix": ["i-aws-endpoints","i-aws-Compute-endpoints"],
+    "body": ["!include <aws/Compute/AmazonVPC/endpoints/endpoints>"],
+    "description": "compute/endpoints aws"
+  },
+
+  "inc aws/Compute/endpoints_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-endpoints_large","i-aws-Compute-endpoints_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/endpoints/endpoints_LARGE>"],
+    "description": "compute/endpoints_LARGE aws"
+  },
+
+  "inc aws/Compute/flowlogs": {
+    "scope": "diagram",
+    "prefix": ["i-aws-flowlogs","i-aws-Compute-flowlogs"],
+    "body": ["!include <aws/Compute/AmazonVPC/flowlogs/flowlogs>"],
+    "description": "compute/flowlogs aws"
+  },
+
+  "inc aws/Compute/flowlogs_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-flowlogs_large","i-aws-Compute-flowlogs_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/flowlogs/flowlogs_LARGE>"],
+    "description": "compute/flowlogs_LARGE aws"
+  },
+
+  "inc aws/Compute/instance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instance","i-aws-Compute-instance"],
+    "body": ["!include <aws/Compute/AmazonEC2/instance/instance>"],
+    "description": "compute/instance aws"
+  },
+
+  "inc aws/Compute/instance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instance_large","i-aws-Compute-instance_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/instance/instance_LARGE>"],
+    "description": "compute/instance_LARGE aws"
+  },
+
+  "inc aws/Compute/instances": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instances","i-aws-Compute-instances"],
+    "body": ["!include <aws/Compute/AmazonEC2/instances/instances>"],
+    "description": "compute/instances aws"
+  },
+
+  "inc aws/Compute/instances_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instances_large","i-aws-Compute-instances_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/instances/instances_LARGE>"],
+    "description": "compute/instances_LARGE aws"
+  },
+
+  "inc aws/Compute/instancewithCloudWatch": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancewithcloudwatch","i-aws-Compute-instancewithcloudwatch"],
+    "body": ["!include <aws/Compute/AmazonEC2/instancewithCloudWatch/instancewithCloudWatch>"],
+    "description": "compute/instancewithCloudWatch aws"
+  },
+
+  "inc aws/Compute/instancewithCloudWatch_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancewithcloudwatch_large","i-aws-Compute-instancewithcloudwatch_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/instancewithCloudWatch/instancewithCloudWatch_LARGE>"],
+    "description": "compute/instancewithCloudWatch_LARGE aws"
+  },
+
+  "inc aws/Compute/networkaccesscontrollist": {
+    "scope": "diagram",
+    "prefix": ["i-aws-networkaccesscontrollist","i-aws-Compute-networkaccesscontrollist"],
+    "body": ["!include <aws/Compute/AmazonVPC/networkaccesscontrollist/networkaccesscontrollist>"],
+    "description": "compute/networkaccesscontrollist aws"
+  },
+
+  "inc aws/Compute/networkaccesscontrollist_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-networkaccesscontrollist_large","i-aws-Compute-networkaccesscontrollist_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/networkaccesscontrollist/networkaccesscontrollist_LARGE>"],
+    "description": "compute/networkaccesscontrollist_LARGE aws"
+  },
+
+  "inc aws/Compute/optimizedinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-optimizedinstance","i-aws-Compute-optimizedinstance"],
+    "body": ["!include <aws/Compute/AmazonEC2/optimizedinstance/optimizedinstance>"],
+    "description": "compute/optimizedinstance aws"
+  },
+
+  "inc aws/Compute/optimizedinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-optimizedinstance_large","i-aws-Compute-optimizedinstance_large"],
+    "body": ["!include <aws/Compute/AmazonEC2/optimizedinstance/optimizedinstance_LARGE>"],
+    "description": "compute/optimizedinstance_LARGE aws"
+  },
+
+  "inc aws/Compute/router": {
+    "scope": "diagram",
+    "prefix": ["i-aws-router","i-aws-Compute-router"],
+    "body": ["!include <aws/Compute/AmazonVPC/router/router>"],
+    "description": "compute/router aws"
+  },
+
+  "inc aws/Compute/router_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-router_large","i-aws-Compute-router_large"],
+    "body": ["!include <aws/Compute/AmazonVPC/router/router_LARGE>"],
+    "description": "compute/router_LARGE aws"
+  },
+
+  "inc aws/ContactCenter/AmazonConnect": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonconnect","i-aws-ContactCenter-amazonconnect"],
+    "body": ["!include <aws/ContactCenter/AmazonConnect/AmazonConnect>"],
+    "description": "contactcenter/AmazonConnect aws"
+  },
+
+  "inc aws/ContactCenter/AmazonConnect_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonconnect_large","i-aws-ContactCenter-amazonconnect_large"],
+    "body": ["!include <aws/ContactCenter/AmazonConnect/AmazonConnect_LARGE>"],
+    "description": "contactcenter/AmazonConnect_LARGE aws"
+  },
+
+  "inc aws/Database/AWSDMS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdms","i-aws-Database-awsdms"],
+    "body": ["!include <aws/Database/AWSDMS/AWSDMS>"],
+    "description": "database/AWSDMS aws"
+  },
+
+  "inc aws/Database/AWSDMS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdms_large","i-aws-Database-awsdms_large"],
+    "body": ["!include <aws/Database/AWSDMS/AWSDMS_LARGE>"],
+    "description": "database/AWSDMS_LARGE aws"
+  },
+
+  "inc aws/Database/AmazonDynamoDB": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazondynamodb","i-aws-Database-amazondynamodb"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/AmazonDynamoDB>"],
+    "description": "database/AmazonDynamoDB aws"
+  },
+
+  "inc aws/Database/AmazonDynamoDBAccelerator": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazondynamodbaccelerator","i-aws-Database-amazondynamodbaccelerator"],
+    "body": ["!include <aws/Database/AmazonDynamoDBAccelerator/AmazonDynamoDBAccelerator>"],
+    "description": "database/AmazonDynamoDBAccelerator aws"
+  },
+
+  "inc aws/Database/AmazonDynamoDBAccelerator_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazondynamodbaccelerator_large","i-aws-Database-amazondynamodbaccelerator_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDBAccelerator/AmazonDynamoDBAccelerator_LARGE>"],
+    "description": "database/AmazonDynamoDBAccelerator_LARGE aws"
+  },
+
+  "inc aws/Database/AmazonDynamoDB_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazondynamodb_large","i-aws-Database-amazondynamodb_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/AmazonDynamoDB_LARGE>"],
+    "description": "database/AmazonDynamoDB_LARGE aws"
+  },
+
+  "inc aws/Database/AmazonElasticCache": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonelasticcache","i-aws-Database-amazonelasticcache"],
+    "body": ["!include <aws/Database/AmazonElasticCache/AmazonElasticCache>"],
+    "description": "database/AmazonElasticCache aws"
+  },
+
+  "inc aws/Database/AmazonElasticCache_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonelasticcache_large","i-aws-Database-amazonelasticcache_large"],
+    "body": ["!include <aws/Database/AmazonElasticCache/AmazonElasticCache_LARGE>"],
+    "description": "database/AmazonElasticCache_LARGE aws"
+  },
+
+  "inc aws/Database/AmazonRDS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonrds","i-aws-Database-amazonrds"],
+    "body": ["!include <aws/Database/AmazonRDS/AmazonRDS>"],
+    "description": "database/AmazonRDS aws"
+  },
+
+  "inc aws/Database/AmazonRDS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonrds_large","i-aws-Database-amazonrds_large"],
+    "body": ["!include <aws/Database/AmazonRDS/AmazonRDS_LARGE>"],
+    "description": "database/AmazonRDS_LARGE aws"
+  },
+
+  "inc aws/Database/AmazonRedshift": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonredshift","i-aws-Database-amazonredshift"],
+    "body": ["!include <aws/Database/AmazonRedshift/AmazonRedshift>"],
+    "description": "database/AmazonRedshift aws"
+  },
+
+  "inc aws/Database/AmazonRedshift_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonredshift_large","i-aws-Database-amazonredshift_large"],
+    "body": ["!include <aws/Database/AmazonRedshift/AmazonRedshift_LARGE>"],
+    "description": "database/AmazonRedshift_LARGE aws"
+  },
+
+  "inc aws/Database/DBinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dbinstance","i-aws-Database-dbinstance"],
+    "body": ["!include <aws/Database/AmazonRDS/DBinstance/DBinstance>"],
+    "description": "database/DBinstance aws"
+  },
+
+  "inc aws/Database/DBinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dbinstance_large","i-aws-Database-dbinstance_large"],
+    "body": ["!include <aws/Database/AmazonRDS/DBinstance/DBinstance_LARGE>"],
+    "description": "database/DBinstance_LARGE aws"
+  },
+
+  "inc aws/Database/MSSQLinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mssqlinstance","i-aws-Database-mssqlinstance"],
+    "body": ["!include <aws/Database/AmazonRDS/MSSQLinstance/MSSQLinstance>"],
+    "description": "database/MSSQLinstance aws"
+  },
+
+  "inc aws/Database/MSSQLinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mssqlinstance_large","i-aws-Database-mssqlinstance_large"],
+    "body": ["!include <aws/Database/AmazonRDS/MSSQLinstance/MSSQLinstance_LARGE>"],
+    "description": "database/MSSQLinstance_LARGE aws"
+  },
+
+  "inc aws/Database/MSSQLinstancealternate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mssqlinstancealternate","i-aws-Database-mssqlinstancealternate"],
+    "body": ["!include <aws/Database/AmazonRDS/MSSQLinstancealternate/MSSQLinstancealternate>"],
+    "description": "database/MSSQLinstancealternate aws"
+  },
+
+  "inc aws/Database/MSSQLinstancealternate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mssqlinstancealternate_large","i-aws-Database-mssqlinstancealternate_large"],
+    "body": ["!include <aws/Database/AmazonRDS/MSSQLinstancealternate/MSSQLinstancealternate_LARGE>"],
+    "description": "database/MSSQLinstancealternate_LARGE aws"
+  },
+
+  "inc aws/Database/Memcached": {
+    "scope": "diagram",
+    "prefix": ["i-aws-memcached","i-aws-Database-memcached"],
+    "body": ["!include <aws/Database/AmazonElasticCache/Memcached/Memcached>"],
+    "description": "database/Memcached aws"
+  },
+
+  "inc aws/Database/Memcached_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-memcached_large","i-aws-Database-memcached_large"],
+    "body": ["!include <aws/Database/AmazonElasticCache/Memcached/Memcached_LARGE>"],
+    "description": "database/Memcached_LARGE aws"
+  },
+
+  "inc aws/Database/MySQLDBinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mysqldbinstance","i-aws-Database-mysqldbinstance"],
+    "body": ["!include <aws/Database/AmazonRDS/MySQLDBinstance/MySQLDBinstance>"],
+    "description": "database/MySQLDBinstance aws"
+  },
+
+  "inc aws/Database/MySQLDBinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mysqldbinstance_large","i-aws-Database-mysqldbinstance_large"],
+    "body": ["!include <aws/Database/AmazonRDS/MySQLDBinstance/MySQLDBinstance_LARGE>"],
+    "description": "database/MySQLDBinstance_LARGE aws"
+  },
+
+  "inc aws/Database/MySQLinstancealternate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mysqlinstancealternate","i-aws-Database-mysqlinstancealternate"],
+    "body": ["!include <aws/Database/AmazonRDS/MySQLinstancealternate/MySQLinstancealternate>"],
+    "description": "database/MySQLinstancealternate aws"
+  },
+
+  "inc aws/Database/MySQLinstancealternate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mysqlinstancealternate_large","i-aws-Database-mysqlinstancealternate_large"],
+    "body": ["!include <aws/Database/AmazonRDS/MySQLinstancealternate/MySQLinstancealternate_LARGE>"],
+    "description": "database/MySQLinstancealternate_LARGE aws"
+  },
+
+  "inc aws/Database/OracleDBinstancealternate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-oracledbinstancealternate","i-aws-Database-oracledbinstancealternate"],
+    "body": ["!include <aws/Database/AmazonRDS/OracleDBinstancealternate/OracleDBinstancealternate>"],
+    "description": "database/OracleDBinstancealternate aws"
+  },
+
+  "inc aws/Database/OracleDBinstancealternate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-oracledbinstancealternate_large","i-aws-Database-oracledbinstancealternate_large"],
+    "body": ["!include <aws/Database/AmazonRDS/OracleDBinstancealternate/OracleDBinstancealternate_LARGE>"],
+    "description": "database/OracleDBinstancealternate_LARGE aws"
+  },
+
+  "inc aws/Database/PIOP": {
+    "scope": "diagram",
+    "prefix": ["i-aws-piop","i-aws-Database-piop"],
+    "body": ["!include <aws/Database/AmazonRDS/PIOP/PIOP>"],
+    "description": "database/PIOP aws"
+  },
+
+  "inc aws/Database/PIOP_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-piop_large","i-aws-Database-piop_large"],
+    "body": ["!include <aws/Database/AmazonRDS/PIOP/PIOP_LARGE>"],
+    "description": "database/PIOP_LARGE aws"
+  },
+
+  "inc aws/Database/PostgreSQLinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-postgresqlinstance","i-aws-Database-postgresqlinstance"],
+    "body": ["!include <aws/Database/AmazonRDS/PostgreSQLinstance/PostgreSQLinstance>"],
+    "description": "database/PostgreSQLinstance aws"
+  },
+
+  "inc aws/Database/PostgreSQLinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-postgresqlinstance_large","i-aws-Database-postgresqlinstance_large"],
+    "body": ["!include <aws/Database/AmazonRDS/PostgreSQLinstance/PostgreSQLinstance_LARGE>"],
+    "description": "database/PostgreSQLinstance_LARGE aws"
+  },
+
+  "inc aws/Database/Redis": {
+    "scope": "diagram",
+    "prefix": ["i-aws-redis","i-aws-Database-redis"],
+    "body": ["!include <aws/Database/AmazonElasticCache/Redis/Redis>"],
+    "description": "database/Redis aws"
+  },
+
+  "inc aws/Database/Redis_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-redis_large","i-aws-Database-redis_large"],
+    "body": ["!include <aws/Database/AmazonElasticCache/Redis/Redis_LARGE>"],
+    "description": "database/Redis_LARGE aws"
+  },
+
+  "inc aws/Database/SQLmaster": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sqlmaster","i-aws-Database-sqlmaster"],
+    "body": ["!include <aws/Database/AmazonRDS/SQLmaster/SQLmaster>"],
+    "description": "database/SQLmaster aws"
+  },
+
+  "inc aws/Database/SQLmaster_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sqlmaster_large","i-aws-Database-sqlmaster_large"],
+    "body": ["!include <aws/Database/AmazonRDS/SQLmaster/SQLmaster_LARGE>"],
+    "description": "database/SQLmaster_LARGE aws"
+  },
+
+  "inc aws/Database/SQLslave": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sqlslave","i-aws-Database-sqlslave"],
+    "body": ["!include <aws/Database/AmazonRDS/SQLslave/SQLslave>"],
+    "description": "database/SQLslave aws"
+  },
+
+  "inc aws/Database/SQLslave_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sqlslave_large","i-aws-Database-sqlslave_large"],
+    "body": ["!include <aws/Database/AmazonRDS/SQLslave/SQLslave_LARGE>"],
+    "description": "database/SQLslave_LARGE aws"
+  },
+
+  "inc aws/Database/attribute": {
+    "scope": "diagram",
+    "prefix": ["i-aws-attribute","i-aws-Database-attribute"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/attribute/attribute>"],
+    "description": "database/attribute aws"
+  },
+
+  "inc aws/Database/attribute_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-attribute_large","i-aws-Database-attribute_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/attribute/attribute_LARGE>"],
+    "description": "database/attribute_LARGE aws"
+  },
+
+  "inc aws/Database/attributes": {
+    "scope": "diagram",
+    "prefix": ["i-aws-attributes","i-aws-Database-attributes"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/attributes/attributes>"],
+    "description": "database/attributes aws"
+  },
+
+  "inc aws/Database/attributes_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-attributes_large","i-aws-Database-attributes_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/attributes/attributes_LARGE>"],
+    "description": "database/attributes_LARGE aws"
+  },
+
+  "inc aws/Database/cachenode": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cachenode","i-aws-Database-cachenode"],
+    "body": ["!include <aws/Database/AmazonElasticCache/cachenode/cachenode>"],
+    "description": "database/cachenode aws"
+  },
+
+  "inc aws/Database/cachenode_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cachenode_large","i-aws-Database-cachenode_large"],
+    "body": ["!include <aws/Database/AmazonElasticCache/cachenode/cachenode_LARGE>"],
+    "description": "database/cachenode_LARGE aws"
+  },
+
+  "inc aws/Database/databasemigrationworkflowjob": {
+    "scope": "diagram",
+    "prefix": ["i-aws-databasemigrationworkflowjob","i-aws-Database-databasemigrationworkflowjob"],
+    "body": ["!include <aws/Database/AWSDMS/databasemigrationworkflowjob/databasemigrationworkflowjob>"],
+    "description": "database/databasemigrationworkflowjob aws"
+  },
+
+  "inc aws/Database/databasemigrationworkflowjob_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-databasemigrationworkflowjob_large","i-aws-Database-databasemigrationworkflowjob_large"],
+    "body": ["!include <aws/Database/AWSDMS/databasemigrationworkflowjob/databasemigrationworkflowjob_LARGE>"],
+    "description": "database/databasemigrationworkflowjob_LARGE aws"
+  },
+
+  "inc aws/Database/densecomputenode": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densecomputenode","i-aws-Database-densecomputenode"],
+    "body": ["!include <aws/Database/AmazonRedshift/densecomputenode/densecomputenode>"],
+    "description": "database/densecomputenode aws"
+  },
+
+  "inc aws/Database/densecomputenode_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densecomputenode_large","i-aws-Database-densecomputenode_large"],
+    "body": ["!include <aws/Database/AmazonRedshift/densecomputenode/densecomputenode_LARGE>"],
+    "description": "database/densecomputenode_LARGE aws"
+  },
+
+  "inc aws/Database/densestoragenode": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densestoragenode","i-aws-Database-densestoragenode"],
+    "body": ["!include <aws/Database/AmazonRedshift/densestoragenode/densestoragenode>"],
+    "description": "database/densestoragenode aws"
+  },
+
+  "inc aws/Database/densestoragenode_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-densestoragenode_large","i-aws-Database-densestoragenode_large"],
+    "body": ["!include <aws/Database/AmazonRedshift/densestoragenode/densestoragenode_LARGE>"],
+    "description": "database/densestoragenode_LARGE aws"
+  },
+
+  "inc aws/Database/globalsecondaryindex": {
+    "scope": "diagram",
+    "prefix": ["i-aws-globalsecondaryindex","i-aws-Database-globalsecondaryindex"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/globalsecondaryindex/globalsecondaryindex>"],
+    "description": "database/globalsecondaryindex aws"
+  },
+
+  "inc aws/Database/globalsecondaryindex_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-globalsecondaryindex_large","i-aws-Database-globalsecondaryindex_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/globalsecondaryindex/globalsecondaryindex_LARGE>"],
+    "description": "database/globalsecondaryindex_LARGE aws"
+  },
+
+  "inc aws/Database/instancereadreplica": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancereadreplica","i-aws-Database-instancereadreplica"],
+    "body": ["!include <aws/Database/AmazonRDS/instancereadreplica/instancereadreplica>"],
+    "description": "database/instancereadreplica aws"
+  },
+
+  "inc aws/Database/instancereadreplica_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancereadreplica_large","i-aws-Database-instancereadreplica_large"],
+    "body": ["!include <aws/Database/AmazonRDS/instancereadreplica/instancereadreplica_LARGE>"],
+    "description": "database/instancereadreplica_LARGE aws"
+  },
+
+  "inc aws/Database/instancestandby": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancestandby","i-aws-Database-instancestandby"],
+    "body": ["!include <aws/Database/AmazonRDS/instancestandby/instancestandby>"],
+    "description": "database/instancestandby aws"
+  },
+
+  "inc aws/Database/instancestandby_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instancestandby_large","i-aws-Database-instancestandby_large"],
+    "body": ["!include <aws/Database/AmazonRDS/instancestandby/instancestandby_LARGE>"],
+    "description": "database/instancestandby_LARGE aws"
+  },
+
+  "inc aws/Database/item": {
+    "scope": "diagram",
+    "prefix": ["i-aws-item","i-aws-Database-item"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/item/item>"],
+    "description": "database/item aws"
+  },
+
+  "inc aws/Database/item_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-item_large","i-aws-Database-item_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/item/item_LARGE>"],
+    "description": "database/item_LARGE aws"
+  },
+
+  "inc aws/Database/items": {
+    "scope": "diagram",
+    "prefix": ["i-aws-items","i-aws-Database-items"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/items/items>"],
+    "description": "database/items aws"
+  },
+
+  "inc aws/Database/items_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-items_large","i-aws-Database-items_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/items/items_LARGE>"],
+    "description": "database/items_LARGE aws"
+  },
+
+  "inc aws/Database/oracleDBinstance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-oracledbinstance","i-aws-Database-oracledbinstance"],
+    "body": ["!include <aws/Database/AmazonRDS/oracleDBinstance/oracleDBinstance>"],
+    "description": "database/oracleDBinstance aws"
+  },
+
+  "inc aws/Database/oracleDBinstance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-oracledbinstance_large","i-aws-Database-oracledbinstance_large"],
+    "body": ["!include <aws/Database/AmazonRDS/oracleDBinstance/oracleDBinstance_LARGE>"],
+    "description": "database/oracleDBinstance_LARGE aws"
+  },
+
+  "inc aws/Database/table": {
+    "scope": "diagram",
+    "prefix": ["i-aws-table","i-aws-Database-table"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/table/table>"],
+    "description": "database/table aws"
+  },
+
+  "inc aws/Database/table_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-table_large","i-aws-Database-table_large"],
+    "body": ["!include <aws/Database/AmazonDynamoDB/table/table_LARGE>"],
+    "description": "database/table_LARGE aws"
+  },
+
+  "inc aws/DesktopAppStreaming/AmazonAppStream2_0": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonappstream2_0","i-aws-DesktopAppStreaming-amazonappstream2_0"],
+    "body": ["!include <aws/DesktopAppStreaming/AmazonAppStream2_0/AmazonAppStream2_0>"],
+    "description": "desktopappstreaming/AmazonAppStream2_0 aws"
+  },
+
+  "inc aws/DesktopAppStreaming/AmazonAppStream2_0_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonappstream2_0_large","i-aws-DesktopAppStreaming-amazonappstream2_0_large"],
+    "body": ["!include <aws/DesktopAppStreaming/AmazonAppStream2_0/AmazonAppStream2_0_LARGE>"],
+    "description": "desktopappstreaming/AmazonAppStream2_0_LARGE aws"
+  },
+
+  "inc aws/DesktopAppStreaming/AmazonWorkSpaces": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkspaces","i-aws-DesktopAppStreaming-amazonworkspaces"],
+    "body": ["!include <aws/DesktopAppStreaming/AmazonWorkSpaces/AmazonWorkSpaces>"],
+    "description": "desktopappstreaming/AmazonWorkSpaces aws"
+  },
+
+  "inc aws/DesktopAppStreaming/AmazonWorkSpaces_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonworkspaces_large","i-aws-DesktopAppStreaming-amazonworkspaces_large"],
+    "body": ["!include <aws/DesktopAppStreaming/AmazonWorkSpaces/AmazonWorkSpaces_LARGE>"],
+    "description": "desktopappstreaming/AmazonWorkSpaces_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeBuild": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodebuild","i-aws-DeveloperTools-awscodebuild"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeBuild/AWSCodeBuild>"],
+    "description": "developertools/AWSCodeBuild aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeBuild_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodebuild_large","i-aws-DeveloperTools-awscodebuild_large"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeBuild/AWSCodeBuild_LARGE>"],
+    "description": "developertools/AWSCodeBuild_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeCommit": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodecommit","i-aws-DeveloperTools-awscodecommit"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeCommit/AWSCodeCommit>"],
+    "description": "developertools/AWSCodeCommit aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeCommit_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodecommit_large","i-aws-DeveloperTools-awscodecommit_large"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeCommit/AWSCodeCommit_LARGE>"],
+    "description": "developertools/AWSCodeCommit_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeDeploy": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodedeploy","i-aws-DeveloperTools-awscodedeploy"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeDeploy/AWSCodeDeploy>"],
+    "description": "developertools/AWSCodeDeploy aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeDeploy_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodedeploy_large","i-aws-DeveloperTools-awscodedeploy_large"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeDeploy/AWSCodeDeploy_LARGE>"],
+    "description": "developertools/AWSCodeDeploy_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodePipeline": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodepipeline","i-aws-DeveloperTools-awscodepipeline"],
+    "body": ["!include <aws/DeveloperTools/AWSCodePipeline/AWSCodePipeline>"],
+    "description": "developertools/AWSCodePipeline aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodePipeline_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodepipeline_large","i-aws-DeveloperTools-awscodepipeline_large"],
+    "body": ["!include <aws/DeveloperTools/AWSCodePipeline/AWSCodePipeline_LARGE>"],
+    "description": "developertools/AWSCodePipeline_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeStar": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodestar","i-aws-DeveloperTools-awscodestar"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeStar/AWSCodeStar>"],
+    "description": "developertools/AWSCodeStar aws"
+  },
+
+  "inc aws/DeveloperTools/AWSCodeStar_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscodestar_large","i-aws-DeveloperTools-awscodestar_large"],
+    "body": ["!include <aws/DeveloperTools/AWSCodeStar/AWSCodeStar_LARGE>"],
+    "description": "developertools/AWSCodeStar_LARGE aws"
+  },
+
+  "inc aws/DeveloperTools/AWSX_Ray": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsx_ray","i-aws-DeveloperTools-awsx_ray"],
+    "body": ["!include <aws/DeveloperTools/AWSX_Ray/AWSX_Ray>"],
+    "description": "developertools/AWSX_Ray aws"
+  },
+
+  "inc aws/DeveloperTools/AWSX_Ray_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsx_ray_large","i-aws-DeveloperTools-awsx_ray_large"],
+    "body": ["!include <aws/DeveloperTools/AWSX_Ray/AWSX_Ray_LARGE>"],
+    "description": "developertools/AWSX_Ray_LARGE aws"
+  },
+
+  "inc aws/GameDevelopment/AmazonGameLift": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazongamelift","i-aws-GameDevelopment-amazongamelift"],
+    "body": ["!include <aws/GameDevelopment/AmazonGameLift/AmazonGameLift>"],
+    "description": "gamedevelopment/AmazonGameLift aws"
+  },
+
+  "inc aws/GameDevelopment/AmazonGameLift_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazongamelift_large","i-aws-GameDevelopment-amazongamelift_large"],
+    "body": ["!include <aws/GameDevelopment/AmazonGameLift/AmazonGameLift_LARGE>"],
+    "description": "gamedevelopment/AmazonGameLift_LARGE aws"
+  },
+
+  "inc aws/General/AWSManagementConsole": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmanagementconsole","i-aws-General-awsmanagementconsole"],
+    "body": ["!include <aws/General/AWSManagementConsole/AWSManagementConsole>"],
+    "description": "general/AWSManagementConsole aws"
+  },
+
+  "inc aws/General/AWSManagementConsole_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmanagementconsole_large","i-aws-General-awsmanagementconsole_large"],
+    "body": ["!include <aws/General/AWSManagementConsole/AWSManagementConsole_LARGE>"],
+    "description": "general/AWSManagementConsole_LARGE aws"
+  },
+
+  "inc aws/General/AWScloud": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloud","i-aws-General-awscloud"],
+    "body": ["!include <aws/General/AWScloud/AWScloud>"],
+    "description": "general/AWScloud aws"
+  },
+
+  "inc aws/General/AWScloud_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloud_large","i-aws-General-awscloud_large"],
+    "body": ["!include <aws/General/AWScloud/AWScloud_LARGE>"],
+    "description": "general/AWScloud_LARGE aws"
+  },
+
+  "inc aws/General/Internet": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internet","i-aws-General-internet"],
+    "body": ["!include <aws/General/Internet/Internet>"],
+    "description": "general/Internet aws"
+  },
+
+  "inc aws/General/Internet_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internet_large","i-aws-General-internet_large"],
+    "body": ["!include <aws/General/Internet/Internet_LARGE>"],
+    "description": "general/Internet_LARGE aws"
+  },
+
+  "inc aws/General/Internetalternate1": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetalternate1","i-aws-General-internetalternate1"],
+    "body": ["!include <aws/General/Internetalternate1/Internetalternate1>"],
+    "description": "general/Internetalternate1 aws"
+  },
+
+  "inc aws/General/Internetalternate1_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetalternate1_large","i-aws-General-internetalternate1_large"],
+    "body": ["!include <aws/General/Internetalternate1/Internetalternate1_LARGE>"],
+    "description": "general/Internetalternate1_LARGE aws"
+  },
+
+  "inc aws/General/Internetalternate2": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetalternate2","i-aws-General-internetalternate2"],
+    "body": ["!include <aws/General/Internetalternate2/Internetalternate2>"],
+    "description": "general/Internetalternate2 aws"
+  },
+
+  "inc aws/General/Internetalternate2_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetalternate2_large","i-aws-General-internetalternate2_large"],
+    "body": ["!include <aws/General/Internetalternate2/Internetalternate2_LARGE>"],
+    "description": "general/Internetalternate2_LARGE aws"
+  },
+
+  "inc aws/General/SAMLtoken": {
+    "scope": "diagram",
+    "prefix": ["i-aws-samltoken","i-aws-General-samltoken"],
+    "body": ["!include <aws/General/SAMLtoken/SAMLtoken>"],
+    "description": "general/SAMLtoken aws"
+  },
+
+  "inc aws/General/SAMLtoken_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-samltoken_large","i-aws-General-samltoken_large"],
+    "body": ["!include <aws/General/SAMLtoken/SAMLtoken_LARGE>"],
+    "description": "general/SAMLtoken_LARGE aws"
+  },
+
+  "inc aws/General/SSLpadlock": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sslpadlock","i-aws-General-sslpadlock"],
+    "body": ["!include <aws/General/SSLpadlock/SSLpadlock>"],
+    "description": "general/SSLpadlock aws"
+  },
+
+  "inc aws/General/SSLpadlock_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sslpadlock_large","i-aws-General-sslpadlock_large"],
+    "body": ["!include <aws/General/SSLpadlock/SSLpadlock_LARGE>"],
+    "description": "general/SSLpadlock_LARGE aws"
+  },
+
+  "inc aws/General/client": {
+    "scope": "diagram",
+    "prefix": ["i-aws-client","i-aws-General-client"],
+    "body": ["!include <aws/General/client/client>"],
+    "description": "general/client aws"
+  },
+
+  "inc aws/General/client_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-client_large","i-aws-General-client_large"],
+    "body": ["!include <aws/General/client/client_LARGE>"],
+    "description": "general/client_LARGE aws"
+  },
+
+  "inc aws/General/corporatedatacenter": {
+    "scope": "diagram",
+    "prefix": ["i-aws-corporatedatacenter","i-aws-General-corporatedatacenter"],
+    "body": ["!include <aws/General/corporatedatacenter/corporatedatacenter>"],
+    "description": "general/corporatedatacenter aws"
+  },
+
+  "inc aws/General/corporatedatacenter_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-corporatedatacenter_large","i-aws-General-corporatedatacenter_large"],
+    "body": ["!include <aws/General/corporatedatacenter/corporatedatacenter_LARGE>"],
+    "description": "general/corporatedatacenter_LARGE aws"
+  },
+
+  "inc aws/General/disk": {
+    "scope": "diagram",
+    "prefix": ["i-aws-disk","i-aws-General-disk"],
+    "body": ["!include <aws/General/disk/disk>"],
+    "description": "general/disk aws"
+  },
+
+  "inc aws/General/disk_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-disk_large","i-aws-General-disk_large"],
+    "body": ["!include <aws/General/disk/disk_LARGE>"],
+    "description": "general/disk_LARGE aws"
+  },
+
+  "inc aws/General/forums": {
+    "scope": "diagram",
+    "prefix": ["i-aws-forums","i-aws-General-forums"],
+    "body": ["!include <aws/General/forums/forums>"],
+    "description": "general/forums aws"
+  },
+
+  "inc aws/General/forums_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-forums_large","i-aws-General-forums_large"],
+    "body": ["!include <aws/General/forums/forums_LARGE>"],
+    "description": "general/forums_LARGE aws"
+  },
+
+  "inc aws/General/genericdatabase": {
+    "scope": "diagram",
+    "prefix": ["i-aws-genericdatabase","i-aws-General-genericdatabase"],
+    "body": ["!include <aws/General/genericdatabase/genericdatabase>"],
+    "description": "general/genericdatabase aws"
+  },
+
+  "inc aws/General/genericdatabase_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-genericdatabase_large","i-aws-General-genericdatabase_large"],
+    "body": ["!include <aws/General/genericdatabase/genericdatabase_LARGE>"],
+    "description": "general/genericdatabase_LARGE aws"
+  },
+
+  "inc aws/General/mobileclient": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mobileclient","i-aws-General-mobileclient"],
+    "body": ["!include <aws/General/mobileclient/mobileclient>"],
+    "description": "general/mobileclient aws"
+  },
+
+  "inc aws/General/mobileclient_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mobileclient_large","i-aws-General-mobileclient_large"],
+    "body": ["!include <aws/General/mobileclient/mobileclient_LARGE>"],
+    "description": "general/mobileclient_LARGE aws"
+  },
+
+  "inc aws/General/multimedia": {
+    "scope": "diagram",
+    "prefix": ["i-aws-multimedia","i-aws-General-multimedia"],
+    "body": ["!include <aws/General/multimedia/multimedia>"],
+    "description": "general/multimedia aws"
+  },
+
+  "inc aws/General/multimedia_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-multimedia_large","i-aws-General-multimedia_large"],
+    "body": ["!include <aws/General/multimedia/multimedia_LARGE>"],
+    "description": "general/multimedia_LARGE aws"
+  },
+
+  "inc aws/General/officebuilding": {
+    "scope": "diagram",
+    "prefix": ["i-aws-officebuilding","i-aws-General-officebuilding"],
+    "body": ["!include <aws/General/officebuilding/officebuilding>"],
+    "description": "general/officebuilding aws"
+  },
+
+  "inc aws/General/officebuilding_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-officebuilding_large","i-aws-General-officebuilding_large"],
+    "body": ["!include <aws/General/officebuilding/officebuilding_LARGE>"],
+    "description": "general/officebuilding_LARGE aws"
+  },
+
+  "inc aws/General/tapestorage": {
+    "scope": "diagram",
+    "prefix": ["i-aws-tapestorage","i-aws-General-tapestorage"],
+    "body": ["!include <aws/General/tapestorage/tapestorage>"],
+    "description": "general/tapestorage aws"
+  },
+
+  "inc aws/General/tapestorage_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-tapestorage_large","i-aws-General-tapestorage_large"],
+    "body": ["!include <aws/General/tapestorage/tapestorage_LARGE>"],
+    "description": "general/tapestorage_LARGE aws"
+  },
+
+  "inc aws/General/traditionalserver": {
+    "scope": "diagram",
+    "prefix": ["i-aws-traditionalserver","i-aws-General-traditionalserver"],
+    "body": ["!include <aws/General/traditionalserver/traditionalserver>"],
+    "description": "general/traditionalserver aws"
+  },
+
+  "inc aws/General/traditionalserver_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-traditionalserver_large","i-aws-General-traditionalserver_large"],
+    "body": ["!include <aws/General/traditionalserver/traditionalserver_LARGE>"],
+    "description": "general/traditionalserver_LARGE aws"
+  },
+
+  "inc aws/General/user": {
+    "scope": "diagram",
+    "prefix": ["i-aws-user","i-aws-General-user"],
+    "body": ["!include <aws/General/user/user>"],
+    "description": "general/user aws"
+  },
+
+  "inc aws/General/user_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-user_large","i-aws-General-user_large"],
+    "body": ["!include <aws/General/user/user_LARGE>"],
+    "description": "general/user_LARGE aws"
+  },
+
+  "inc aws/General/users": {
+    "scope": "diagram",
+    "prefix": ["i-aws-users","i-aws-General-users"],
+    "body": ["!include <aws/General/users/users>"],
+    "description": "general/users aws"
+  },
+
+  "inc aws/General/users_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-users_large","i-aws-General-users_large"],
+    "body": ["!include <aws/General/users/users_LARGE>"],
+    "description": "general/users_LARGE aws"
+  },
+
+  "inc aws/General/virtualprivatecloud": {
+    "scope": "diagram",
+    "prefix": ["i-aws-virtualprivatecloud","i-aws-General-virtualprivatecloud"],
+    "body": ["!include <aws/General/virtualprivatecloud/virtualprivatecloud>"],
+    "description": "general/virtualprivatecloud aws"
+  },
+
+  "inc aws/General/virtualprivatecloud_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-virtualprivatecloud_large","i-aws-General-virtualprivatecloud_large"],
+    "body": ["!include <aws/General/virtualprivatecloud/virtualprivatecloud_LARGE>"],
+    "description": "general/virtualprivatecloud_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/AVSenableddevice": {
+    "scope": "diagram",
+    "prefix": ["i-aws-avsenableddevice","i-aws-InternetOfThings-avsenableddevice"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AVSenableddevice/AVSenableddevice>"],
+    "description": "internetofthings/AVSenableddevice aws"
+  },
+
+  "inc aws/InternetOfThings/AVSenableddevice_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-avsenableddevice_large","i-aws-InternetOfThings-avsenableddevice_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AVSenableddevice/AVSenableddevice_LARGE>"],
+    "description": "internetofthings/AVSenableddevice_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/AWSGreengrass": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsgreengrass","i-aws-InternetOfThings-awsgreengrass"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AWSGreengrass/AWSGreengrass>"],
+    "description": "internetofthings/AWSGreengrass aws"
+  },
+
+  "inc aws/InternetOfThings/AWSGreengrass_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsgreengrass_large","i-aws-InternetOfThings-awsgreengrass_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AWSGreengrass/AWSGreengrass_LARGE>"],
+    "description": "internetofthings/AWSGreengrass_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/AWSIoT": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsiot","i-aws-InternetOfThings-awsiot"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AWSIoT>"],
+    "description": "internetofthings/AWSIoT aws"
+  },
+
+  "inc aws/InternetOfThings/AWSIoT_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsiot_large","i-aws-InternetOfThings-awsiot_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/AWSIoT_LARGE>"],
+    "description": "internetofthings/AWSIoT_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/HTTP2protocol": {
+    "scope": "diagram",
+    "prefix": ["i-aws-http2protocol","i-aws-InternetOfThings-http2protocol"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/HTTP2protocol/HTTP2protocol>"],
+    "description": "internetofthings/HTTP2protocol aws"
+  },
+
+  "inc aws/InternetOfThings/HTTP2protocol_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-http2protocol_large","i-aws-InternetOfThings-http2protocol_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/HTTP2protocol/HTTP2protocol_LARGE>"],
+    "description": "internetofthings/HTTP2protocol_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/HTTPprotocol": {
+    "scope": "diagram",
+    "prefix": ["i-aws-httpprotocol","i-aws-InternetOfThings-httpprotocol"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/HTTPprotocol/HTTPprotocol>"],
+    "description": "internetofthings/HTTPprotocol aws"
+  },
+
+  "inc aws/InternetOfThings/HTTPprotocol_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-httpprotocol_large","i-aws-InternetOfThings-httpprotocol_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/HTTPprotocol/HTTPprotocol_LARGE>"],
+    "description": "internetofthings/HTTPprotocol_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/MQTTprotocol": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mqttprotocol","i-aws-InternetOfThings-mqttprotocol"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/MQTTprotocol/MQTTprotocol>"],
+    "description": "internetofthings/MQTTprotocol aws"
+  },
+
+  "inc aws/InternetOfThings/MQTTprotocol_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mqttprotocol_large","i-aws-InternetOfThings-mqttprotocol_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/MQTTprotocol/MQTTprotocol_LARGE>"],
+    "description": "internetofthings/MQTTprotocol_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/action": {
+    "scope": "diagram",
+    "prefix": ["i-aws-action","i-aws-InternetOfThings-action"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/action/action>"],
+    "description": "internetofthings/action aws"
+  },
+
+  "inc aws/InternetOfThings/action_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-action_large","i-aws-InternetOfThings-action_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/action/action_LARGE>"],
+    "description": "internetofthings/action_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/actuator": {
+    "scope": "diagram",
+    "prefix": ["i-aws-actuator","i-aws-InternetOfThings-actuator"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/actuator/actuator>"],
+    "description": "internetofthings/actuator aws"
+  },
+
+  "inc aws/InternetOfThings/actuator_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-actuator_large","i-aws-InternetOfThings-actuator_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/actuator/actuator_LARGE>"],
+    "description": "internetofthings/actuator_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/alexaskill": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexaskill","i-aws-InternetOfThings-alexaskill"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexaskill/alexaskill>"],
+    "description": "internetofthings/alexaskill aws"
+  },
+
+  "inc aws/InternetOfThings/alexaskill_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexaskill_large","i-aws-InternetOfThings-alexaskill_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexaskill/alexaskill_LARGE>"],
+    "description": "internetofthings/alexaskill_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/alexasmarthomeskill": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexasmarthomeskill","i-aws-InternetOfThings-alexasmarthomeskill"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexasmarthomeskill/alexasmarthomeskill>"],
+    "description": "internetofthings/alexasmarthomeskill aws"
+  },
+
+  "inc aws/InternetOfThings/alexasmarthomeskill_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexasmarthomeskill_large","i-aws-InternetOfThings-alexasmarthomeskill_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexasmarthomeskill/alexasmarthomeskill_LARGE>"],
+    "description": "internetofthings/alexasmarthomeskill_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/alexavoiceservice": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexavoiceservice","i-aws-InternetOfThings-alexavoiceservice"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexavoiceservice/alexavoiceservice>"],
+    "description": "internetofthings/alexavoiceservice aws"
+  },
+
+  "inc aws/InternetOfThings/alexavoiceservice_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alexavoiceservice_large","i-aws-InternetOfThings-alexavoiceservice_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/alexavoiceservice/alexavoiceservice_LARGE>"],
+    "description": "internetofthings/alexavoiceservice_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/certificate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificate","i-aws-InternetOfThings-certificate"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/certificate/certificate>"],
+    "description": "internetofthings/certificate aws"
+  },
+
+  "inc aws/InternetOfThings/certificate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificate_large","i-aws-InternetOfThings-certificate_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/certificate/certificate_LARGE>"],
+    "description": "internetofthings/certificate_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/desiredstate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-desiredstate","i-aws-InternetOfThings-desiredstate"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/desiredstate/desiredstate>"],
+    "description": "internetofthings/desiredstate aws"
+  },
+
+  "inc aws/InternetOfThings/desiredstate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-desiredstate_large","i-aws-InternetOfThings-desiredstate_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/desiredstate/desiredstate_LARGE>"],
+    "description": "internetofthings/desiredstate_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/echo": {
+    "scope": "diagram",
+    "prefix": ["i-aws-echo","i-aws-InternetOfThings-echo"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/echo/echo>"],
+    "description": "internetofthings/echo aws"
+  },
+
+  "inc aws/InternetOfThings/echo_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-echo_large","i-aws-InternetOfThings-echo_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/echo/echo_LARGE>"],
+    "description": "internetofthings/echo_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/fireTV": {
+    "scope": "diagram",
+    "prefix": ["i-aws-firetv","i-aws-InternetOfThings-firetv"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/fireTV/fireTV>"],
+    "description": "internetofthings/fireTV aws"
+  },
+
+  "inc aws/InternetOfThings/fireTV_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-firetv_large","i-aws-InternetOfThings-firetv_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/fireTV/fireTV_LARGE>"],
+    "description": "internetofthings/fireTV_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/fireTVstick": {
+    "scope": "diagram",
+    "prefix": ["i-aws-firetvstick","i-aws-InternetOfThings-firetvstick"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/fireTVstick/fireTVstick>"],
+    "description": "internetofthings/fireTVstick aws"
+  },
+
+  "inc aws/InternetOfThings/fireTVstick_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-firetvstick_large","i-aws-InternetOfThings-firetvstick_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/fireTVstick/fireTVstick_LARGE>"],
+    "description": "internetofthings/fireTVstick_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/hardwareboard": {
+    "scope": "diagram",
+    "prefix": ["i-aws-hardwareboard","i-aws-InternetOfThings-hardwareboard"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/hardwareboard/hardwareboard>"],
+    "description": "internetofthings/hardwareboard aws"
+  },
+
+  "inc aws/InternetOfThings/hardwareboard_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-hardwareboard_large","i-aws-InternetOfThings-hardwareboard_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/hardwareboard/hardwareboard_LARGE>"],
+    "description": "internetofthings/hardwareboard_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/lambdafunction": {
+    "scope": "diagram",
+    "prefix": ["i-aws-lambdafunction","i-aws-InternetOfThings-lambdafunction"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/lambdafunction/lambdafunction>"],
+    "description": "internetofthings/lambdafunction aws"
+  },
+
+  "inc aws/InternetOfThings/lambdafunction_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-lambdafunction_large","i-aws-InternetOfThings-lambdafunction_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/lambdafunction/lambdafunction_LARGE>"],
+    "description": "internetofthings/lambdafunction_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/policy": {
+    "scope": "diagram",
+    "prefix": ["i-aws-policy","i-aws-InternetOfThings-policy"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/policy/policy>"],
+    "description": "internetofthings/policy aws"
+  },
+
+  "inc aws/InternetOfThings/policy_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-policy_large","i-aws-InternetOfThings-policy_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/policy/policy_LARGE>"],
+    "description": "internetofthings/policy_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/reportedstate": {
+    "scope": "diagram",
+    "prefix": ["i-aws-reportedstate","i-aws-InternetOfThings-reportedstate"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/reportedstate/reportedstate>"],
+    "description": "internetofthings/reportedstate aws"
+  },
+
+  "inc aws/InternetOfThings/reportedstate_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-reportedstate_large","i-aws-InternetOfThings-reportedstate_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/reportedstate/reportedstate_LARGE>"],
+    "description": "internetofthings/reportedstate_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/rule": {
+    "scope": "diagram",
+    "prefix": ["i-aws-rule","i-aws-InternetOfThings-rule"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/rule/rule>"],
+    "description": "internetofthings/rule aws"
+  },
+
+  "inc aws/InternetOfThings/rule_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-rule_large","i-aws-InternetOfThings-rule_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/rule/rule_LARGE>"],
+    "description": "internetofthings/rule_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/sensor": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sensor","i-aws-InternetOfThings-sensor"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/sensor/sensor>"],
+    "description": "internetofthings/sensor aws"
+  },
+
+  "inc aws/InternetOfThings/sensor_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-sensor_large","i-aws-InternetOfThings-sensor_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/sensor/sensor_LARGE>"],
+    "description": "internetofthings/sensor_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/servo": {
+    "scope": "diagram",
+    "prefix": ["i-aws-servo","i-aws-InternetOfThings-servo"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/servo/servo>"],
+    "description": "internetofthings/servo aws"
+  },
+
+  "inc aws/InternetOfThings/servo_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-servo_large","i-aws-InternetOfThings-servo_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/servo/servo_LARGE>"],
+    "description": "internetofthings/servo_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/shadow": {
+    "scope": "diagram",
+    "prefix": ["i-aws-shadow","i-aws-InternetOfThings-shadow"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/shadow/shadow>"],
+    "description": "internetofthings/shadow aws"
+  },
+
+  "inc aws/InternetOfThings/shadow_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-shadow_large","i-aws-InternetOfThings-shadow_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/shadow/shadow_LARGE>"],
+    "description": "internetofthings/shadow_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/simulator": {
+    "scope": "diagram",
+    "prefix": ["i-aws-simulator","i-aws-InternetOfThings-simulator"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/simulator/simulator>"],
+    "description": "internetofthings/simulator aws"
+  },
+
+  "inc aws/InternetOfThings/simulator_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-simulator_large","i-aws-InternetOfThings-simulator_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/simulator/simulator_LARGE>"],
+    "description": "internetofthings/simulator_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingbank": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingbank","i-aws-InternetOfThings-thingbank"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingbank/thingbank>"],
+    "description": "internetofthings/thingbank aws"
+  },
+
+  "inc aws/InternetOfThings/thingbank_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingbank_large","i-aws-InternetOfThings-thingbank_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingbank/thingbank_LARGE>"],
+    "description": "internetofthings/thingbank_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingbicycle": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingbicycle","i-aws-InternetOfThings-thingbicycle"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingbicycle/thingbicycle>"],
+    "description": "internetofthings/thingbicycle aws"
+  },
+
+  "inc aws/InternetOfThings/thingbicycle_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingbicycle_large","i-aws-InternetOfThings-thingbicycle_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingbicycle/thingbicycle_LARGE>"],
+    "description": "internetofthings/thingbicycle_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingcamera": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcamera","i-aws-InternetOfThings-thingcamera"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcamera/thingcamera>"],
+    "description": "internetofthings/thingcamera aws"
+  },
+
+  "inc aws/InternetOfThings/thingcamera_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcamera_large","i-aws-InternetOfThings-thingcamera_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcamera/thingcamera_LARGE>"],
+    "description": "internetofthings/thingcamera_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingcar": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcar","i-aws-InternetOfThings-thingcar"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcar/thingcar>"],
+    "description": "internetofthings/thingcar aws"
+  },
+
+  "inc aws/InternetOfThings/thingcar_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcar_large","i-aws-InternetOfThings-thingcar_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcar/thingcar_LARGE>"],
+    "description": "internetofthings/thingcar_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingcart": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcart","i-aws-InternetOfThings-thingcart"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcart/thingcart>"],
+    "description": "internetofthings/thingcart aws"
+  },
+
+  "inc aws/InternetOfThings/thingcart_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcart_large","i-aws-InternetOfThings-thingcart_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcart/thingcart_LARGE>"],
+    "description": "internetofthings/thingcart_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingcoffeepot": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcoffeepot","i-aws-InternetOfThings-thingcoffeepot"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcoffeepot/thingcoffeepot>"],
+    "description": "internetofthings/thingcoffeepot aws"
+  },
+
+  "inc aws/InternetOfThings/thingcoffeepot_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingcoffeepot_large","i-aws-InternetOfThings-thingcoffeepot_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingcoffeepot/thingcoffeepot_LARGE>"],
+    "description": "internetofthings/thingcoffeepot_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingdoorlock": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingdoorlock","i-aws-InternetOfThings-thingdoorlock"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingdoorlock/thingdoorlock>"],
+    "description": "internetofthings/thingdoorlock aws"
+  },
+
+  "inc aws/InternetOfThings/thingdoorlock_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingdoorlock_large","i-aws-InternetOfThings-thingdoorlock_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingdoorlock/thingdoorlock_LARGE>"],
+    "description": "internetofthings/thingdoorlock_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingfactory": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingfactory","i-aws-InternetOfThings-thingfactory"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingfactory/thingfactory>"],
+    "description": "internetofthings/thingfactory aws"
+  },
+
+  "inc aws/InternetOfThings/thingfactory_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingfactory_large","i-aws-InternetOfThings-thingfactory_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingfactory/thingfactory_LARGE>"],
+    "description": "internetofthings/thingfactory_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thinggeneric": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinggeneric","i-aws-InternetOfThings-thinggeneric"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinggeneric/thinggeneric>"],
+    "description": "internetofthings/thinggeneric aws"
+  },
+
+  "inc aws/InternetOfThings/thinggeneric_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinggeneric_large","i-aws-InternetOfThings-thinggeneric_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinggeneric/thinggeneric_LARGE>"],
+    "description": "internetofthings/thinggeneric_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thinghouse": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinghouse","i-aws-InternetOfThings-thinghouse"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinghouse/thinghouse>"],
+    "description": "internetofthings/thinghouse aws"
+  },
+
+  "inc aws/InternetOfThings/thinghouse_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinghouse_large","i-aws-InternetOfThings-thinghouse_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinghouse/thinghouse_LARGE>"],
+    "description": "internetofthings/thinghouse_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thinglightbulb": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinglightbulb","i-aws-InternetOfThings-thinglightbulb"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinglightbulb/thinglightbulb>"],
+    "description": "internetofthings/thinglightbulb aws"
+  },
+
+  "inc aws/InternetOfThings/thinglightbulb_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thinglightbulb_large","i-aws-InternetOfThings-thinglightbulb_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thinglightbulb/thinglightbulb_LARGE>"],
+    "description": "internetofthings/thinglightbulb_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingmedicalemergency": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingmedicalemergency","i-aws-InternetOfThings-thingmedicalemergency"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingmedicalemergency/thingmedicalemergency>"],
+    "description": "internetofthings/thingmedicalemergency aws"
+  },
+
+  "inc aws/InternetOfThings/thingmedicalemergency_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingmedicalemergency_large","i-aws-InternetOfThings-thingmedicalemergency_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingmedicalemergency/thingmedicalemergency_LARGE>"],
+    "description": "internetofthings/thingmedicalemergency_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingpoliceemergency": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingpoliceemergency","i-aws-InternetOfThings-thingpoliceemergency"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingpoliceemergency/thingpoliceemergency>"],
+    "description": "internetofthings/thingpoliceemergency aws"
+  },
+
+  "inc aws/InternetOfThings/thingpoliceemergency_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingpoliceemergency_large","i-aws-InternetOfThings-thingpoliceemergency_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingpoliceemergency/thingpoliceemergency_LARGE>"],
+    "description": "internetofthings/thingpoliceemergency_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingthermostat": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingthermostat","i-aws-InternetOfThings-thingthermostat"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingthermostat/thingthermostat>"],
+    "description": "internetofthings/thingthermostat aws"
+  },
+
+  "inc aws/InternetOfThings/thingthermostat_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingthermostat_large","i-aws-InternetOfThings-thingthermostat_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingthermostat/thingthermostat_LARGE>"],
+    "description": "internetofthings/thingthermostat_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingtravel": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingtravel","i-aws-InternetOfThings-thingtravel"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingtravel/thingtravel>"],
+    "description": "internetofthings/thingtravel aws"
+  },
+
+  "inc aws/InternetOfThings/thingtravel_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingtravel_large","i-aws-InternetOfThings-thingtravel_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingtravel/thingtravel_LARGE>"],
+    "description": "internetofthings/thingtravel_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingutility": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingutility","i-aws-InternetOfThings-thingutility"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingutility/thingutility>"],
+    "description": "internetofthings/thingutility aws"
+  },
+
+  "inc aws/InternetOfThings/thingutility_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingutility_large","i-aws-InternetOfThings-thingutility_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingutility/thingutility_LARGE>"],
+    "description": "internetofthings/thingutility_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/thingwindfarm": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingwindfarm","i-aws-InternetOfThings-thingwindfarm"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingwindfarm/thingwindfarm>"],
+    "description": "internetofthings/thingwindfarm aws"
+  },
+
+  "inc aws/InternetOfThings/thingwindfarm_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-thingwindfarm_large","i-aws-InternetOfThings-thingwindfarm_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/thingwindfarm/thingwindfarm_LARGE>"],
+    "description": "internetofthings/thingwindfarm_LARGE aws"
+  },
+
+  "inc aws/InternetOfThings/topic": {
+    "scope": "diagram",
+    "prefix": ["i-aws-topic","i-aws-InternetOfThings-topic"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/topic/topic>"],
+    "description": "internetofthings/topic aws"
+  },
+
+  "inc aws/InternetOfThings/topic_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-topic_large","i-aws-InternetOfThings-topic_large"],
+    "body": ["!include <aws/InternetOfThings/AWSIoT/topic/topic_LARGE>"],
+    "description": "internetofthings/topic_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSCloudFormation": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudformation","i-aws-ManagementTools-awscloudformation"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/AWSCloudFormation>"],
+    "description": "managementtools/AWSCloudFormation aws"
+  },
+
+  "inc aws/ManagementTools/AWSCloudFormation_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudformation_large","i-aws-ManagementTools-awscloudformation_large"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/AWSCloudFormation_LARGE>"],
+    "description": "managementtools/AWSCloudFormation_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSCloudTrail": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudtrail","i-aws-ManagementTools-awscloudtrail"],
+    "body": ["!include <aws/ManagementTools/AWSCloudTrail/AWSCloudTrail>"],
+    "description": "managementtools/AWSCloudTrail aws"
+  },
+
+  "inc aws/ManagementTools/AWSCloudTrail_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudtrail_large","i-aws-ManagementTools-awscloudtrail_large"],
+    "body": ["!include <aws/ManagementTools/AWSCloudTrail/AWSCloudTrail_LARGE>"],
+    "description": "managementtools/AWSCloudTrail_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSConfig": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsconfig","i-aws-ManagementTools-awsconfig"],
+    "body": ["!include <aws/ManagementTools/AWSConfig/AWSConfig>"],
+    "description": "managementtools/AWSConfig aws"
+  },
+
+  "inc aws/ManagementTools/AWSConfig_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsconfig_large","i-aws-ManagementTools-awsconfig_large"],
+    "body": ["!include <aws/ManagementTools/AWSConfig/AWSConfig_LARGE>"],
+    "description": "managementtools/AWSConfig_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSManagedServices": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmanagedservices","i-aws-ManagementTools-awsmanagedservices"],
+    "body": ["!include <aws/ManagementTools/AWSManagedServices/AWSManagedServices>"],
+    "description": "managementtools/AWSManagedServices aws"
+  },
+
+  "inc aws/ManagementTools/AWSManagedServices_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmanagedservices_large","i-aws-ManagementTools-awsmanagedservices_large"],
+    "body": ["!include <aws/ManagementTools/AWSManagedServices/AWSManagedServices_LARGE>"],
+    "description": "managementtools/AWSManagedServices_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSOpsWorks": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsopsworks","i-aws-ManagementTools-awsopsworks"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/AWSOpsWorks>"],
+    "description": "managementtools/AWSOpsWorks aws"
+  },
+
+  "inc aws/ManagementTools/AWSOpsWorks_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsopsworks_large","i-aws-ManagementTools-awsopsworks_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/AWSOpsWorks_LARGE>"],
+    "description": "managementtools/AWSOpsWorks_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSServiceCatalog": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsservicecatalog","i-aws-ManagementTools-awsservicecatalog"],
+    "body": ["!include <aws/ManagementTools/AWSServiceCatalog/AWSServiceCatalog>"],
+    "description": "managementtools/AWSServiceCatalog aws"
+  },
+
+  "inc aws/ManagementTools/AWSServiceCatalog_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsservicecatalog_large","i-aws-ManagementTools-awsservicecatalog_large"],
+    "body": ["!include <aws/ManagementTools/AWSServiceCatalog/AWSServiceCatalog_LARGE>"],
+    "description": "managementtools/AWSServiceCatalog_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AWSTrustedAdvisor": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstrustedadvisor","i-aws-ManagementTools-awstrustedadvisor"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/AWSTrustedAdvisor>"],
+    "description": "managementtools/AWSTrustedAdvisor aws"
+  },
+
+  "inc aws/ManagementTools/AWSTrustedAdvisor_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstrustedadvisor_large","i-aws-ManagementTools-awstrustedadvisor_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/AWSTrustedAdvisor_LARGE>"],
+    "description": "managementtools/AWSTrustedAdvisor_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AmazonCloudWatch": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudwatch","i-aws-ManagementTools-amazoncloudwatch"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/AmazonCloudWatch>"],
+    "description": "managementtools/AmazonCloudWatch aws"
+  },
+
+  "inc aws/ManagementTools/AmazonCloudWatch_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudwatch_large","i-aws-ManagementTools-amazoncloudwatch_large"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/AmazonCloudWatch_LARGE>"],
+    "description": "managementtools/AmazonCloudWatch_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/AmazonEC2SystemsManager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonec2systemsmanager","i-aws-ManagementTools-amazonec2systemsmanager"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/AmazonEC2SystemsManager>"],
+    "description": "managementtools/AmazonEC2SystemsManager aws"
+  },
+
+  "inc aws/ManagementTools/AmazonEC2SystemsManager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonec2systemsmanager_large","i-aws-ManagementTools-amazonec2systemsmanager_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/AmazonEC2SystemsManager_LARGE>"],
+    "description": "managementtools/AmazonEC2SystemsManager_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/Automation": {
+    "scope": "diagram",
+    "prefix": ["i-aws-automation","i-aws-ManagementTools-automation"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/Automation/Automation>"],
+    "description": "managementtools/Automation aws"
+  },
+
+  "inc aws/ManagementTools/Automation_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-automation_large","i-aws-ManagementTools-automation_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/Automation/Automation_LARGE>"],
+    "description": "managementtools/Automation_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/Inventory": {
+    "scope": "diagram",
+    "prefix": ["i-aws-inventory","i-aws-ManagementTools-inventory"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/Inventory/Inventory>"],
+    "description": "managementtools/Inventory aws"
+  },
+
+  "inc aws/ManagementTools/Inventory_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-inventory_large","i-aws-ManagementTools-inventory_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/Inventory/Inventory_LARGE>"],
+    "description": "managementtools/Inventory_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/MaintenanceWindow": {
+    "scope": "diagram",
+    "prefix": ["i-aws-maintenancewindow","i-aws-ManagementTools-maintenancewindow"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/MaintenanceWindow/MaintenanceWindow>"],
+    "description": "managementtools/MaintenanceWindow aws"
+  },
+
+  "inc aws/ManagementTools/MaintenanceWindow_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-maintenancewindow_large","i-aws-ManagementTools-maintenancewindow_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/MaintenanceWindow/MaintenanceWindow_LARGE>"],
+    "description": "managementtools/MaintenanceWindow_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/ParameterStore": {
+    "scope": "diagram",
+    "prefix": ["i-aws-parameterstore","i-aws-ManagementTools-parameterstore"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/ParameterStore/ParameterStore>"],
+    "description": "managementtools/ParameterStore aws"
+  },
+
+  "inc aws/ManagementTools/ParameterStore_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-parameterstore_large","i-aws-ManagementTools-parameterstore_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/ParameterStore/ParameterStore_LARGE>"],
+    "description": "managementtools/ParameterStore_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/PatchManager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-patchmanager","i-aws-ManagementTools-patchmanager"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/PatchManager/PatchManager>"],
+    "description": "managementtools/PatchManager aws"
+  },
+
+  "inc aws/ManagementTools/PatchManager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-patchmanager_large","i-aws-ManagementTools-patchmanager_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/PatchManager/PatchManager_LARGE>"],
+    "description": "managementtools/PatchManager_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/RunCommand": {
+    "scope": "diagram",
+    "prefix": ["i-aws-runcommand","i-aws-ManagementTools-runcommand"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/RunCommand/RunCommand>"],
+    "description": "managementtools/RunCommand aws"
+  },
+
+  "inc aws/ManagementTools/RunCommand_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-runcommand_large","i-aws-ManagementTools-runcommand_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/RunCommand/RunCommand_LARGE>"],
+    "description": "managementtools/RunCommand_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/StateManager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-statemanager","i-aws-ManagementTools-statemanager"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/StateManager/StateManager>"],
+    "description": "managementtools/StateManager aws"
+  },
+
+  "inc aws/ManagementTools/StateManager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-statemanager_large","i-aws-ManagementTools-statemanager_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/StateManager/StateManager_LARGE>"],
+    "description": "managementtools/StateManager_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/alarm": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alarm","i-aws-ManagementTools-alarm"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/alarm/alarm>"],
+    "description": "managementtools/alarm aws"
+  },
+
+  "inc aws/ManagementTools/alarm_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-alarm_large","i-aws-ManagementTools-alarm_large"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/alarm/alarm_LARGE>"],
+    "description": "managementtools/alarm_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/apps": {
+    "scope": "diagram",
+    "prefix": ["i-aws-apps","i-aws-ManagementTools-apps"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/apps/apps>"],
+    "description": "managementtools/apps aws"
+  },
+
+  "inc aws/ManagementTools/apps_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-apps_large","i-aws-ManagementTools-apps_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/apps/apps_LARGE>"],
+    "description": "managementtools/apps_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/changeset": {
+    "scope": "diagram",
+    "prefix": ["i-aws-changeset","i-aws-ManagementTools-changeset"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/changeset/changeset>"],
+    "description": "managementtools/changeset aws"
+  },
+
+  "inc aws/ManagementTools/changeset_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-changeset_large","i-aws-ManagementTools-changeset_large"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/changeset/changeset_LARGE>"],
+    "description": "managementtools/changeset_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/checklist": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklist","i-aws-ManagementTools-checklist"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklist/checklist>"],
+    "description": "managementtools/checklist aws"
+  },
+
+  "inc aws/ManagementTools/checklist_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklist_large","i-aws-ManagementTools-checklist_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklist/checklist_LARGE>"],
+    "description": "managementtools/checklist_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/checklistcost": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistcost","i-aws-ManagementTools-checklistcost"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistcost/checklistcost>"],
+    "description": "managementtools/checklistcost aws"
+  },
+
+  "inc aws/ManagementTools/checklistcost_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistcost_large","i-aws-ManagementTools-checklistcost_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistcost/checklistcost_LARGE>"],
+    "description": "managementtools/checklistcost_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/checklistfaulttolerance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistfaulttolerance","i-aws-ManagementTools-checklistfaulttolerance"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistfaulttolerance/checklistfaulttolerance>"],
+    "description": "managementtools/checklistfaulttolerance aws"
+  },
+
+  "inc aws/ManagementTools/checklistfaulttolerance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistfaulttolerance_large","i-aws-ManagementTools-checklistfaulttolerance_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistfaulttolerance/checklistfaulttolerance_LARGE>"],
+    "description": "managementtools/checklistfaulttolerance_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/checklistperformance": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistperformance","i-aws-ManagementTools-checklistperformance"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistperformance/checklistperformance>"],
+    "description": "managementtools/checklistperformance aws"
+  },
+
+  "inc aws/ManagementTools/checklistperformance_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistperformance_large","i-aws-ManagementTools-checklistperformance_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistperformance/checklistperformance_LARGE>"],
+    "description": "managementtools/checklistperformance_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/checklistsecurity": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistsecurity","i-aws-ManagementTools-checklistsecurity"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistsecurity/checklistsecurity>"],
+    "description": "managementtools/checklistsecurity aws"
+  },
+
+  "inc aws/ManagementTools/checklistsecurity_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-checklistsecurity_large","i-aws-ManagementTools-checklistsecurity_large"],
+    "body": ["!include <aws/ManagementTools/AWSTrustedAdvisor/checklistsecurity/checklistsecurity_LARGE>"],
+    "description": "managementtools/checklistsecurity_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/deployments": {
+    "scope": "diagram",
+    "prefix": ["i-aws-deployments","i-aws-ManagementTools-deployments"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/deployments/deployments>"],
+    "description": "managementtools/deployments aws"
+  },
+
+  "inc aws/ManagementTools/deployments_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-deployments_large","i-aws-ManagementTools-deployments_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/deployments/deployments_LARGE>"],
+    "description": "managementtools/deployments_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/documents": {
+    "scope": "diagram",
+    "prefix": ["i-aws-documents","i-aws-ManagementTools-documents"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/documents/documents>"],
+    "description": "managementtools/documents aws"
+  },
+
+  "inc aws/ManagementTools/documents_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-documents_large","i-aws-ManagementTools-documents_large"],
+    "body": ["!include <aws/ManagementTools/AmazonEC2SystemsManager/documents/documents_LARGE>"],
+    "description": "managementtools/documents_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/eventeventbased": {
+    "scope": "diagram",
+    "prefix": ["i-aws-eventeventbased","i-aws-ManagementTools-eventeventbased"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/eventeventbased/eventeventbased>"],
+    "description": "managementtools/eventeventbased aws"
+  },
+
+  "inc aws/ManagementTools/eventeventbased_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-eventeventbased_large","i-aws-ManagementTools-eventeventbased_large"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/eventeventbased/eventeventbased_LARGE>"],
+    "description": "managementtools/eventeventbased_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/eventtimebased": {
+    "scope": "diagram",
+    "prefix": ["i-aws-eventtimebased","i-aws-ManagementTools-eventtimebased"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/eventtimebased/eventtimebased>"],
+    "description": "managementtools/eventtimebased aws"
+  },
+
+  "inc aws/ManagementTools/eventtimebased_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-eventtimebased_large","i-aws-ManagementTools-eventtimebased_large"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/eventtimebased/eventtimebased_LARGE>"],
+    "description": "managementtools/eventtimebased_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/instances": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instances","i-aws-ManagementTools-instances"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/instances/instances>"],
+    "description": "managementtools/instances aws"
+  },
+
+  "inc aws/ManagementTools/instances_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-instances_large","i-aws-ManagementTools-instances_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/instances/instances_LARGE>"],
+    "description": "managementtools/instances_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/layers": {
+    "scope": "diagram",
+    "prefix": ["i-aws-layers","i-aws-ManagementTools-layers"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/layers/layers>"],
+    "description": "managementtools/layers aws"
+  },
+
+  "inc aws/ManagementTools/layers_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-layers_large","i-aws-ManagementTools-layers_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/layers/layers_LARGE>"],
+    "description": "managementtools/layers_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/monitoring": {
+    "scope": "diagram",
+    "prefix": ["i-aws-monitoring","i-aws-ManagementTools-monitoring"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/monitoring/monitoring>"],
+    "description": "managementtools/monitoring aws"
+  },
+
+  "inc aws/ManagementTools/monitoring_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-monitoring_large","i-aws-ManagementTools-monitoring_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/monitoring/monitoring_LARGE>"],
+    "description": "managementtools/monitoring_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/permissions": {
+    "scope": "diagram",
+    "prefix": ["i-aws-permissions","i-aws-ManagementTools-permissions"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/permissions/permissions>"],
+    "description": "managementtools/permissions aws"
+  },
+
+  "inc aws/ManagementTools/permissions_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-permissions_large","i-aws-ManagementTools-permissions_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/permissions/permissions_LARGE>"],
+    "description": "managementtools/permissions_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/resources": {
+    "scope": "diagram",
+    "prefix": ["i-aws-resources","i-aws-ManagementTools-resources"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/resources/resources>"],
+    "description": "managementtools/resources aws"
+  },
+
+  "inc aws/ManagementTools/resources_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-resources_large","i-aws-ManagementTools-resources_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/resources/resources_LARGE>"],
+    "description": "managementtools/resources_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/rule": {
+    "scope": "diagram",
+    "prefix": ["i-aws-rule","i-aws-ManagementTools-rule"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/rule/rule>"],
+    "description": "managementtools/rule aws"
+  },
+
+  "inc aws/ManagementTools/rule_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-rule_large","i-aws-ManagementTools-rule_large"],
+    "body": ["!include <aws/ManagementTools/AmazonCloudWatch/rule/rule_LARGE>"],
+    "description": "managementtools/rule_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/stack": {
+    "scope": "diagram",
+    "prefix": ["i-aws-stack","i-aws-ManagementTools-stack"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/stack/stack>"],
+    "description": "managementtools/stack aws"
+  },
+
+  "inc aws/ManagementTools/stack": {
+    "scope": "diagram",
+    "prefix": ["i-aws-stack","i-aws-ManagementTools-stack"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/stack/stack>"],
+    "description": "managementtools/stack aws"
+  },
+
+  "inc aws/ManagementTools/stack_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-stack_large","i-aws-ManagementTools-stack_large"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/stack/stack_LARGE>"],
+    "description": "managementtools/stack_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/stack_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-stack_large","i-aws-ManagementTools-stack_large"],
+    "body": ["!include <aws/ManagementTools/AWSOpsWorks/stack/stack_LARGE>"],
+    "description": "managementtools/stack_LARGE aws"
+  },
+
+  "inc aws/ManagementTools/template": {
+    "scope": "diagram",
+    "prefix": ["i-aws-template","i-aws-ManagementTools-template"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/template/template>"],
+    "description": "managementtools/template aws"
+  },
+
+  "inc aws/ManagementTools/template_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-template_large","i-aws-ManagementTools-template_large"],
+    "body": ["!include <aws/ManagementTools/AWSCloudFormation/template/template_LARGE>"],
+    "description": "managementtools/template_LARGE aws"
+  },
+
+  "inc aws/Messaging/AmazonPinpoint": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpinpoint","i-aws-Messaging-amazonpinpoint"],
+    "body": ["!include <aws/Messaging/AmazonPinpoint/AmazonPinpoint>"],
+    "description": "messaging/AmazonPinpoint aws"
+  },
+
+  "inc aws/Messaging/AmazonPinpoint_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpinpoint_large","i-aws-Messaging-amazonpinpoint_large"],
+    "body": ["!include <aws/Messaging/AmazonPinpoint/AmazonPinpoint_LARGE>"],
+    "description": "messaging/AmazonPinpoint_LARGE aws"
+  },
+
+  "inc aws/Messaging/AmazonSES": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonses","i-aws-Messaging-amazonses"],
+    "body": ["!include <aws/Messaging/AmazonSES/AmazonSES>"],
+    "description": "messaging/AmazonSES aws"
+  },
+
+  "inc aws/Messaging/AmazonSES_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonses_large","i-aws-Messaging-amazonses_large"],
+    "body": ["!include <aws/Messaging/AmazonSES/AmazonSES_LARGE>"],
+    "description": "messaging/AmazonSES_LARGE aws"
+  },
+
+  "inc aws/Messaging/AmazonSNS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonsns","i-aws-Messaging-amazonsns"],
+    "body": ["!include <aws/Messaging/AmazonSNS/AmazonSNS>"],
+    "description": "messaging/AmazonSNS aws"
+  },
+
+  "inc aws/Messaging/AmazonSNS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonsns_large","i-aws-Messaging-amazonsns_large"],
+    "body": ["!include <aws/Messaging/AmazonSNS/AmazonSNS_LARGE>"],
+    "description": "messaging/AmazonSNS_LARGE aws"
+  },
+
+  "inc aws/Messaging/AmazonSQS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonsqs","i-aws-Messaging-amazonsqs"],
+    "body": ["!include <aws/Messaging/AmazonSQS/AmazonSQS>"],
+    "description": "messaging/AmazonSQS aws"
+  },
+
+  "inc aws/Messaging/AmazonSQS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonsqs_large","i-aws-Messaging-amazonsqs_large"],
+    "body": ["!include <aws/Messaging/AmazonSQS/AmazonSQS_LARGE>"],
+    "description": "messaging/AmazonSQS_LARGE aws"
+  },
+
+  "inc aws/Messaging/HTTPnotification": {
+    "scope": "diagram",
+    "prefix": ["i-aws-httpnotification","i-aws-Messaging-httpnotification"],
+    "body": ["!include <aws/Messaging/AmazonSNS/HTTPnotification/HTTPnotification>"],
+    "description": "messaging/HTTPnotification aws"
+  },
+
+  "inc aws/Messaging/HTTPnotification_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-httpnotification_large","i-aws-Messaging-httpnotification_large"],
+    "body": ["!include <aws/Messaging/AmazonSNS/HTTPnotification/HTTPnotification_LARGE>"],
+    "description": "messaging/HTTPnotification_LARGE aws"
+  },
+
+  "inc aws/Messaging/email": {
+    "scope": "diagram",
+    "prefix": ["i-aws-email","i-aws-Messaging-email"],
+    "body": ["!include <aws/Messaging/AmazonSES/email/email>"],
+    "description": "messaging/email aws"
+  },
+
+  "inc aws/Messaging/email_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-email_large","i-aws-Messaging-email_large"],
+    "body": ["!include <aws/Messaging/AmazonSES/email/email_LARGE>"],
+    "description": "messaging/email_LARGE aws"
+  },
+
+  "inc aws/Messaging/emailnotification": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emailnotification","i-aws-Messaging-emailnotification"],
+    "body": ["!include <aws/Messaging/AmazonSNS/emailnotification/emailnotification>"],
+    "description": "messaging/emailnotification aws"
+  },
+
+  "inc aws/Messaging/emailnotification_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-emailnotification_large","i-aws-Messaging-emailnotification_large"],
+    "body": ["!include <aws/Messaging/AmazonSNS/emailnotification/emailnotification_LARGE>"],
+    "description": "messaging/emailnotification_LARGE aws"
+  },
+
+  "inc aws/Messaging/message": {
+    "scope": "diagram",
+    "prefix": ["i-aws-message","i-aws-Messaging-message"],
+    "body": ["!include <aws/Messaging/AmazonSQS/message/message>"],
+    "description": "messaging/message aws"
+  },
+
+  "inc aws/Messaging/message_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-message_large","i-aws-Messaging-message_large"],
+    "body": ["!include <aws/Messaging/AmazonSQS/message/message_LARGE>"],
+    "description": "messaging/message_LARGE aws"
+  },
+
+  "inc aws/Messaging/queue": {
+    "scope": "diagram",
+    "prefix": ["i-aws-queue","i-aws-Messaging-queue"],
+    "body": ["!include <aws/Messaging/AmazonSQS/queue/queue>"],
+    "description": "messaging/queue aws"
+  },
+
+  "inc aws/Messaging/queue_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-queue_large","i-aws-Messaging-queue_large"],
+    "body": ["!include <aws/Messaging/AmazonSQS/queue/queue_LARGE>"],
+    "description": "messaging/queue_LARGE aws"
+  },
+
+  "inc aws/Messaging/topic": {
+    "scope": "diagram",
+    "prefix": ["i-aws-topic","i-aws-Messaging-topic"],
+    "body": ["!include <aws/Messaging/AmazonSNS/topic/topic>"],
+    "description": "messaging/topic aws"
+  },
+
+  "inc aws/Messaging/topic_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-topic_large","i-aws-Messaging-topic_large"],
+    "body": ["!include <aws/Messaging/AmazonSNS/topic/topic_LARGE>"],
+    "description": "messaging/topic_LARGE aws"
+  },
+
+  "inc aws/Migration/AWSApplicationDiscoveryService": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsapplicationdiscoveryservice","i-aws-Migration-awsapplicationdiscoveryservice"],
+    "body": ["!include <aws/Migration/AWSApplicationDiscoveryService/AWSApplicationDiscoveryService>"],
+    "description": "migration/AWSApplicationDiscoveryService aws"
+  },
+
+  "inc aws/Migration/AWSApplicationDiscoveryService_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsapplicationdiscoveryservice_large","i-aws-Migration-awsapplicationdiscoveryservice_large"],
+    "body": ["!include <aws/Migration/AWSApplicationDiscoveryService/AWSApplicationDiscoveryService_LARGE>"],
+    "description": "migration/AWSApplicationDiscoveryService_LARGE aws"
+  },
+
+  "inc aws/Migration/AWSDMS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdms","i-aws-Migration-awsdms"],
+    "body": ["!include <aws/Migration/AWSDMS/AWSDMS>"],
+    "description": "migration/AWSDMS aws"
+  },
+
+  "inc aws/Migration/AWSDMS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdms_large","i-aws-Migration-awsdms_large"],
+    "body": ["!include <aws/Migration/AWSDMS/AWSDMS_LARGE>"],
+    "description": "migration/AWSDMS_LARGE aws"
+  },
+
+  "inc aws/Migration/AWSMigrationHub": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmigrationhub","i-aws-Migration-awsmigrationhub"],
+    "body": ["!include <aws/Migration/AWSMigrationHub/AWSMigrationHub>"],
+    "description": "migration/AWSMigrationHub aws"
+  },
+
+  "inc aws/Migration/AWSMigrationHub_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmigrationhub_large","i-aws-Migration-awsmigrationhub_large"],
+    "body": ["!include <aws/Migration/AWSMigrationHub/AWSMigrationHub_LARGE>"],
+    "description": "migration/AWSMigrationHub_LARGE aws"
+  },
+
+  "inc aws/Migration/AWSSMS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssms","i-aws-Migration-awssms"],
+    "body": ["!include <aws/Migration/AWSSMS/AWSSMS>"],
+    "description": "migration/AWSSMS aws"
+  },
+
+  "inc aws/Migration/AWSSMS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssms_large","i-aws-Migration-awssms_large"],
+    "body": ["!include <aws/Migration/AWSSMS/AWSSMS_LARGE>"],
+    "description": "migration/AWSSMS_LARGE aws"
+  },
+
+  "inc aws/Migration/AWSSnowball": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssnowball","i-aws-Migration-awssnowball"],
+    "body": ["!include <aws/Migration/AWSSnowball/AWSSnowball>"],
+    "description": "migration/AWSSnowball aws"
+  },
+
+  "inc aws/Migration/AWSSnowball_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssnowball_large","i-aws-Migration-awssnowball_large"],
+    "body": ["!include <aws/Migration/AWSSnowball/AWSSnowball_LARGE>"],
+    "description": "migration/AWSSnowball_LARGE aws"
+  },
+
+  "inc aws/Migration/databasemigrationworkflow_job": {
+    "scope": "diagram",
+    "prefix": ["i-aws-databasemigrationworkflow_job","i-aws-Migration-databasemigrationworkflow_job"],
+    "body": ["!include <aws/Migration/AWSDMS/databasemigrationworkflow_job/databasemigrationworkflow_job>"],
+    "description": "migration/databasemigrationworkflow_job aws"
+  },
+
+  "inc aws/Migration/databasemigrationworkflow_job_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-databasemigrationworkflow_job_large","i-aws-Migration-databasemigrationworkflow_job_large"],
+    "body": ["!include <aws/Migration/AWSDMS/databasemigrationworkflow_job/databasemigrationworkflow_job_LARGE>"],
+    "description": "migration/databasemigrationworkflow_job_LARGE aws"
+  },
+
+  "inc aws/Migration/importexport": {
+    "scope": "diagram",
+    "prefix": ["i-aws-importexport","i-aws-Migration-importexport"],
+    "body": ["!include <aws/Migration/AWSSnowball/importexport/importexport>"],
+    "description": "migration/importexport aws"
+  },
+
+  "inc aws/Migration/importexport_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-importexport_large","i-aws-Migration-importexport_large"],
+    "body": ["!include <aws/Migration/AWSSnowball/importexport/importexport_LARGE>"],
+    "description": "migration/importexport_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AWSDeviceFarm": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdevicefarm","i-aws-MobileServices-awsdevicefarm"],
+    "body": ["!include <aws/MobileServices/AWSDeviceFarm/AWSDeviceFarm>"],
+    "description": "mobileservices/AWSDeviceFarm aws"
+  },
+
+  "inc aws/MobileServices/AWSDeviceFarm_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdevicefarm_large","i-aws-MobileServices-awsdevicefarm_large"],
+    "body": ["!include <aws/MobileServices/AWSDeviceFarm/AWSDeviceFarm_LARGE>"],
+    "description": "mobileservices/AWSDeviceFarm_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AWSMobileHub": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmobilehub","i-aws-MobileServices-awsmobilehub"],
+    "body": ["!include <aws/MobileServices/AWSMobileHub/AWSMobileHub>"],
+    "description": "mobileservices/AWSMobileHub aws"
+  },
+
+  "inc aws/MobileServices/AWSMobileHub_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsmobilehub_large","i-aws-MobileServices-awsmobilehub_large"],
+    "body": ["!include <aws/MobileServices/AWSMobileHub/AWSMobileHub_LARGE>"],
+    "description": "mobileservices/AWSMobileHub_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AmazonAPIGateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonapigateway","i-aws-MobileServices-amazonapigateway"],
+    "body": ["!include <aws/MobileServices/AmazonAPIGateway/AmazonAPIGateway>"],
+    "description": "mobileservices/AmazonAPIGateway aws"
+  },
+
+  "inc aws/MobileServices/AmazonAPIGateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonapigateway_large","i-aws-MobileServices-amazonapigateway_large"],
+    "body": ["!include <aws/MobileServices/AmazonAPIGateway/AmazonAPIGateway_LARGE>"],
+    "description": "mobileservices/AmazonAPIGateway_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AmazonCognito": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncognito","i-aws-MobileServices-amazoncognito"],
+    "body": ["!include <aws/MobileServices/AmazonCognito/AmazonCognito>"],
+    "description": "mobileservices/AmazonCognito aws"
+  },
+
+  "inc aws/MobileServices/AmazonCognito_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncognito_large","i-aws-MobileServices-amazoncognito_large"],
+    "body": ["!include <aws/MobileServices/AmazonCognito/AmazonCognito_LARGE>"],
+    "description": "mobileservices/AmazonCognito_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AmazonMobileAnalytics": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmobileanalytics","i-aws-MobileServices-amazonmobileanalytics"],
+    "body": ["!include <aws/MobileServices/AmazonMobileAnalytics/AmazonMobileAnalytics>"],
+    "description": "mobileservices/AmazonMobileAnalytics aws"
+  },
+
+  "inc aws/MobileServices/AmazonMobileAnalytics_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmobileanalytics_large","i-aws-MobileServices-amazonmobileanalytics_large"],
+    "body": ["!include <aws/MobileServices/AmazonMobileAnalytics/AmazonMobileAnalytics_LARGE>"],
+    "description": "mobileservices/AmazonMobileAnalytics_LARGE aws"
+  },
+
+  "inc aws/MobileServices/AmazonPinpoint": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpinpoint","i-aws-MobileServices-amazonpinpoint"],
+    "body": ["!include <aws/MobileServices/AmazonPinpoint/AmazonPinpoint>"],
+    "description": "mobileservices/AmazonPinpoint aws"
+  },
+
+  "inc aws/MobileServices/AmazonPinpoint_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonpinpoint_large","i-aws-MobileServices-amazonpinpoint_large"],
+    "body": ["!include <aws/MobileServices/AmazonPinpoint/AmazonPinpoint_LARGE>"],
+    "description": "mobileservices/AmazonPinpoint_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AWSDirectConnect": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdirectconnect","i-aws-NetworkingContentDelivery-awsdirectconnect"],
+    "body": ["!include <aws/NetworkingContentDelivery/AWSDirectConnect/AWSDirectConnect>"],
+    "description": "networkingcontentdelivery/AWSDirectConnect aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AWSDirectConnect_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdirectconnect_large","i-aws-NetworkingContentDelivery-awsdirectconnect_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AWSDirectConnect/AWSDirectConnect_LARGE>"],
+    "description": "networkingcontentdelivery/AWSDirectConnect_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonCloudFront": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudfront","i-aws-NetworkingContentDelivery-amazoncloudfront"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/AmazonCloudFront>"],
+    "description": "networkingcontentdelivery/AmazonCloudFront aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonCloudFront_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoncloudfront_large","i-aws-NetworkingContentDelivery-amazoncloudfront_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/AmazonCloudFront_LARGE>"],
+    "description": "networkingcontentdelivery/AmazonCloudFront_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonRoute53": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonroute53","i-aws-NetworkingContentDelivery-amazonroute53"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/AmazonRoute53>"],
+    "description": "networkingcontentdelivery/AmazonRoute53 aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonRoute53_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonroute53_large","i-aws-NetworkingContentDelivery-amazonroute53_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/AmazonRoute53_LARGE>"],
+    "description": "networkingcontentdelivery/AmazonRoute53_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonVPC": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonvpc","i-aws-NetworkingContentDelivery-amazonvpc"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/AmazonVPC>"],
+    "description": "networkingcontentdelivery/AmazonVPC aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/AmazonVPC_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonvpc_large","i-aws-NetworkingContentDelivery-amazonvpc_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/AmazonVPC_LARGE>"],
+    "description": "networkingcontentdelivery/AmazonVPC_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ApplicationLoadBalancer": {
+    "scope": "diagram",
+    "prefix": ["i-aws-applicationloadbalancer","i-aws-NetworkingContentDelivery-applicationloadbalancer"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ApplicationLoadBalancer/ApplicationLoadBalancer>"],
+    "description": "networkingcontentdelivery/ApplicationLoadBalancer aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ApplicationLoadBalancing_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-applicationloadbalancing_large","i-aws-NetworkingContentDelivery-applicationloadbalancing_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ApplicationLoadBalancing/ApplicationLoadBalancing_LARGE>"],
+    "description": "networkingcontentdelivery/ApplicationLoadBalancing_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ClassicLoadBalancer": {
+    "scope": "diagram",
+    "prefix": ["i-aws-classicloadbalancer","i-aws-NetworkingContentDelivery-classicloadbalancer"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ClassicLoadBalancer/ClassicLoadBalancer>"],
+    "description": "networkingcontentdelivery/ClassicLoadBalancer aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ClassicLoadBalancer_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-classicloadbalancer_large","i-aws-NetworkingContentDelivery-classicloadbalancer_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ClassicLoadBalancer/ClassicLoadBalancer_LARGE>"],
+    "description": "networkingcontentdelivery/ClassicLoadBalancer_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ElasticLoadBalancing": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticloadbalancing","i-aws-NetworkingContentDelivery-elasticloadbalancing"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ElasticLoadBalancing>"],
+    "description": "networkingcontentdelivery/ElasticLoadBalancing aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/ElasticLoadBalancing_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticloadbalancing_large","i-aws-NetworkingContentDelivery-elasticloadbalancing_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/ElasticLoadBalancing/ElasticLoadBalancing_LARGE>"],
+    "description": "networkingcontentdelivery/ElasticLoadBalancing_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPCNATgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcnatgateway","i-aws-NetworkingContentDelivery-vpcnatgateway"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPCNATgateway/VPCNATgateway>"],
+    "description": "networkingcontentdelivery/VPCNATgateway aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPCNATgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcnatgateway_large","i-aws-NetworkingContentDelivery-vpcnatgateway_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPCNATgateway/VPCNATgateway_LARGE>"],
+    "description": "networkingcontentdelivery/VPCNATgateway_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPCpeering": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcpeering","i-aws-NetworkingContentDelivery-vpcpeering"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPCpeering/VPCpeering>"],
+    "description": "networkingcontentdelivery/VPCpeering aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPCpeering_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpcpeering_large","i-aws-NetworkingContentDelivery-vpcpeering_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPCpeering/VPCpeering_LARGE>"],
+    "description": "networkingcontentdelivery/VPCpeering_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPNconnection": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpnconnection","i-aws-NetworkingContentDelivery-vpnconnection"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPNconnection/VPNconnection>"],
+    "description": "networkingcontentdelivery/VPNconnection aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPNconnection_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpnconnection_large","i-aws-NetworkingContentDelivery-vpnconnection_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPNconnection/VPNconnection_LARGE>"],
+    "description": "networkingcontentdelivery/VPNconnection_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPNgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpngateway","i-aws-NetworkingContentDelivery-vpngateway"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPNgateway/VPNgateway>"],
+    "description": "networkingcontentdelivery/VPNgateway aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/VPNgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vpngateway_large","i-aws-NetworkingContentDelivery-vpngateway_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/VPNgateway/VPNgateway_LARGE>"],
+    "description": "networkingcontentdelivery/VPNgateway_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/customergateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-customergateway","i-aws-NetworkingContentDelivery-customergateway"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/customergateway/customergateway>"],
+    "description": "networkingcontentdelivery/customergateway aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/customergateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-customergateway_large","i-aws-NetworkingContentDelivery-customergateway_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/customergateway/customergateway_LARGE>"],
+    "description": "networkingcontentdelivery/customergateway_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/downloaddistribution": {
+    "scope": "diagram",
+    "prefix": ["i-aws-downloaddistribution","i-aws-NetworkingContentDelivery-downloaddistribution"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/downloaddistribution/downloaddistribution>"],
+    "description": "networkingcontentdelivery/downloaddistribution aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/downloaddistribution_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-downloaddistribution_large","i-aws-NetworkingContentDelivery-downloaddistribution_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/downloaddistribution/downloaddistribution_LARGE>"],
+    "description": "networkingcontentdelivery/downloaddistribution_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/edgelocation": {
+    "scope": "diagram",
+    "prefix": ["i-aws-edgelocation","i-aws-NetworkingContentDelivery-edgelocation"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/edgelocation/edgelocation>"],
+    "description": "networkingcontentdelivery/edgelocation aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/edgelocation_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-edgelocation_large","i-aws-NetworkingContentDelivery-edgelocation_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/edgelocation/edgelocation_LARGE>"],
+    "description": "networkingcontentdelivery/edgelocation_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/elasticnetworkadapter": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkadapter","i-aws-NetworkingContentDelivery-elasticnetworkadapter"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/elasticnetworkadapter/elasticnetworkadapter>"],
+    "description": "networkingcontentdelivery/elasticnetworkadapter aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/elasticnetworkadapter_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkadapter_large","i-aws-NetworkingContentDelivery-elasticnetworkadapter_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/elasticnetworkadapter/elasticnetworkadapter_LARGE>"],
+    "description": "networkingcontentdelivery/elasticnetworkadapter_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/elasticnetworkinterface": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkinterface","i-aws-NetworkingContentDelivery-elasticnetworkinterface"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/elasticnetworkinterface/elasticnetworkinterface>"],
+    "description": "networkingcontentdelivery/elasticnetworkinterface aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/elasticnetworkinterface_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-elasticnetworkinterface_large","i-aws-NetworkingContentDelivery-elasticnetworkinterface_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/elasticnetworkinterface/elasticnetworkinterface_LARGE>"],
+    "description": "networkingcontentdelivery/elasticnetworkinterface_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/endpoints": {
+    "scope": "diagram",
+    "prefix": ["i-aws-endpoints","i-aws-NetworkingContentDelivery-endpoints"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/endpoints/endpoints>"],
+    "description": "networkingcontentdelivery/endpoints aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/endpoints_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-endpoints_large","i-aws-NetworkingContentDelivery-endpoints_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/endpoints/endpoints_LARGE>"],
+    "description": "networkingcontentdelivery/endpoints_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/flowlogs": {
+    "scope": "diagram",
+    "prefix": ["i-aws-flowlogs","i-aws-NetworkingContentDelivery-flowlogs"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/flowlogs/flowlogs>"],
+    "description": "networkingcontentdelivery/flowlogs aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/flowlogs_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-flowlogs_large","i-aws-NetworkingContentDelivery-flowlogs_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/flowlogs/flowlogs_LARGE>"],
+    "description": "networkingcontentdelivery/flowlogs_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/hostedzone": {
+    "scope": "diagram",
+    "prefix": ["i-aws-hostedzone","i-aws-NetworkingContentDelivery-hostedzone"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/hostedzone/hostedzone>"],
+    "description": "networkingcontentdelivery/hostedzone aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/hostedzone_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-hostedzone_large","i-aws-NetworkingContentDelivery-hostedzone_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/hostedzone/hostedzone_LARGE>"],
+    "description": "networkingcontentdelivery/hostedzone_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/internetgateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetgateway","i-aws-NetworkingContentDelivery-internetgateway"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/internetgateway/internetgateway>"],
+    "description": "networkingcontentdelivery/internetgateway aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/internetgateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-internetgateway_large","i-aws-NetworkingContentDelivery-internetgateway_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/internetgateway/internetgateway_LARGE>"],
+    "description": "networkingcontentdelivery/internetgateway_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/networkaccesscontrollist": {
+    "scope": "diagram",
+    "prefix": ["i-aws-networkaccesscontrollist","i-aws-NetworkingContentDelivery-networkaccesscontrollist"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/networkaccesscontrollist/networkaccesscontrollist>"],
+    "description": "networkingcontentdelivery/networkaccesscontrollist aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/networkaccesscontrollist_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-networkaccesscontrollist_large","i-aws-NetworkingContentDelivery-networkaccesscontrollist_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/networkaccesscontrollist/networkaccesscontrollist_LARGE>"],
+    "description": "networkingcontentdelivery/networkaccesscontrollist_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/router": {
+    "scope": "diagram",
+    "prefix": ["i-aws-router","i-aws-NetworkingContentDelivery-router"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/router/router>"],
+    "description": "networkingcontentdelivery/router aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/router_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-router_large","i-aws-NetworkingContentDelivery-router_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonVPC/router/router_LARGE>"],
+    "description": "networkingcontentdelivery/router_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/routetable": {
+    "scope": "diagram",
+    "prefix": ["i-aws-routetable","i-aws-NetworkingContentDelivery-routetable"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/routetable/routetable>"],
+    "description": "networkingcontentdelivery/routetable aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/routetable_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-routetable_large","i-aws-NetworkingContentDelivery-routetable_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonRoute53/routetable/routetable_LARGE>"],
+    "description": "networkingcontentdelivery/routetable_LARGE aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/streamingdistribution": {
+    "scope": "diagram",
+    "prefix": ["i-aws-streamingdistribution","i-aws-NetworkingContentDelivery-streamingdistribution"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/streamingdistribution/streamingdistribution>"],
+    "description": "networkingcontentdelivery/streamingdistribution aws"
+  },
+
+  "inc aws/NetworkingContentDelivery/streamingdistribution_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-streamingdistribution_large","i-aws-NetworkingContentDelivery-streamingdistribution_large"],
+    "body": ["!include <aws/NetworkingContentDelivery/AmazonCloudFront/streamingdistribution/streamingdistribution_LARGE>"],
+    "description": "networkingcontentdelivery/streamingdistribution_LARGE aws"
+  },
+
+  "inc aws/OnDemandWorkforce/AmazonMechanicalTurk": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmechanicalturk","i-aws-OnDemandWorkforce-amazonmechanicalturk"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/AmazonMechanicalTurk>"],
+    "description": "ondemandworkforce/AmazonMechanicalTurk aws"
+  },
+
+  "inc aws/OnDemandWorkforce/AmazonMechanicalTurk_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmechanicalturk_large","i-aws-OnDemandWorkforce-amazonmechanicalturk_large"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/AmazonMechanicalTurk_LARGE>"],
+    "description": "ondemandworkforce/AmazonMechanicalTurk_LARGE aws"
+  },
+
+  "inc aws/OnDemandWorkforce/assignmenttask": {
+    "scope": "diagram",
+    "prefix": ["i-aws-assignmenttask","i-aws-OnDemandWorkforce-assignmenttask"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/assignmenttask/assignmenttask>"],
+    "description": "ondemandworkforce/assignmenttask aws"
+  },
+
+  "inc aws/OnDemandWorkforce/assignmenttask_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-assignmenttask_large","i-aws-OnDemandWorkforce-assignmenttask_large"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/assignmenttask/assignmenttask_LARGE>"],
+    "description": "ondemandworkforce/assignmenttask_LARGE aws"
+  },
+
+  "inc aws/OnDemandWorkforce/humanintelligencetasks": {
+    "scope": "diagram",
+    "prefix": ["i-aws-humanintelligencetasks","i-aws-OnDemandWorkforce-humanintelligencetasks"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/humanintelligencetasks/humanintelligencetasks>"],
+    "description": "ondemandworkforce/humanintelligencetasks aws"
+  },
+
+  "inc aws/OnDemandWorkforce/humanintelligencetasks_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-humanintelligencetasks_large","i-aws-OnDemandWorkforce-humanintelligencetasks_large"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/humanintelligencetasks/humanintelligencetasks_LARGE>"],
+    "description": "ondemandworkforce/humanintelligencetasks_LARGE aws"
+  },
+
+  "inc aws/OnDemandWorkforce/requester": {
+    "scope": "diagram",
+    "prefix": ["i-aws-requester","i-aws-OnDemandWorkforce-requester"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/requester/requester>"],
+    "description": "ondemandworkforce/requester aws"
+  },
+
+  "inc aws/OnDemandWorkforce/requester_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-requester_large","i-aws-OnDemandWorkforce-requester_large"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/requester/requester_LARGE>"],
+    "description": "ondemandworkforce/requester_LARGE aws"
+  },
+
+  "inc aws/OnDemandWorkforce/workers": {
+    "scope": "diagram",
+    "prefix": ["i-aws-workers","i-aws-OnDemandWorkforce-workers"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/workers/workers>"],
+    "description": "ondemandworkforce/workers aws"
+  },
+
+  "inc aws/OnDemandWorkforce/workers_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-workers_large","i-aws-OnDemandWorkforce-workers_large"],
+    "body": ["!include <aws/OnDemandWorkforce/AmazonMechanicalTurk/workers/workers_LARGE>"],
+    "description": "ondemandworkforce/workers_LARGE aws"
+  },
+
+  "inc aws/SDKs/AWSCLI": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscli","i-aws-SDKs-awscli"],
+    "body": ["!include <aws/SDKs/AWSCLI/AWSCLI>"],
+    "description": "sdks/AWSCLI aws"
+  },
+
+  "inc aws/SDKs/AWSCLI_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscli_large","i-aws-SDKs-awscli_large"],
+    "body": ["!include <aws/SDKs/AWSCLI/AWSCLI_LARGE>"],
+    "description": "sdks/AWSCLI_LARGE aws"
+  },
+
+  "inc aws/SDKs/AWSToolkitForEclipse": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolkitforeclipse","i-aws-SDKs-awstoolkitforeclipse"],
+    "body": ["!include <aws/SDKs/AWSToolkitForEclipse/AWSToolkitForEclipse>"],
+    "description": "sdks/AWSToolkitForEclipse aws"
+  },
+
+  "inc aws/SDKs/AWSToolkitForEclipse_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolkitforeclipse_large","i-aws-SDKs-awstoolkitforeclipse_large"],
+    "body": ["!include <aws/SDKs/AWSToolkitForEclipse/AWSToolkitForEclipse_LARGE>"],
+    "description": "sdks/AWSToolkitForEclipse_LARGE aws"
+  },
+
+  "inc aws/SDKs/AWSToolkitForVisualStudio": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolkitforvisualstudio","i-aws-SDKs-awstoolkitforvisualstudio"],
+    "body": ["!include <aws/SDKs/AWSToolkitForVisualStudio/AWSToolkitForVisualStudio>"],
+    "description": "sdks/AWSToolkitForVisualStudio aws"
+  },
+
+  "inc aws/SDKs/AWSToolkitForVisualStudio_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolkitforvisualstudio_large","i-aws-SDKs-awstoolkitforvisualstudio_large"],
+    "body": ["!include <aws/SDKs/AWSToolkitForVisualStudio/AWSToolkitForVisualStudio_LARGE>"],
+    "description": "sdks/AWSToolkitForVisualStudio_LARGE aws"
+  },
+
+  "inc aws/SDKs/AWSToolsForWindowsPowerShell": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolsforwindowspowershell","i-aws-SDKs-awstoolsforwindowspowershell"],
+    "body": ["!include <aws/SDKs/AWSToolsForWindowsPowerShell/AWSToolsForWindowsPowerShell>"],
+    "description": "sdks/AWSToolsForWindowsPowerShell aws"
+  },
+
+  "inc aws/SDKs/AWSToolsForWindowsPowerShell_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awstoolsforwindowspowershell_large","i-aws-SDKs-awstoolsforwindowspowershell_large"],
+    "body": ["!include <aws/SDKs/AWSToolsForWindowsPowerShell/AWSToolsForWindowsPowerShell_LARGE>"],
+    "description": "sdks/AWSToolsForWindowsPowerShell_LARGE aws"
+  },
+
+  "inc aws/SDKs/Android": {
+    "scope": "diagram",
+    "prefix": ["i-aws-android","i-aws-SDKs-android"],
+    "body": ["!include <aws/SDKs/Android/Android>"],
+    "description": "sdks/Android aws"
+  },
+
+  "inc aws/SDKs/Android_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-android_large","i-aws-SDKs-android_large"],
+    "body": ["!include <aws/SDKs/Android/Android_LARGE>"],
+    "description": "sdks/Android_LARGE aws"
+  },
+
+  "inc aws/SDKs/Java": {
+    "scope": "diagram",
+    "prefix": ["i-aws-java","i-aws-SDKs-java"],
+    "body": ["!include <aws/SDKs/Java/Java>"],
+    "description": "sdks/Java aws"
+  },
+
+  "inc aws/SDKs/JavaScript": {
+    "scope": "diagram",
+    "prefix": ["i-aws-javascript","i-aws-SDKs-javascript"],
+    "body": ["!include <aws/SDKs/JavaScript/JavaScript>"],
+    "description": "sdks/JavaScript aws"
+  },
+
+  "inc aws/SDKs/JavaScript_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-javascript_large","i-aws-SDKs-javascript_large"],
+    "body": ["!include <aws/SDKs/JavaScript/JavaScript_LARGE>"],
+    "description": "sdks/JavaScript_LARGE aws"
+  },
+
+  "inc aws/SDKs/Java_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-java_large","i-aws-SDKs-java_large"],
+    "body": ["!include <aws/SDKs/Java/Java_LARGE>"],
+    "description": "sdks/Java_LARGE aws"
+  },
+
+  "inc aws/SDKs/Net": {
+    "scope": "diagram",
+    "prefix": ["i-aws-net","i-aws-SDKs-net"],
+    "body": ["!include <aws/SDKs/Net/Net>"],
+    "description": "sdks/Net aws"
+  },
+
+  "inc aws/SDKs/Net_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-net_large","i-aws-SDKs-net_large"],
+    "body": ["!include <aws/SDKs/Net/Net_LARGE>"],
+    "description": "sdks/Net_LARGE aws"
+  },
+
+  "inc aws/SDKs/Nodejs": {
+    "scope": "diagram",
+    "prefix": ["i-aws-nodejs","i-aws-SDKs-nodejs"],
+    "body": ["!include <aws/SDKs/Nodejs/Nodejs>"],
+    "description": "sdks/Nodejs aws"
+  },
+
+  "inc aws/SDKs/Nodejs_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-nodejs_large","i-aws-SDKs-nodejs_large"],
+    "body": ["!include <aws/SDKs/Nodejs/Nodejs_LARGE>"],
+    "description": "sdks/Nodejs_LARGE aws"
+  },
+
+  "inc aws/SDKs/PHP": {
+    "scope": "diagram",
+    "prefix": ["i-aws-php","i-aws-SDKs-php"],
+    "body": ["!include <aws/SDKs/PHP/PHP>"],
+    "description": "sdks/PHP aws"
+  },
+
+  "inc aws/SDKs/PHP_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-php_large","i-aws-SDKs-php_large"],
+    "body": ["!include <aws/SDKs/PHP/PHP_LARGE>"],
+    "description": "sdks/PHP_LARGE aws"
+  },
+
+  "inc aws/SDKs/Python": {
+    "scope": "diagram",
+    "prefix": ["i-aws-python","i-aws-SDKs-python"],
+    "body": ["!include <aws/SDKs/Python/Python>"],
+    "description": "sdks/Python aws"
+  },
+
+  "inc aws/SDKs/Python_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-python_large","i-aws-SDKs-python_large"],
+    "body": ["!include <aws/SDKs/Python/Python_LARGE>"],
+    "description": "sdks/Python_LARGE aws"
+  },
+
+  "inc aws/SDKs/Ruby": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ruby","i-aws-SDKs-ruby"],
+    "body": ["!include <aws/SDKs/Ruby/Ruby>"],
+    "description": "sdks/Ruby aws"
+  },
+
+  "inc aws/SDKs/Ruby_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ruby_large","i-aws-SDKs-ruby_large"],
+    "body": ["!include <aws/SDKs/Ruby/Ruby_LARGE>"],
+    "description": "sdks/Ruby_LARGE aws"
+  },
+
+  "inc aws/SDKs/Xamarin": {
+    "scope": "diagram",
+    "prefix": ["i-aws-xamarin","i-aws-SDKs-xamarin"],
+    "body": ["!include <aws/SDKs/Xamarin/Xamarin>"],
+    "description": "sdks/Xamarin aws"
+  },
+
+  "inc aws/SDKs/Xamarin_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-xamarin_large","i-aws-SDKs-xamarin_large"],
+    "body": ["!include <aws/SDKs/Xamarin/Xamarin_LARGE>"],
+    "description": "sdks/Xamarin_LARGE aws"
+  },
+
+  "inc aws/SDKs/iOS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ios","i-aws-SDKs-ios"],
+    "body": ["!include <aws/SDKs/iOS/iOS>"],
+    "description": "sdks/iOS aws"
+  },
+
+  "inc aws/SDKs/iOS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-ios_large","i-aws-SDKs-ios_large"],
+    "body": ["!include <aws/SDKs/iOS/iOS_LARGE>"],
+    "description": "sdks/iOS_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSArtifact": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsartifact","i-aws-SecurityIdentityCompliance-awsartifact"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSArtifact/AWSArtifact>"],
+    "description": "securityidentitycompliance/AWSArtifact aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSArtifact_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsartifact_large","i-aws-SecurityIdentityCompliance-awsartifact_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSArtifact/AWSArtifact_LARGE>"],
+    "description": "securityidentitycompliance/AWSArtifact_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSCertificateManager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscertificatemanager","i-aws-SecurityIdentityCompliance-awscertificatemanager"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCertificateManager/AWSCertificateManager>"],
+    "description": "securityidentitycompliance/AWSCertificateManager aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSCertificateManager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscertificatemanager_large","i-aws-SecurityIdentityCompliance-awscertificatemanager_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCertificateManager/AWSCertificateManager_LARGE>"],
+    "description": "securityidentitycompliance/AWSCertificateManager_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSCloudHSM": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudhsm","i-aws-SecurityIdentityCompliance-awscloudhsm"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCloudHSM/AWSCloudHSM>"],
+    "description": "securityidentitycompliance/AWSCloudHSM aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSCloudHSM_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awscloudhsm_large","i-aws-SecurityIdentityCompliance-awscloudhsm_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCloudHSM/AWSCloudHSM_LARGE>"],
+    "description": "securityidentitycompliance/AWSCloudHSM_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSDirectoryService": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdirectoryservice","i-aws-SecurityIdentityCompliance-awsdirectoryservice"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSDirectoryService/AWSDirectoryService>"],
+    "description": "securityidentitycompliance/AWSDirectoryService aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSDirectoryService_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsdirectoryservice_large","i-aws-SecurityIdentityCompliance-awsdirectoryservice_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSDirectoryService/AWSDirectoryService_LARGE>"],
+    "description": "securityidentitycompliance/AWSDirectoryService_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSIAM": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsiam","i-aws-SecurityIdentityCompliance-awsiam"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSIAM>"],
+    "description": "securityidentitycompliance/AWSIAM aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSIAM_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsiam_large","i-aws-SecurityIdentityCompliance-awsiam_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSIAM_LARGE>"],
+    "description": "securityidentitycompliance/AWSIAM_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSKMS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awskms","i-aws-SecurityIdentityCompliance-awskms"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSKMS/AWSKMS>"],
+    "description": "securityidentitycompliance/AWSKMS aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSKMS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awskms_large","i-aws-SecurityIdentityCompliance-awskms_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSKMS/AWSKMS_LARGE>"],
+    "description": "securityidentitycompliance/AWSKMS_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSOrganizations": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsorganizations","i-aws-SecurityIdentityCompliance-awsorganizations"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSOrganizations/AWSOrganizations>"],
+    "description": "securityidentitycompliance/AWSOrganizations aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSOrganizations_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsorganizations_large","i-aws-SecurityIdentityCompliance-awsorganizations_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSOrganizations/AWSOrganizations_LARGE>"],
+    "description": "securityidentitycompliance/AWSOrganizations_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSSTS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssts","i-aws-SecurityIdentityCompliance-awssts"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSSTS/AWSSTS>"],
+    "description": "securityidentitycompliance/AWSSTS aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSSTS_2": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssts_2","i-aws-SecurityIdentityCompliance-awssts_2"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSSTS_2/AWSSTS_2>"],
+    "description": "securityidentitycompliance/AWSSTS_2 aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSSTS_2_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssts_2_large","i-aws-SecurityIdentityCompliance-awssts_2_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSSTS_2/AWSSTS_2_LARGE>"],
+    "description": "securityidentitycompliance/AWSSTS_2_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSSTS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssts_large","i-aws-SecurityIdentityCompliance-awssts_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/AWSSTS/AWSSTS_LARGE>"],
+    "description": "securityidentitycompliance/AWSSTS_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSShield": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsshield","i-aws-SecurityIdentityCompliance-awsshield"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSShield/AWSShield>"],
+    "description": "securityidentitycompliance/AWSShield aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSShield_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsshield_large","i-aws-SecurityIdentityCompliance-awsshield_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSShield/AWSShield_LARGE>"],
+    "description": "securityidentitycompliance/AWSShield_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSWAF": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awswaf","i-aws-SecurityIdentityCompliance-awswaf"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSWAF/AWSWAF>"],
+    "description": "securityidentitycompliance/AWSWAF aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AWSWAF_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awswaf_large","i-aws-SecurityIdentityCompliance-awswaf_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSWAF/AWSWAF_LARGE>"],
+    "description": "securityidentitycompliance/AWSWAF_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonCloudDirectory": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonclouddirectory","i-aws-SecurityIdentityCompliance-amazonclouddirectory"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonCloudDirectory/AmazonCloudDirectory>"],
+    "description": "securityidentitycompliance/AmazonCloudDirectory aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonCloudDirectory_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonclouddirectory_large","i-aws-SecurityIdentityCompliance-amazonclouddirectory_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonCloudDirectory/AmazonCloudDirectory_LARGE>"],
+    "description": "securityidentitycompliance/AmazonCloudDirectory_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonInspector": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoninspector","i-aws-SecurityIdentityCompliance-amazoninspector"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonInspector/AmazonInspector>"],
+    "description": "securityidentitycompliance/AmazonInspector aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonInspector_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazoninspector_large","i-aws-SecurityIdentityCompliance-amazoninspector_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonInspector/AmazonInspector_LARGE>"],
+    "description": "securityidentitycompliance/AmazonInspector_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonMacie": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmacie","i-aws-SecurityIdentityCompliance-amazonmacie"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonMacie/AmazonMacie>"],
+    "description": "securityidentitycompliance/AmazonMacie aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/AmazonMacie_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonmacie_large","i-aws-SecurityIdentityCompliance-amazonmacie_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonMacie/AmazonMacie_LARGE>"],
+    "description": "securityidentitycompliance/AmazonMacie_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/MFAtoken": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mfatoken","i-aws-SecurityIdentityCompliance-mfatoken"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/MFAtoken/MFAtoken>"],
+    "description": "securityidentitycompliance/MFAtoken aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/MFAtoken_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-mfatoken_large","i-aws-SecurityIdentityCompliance-mfatoken_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/MFAtoken/MFAtoken_LARGE>"],
+    "description": "securityidentitycompliance/MFAtoken_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/addon": {
+    "scope": "diagram",
+    "prefix": ["i-aws-addon","i-aws-SecurityIdentityCompliance-addon"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/addon/addon>"],
+    "description": "securityidentitycompliance/addon aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/addon_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-addon_large","i-aws-SecurityIdentityCompliance-addon_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/addon/addon_LARGE>"],
+    "description": "securityidentitycompliance/addon_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/agent": {
+    "scope": "diagram",
+    "prefix": ["i-aws-agent","i-aws-SecurityIdentityCompliance-agent"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonInspector/agent/agent>"],
+    "description": "securityidentitycompliance/agent aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/agent_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-agent_large","i-aws-SecurityIdentityCompliance-agent_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AmazonInspector/agent/agent_LARGE>"],
+    "description": "securityidentitycompliance/agent_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/certificatemanager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificatemanager","i-aws-SecurityIdentityCompliance-certificatemanager"],
+    "body": ["!include <aws/SecurityIdentityCompliance/ACM/certificatemanager/certificatemanager>"],
+    "description": "securityidentitycompliance/certificatemanager aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/certificatemanager": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificatemanager","i-aws-SecurityIdentityCompliance-certificatemanager"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCertificateManager/certificatemanager/certificatemanager>"],
+    "description": "securityidentitycompliance/certificatemanager aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/certificatemanager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificatemanager_large","i-aws-SecurityIdentityCompliance-certificatemanager_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/ACM/certificatemanager/certificatemanager_LARGE>"],
+    "description": "securityidentitycompliance/certificatemanager_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/certificatemanager_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-certificatemanager_large","i-aws-SecurityIdentityCompliance-certificatemanager_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSCertificateManager/certificatemanager/certificatemanager_LARGE>"],
+    "description": "securityidentitycompliance/certificatemanager_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/dataencryptionkey": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dataencryptionkey","i-aws-SecurityIdentityCompliance-dataencryptionkey"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/dataencryptionkey/dataencryptionkey>"],
+    "description": "securityidentitycompliance/dataencryptionkey aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/dataencryptionkey_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-dataencryptionkey_large","i-aws-SecurityIdentityCompliance-dataencryptionkey_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/dataencryptionkey/dataencryptionkey_LARGE>"],
+    "description": "securityidentitycompliance/dataencryptionkey_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/encrypteddata": {
+    "scope": "diagram",
+    "prefix": ["i-aws-encrypteddata","i-aws-SecurityIdentityCompliance-encrypteddata"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/encrypteddata/encrypteddata>"],
+    "description": "securityidentitycompliance/encrypteddata aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/encrypteddata_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-encrypteddata_large","i-aws-SecurityIdentityCompliance-encrypteddata_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSIAM/encrypteddata/encrypteddata_LARGE>"],
+    "description": "securityidentitycompliance/encrypteddata_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/filteringrule": {
+    "scope": "diagram",
+    "prefix": ["i-aws-filteringrule","i-aws-SecurityIdentityCompliance-filteringrule"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSWAF/filteringrule/filteringrule>"],
+    "description": "securityidentitycompliance/filteringrule aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/filteringrule_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-filteringrule_large","i-aws-SecurityIdentityCompliance-filteringrule_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/AWSWAF/filteringrule/filteringrule_LARGE>"],
+    "description": "securityidentitycompliance/filteringrule_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/long_termsecuritycredential": {
+    "scope": "diagram",
+    "prefix": ["i-aws-long_termsecuritycredential","i-aws-SecurityIdentityCompliance-long_termsecuritycredential"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/long_termsecuritycredential/long_termsecuritycredential>"],
+    "description": "securityidentitycompliance/long_termsecuritycredential aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/long_termsecuritycredential_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-long_termsecuritycredential_large","i-aws-SecurityIdentityCompliance-long_termsecuritycredential_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/long_termsecuritycredential/long_termsecuritycredential_LARGE>"],
+    "description": "securityidentitycompliance/long_termsecuritycredential_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/permissions": {
+    "scope": "diagram",
+    "prefix": ["i-aws-permissions","i-aws-SecurityIdentityCompliance-permissions"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/permissions/permissions>"],
+    "description": "securityidentitycompliance/permissions aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/permissions_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-permissions_large","i-aws-SecurityIdentityCompliance-permissions_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/permissions/permissions_LARGE>"],
+    "description": "securityidentitycompliance/permissions_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/role": {
+    "scope": "diagram",
+    "prefix": ["i-aws-role","i-aws-SecurityIdentityCompliance-role"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/role/role>"],
+    "description": "securityidentitycompliance/role aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/role_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-role_large","i-aws-SecurityIdentityCompliance-role_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/role/role_LARGE>"],
+    "description": "securityidentitycompliance/role_LARGE aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/temporarysecuritycredential": {
+    "scope": "diagram",
+    "prefix": ["i-aws-temporarysecuritycredential","i-aws-SecurityIdentityCompliance-temporarysecuritycredential"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/temporarysecuritycredential/temporarysecuritycredential>"],
+    "description": "securityidentitycompliance/temporarysecuritycredential aws"
+  },
+
+  "inc aws/SecurityIdentityCompliance/temporarysecuritycredential_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-temporarysecuritycredential_large","i-aws-SecurityIdentityCompliance-temporarysecuritycredential_large"],
+    "body": ["!include <aws/SecurityIdentityCompliance/IAM/temporarysecuritycredential/temporarysecuritycredential_LARGE>"],
+    "description": "securityidentitycompliance/temporarysecuritycredential_LARGE aws"
+  },
+
+  "inc aws/Storage/AWSSnowball": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssnowball","i-aws-Storage-awssnowball"],
+    "body": ["!include <aws/Storage/AWSSnowball/AWSSnowball>"],
+    "description": "storage/AWSSnowball aws"
+  },
+
+  "inc aws/Storage/AWSSnowball_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awssnowball_large","i-aws-Storage-awssnowball_large"],
+    "body": ["!include <aws/Storage/AWSSnowball/AWSSnowball_LARGE>"],
+    "description": "storage/AWSSnowball_LARGE aws"
+  },
+
+  "inc aws/Storage/AWSStorageGateway": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsstoragegateway","i-aws-Storage-awsstoragegateway"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/AWSStorageGateway>"],
+    "description": "storage/AWSStorageGateway aws"
+  },
+
+  "inc aws/Storage/AWSStorageGateway_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-awsstoragegateway_large","i-aws-Storage-awsstoragegateway_large"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/AWSStorageGateway_LARGE>"],
+    "description": "storage/AWSStorageGateway_LARGE aws"
+  },
+
+  "inc aws/Storage/AmazonEBS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonebs","i-aws-Storage-amazonebs"],
+    "body": ["!include <aws/Storage/AmazonEBS/AmazonEBS>"],
+    "description": "storage/AmazonEBS aws"
+  },
+
+  "inc aws/Storage/AmazonEBS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonebs_large","i-aws-Storage-amazonebs_large"],
+    "body": ["!include <aws/Storage/AmazonEBS/AmazonEBS_LARGE>"],
+    "description": "storage/AmazonEBS_LARGE aws"
+  },
+
+  "inc aws/Storage/AmazonEFS": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonefs","i-aws-Storage-amazonefs"],
+    "body": ["!include <aws/Storage/AmazonEFS/AmazonEFS>"],
+    "description": "storage/AmazonEFS aws"
+  },
+
+  "inc aws/Storage/AmazonEFS_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonefs_large","i-aws-Storage-amazonefs_large"],
+    "body": ["!include <aws/Storage/AmazonEFS/AmazonEFS_LARGE>"],
+    "description": "storage/AmazonEFS_LARGE aws"
+  },
+
+  "inc aws/Storage/AmazonGlacier": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonglacier","i-aws-Storage-amazonglacier"],
+    "body": ["!include <aws/Storage/AmazonGlacier/AmazonGlacier>"],
+    "description": "storage/AmazonGlacier aws"
+  },
+
+  "inc aws/Storage/AmazonGlacier_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazonglacier_large","i-aws-Storage-amazonglacier_large"],
+    "body": ["!include <aws/Storage/AmazonGlacier/AmazonGlacier_LARGE>"],
+    "description": "storage/AmazonGlacier_LARGE aws"
+  },
+
+  "inc aws/Storage/AmazonS3": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazons3","i-aws-Storage-amazons3"],
+    "body": ["!include <aws/Storage/AmazonS3/AmazonS3>"],
+    "description": "storage/AmazonS3 aws"
+  },
+
+  "inc aws/Storage/AmazonS3_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-amazons3_large","i-aws-Storage-amazons3_large"],
+    "body": ["!include <aws/Storage/AmazonS3/AmazonS3_LARGE>"],
+    "description": "storage/AmazonS3_LARGE aws"
+  },
+
+  "inc aws/Storage/EFSfilesystem": {
+    "scope": "diagram",
+    "prefix": ["i-aws-efsfilesystem","i-aws-Storage-efsfilesystem"],
+    "body": ["!include <aws/Storage/AmazonEFS/EFSfilesystem/EFSfilesystem>"],
+    "description": "storage/EFSfilesystem aws"
+  },
+
+  "inc aws/Storage/EFSfilesystem_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-efsfilesystem_large","i-aws-Storage-efsfilesystem_large"],
+    "body": ["!include <aws/Storage/AmazonEFS/EFSfilesystem/EFSfilesystem_LARGE>"],
+    "description": "storage/EFSfilesystem_LARGE aws"
+  },
+
+  "inc aws/Storage/archive": {
+    "scope": "diagram",
+    "prefix": ["i-aws-archive","i-aws-Storage-archive"],
+    "body": ["!include <aws/Storage/AmazonGlacier/archive/archive>"],
+    "description": "storage/archive aws"
+  },
+
+  "inc aws/Storage/archive_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-archive_large","i-aws-Storage-archive_large"],
+    "body": ["!include <aws/Storage/AmazonGlacier/archive/archive_LARGE>"],
+    "description": "storage/archive_LARGE aws"
+  },
+
+  "inc aws/Storage/bucket": {
+    "scope": "diagram",
+    "prefix": ["i-aws-bucket","i-aws-Storage-bucket"],
+    "body": ["!include <aws/Storage/AmazonS3/bucket/bucket>"],
+    "description": "storage/bucket aws"
+  },
+
+  "inc aws/Storage/bucket_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-bucket_large","i-aws-Storage-bucket_large"],
+    "body": ["!include <aws/Storage/AmazonS3/bucket/bucket_LARGE>"],
+    "description": "storage/bucket_LARGE aws"
+  },
+
+  "inc aws/Storage/bucketwithobjects": {
+    "scope": "diagram",
+    "prefix": ["i-aws-bucketwithobjects","i-aws-Storage-bucketwithobjects"],
+    "body": ["!include <aws/Storage/AmazonS3/bucketwithobjects/bucketwithobjects>"],
+    "description": "storage/bucketwithobjects aws"
+  },
+
+  "inc aws/Storage/bucketwithobjects_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-bucketwithobjects_large","i-aws-Storage-bucketwithobjects_large"],
+    "body": ["!include <aws/Storage/AmazonS3/bucketwithobjects/bucketwithobjects_LARGE>"],
+    "description": "storage/bucketwithobjects_LARGE aws"
+  },
+
+  "inc aws/Storage/cachedvolume": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cachedvolume","i-aws-Storage-cachedvolume"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/cachedvolume/cachedvolume>"],
+    "description": "storage/cachedvolume aws"
+  },
+
+  "inc aws/Storage/cachedvolume_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-cachedvolume_large","i-aws-Storage-cachedvolume_large"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/cachedvolume/cachedvolume_LARGE>"],
+    "description": "storage/cachedvolume_LARGE aws"
+  },
+
+  "inc aws/Storage/importexport": {
+    "scope": "diagram",
+    "prefix": ["i-aws-importexport","i-aws-Storage-importexport"],
+    "body": ["!include <aws/Storage/AWSSnowball/importexport/importexport>"],
+    "description": "storage/importexport aws"
+  },
+
+  "inc aws/Storage/importexport_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-importexport_large","i-aws-Storage-importexport_large"],
+    "body": ["!include <aws/Storage/AWSSnowball/importexport/importexport_LARGE>"],
+    "description": "storage/importexport_LARGE aws"
+  },
+
+  "inc aws/Storage/non_cachedvolume": {
+    "scope": "diagram",
+    "prefix": ["i-aws-non_cachedvolume","i-aws-Storage-non_cachedvolume"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/non_cachedvolume/non_cachedvolume>"],
+    "description": "storage/non_cachedvolume aws"
+  },
+
+  "inc aws/Storage/non_cachedvolume_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-non_cachedvolume_large","i-aws-Storage-non_cachedvolume_large"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/non_cachedvolume/non_cachedvolume_LARGE>"],
+    "description": "storage/non_cachedvolume_LARGE aws"
+  },
+
+  "inc aws/Storage/object": {
+    "scope": "diagram",
+    "prefix": ["i-aws-object","i-aws-Storage-object"],
+    "body": ["!include <aws/Storage/AmazonS3/object/object>"],
+    "description": "storage/object aws"
+  },
+
+  "inc aws/Storage/object_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-object_large","i-aws-Storage-object_large"],
+    "body": ["!include <aws/Storage/AmazonS3/object/object_LARGE>"],
+    "description": "storage/object_LARGE aws"
+  },
+
+  "inc aws/Storage/snapshot": {
+    "scope": "diagram",
+    "prefix": ["i-aws-snapshot","i-aws-Storage-snapshot"],
+    "body": ["!include <aws/Storage/snapshot/snapshot>"],
+    "description": "storage/snapshot aws"
+  },
+
+  "inc aws/Storage/snapshot_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-snapshot_large","i-aws-Storage-snapshot_large"],
+    "body": ["!include <aws/Storage/snapshot/snapshot_LARGE>"],
+    "description": "storage/snapshot_LARGE aws"
+  },
+
+  "inc aws/Storage/vault": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vault","i-aws-Storage-vault"],
+    "body": ["!include <aws/Storage/AmazonGlacier/vault/vault>"],
+    "description": "storage/vault aws"
+  },
+
+  "inc aws/Storage/vault_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-vault_large","i-aws-Storage-vault_large"],
+    "body": ["!include <aws/Storage/AmazonGlacier/vault/vault_LARGE>"],
+    "description": "storage/vault_LARGE aws"
+  },
+
+  "inc aws/Storage/virtualtapelibrary": {
+    "scope": "diagram",
+    "prefix": ["i-aws-virtualtapelibrary","i-aws-Storage-virtualtapelibrary"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/virtualtapelibrary/virtualtapelibrary>"],
+    "description": "storage/virtualtapelibrary aws"
+  },
+
+  "inc aws/Storage/virtualtapelibrary_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-virtualtapelibrary_large","i-aws-Storage-virtualtapelibrary_large"],
+    "body": ["!include <aws/Storage/AWSStorageGateway/virtualtapelibrary/virtualtapelibrary_LARGE>"],
+    "description": "storage/virtualtapelibrary_LARGE aws"
+  },
+
+  "inc aws/Storage/volume": {
+    "scope": "diagram",
+    "prefix": ["i-aws-volume","i-aws-Storage-volume"],
+    "body": ["!include <aws/Storage/volume/volume>"],
+    "description": "storage/volume aws"
+  },
+
+  "inc aws/Storage/volume_LARGE": {
+    "scope": "diagram",
+    "prefix": ["i-aws-volume_large","i-aws-Storage-volume_large"],
+    "body": ["!include <aws/Storage/volume/volume_LARGE>"],
+    "description": "storage/volume_LARGE aws"
+  },
+
+  "Include elastic": {
+    "scope": "diagram",
+    "prefix": ["i-aws-common"],
+    "body": ["!include <aws/common>"],
+    "description": "bootstrap using aws icons"
+  }
+}

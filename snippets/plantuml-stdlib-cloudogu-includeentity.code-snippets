@@ -1,0 +1,207 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "i cloudogu /dogus/cas": {
+    "scope": "diagram",
+    "prefix": ["i-co-cas"],
+    "body": ["!include <cloudogu/dogus/cas>"],
+    "description": "dogus/cas cloudogu"
+  },
+
+  "i cloudogu /dogus/cloudogu": {
+    "scope": "diagram",
+    "prefix": ["i-co-cloudogu"],
+    "body": ["!include <cloudogu/dogus/cloudogu>"],
+    "description": "dogus/cloudogu cloudogu"
+  },
+
+  "i cloudogu /dogus/cockpit": {
+    "scope": "diagram",
+    "prefix": ["i-co-cockpit"],
+    "body": ["!include <cloudogu/dogus/cockpit>"],
+    "description": "dogus/cockpit cloudogu"
+  },
+
+  "i cloudogu /dogus/jenkins": {
+    "scope": "diagram",
+    "prefix": ["i-co-jenkins"],
+    "body": ["!include <cloudogu/dogus/jenkins>"],
+    "description": "dogus/jenkins cloudogu"
+  },
+
+  "i cloudogu /dogus/nexus": {
+    "scope": "diagram",
+    "prefix": ["i-co-nexus"],
+    "body": ["!include <cloudogu/dogus/nexus>"],
+    "description": "dogus/nexus cloudogu"
+  },
+
+  "i cloudogu /dogus/nginx": {
+    "scope": "diagram",
+    "prefix": ["i-co-nginx"],
+    "body": ["!include <cloudogu/dogus/nginx>"],
+    "description": "dogus/nginx cloudogu"
+  },
+
+  "i cloudogu /dogus/openldap": {
+    "scope": "diagram",
+    "prefix": ["i-co-openldap"],
+    "body": ["!include <cloudogu/dogus/openldap>"],
+    "description": "dogus/openldap cloudogu"
+  },
+
+  "i cloudogu /dogus/plantuml": {
+    "scope": "diagram",
+    "prefix": ["i-co-plantuml"],
+    "body": ["!include <cloudogu/dogus/plantuml>"],
+    "description": "dogus/plantuml cloudogu"
+  },
+
+  "i cloudogu /dogus/postfix": {
+    "scope": "diagram",
+    "prefix": ["i-co-postfix"],
+    "body": ["!include <cloudogu/dogus/postfix>"],
+    "description": "dogus/postfix cloudogu"
+  },
+
+  "i cloudogu /dogus/redmine": {
+    "scope": "diagram",
+    "prefix": ["i-co-redmine"],
+    "body": ["!include <cloudogu/dogus/redmine>"],
+    "description": "dogus/redmine cloudogu"
+  },
+
+  "i cloudogu /dogus/registrator": {
+    "scope": "diagram",
+    "prefix": ["i-co-registrator"],
+    "body": ["!include <cloudogu/dogus/registrator>"],
+    "description": "dogus/registrator cloudogu"
+  },
+
+  "i cloudogu /dogus/scm": {
+    "scope": "diagram",
+    "prefix": ["i-co-scm"],
+    "body": ["!include <cloudogu/dogus/scm>"],
+    "description": "dogus/scm cloudogu"
+  },
+
+  "i cloudogu /dogus/smeagol": {
+    "scope": "diagram",
+    "prefix": ["i-co-smeagol"],
+    "body": ["!include <cloudogu/dogus/smeagol>"],
+    "description": "dogus/smeagol cloudogu"
+  },
+
+  "i cloudogu /dogus/sonarqube": {
+    "scope": "diagram",
+    "prefix": ["i-co-sonarqube"],
+    "body": ["!include <cloudogu/dogus/sonarqube>"],
+    "description": "dogus/sonarqube cloudogu"
+  },
+
+  "i cloudogu /dogus/usermgmt": {
+    "scope": "diagram",
+    "prefix": ["i-co-usermgmt"],
+    "body": ["!include <cloudogu/dogus/usermgmt>"],
+    "description": "dogus/usermgmt cloudogu"
+  },
+
+  "i cloudogu /tools/ansible": {
+    "scope": "diagram",
+    "prefix": ["i-co-ansible"],
+    "body": ["!include <cloudogu/tools/ansible>"],
+    "description": "tools/ansible cloudogu"
+  },
+
+  "i cloudogu /tools/docker": {
+    "scope": "diagram",
+    "prefix": ["i-co-docker"],
+    "body": ["!include <cloudogu/tools/docker>"],
+    "description": "tools/docker cloudogu"
+  },
+
+  "i cloudogu /tools/elastic": {
+    "scope": "diagram",
+    "prefix": ["i-co-elastic"],
+    "body": ["!include <cloudogu/tools/elastic>"],
+    "description": "tools/elastic cloudogu"
+  },
+
+  "i cloudogu /tools/etcd": {
+    "scope": "diagram",
+    "prefix": ["i-co-etcd"],
+    "body": ["!include <cloudogu/tools/etcd>"],
+    "description": "tools/etcd cloudogu"
+  },
+
+  "i cloudogu /tools/grafana": {
+    "scope": "diagram",
+    "prefix": ["i-co-grafana"],
+    "body": ["!include <cloudogu/tools/grafana>"],
+    "description": "tools/grafana cloudogu"
+  },
+
+  "i cloudogu /tools/junit": {
+    "scope": "diagram",
+    "prefix": ["i-co-junit"],
+    "body": ["!include <cloudogu/tools/junit>"],
+    "description": "tools/junit cloudogu"
+  },
+
+  "i cloudogu /tools/k8s": {
+    "scope": "diagram",
+    "prefix": ["i-co-k8s"],
+    "body": ["!include <cloudogu/tools/k8s>"],
+    "description": "tools/k8s cloudogu"
+  },
+
+  "i cloudogu /tools/prometheus": {
+    "scope": "diagram",
+    "prefix": ["i-co-prometheus"],
+    "body": ["!include <cloudogu/tools/prometheus>"],
+    "description": "tools/prometheus cloudogu"
+  },
+
+  "i cloudogu /tools/qemu": {
+    "scope": "diagram",
+    "prefix": ["i-co-qemu"],
+    "body": ["!include <cloudogu/tools/qemu>"],
+    "description": "tools/qemu cloudogu"
+  },
+
+  "i cloudogu /tools/terraform": {
+    "scope": "diagram",
+    "prefix": ["i-co-terraform"],
+    "body": ["!include <cloudogu/tools/terraform>"],
+    "description": "tools/terraform cloudogu"
+  },
+
+  "i cloudogu /tools/ubuntu": {
+    "scope": "diagram",
+    "prefix": ["i-co-ubuntu"],
+    "body": ["!include <cloudogu/tools/ubuntu>"],
+    "description": "tools/ubuntu cloudogu"
+  },
+
+  "i cloudogu /tools/virtualbox": {
+    "scope": "diagram",
+    "prefix": ["i-co-virtualbox"],
+    "body": ["!include <cloudogu/tools/virtualbox>"],
+    "description": "tools/virtualbox cloudogu"
+  },
+
+  "i cloudogu /tools/vmware": {
+    "scope": "diagram",
+    "prefix": ["i-co-vmware"],
+    "body": ["!include <cloudogu/tools/vmware>"],
+    "description": "tools/vmware cloudogu"
+  },
+
+  "Include cloudogu": {
+    "scope": "diagram",
+    "prefix": ["i-co-common"],
+    "body": ["!include <cloudogu/common>"],
+    "description": "bootstrap using cloudogu icons"
+  },
+
+}

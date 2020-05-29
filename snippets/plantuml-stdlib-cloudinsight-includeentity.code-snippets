@@ -1,0 +1,1103 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "inc cloudinsight/activemq": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-activemq"],
+    "body": ["!include <cloudinsight/activemq>"],
+    "description": "activemq cloudinsight"
+  },
+
+  "inc cloudinsight/ai": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-ai"],
+    "body": ["!include <cloudinsight/ai>"],
+    "description": "ai cloudinsight"
+  },
+
+  "inc cloudinsight/aliyun": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-aliyun"],
+    "body": ["!include <cloudinsight/aliyun>"],
+    "description": "aliyun cloudinsight"
+  },
+
+  "inc cloudinsight/apache": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-apache"],
+    "body": ["!include <cloudinsight/apache>"],
+    "description": "apache cloudinsight"
+  },
+
+  "inc cloudinsight/bearychat": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-bearychat"],
+    "body": ["!include <cloudinsight/bearychat>"],
+    "description": "bearychat cloudinsight"
+  },
+
+  "inc cloudinsight/bell": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-bell"],
+    "body": ["!include <cloudinsight/bell>"],
+    "description": "bell cloudinsight"
+  },
+
+  "inc cloudinsight/bi": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-bi"],
+    "body": ["!include <cloudinsight/bi>"],
+    "description": "bi cloudinsight"
+  },
+
+  "inc cloudinsight/cacti": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-cacti"],
+    "body": ["!include <cloudinsight/cacti>"],
+    "description": "cacti cloudinsight"
+  },
+
+  "inc cloudinsight/cassandra": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-cassandra"],
+    "body": ["!include <cloudinsight/cassandra>"],
+    "description": "cassandra cloudinsight"
+  },
+
+  "inc cloudinsight/ci-large": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-ci-large"],
+    "body": ["!include <cloudinsight/ci-large>"],
+    "description": "ci-large cloudinsight"
+  },
+
+  "inc cloudinsight/ci": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-ci"],
+    "body": ["!include <cloudinsight/ci>"],
+    "description": "ci cloudinsight"
+  },
+
+  "inc cloudinsight/cog": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-cog"],
+    "body": ["!include <cloudinsight/cog>"],
+    "description": "cog cloudinsight"
+  },
+
+  "inc cloudinsight/copy": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-copy"],
+    "body": ["!include <cloudinsight/copy>"],
+    "description": "copy cloudinsight"
+  },
+
+  "inc cloudinsight/couchbase": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-couchbase"],
+    "body": ["!include <cloudinsight/couchbase>"],
+    "description": "couchbase cloudinsight"
+  },
+
+  "inc cloudinsight/couchdb": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-couchdb"],
+    "body": ["!include <cloudinsight/couchdb>"],
+    "description": "couchdb cloudinsight"
+  },
+
+  "inc cloudinsight/ct": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-ct"],
+    "body": ["!include <cloudinsight/ct>"],
+    "description": "ct cloudinsight"
+  },
+
+  "inc cloudinsight/dashboard": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-dashboard"],
+    "body": ["!include <cloudinsight/dashboard>"],
+    "description": "dashboard cloudinsight"
+  },
+
+  "inc cloudinsight/desktop": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-desktop"],
+    "body": ["!include <cloudinsight/desktop>"],
+    "description": "desktop cloudinsight"
+  },
+
+  "inc cloudinsight/disable": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-disable"],
+    "body": ["!include <cloudinsight/disable>"],
+    "description": "disable cloudinsight"
+  },
+
+  "inc cloudinsight/docker": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-docker"],
+    "body": ["!include <cloudinsight/docker>"],
+    "description": "docker cloudinsight"
+  },
+
+  "inc cloudinsight/download": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-download"],
+    "body": ["!include <cloudinsight/download>"],
+    "description": "download cloudinsight"
+  },
+
+  "inc cloudinsight/edit": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-edit"],
+    "body": ["!include <cloudinsight/edit>"],
+    "description": "edit cloudinsight"
+  },
+
+  "inc cloudinsight/elasticsearch": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-elasticsearch"],
+    "body": ["!include <cloudinsight/elasticsearch>"],
+    "description": "elasticsearch cloudinsight"
+  },
+
+  "inc cloudinsight/exit": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-exit"],
+    "body": ["!include <cloudinsight/exit>"],
+    "description": "exit cloudinsight"
+  },
+
+  "inc cloudinsight/file": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-file"],
+    "body": ["!include <cloudinsight/file>"],
+    "description": "file cloudinsight"
+  },
+
+  "inc cloudinsight/gearman": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-gearman"],
+    "body": ["!include <cloudinsight/gearman>"],
+    "description": "gearman cloudinsight"
+  },
+
+  "inc cloudinsight/gunicorn": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-gunicorn"],
+    "body": ["!include <cloudinsight/gunicorn>"],
+    "description": "gunicorn cloudinsight"
+  },
+
+  "inc cloudinsight/haproxy": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-haproxy"],
+    "body": ["!include <cloudinsight/haproxy>"],
+    "description": "haproxy cloudinsight"
+  },
+
+  "inc cloudinsight/hdfs": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-hdfs"],
+    "body": ["!include <cloudinsight/hdfs>"],
+    "description": "hdfs cloudinsight"
+  },
+
+  "inc cloudinsight/iis": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-iis"],
+    "body": ["!include <cloudinsight/iis>"],
+    "description": "iis cloudinsight"
+  },
+
+  "inc cloudinsight/java": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-java"],
+    "body": ["!include <cloudinsight/java>"],
+    "description": "java cloudinsight"
+  },
+
+  "inc cloudinsight/jianliao": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-jianliao"],
+    "body": ["!include <cloudinsight/jianliao>"],
+    "description": "jianliao cloudinsight"
+  },
+
+  "inc cloudinsight/kafka": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-kafka"],
+    "body": ["!include <cloudinsight/kafka>"],
+    "description": "kafka cloudinsight"
+  },
+
+  "inc cloudinsight/left": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-left"],
+    "body": ["!include <cloudinsight/left>"],
+    "description": "left cloudinsight"
+  },
+
+  "inc cloudinsight/linux": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-linux"],
+    "body": ["!include <cloudinsight/linux>"],
+    "description": "linux cloudinsight"
+  },
+
+  "inc cloudinsight/listalt": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-listalt"],
+    "body": ["!include <cloudinsight/listalt>"],
+    "description": "listalt cloudinsight"
+  },
+
+  "inc cloudinsight/loading": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-loading"],
+    "body": ["!include <cloudinsight/loading>"],
+    "description": "loading cloudinsight"
+  },
+
+  "inc cloudinsight/memcached": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-memcached"],
+    "body": ["!include <cloudinsight/memcached>"],
+    "description": "memcached cloudinsight"
+  },
+
+  "inc cloudinsight/mesos": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-mesos"],
+    "body": ["!include <cloudinsight/mesos>"],
+    "description": "mesos cloudinsight"
+  },
+
+  "inc cloudinsight/mi": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-mi"],
+    "body": ["!include <cloudinsight/mi>"],
+    "description": "mi cloudinsight"
+  },
+
+  "inc cloudinsight/mongodb": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-mongodb"],
+    "body": ["!include <cloudinsight/mongodb>"],
+    "description": "mongodb cloudinsight"
+  },
+
+  "inc cloudinsight/mysql": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-mysql"],
+    "body": ["!include <cloudinsight/mysql>"],
+    "description": "mysql cloudinsight"
+  },
+
+  "inc cloudinsight/nagios": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-nagios"],
+    "body": ["!include <cloudinsight/nagios>"],
+    "description": "nagios cloudinsight"
+  },
+
+  "inc cloudinsight/nginx": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-nginx"],
+    "body": ["!include <cloudinsight/nginx>"],
+    "description": "nginx cloudinsight"
+  },
+
+  "inc cloudinsight/nodejs": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-nodejs"],
+    "body": ["!include <cloudinsight/nodejs>"],
+    "description": "nodejs cloudinsight"
+  },
+
+  "inc cloudinsight/onealert": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-onealert"],
+    "body": ["!include <cloudinsight/onealert>"],
+    "description": "onealert cloudinsight"
+  },
+
+  "inc cloudinsight/oneapmlogo": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-oneapmlogo"],
+    "body": ["!include <cloudinsight/oneapmlogo>"],
+    "description": "oneapmlogo cloudinsight"
+  },
+
+  "inc cloudinsight/openstack": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-openstack"],
+    "body": ["!include <cloudinsight/openstack>"],
+    "description": "openstack cloudinsight"
+  },
+
+  "inc cloudinsight/overview": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-overview"],
+    "body": ["!include <cloudinsight/overview>"],
+    "description": "overview cloudinsight"
+  },
+
+  "inc cloudinsight/pause": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-pause"],
+    "body": ["!include <cloudinsight/pause>"],
+    "description": "pause cloudinsight"
+  },
+
+  "inc cloudinsight/php": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-php"],
+    "body": ["!include <cloudinsight/php>"],
+    "description": "php cloudinsight"
+  },
+
+  "inc cloudinsight/php_fpm": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-php_fpm"],
+    "body": ["!include <cloudinsight/php_fpm>"],
+    "description": "php_fpm cloudinsight"
+  },
+
+  "inc cloudinsight/play": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-play"],
+    "body": ["!include <cloudinsight/play>"],
+    "description": "play cloudinsight"
+  },
+
+  "inc cloudinsight/plus": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-plus"],
+    "body": ["!include <cloudinsight/plus>"],
+    "description": "plus cloudinsight"
+  },
+
+  "inc cloudinsight/point": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-point"],
+    "body": ["!include <cloudinsight/point>"],
+    "description": "point cloudinsight"
+  },
+
+  "inc cloudinsight/postgresql": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-postgresql"],
+    "body": ["!include <cloudinsight/postgresql>"],
+    "description": "postgresql cloudinsight"
+  },
+
+  "inc cloudinsight/pubu": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-pubu"],
+    "body": ["!include <cloudinsight/pubu>"],
+    "description": "pubu cloudinsight"
+  },
+
+  "inc cloudinsight/python": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-python"],
+    "body": ["!include <cloudinsight/python>"],
+    "description": "python cloudinsight"
+  },
+
+  "inc cloudinsight/question": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-question"],
+    "body": ["!include <cloudinsight/question>"],
+    "description": "question cloudinsight"
+  },
+
+  "inc cloudinsight/rabbitmq": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-rabbitmq"],
+    "body": ["!include <cloudinsight/rabbitmq>"],
+    "description": "rabbitmq cloudinsight"
+  },
+
+  "inc cloudinsight/redis": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-redis"],
+    "body": ["!include <cloudinsight/redis>"],
+    "description": "redis cloudinsight"
+  },
+
+  "inc cloudinsight/remove-sign": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-remove-sign"],
+    "body": ["!include <cloudinsight/remove-sign>"],
+    "description": "remove-sign cloudinsight"
+  },
+
+  "inc cloudinsight/right": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-right"],
+    "body": ["!include <cloudinsight/right>"],
+    "description": "right cloudinsight"
+  },
+
+  "inc cloudinsight/ruby": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-ruby"],
+    "body": ["!include <cloudinsight/ruby>"],
+    "description": "ruby cloudinsight"
+  },
+
+  "inc cloudinsight/server": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-server"],
+    "body": ["!include <cloudinsight/server>"],
+    "description": "server cloudinsight"
+  },
+
+  "inc cloudinsight/singlePage": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-singlepage"],
+    "body": ["!include <cloudinsight/singlePage>"],
+    "description": "singlePage cloudinsight"
+  },
+
+  "inc cloudinsight/snmp": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-snmp"],
+    "body": ["!include <cloudinsight/snmp>"],
+    "description": "snmp cloudinsight"
+  },
+
+  "inc cloudinsight/solr": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-solr"],
+    "body": ["!include <cloudinsight/solr>"],
+    "description": "solr cloudinsight"
+  },
+
+  "inc cloudinsight/sqlserver": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-sqlserver"],
+    "body": ["!include <cloudinsight/sqlserver>"],
+    "description": "sqlserver cloudinsight"
+  },
+
+  "inc cloudinsight/supervisord": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-supervisord"],
+    "body": ["!include <cloudinsight/supervisord>"],
+    "description": "supervisord cloudinsight"
+  },
+
+  "inc cloudinsight/tomcat": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-tomcat"],
+    "body": ["!include <cloudinsight/tomcat>"],
+    "description": "tomcat cloudinsight"
+  },
+
+  "inc cloudinsight/tongzhi": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-tongzhi"],
+    "body": ["!include <cloudinsight/tongzhi>"],
+    "description": "tongzhi cloudinsight"
+  },
+
+  "inc cloudinsight/trash": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-trash"],
+    "body": ["!include <cloudinsight/trash>"],
+    "description": "trash cloudinsight"
+  },
+
+  "inc cloudinsight/user": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-user"],
+    "body": ["!include <cloudinsight/user>"],
+    "description": "user cloudinsight"
+  },
+
+  "inc cloudinsight/windows": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-windows"],
+    "body": ["!include <cloudinsight/windows>"],
+    "description": "windows cloudinsight"
+  },
+
+  "inc cloudinsight/x": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-x"],
+    "body": ["!include <cloudinsight/x>"],
+    "description": "x cloudinsight"
+  },
+
+  "inc cloudinsight/yanjing": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-yanjing"],
+    "body": ["!include <cloudinsight/yanjing>"],
+    "description": "yanjing cloudinsight"
+  },
+
+  "inc cloudinsight/zookeeper": {
+    "scope": "diagram",
+    "prefix": ["i-cloudinsight-zookeeper"],
+    "body": ["!include <cloudinsight/zookeeper>"],
+    "description": "zookeeper cloudinsight"
+  },
+
+
+  "url cloudinsight/activemq": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-activemq"],
+    "body": ["!include CLOUDINSIGHTURL/activemq.puml"],
+    "description": "activemq cloudinsight icon"
+  },
+
+  "url cloudinsight/ai": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-ai"],
+    "body": ["!include CLOUDINSIGHTURL/ai.puml"],
+    "description": "ai cloudinsight icon"
+  },
+
+  "url cloudinsight/aliyun": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-aliyun"],
+    "body": ["!include CLOUDINSIGHTURL/aliyun.puml"],
+    "description": "aliyun cloudinsight icon"
+  },
+
+  "url cloudinsight/apache": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-apache"],
+    "body": ["!include CLOUDINSIGHTURL/apache.puml"],
+    "description": "apache cloudinsight icon"
+  },
+
+  "url cloudinsight/bearychat": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-bearychat"],
+    "body": ["!include CLOUDINSIGHTURL/bearychat.puml"],
+    "description": "bearychat cloudinsight icon"
+  },
+
+  "url cloudinsight/bell": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-bell"],
+    "body": ["!include CLOUDINSIGHTURL/bell.puml"],
+    "description": "bell cloudinsight icon"
+  },
+
+  "url cloudinsight/bi": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-bi"],
+    "body": ["!include CLOUDINSIGHTURL/bi.puml"],
+    "description": "bi cloudinsight icon"
+  },
+
+  "url cloudinsight/cacti": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-cacti"],
+    "body": ["!include CLOUDINSIGHTURL/cacti.puml"],
+    "description": "cacti cloudinsight icon"
+  },
+
+  "url cloudinsight/cassandra": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-cassandra"],
+    "body": ["!include CLOUDINSIGHTURL/cassandra.puml"],
+    "description": "cassandra cloudinsight icon"
+  },
+
+  "url cloudinsight/ci-large": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-ci-large"],
+    "body": ["!include CLOUDINSIGHTURL/ci-large.puml"],
+    "description": "ci-large cloudinsight icon"
+  },
+
+  "url cloudinsight/ci": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-ci"],
+    "body": ["!include CLOUDINSIGHTURL/ci.puml"],
+    "description": "ci cloudinsight icon"
+  },
+
+  "url cloudinsight/cog": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-cog"],
+    "body": ["!include CLOUDINSIGHTURL/cog.puml"],
+    "description": "cog cloudinsight icon"
+  },
+
+  "url cloudinsight/copy": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-copy"],
+    "body": ["!include CLOUDINSIGHTURL/copy.puml"],
+    "description": "copy cloudinsight icon"
+  },
+
+  "url cloudinsight/couchbase": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-couchbase"],
+    "body": ["!include CLOUDINSIGHTURL/couchbase.puml"],
+    "description": "couchbase cloudinsight icon"
+  },
+
+  "url cloudinsight/couchdb": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-couchdb"],
+    "body": ["!include CLOUDINSIGHTURL/couchdb.puml"],
+    "description": "couchdb cloudinsight icon"
+  },
+
+  "url cloudinsight/ct": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-ct"],
+    "body": ["!include CLOUDINSIGHTURL/ct.puml"],
+    "description": "ct cloudinsight icon"
+  },
+
+  "url cloudinsight/dashboard": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-dashboard"],
+    "body": ["!include CLOUDINSIGHTURL/dashboard.puml"],
+    "description": "dashboard cloudinsight icon"
+  },
+
+  "url cloudinsight/desktop": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-desktop"],
+    "body": ["!include CLOUDINSIGHTURL/desktop.puml"],
+    "description": "desktop cloudinsight icon"
+  },
+
+  "url cloudinsight/disable": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-disable"],
+    "body": ["!include CLOUDINSIGHTURL/disable.puml"],
+    "description": "disable cloudinsight icon"
+  },
+
+  "url cloudinsight/docker": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-docker"],
+    "body": ["!include CLOUDINSIGHTURL/docker.puml"],
+    "description": "docker cloudinsight icon"
+  },
+
+  "url cloudinsight/download": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-download"],
+    "body": ["!include CLOUDINSIGHTURL/download.puml"],
+    "description": "download cloudinsight icon"
+  },
+
+  "url cloudinsight/edit": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-edit"],
+    "body": ["!include CLOUDINSIGHTURL/edit.puml"],
+    "description": "edit cloudinsight icon"
+  },
+
+  "url cloudinsight/elasticsearch": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-elasticsearch"],
+    "body": ["!include CLOUDINSIGHTURL/elasticsearch.puml"],
+    "description": "elasticsearch cloudinsight icon"
+  },
+
+  "url cloudinsight/exit": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-exit"],
+    "body": ["!include CLOUDINSIGHTURL/exit.puml"],
+    "description": "exit cloudinsight icon"
+  },
+
+  "url cloudinsight/file": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-file"],
+    "body": ["!include CLOUDINSIGHTURL/file.puml"],
+    "description": "file cloudinsight icon"
+  },
+
+  "url cloudinsight/gearman": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-gearman"],
+    "body": ["!include CLOUDINSIGHTURL/gearman.puml"],
+    "description": "gearman cloudinsight icon"
+  },
+
+  "url cloudinsight/gunicorn": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-gunicorn"],
+    "body": ["!include CLOUDINSIGHTURL/gunicorn.puml"],
+    "description": "gunicorn cloudinsight icon"
+  },
+
+  "url cloudinsight/haproxy": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-haproxy"],
+    "body": ["!include CLOUDINSIGHTURL/haproxy.puml"],
+    "description": "haproxy cloudinsight icon"
+  },
+
+  "url cloudinsight/hdfs": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-hdfs"],
+    "body": ["!include CLOUDINSIGHTURL/hdfs.puml"],
+    "description": "hdfs cloudinsight icon"
+  },
+
+  "url cloudinsight/iis": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-iis"],
+    "body": ["!include CLOUDINSIGHTURL/iis.puml"],
+    "description": "iis cloudinsight icon"
+  },
+
+  "url cloudinsight/java": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-java"],
+    "body": ["!include CLOUDINSIGHTURL/java.puml"],
+    "description": "java cloudinsight icon"
+  },
+
+  "url cloudinsight/jianliao": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-jianliao"],
+    "body": ["!include CLOUDINSIGHTURL/jianliao.puml"],
+    "description": "jianliao cloudinsight icon"
+  },
+
+  "url cloudinsight/kafka": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-kafka"],
+    "body": ["!include CLOUDINSIGHTURL/kafka.puml"],
+    "description": "kafka cloudinsight icon"
+  },
+
+  "url cloudinsight/left": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-left"],
+    "body": ["!include CLOUDINSIGHTURL/left.puml"],
+    "description": "left cloudinsight icon"
+  },
+
+  "url cloudinsight/linux": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-linux"],
+    "body": ["!include CLOUDINSIGHTURL/linux.puml"],
+    "description": "linux cloudinsight icon"
+  },
+
+  "url cloudinsight/listalt": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-listalt"],
+    "body": ["!include CLOUDINSIGHTURL/listalt.puml"],
+    "description": "listalt cloudinsight icon"
+  },
+
+  "url cloudinsight/loading": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-loading"],
+    "body": ["!include CLOUDINSIGHTURL/loading.puml"],
+    "description": "loading cloudinsight icon"
+  },
+
+  "url cloudinsight/memcached": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-memcached"],
+    "body": ["!include CLOUDINSIGHTURL/memcached.puml"],
+    "description": "memcached cloudinsight icon"
+  },
+
+  "url cloudinsight/mesos": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-mesos"],
+    "body": ["!include CLOUDINSIGHTURL/mesos.puml"],
+    "description": "mesos cloudinsight icon"
+  },
+
+  "url cloudinsight/mi": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-mi"],
+    "body": ["!include CLOUDINSIGHTURL/mi.puml"],
+    "description": "mi cloudinsight icon"
+  },
+
+  "url cloudinsight/mongodb": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-mongodb"],
+    "body": ["!include CLOUDINSIGHTURL/mongodb.puml"],
+    "description": "mongodb cloudinsight icon"
+  },
+
+  "url cloudinsight/mysql": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-mysql"],
+    "body": ["!include CLOUDINSIGHTURL/mysql.puml"],
+    "description": "mysql cloudinsight icon"
+  },
+
+  "url cloudinsight/nagios": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-nagios"],
+    "body": ["!include CLOUDINSIGHTURL/nagios.puml"],
+    "description": "nagios cloudinsight icon"
+  },
+
+  "url cloudinsight/nginx": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-nginx"],
+    "body": ["!include CLOUDINSIGHTURL/nginx.puml"],
+    "description": "nginx cloudinsight icon"
+  },
+
+  "url cloudinsight/nodejs": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-nodejs"],
+    "body": ["!include CLOUDINSIGHTURL/nodejs.puml"],
+    "description": "nodejs cloudinsight icon"
+  },
+
+  "url cloudinsight/onealert": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-onealert"],
+    "body": ["!include CLOUDINSIGHTURL/onealert.puml"],
+    "description": "onealert cloudinsight icon"
+  },
+
+  "url cloudinsight/oneapmlogo": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-oneapmlogo"],
+    "body": ["!include CLOUDINSIGHTURL/oneapmlogo.puml"],
+    "description": "oneapmlogo cloudinsight icon"
+  },
+
+  "url cloudinsight/openstack": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-openstack"],
+    "body": ["!include CLOUDINSIGHTURL/openstack.puml"],
+    "description": "openstack cloudinsight icon"
+  },
+
+  "url cloudinsight/overview": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-overview"],
+    "body": ["!include CLOUDINSIGHTURL/overview.puml"],
+    "description": "overview cloudinsight icon"
+  },
+
+  "url cloudinsight/pause": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-pause"],
+    "body": ["!include CLOUDINSIGHTURL/pause.puml"],
+    "description": "pause cloudinsight icon"
+  },
+
+  "url cloudinsight/php": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-php"],
+    "body": ["!include CLOUDINSIGHTURL/php.puml"],
+    "description": "php cloudinsight icon"
+  },
+
+  "url cloudinsight/php_fpm": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-php_fpm"],
+    "body": ["!include CLOUDINSIGHTURL/php_fpm.puml"],
+    "description": "php_fpm cloudinsight icon"
+  },
+
+  "url cloudinsight/play": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-play"],
+    "body": ["!include CLOUDINSIGHTURL/play.puml"],
+    "description": "play cloudinsight icon"
+  },
+
+  "url cloudinsight/plus": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-plus"],
+    "body": ["!include CLOUDINSIGHTURL/plus.puml"],
+    "description": "plus cloudinsight icon"
+  },
+
+  "url cloudinsight/point": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-point"],
+    "body": ["!include CLOUDINSIGHTURL/point.puml"],
+    "description": "point cloudinsight icon"
+  },
+
+  "url cloudinsight/postgresql": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-postgresql"],
+    "body": ["!include CLOUDINSIGHTURL/postgresql.puml"],
+    "description": "postgresql cloudinsight icon"
+  },
+
+  "url cloudinsight/pubu": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-pubu"],
+    "body": ["!include CLOUDINSIGHTURL/pubu.puml"],
+    "description": "pubu cloudinsight icon"
+  },
+
+  "url cloudinsight/python": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-python"],
+    "body": ["!include CLOUDINSIGHTURL/python.puml"],
+    "description": "python cloudinsight icon"
+  },
+
+  "url cloudinsight/question": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-question"],
+    "body": ["!include CLOUDINSIGHTURL/question.puml"],
+    "description": "question cloudinsight icon"
+  },
+
+  "url cloudinsight/rabbitmq": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-rabbitmq"],
+    "body": ["!include CLOUDINSIGHTURL/rabbitmq.puml"],
+    "description": "rabbitmq cloudinsight icon"
+  },
+
+  "url cloudinsight/redis": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-redis"],
+    "body": ["!include CLOUDINSIGHTURL/redis.puml"],
+    "description": "redis cloudinsight icon"
+  },
+
+  "url cloudinsight/remove-sign": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-remove-sign"],
+    "body": ["!include CLOUDINSIGHTURL/remove-sign.puml"],
+    "description": "remove-sign cloudinsight icon"
+  },
+
+  "url cloudinsight/right": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-right"],
+    "body": ["!include CLOUDINSIGHTURL/right.puml"],
+    "description": "right cloudinsight icon"
+  },
+
+  "url cloudinsight/ruby": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-ruby"],
+    "body": ["!include CLOUDINSIGHTURL/ruby.puml"],
+    "description": "ruby cloudinsight icon"
+  },
+
+  "url cloudinsight/server": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-server"],
+    "body": ["!include CLOUDINSIGHTURL/server.puml"],
+    "description": "server cloudinsight icon"
+  },
+
+  "url cloudinsight/singlePage": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-singlepage"],
+    "body": ["!include CLOUDINSIGHTURL/singlePage.puml"],
+    "description": "singlePage cloudinsight icon"
+  },
+
+  "url cloudinsight/snmp": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-snmp"],
+    "body": ["!include CLOUDINSIGHTURL/snmp.puml"],
+    "description": "snmp cloudinsight icon"
+  },
+
+  "url cloudinsight/solr": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-solr"],
+    "body": ["!include CLOUDINSIGHTURL/solr.puml"],
+    "description": "solr cloudinsight icon"
+  },
+
+  "url cloudinsight/sqlserver": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-sqlserver"],
+    "body": ["!include CLOUDINSIGHTURL/sqlserver.puml"],
+    "description": "sqlserver cloudinsight icon"
+  },
+
+  "url cloudinsight/supervisord": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-supervisord"],
+    "body": ["!include CLOUDINSIGHTURL/supervisord.puml"],
+    "description": "supervisord cloudinsight icon"
+  },
+
+  "url cloudinsight/tomcat": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-tomcat"],
+    "body": ["!include CLOUDINSIGHTURL/tomcat.puml"],
+    "description": "tomcat cloudinsight icon"
+  },
+
+  "url cloudinsight/tongzhi": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-tongzhi"],
+    "body": ["!include CLOUDINSIGHTURL/tongzhi.puml"],
+    "description": "tongzhi cloudinsight icon"
+  },
+
+  "url cloudinsight/trash": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-trash"],
+    "body": ["!include CLOUDINSIGHTURL/trash.puml"],
+    "description": "trash cloudinsight icon"
+  },
+
+  "url cloudinsight/user": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-user"],
+    "body": ["!include CLOUDINSIGHTURL/user.puml"],
+    "description": "user cloudinsight icon"
+  },
+
+  "url cloudinsight/windows": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-windows"],
+    "body": ["!include CLOUDINSIGHTURL/windows.puml"],
+    "description": "windows cloudinsight icon"
+  },
+
+  "url cloudinsight/x": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-x"],
+    "body": ["!include CLOUDINSIGHTURL/x.puml"],
+    "description": "x cloudinsight icon"
+  },
+
+  "url cloudinsight/yanjing": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-yanjing"],
+    "body": ["!include CLOUDINSIGHTURL/yanjing.puml"],
+    "description": "yanjing cloudinsight icon"
+  },
+
+  "url cloudinsight/zookeeper": {
+    "scope": "diagram",
+    "prefix": ["u-cloudinsight-zookeeper"],
+    "body": ["!include CLOUDINSIGHTURL/zookeeper.puml"],
+    "description": "zookeeper cloudinsight icon"
+  },
+
+  "Include tupadr3 web": {
+    "scope": "diagram",
+    "prefix": ["u-def-cloudinsight"],
+    "body": ["!define CLOUDINSIGHTURL https://raw.githubusercontent.com/rabelenda/cicon-plantuml-sprites/v1.0/sprites"],
+    "description": "bootstrap using tupadr3 icons"
+  }
+}

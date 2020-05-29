@@ -1,0 +1,352 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "LEFT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-left", "LEFT"],
+    "body": ["ealias: <$$left>"],
+    "description": "arrow/left - LEFT osa icon"
+  },
+
+  "RIGHT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-right", "RIGHT"],
+    "body": ["ealias: <$$right>"],
+    "description": "arrow/right - RIGHT osa icon"
+  },
+
+  "AWARENESS(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-awareness", "AWARENESS"],
+    "body": ["ealias: <$$awareness>"],
+    "description": "awareness/awareness - AWARENESS osa icon"
+  },
+
+  "CONTRACT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-contract", "CONTRACT"],
+    "body": ["ealias: <$$contract>"],
+    "description": "contract/contract - CONTRACT osa icon"
+  },
+
+  "DATABASE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-database", "DATABASE"],
+    "body": ["ealias: <$$database>"],
+    "description": "database/database - DATABASE osa icon"
+  },
+
+  "DESKTOP(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-desktop", "DESKTOP"],
+    "body": ["ealias: <$$desktop>"],
+    "description": "desktop/desktop - DESKTOP osa icon"
+  },
+
+  "IMAC(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-imac", "IMAC"],
+    "body": ["ealias: <$$imac>"],
+    "description": "desktop/imac - IMAC osa icon"
+  },
+
+  "DEVICE_MUSIC(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-device_music", "DEVICE_MUSIC"],
+    "body": ["ealias: <$$device_music>"],
+    "description": "device_music/device_music - DEVICE_MUSIC osa icon"
+  },
+
+  "DEVICE_SCANNER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-device_scanner", "DEVICE_SCANNER"],
+    "body": ["ealias: <$$device_scanner>"],
+    "description": "device_scanner/device_scanner - DEVICE_SCANNER osa icon"
+  },
+
+  "DEVICE_USB(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-device_usb", "DEVICE_USB"],
+    "body": ["ealias: <$$device_usb>"],
+    "description": "device_usb/device_usb - DEVICE_USB osa icon"
+  },
+
+  "DEVICE_WIRELESS_ROUTER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-device_wireless_router", "DEVICE_WIRELESS_ROUTER"],
+    "body": ["ealias: <$$device_wireless_router>"],
+    "description": "device_wireless_router/device_wireless_router - DEVICE_WIRELESS_ROUTER osa icon"
+  },
+
+  "DISPOSAL(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-disposal", "DISPOSAL"],
+    "body": ["ealias: <$$disposal>"],
+    "description": "disposal/disposal - DISPOSAL osa icon"
+  },
+
+  "DRIVE_OPTICAL(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-drive_optical", "DRIVE_OPTICAL"],
+    "body": ["ealias: <$$drive_optical>"],
+    "description": "drive_optical/drive_optical - DRIVE_OPTICAL osa icon"
+  },
+
+  "FIREWALL(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-firewall", "FIREWALL"],
+    "body": ["ealias: <$$firewall>"],
+    "description": "firewall/firewall - FIREWALL osa icon"
+  },
+
+  "HUB(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-hub", "HUB"],
+    "body": ["ealias: <$$hub>"],
+    "description": "hub/hub - HUB osa icon"
+  },
+
+  "DRIVE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-drive", "DRIVE"],
+    "body": ["ealias: <$$drive>"],
+    "description": "ics/drive - DRIVE osa icon"
+  },
+
+  "PLC(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-plc", "PLC"],
+    "body": ["ealias: <$$plc>"],
+    "description": "ics/plc - PLC osa icon"
+  },
+
+  "THERMOMETER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-thermometer", "THERMOMETER"],
+    "body": ["ealias: <$$thermometer>"],
+    "description": "ics/thermometer - THERMOMETER osa icon"
+  },
+
+  "CARD(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-card", "CARD"],
+    "body": ["ealias: <$$card>"],
+    "description": "id/card - CARD osa icon"
+  },
+
+  "LAPTOP(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-laptop", "LAPTOP"],
+    "body": ["ealias: <$$laptop>"],
+    "description": "laptop/laptop - LAPTOP osa icon"
+  },
+
+  "LIFECYCLE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-lifecycle", "LIFECYCLE"],
+    "body": ["ealias: <$$lifecycle>"],
+    "description": "lifecycle/lifecycle - LIFECYCLE osa icon"
+  },
+
+  "LIGHTNING(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-lightning", "LIGHTNING"],
+    "body": ["ealias: <$$lightning>"],
+    "description": "lightning/lightning - LIGHTNING osa icon"
+  },
+
+  "MEDIA_FLASH(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-media_flash", "MEDIA_FLASH"],
+    "body": ["ealias: <$$media_flash>"],
+    "description": "media_flash/media_flash - MEDIA_FLASH osa icon"
+  },
+
+  "MEDIA_OPTICAL(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-media_optical", "MEDIA_OPTICAL"],
+    "body": ["ealias: <$$media_optical>"],
+    "description": "media_optical/media_optical - MEDIA_OPTICAL osa icon"
+  },
+
+  "MEDIA_TAPE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-media_tape", "MEDIA_TAPE"],
+    "body": ["ealias: <$$media_tape>"],
+    "description": "media_tape/media_tape - MEDIA_TAPE osa icon"
+  },
+
+  "PDA(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-pda", "PDA"],
+    "body": ["ealias: <$$pda>"],
+    "description": "mobile/pda - PDA osa icon"
+  },
+
+  "PADLOCK(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-padlock", "PADLOCK"],
+    "body": ["ealias: <$$padlock>"],
+    "description": "padlock/padlock - PADLOCK osa icon"
+  },
+
+  "PRINTER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-printer", "PRINTER"],
+    "body": ["ealias: <$$printer>"],
+    "description": "printer/printer - PRINTER osa icon"
+  },
+
+  "SITE_BRANCH(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-site_branch", "SITE_BRANCH"],
+    "body": ["ealias: <$$site_branch>"],
+    "description": "site_branch/site_branch - SITE_BRANCH osa icon"
+  },
+
+  "SITE_FACTORY(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-site_factory", "SITE_FACTORY"],
+    "body": ["ealias: <$$site_factory>"],
+    "description": "site_factory/site_factory - SITE_FACTORY osa icon"
+  },
+
+  "ARCHITECT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-architect", "ARCHITECT"],
+    "body": ["ealias: <$$architect>"],
+    "description": "user/architect - ARCHITECT osa icon"
+  },
+
+  "AUDIT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-audit", "AUDIT"],
+    "body": ["ealias: <$$audit>"],
+    "description": "user/audit - AUDIT osa icon"
+  },
+
+  "BLUE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-blue", "BLUE"],
+    "body": ["ealias: <$$blue>"],
+    "description": "user/blue - BLUE osa icon"
+  },
+
+  "DEVELOPER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-developer", "DEVELOPER"],
+    "body": ["ealias: <$$developer>"],
+    "description": "user/developer - DEVELOPER osa icon"
+  },
+
+  "GREEN(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-green", "GREEN"],
+    "body": ["ealias: <$$green>"],
+    "description": "user/green - GREEN osa icon"
+  },
+
+  "GROUP(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-group", "GROUP"],
+    "body": ["ealias: <$$group>"],
+    "description": "user/group - GROUP osa icon"
+  },
+
+  "HAT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-hat", "HAT"],
+    "body": ["ealias: <$$hat>"],
+    "description": "user/hat - HAT osa icon"
+  },
+
+  "HAT(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-hat", "HAT"],
+    "body": ["ealias: <$$hat>"],
+    "description": "user/hat - HAT osa icon"
+  },
+
+  "MANAGER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-manager", "MANAGER"],
+    "body": ["ealias: <$$manager>"],
+    "description": "user/manager - MANAGER osa icon"
+  },
+
+  "MANAGER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-manager", "MANAGER"],
+    "body": ["ealias: <$$manager>"],
+    "description": "user/manager - MANAGER osa icon"
+  },
+
+  "MANAGER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-manager", "MANAGER"],
+    "body": ["ealias: <$$manager>"],
+    "description": "user/manager - MANAGER osa icon"
+  },
+
+  "OPERATIONS(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-operations", "OPERATIONS"],
+    "body": ["ealias: <$$operations>"],
+    "description": "user/operations - OPERATIONS osa icon"
+  },
+
+  "SPECIALIST(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-specialist", "SPECIALIST"],
+    "body": ["ealias: <$$specialist>"],
+    "description": "user/specialist - SPECIALIST osa icon"
+  },
+
+  "SYSADMIN(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-sysadmin", "SYSADMIN"],
+    "body": ["ealias: <$$sysadmin>"],
+    "description": "user/sysadmin - SYSADMIN osa icon"
+  },
+
+  "TESTER(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-tester", "TESTER"],
+    "body": ["ealias: <$$tester>"],
+    "description": "user/tester - TESTER osa icon"
+  },
+
+  "TIE(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-tie", "TIE"],
+    "body": ["ealias: <$$tie>"],
+    "description": "user/tie - TIE osa icon"
+  },
+
+  "WARNING(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-warning", "WARNING"],
+    "body": ["ealias: <$$warning>"],
+    "description": "user/warning - WARNING osa icon"
+  },
+
+  "GREEN(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-green", "GREEN"],
+    "body": ["ealias: <$$green>"],
+    "description": "users/green - GREEN osa icon"
+  },
+
+  "VPN(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-vpn", "VPN"],
+    "body": ["ealias: <$$vpn>"],
+    "description": "vpn/vpn - VPN osa icon"
+  },
+
+  "NETWORK(e_alias, e_label)": {
+    "scope": "diagram",
+    "prefix": ["osa-network", "NETWORK"],
+    "body": ["ealias: <$$network>"],
+    "description": "wireless/network - NETWORK osa icon"
+  }

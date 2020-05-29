@@ -1,0 +1,835 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "AzureBatchAI(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBatchAI", "azurebatchai"],
+    "body": ["AzureBatchAI(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/AzureBatchAI azure icon"
+  },
+
+  "AzureBotService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBotService", "azurebotservice"],
+    "body": ["AzureBotService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/AzureBotService azure icon"
+  },
+
+  "AzureCognitiveServices(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureCognitiveServices", "azurecognitiveservices"],
+    "body": ["AzureCognitiveServices(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/AzureCognitiveServices azure icon"
+  },
+
+  "AzureMachineLearningService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMachineLearningService", "azuremachinelearningservice"],
+    "body": ["AzureMachineLearningService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/AzureMachineLearningService azure icon"
+  },
+
+  "AzureMachineLearningStudio(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMachineLearningStudio", "azuremachinelearningstudio"],
+    "body": ["AzureMachineLearningStudio(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/AzureMachineLearningStudio azure icon"
+  },
+
+  "MicrosoftGenomics(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["MicrosoftGenomics", "microsoftgenomics"],
+    "body": ["MicrosoftGenomics(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/MicrosoftGenomics azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "aimachinelearning/all azure icon"
+  },
+
+  "AzureAnalysisServices(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureAnalysisServices", "azureanalysisservices"],
+    "body": ["AzureAnalysisServices(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureAnalysisServices azure icon"
+  },
+
+  "AzureDataCatalog(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataCatalog", "azuredatacatalog"],
+    "body": ["AzureDataCatalog(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureDataCatalog azure icon"
+  },
+
+  "AzureDataExplorer(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataExplorer", "azuredataexplorer"],
+    "body": ["AzureDataExplorer(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureDataExplorer azure icon"
+  },
+
+  "AzureDataLakeAnalytics(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataLakeAnalytics", "azuredatalakeanalytics"],
+    "body": ["AzureDataLakeAnalytics(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureDataLakeAnalytics azure icon"
+  },
+
+  "AzureDatabricks(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDatabricks", "azuredatabricks"],
+    "body": ["AzureDatabricks(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureDatabricks azure icon"
+  },
+
+  "AzureEventHub(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureEventHub", "azureeventhub"],
+    "body": ["AzureEventHub(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureEventHub azure icon"
+  },
+
+  "AzureHDInsight(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureHDInsight", "azurehdinsight"],
+    "body": ["AzureHDInsight(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureHDInsight azure icon"
+  },
+
+  "AzureStreamAnalytics(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureStreamAnalytics", "azurestreamanalytics"],
+    "body": ["AzureStreamAnalytics(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/AzureStreamAnalytics azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "analytics/all azure icon"
+  },
+
+  "AzureC4Integration(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureC4Integration", "azurec4integration"],
+    "body": ["AzureC4Integration(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "azurec4integration.puml/AzureC4Integration azure icon"
+  },
+
+  "AzureCommon(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureCommon", "azurecommon"],
+    "body": ["AzureCommon(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "azurecommon.puml/AzureCommon azure icon"
+  },
+
+  "AzureRaw(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureRaw", "azureraw"],
+    "body": ["AzureRaw(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "azureraw.puml/AzureRaw azure icon"
+  },
+
+  "AzureSimplified(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSimplified", "azuresimplified"],
+    "body": ["AzureSimplified(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "azuresimplified.puml/AzureSimplified azure icon"
+  },
+
+  "AzureAppService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureAppService", "azureappservice"],
+    "body": ["AzureAppService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureAppService azure icon"
+  },
+
+  "AzureBatch(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBatch", "azurebatch"],
+    "body": ["AzureBatch(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureBatch azure icon"
+  },
+
+  "AzureFunction(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureFunction", "azurefunction"],
+    "body": ["AzureFunction(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureFunction azure icon"
+  },
+
+  "AzureServiceFabric(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureServiceFabric", "azureservicefabric"],
+    "body": ["AzureServiceFabric(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureServiceFabric azure icon"
+  },
+
+  "AzureVirtualMachine(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureVirtualMachine", "azurevirtualmachine"],
+    "body": ["AzureVirtualMachine(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureVirtualMachine azure icon"
+  },
+
+  "AzureVirtualMachineScaleSet(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureVirtualMachineScaleSet", "azurevirtualmachinescaleset"],
+    "body": ["AzureVirtualMachineScaleSet(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/AzureVirtualMachineScaleSet azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "compute/all azure icon"
+  },
+
+  "AzureContainerInstance(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureContainerInstance", "azurecontainerinstance"],
+    "body": ["AzureContainerInstance(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/AzureContainerInstance azure icon"
+  },
+
+  "AzureContainerRegistry(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureContainerRegistry", "azurecontainerregistry"],
+    "body": ["AzureContainerRegistry(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/AzureContainerRegistry azure icon"
+  },
+
+  "AzureKubernetesService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureKubernetesService", "azurekubernetesservice"],
+    "body": ["AzureKubernetesService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/AzureKubernetesService azure icon"
+  },
+
+  "AzureServiceFabricMesh(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureServiceFabricMesh", "azureservicefabricmesh"],
+    "body": ["AzureServiceFabricMesh(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/AzureServiceFabricMesh azure icon"
+  },
+
+  "AzureWebAppForContainers(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureWebAppForContainers", "azurewebappforcontainers"],
+    "body": ["AzureWebAppForContainers(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/AzureWebAppForContainers azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "containers/all azure icon"
+  },
+
+  "AzureCosmosDb(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureCosmosDb", "azurecosmosdb"],
+    "body": ["AzureCosmosDb(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureCosmosDb azure icon"
+  },
+
+  "AzureDataFactory(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataFactory", "azuredatafactory"],
+    "body": ["AzureDataFactory(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureDataFactory azure icon"
+  },
+
+  "AzureDatabaseForMariaDB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDatabaseForMariaDB", "azuredatabaseformariadb"],
+    "body": ["AzureDatabaseForMariaDB(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureDatabaseForMariaDB azure icon"
+  },
+
+  "AzureDatabaseForMySQL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDatabaseForMySQL", "azuredatabaseformysql"],
+    "body": ["AzureDatabaseForMySQL(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureDatabaseForMySQL azure icon"
+  },
+
+  "AzureDatabaseForPostgreSQL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDatabaseForPostgreSQL", "azuredatabaseforpostgresql"],
+    "body": ["AzureDatabaseForPostgreSQL(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureDatabaseForPostgreSQL azure icon"
+  },
+
+  "AzureRedisCache(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureRedisCache", "azurerediscache"],
+    "body": ["AzureRedisCache(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureRedisCache azure icon"
+  },
+
+  "AzureSqlDataWarehouse(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSqlDataWarehouse", "azuresqldatawarehouse"],
+    "body": ["AzureSqlDataWarehouse(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureSqlDataWarehouse azure icon"
+  },
+
+  "AzureSqlDatabase(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSqlDatabase", "azuresqldatabase"],
+    "body": ["AzureSqlDatabase(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureSqlDatabase azure icon"
+  },
+
+  "AzureSqlStretchDatabase(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSqlStretchDatabase", "azuresqlstretchdatabase"],
+    "body": ["AzureSqlStretchDatabase(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/AzureSqlStretchDatabase azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "databases/all azure icon"
+  },
+
+  "AzureApplicationInsights(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureApplicationInsights", "azureapplicationinsights"],
+    "body": ["AzureApplicationInsights(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureApplicationInsights azure icon"
+  },
+
+  "AzureArtifacts(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureArtifacts", "azureartifacts"],
+    "body": ["AzureArtifacts(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureArtifacts azure icon"
+  },
+
+  "AzureBoards(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBoards", "azureboards"],
+    "body": ["AzureBoards(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureBoards azure icon"
+  },
+
+  "AzureDevOps(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDevOps", "azuredevops"],
+    "body": ["AzureDevOps(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureDevOps azure icon"
+  },
+
+  "AzureDevTestLabs(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDevTestLabs", "azuredevtestlabs"],
+    "body": ["AzureDevTestLabs(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureDevTestLabs azure icon"
+  },
+
+  "AzureLabServices(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureLabServices", "azurelabservices"],
+    "body": ["AzureLabServices(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureLabServices azure icon"
+  },
+
+  "AzurePipelines(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzurePipelines", "azurepipelines"],
+    "body": ["AzurePipelines(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzurePipelines azure icon"
+  },
+
+  "AzureRepos(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureRepos", "azurerepos"],
+    "body": ["AzureRepos(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureRepos azure icon"
+  },
+
+  "AzureTestPlans(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureTestPlans", "azuretestplans"],
+    "body": ["AzureTestPlans(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/AzureTestPlans azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "devops/all azure icon"
+  },
+
+  "Azure(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["Azure", "azure"],
+    "body": ["Azure(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "general/Azure azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "general/all azure icon"
+  },
+
+  "AzureActiveDirectory(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureActiveDirectory", "azureactivedirectory"],
+    "body": ["AzureActiveDirectory(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "identity/AzureActiveDirectory azure icon"
+  },
+
+  "AzureActiveDirectoryB2C(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureActiveDirectoryB2C", "azureactivedirectoryb2c"],
+    "body": ["AzureActiveDirectoryB2C(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "identity/AzureActiveDirectoryB2C azure icon"
+  },
+
+  "AzureActiveDirectoryDomainServices(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureActiveDirectoryDomainServices", "azureactivedirectorydomainservices"],
+    "body": ["AzureActiveDirectoryDomainServices(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "identity/AzureActiveDirectoryDomainServices azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "identity/all azure icon"
+  },
+
+  "AzureEventGrid(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureEventGrid", "azureeventgrid"],
+    "body": ["AzureEventGrid(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "integration/AzureEventGrid azure icon"
+  },
+
+  "AzureLogicApps(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureLogicApps", "azurelogicapps"],
+    "body": ["AzureLogicApps(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "integration/AzureLogicApps azure icon"
+  },
+
+  "AzureServiceBus(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureServiceBus", "azureservicebus"],
+    "body": ["AzureServiceBus(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "integration/AzureServiceBus azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "integration/all azure icon"
+  },
+
+  "AzureDigitalTwins(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDigitalTwins", "azuredigitaltwins"],
+    "body": ["AzureDigitalTwins(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureDigitalTwins azure icon"
+  },
+
+  "AzureIoTCentral(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureIoTCentral", "azureiotcentral"],
+    "body": ["AzureIoTCentral(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureIoTCentral azure icon"
+  },
+
+  "AzureIoTEdge(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureIoTEdge", "azureiotedge"],
+    "body": ["AzureIoTEdge(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureIoTEdge azure icon"
+  },
+
+  "AzureIoTHub(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureIoTHub", "azureiothub"],
+    "body": ["AzureIoTHub(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureIoTHub azure icon"
+  },
+
+  "AzureMaps(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMaps", "azuremaps"],
+    "body": ["AzureMaps(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureMaps azure icon"
+  },
+
+  "AzureTimeSeriesInsights(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureTimeSeriesInsights", "azuretimeseriesinsights"],
+    "body": ["AzureTimeSeriesInsights(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/AzureTimeSeriesInsights azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "internetofthings/all azure icon"
+  },
+
+  "AzureAutomation(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureAutomation", "azureautomation"],
+    "body": ["AzureAutomation(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureAutomation azure icon"
+  },
+
+  "AzureBackup(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBackup", "azurebackup"],
+    "body": ["AzureBackup(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureBackup azure icon"
+  },
+
+  "AzureBlueprints(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBlueprints", "azureblueprints"],
+    "body": ["AzureBlueprints(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureBlueprints azure icon"
+  },
+
+  "AzureLogAnalytics(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureLogAnalytics", "azureloganalytics"],
+    "body": ["AzureLogAnalytics(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureLogAnalytics azure icon"
+  },
+
+  "AzureManagedApplications(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureManagedApplications", "azuremanagedapplications"],
+    "body": ["AzureManagedApplications(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureManagedApplications azure icon"
+  },
+
+  "AzureManagementGroups(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureManagementGroups", "azuremanagementgroups"],
+    "body": ["AzureManagementGroups(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureManagementGroups azure icon"
+  },
+
+  "AzureMonitor(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMonitor", "azuremonitor"],
+    "body": ["AzureMonitor(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureMonitor azure icon"
+  },
+
+  "AzurePolicy(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzurePolicy", "azurepolicy"],
+    "body": ["AzurePolicy(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzurePolicy azure icon"
+  },
+
+  "AzureResourceGroups(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureResourceGroups", "azureresourcegroups"],
+    "body": ["AzureResourceGroups(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureResourceGroups azure icon"
+  },
+
+  "AzureScheduler(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureScheduler", "azurescheduler"],
+    "body": ["AzureScheduler(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureScheduler azure icon"
+  },
+
+  "AzureSiteRecovery(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSiteRecovery", "azuresiterecovery"],
+    "body": ["AzureSiteRecovery(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureSiteRecovery azure icon"
+  },
+
+  "AzureSubscription(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSubscription", "azuresubscription"],
+    "body": ["AzureSubscription(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/AzureSubscription azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "management/all azure icon"
+  },
+
+  "AzureMediaServices(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMediaServices", "azuremediaservices"],
+    "body": ["AzureMediaServices(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "media/AzureMediaServices azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "media/all azure icon"
+  },
+
+  "AzureMobileApp(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureMobileApp", "azuremobileapp"],
+    "body": ["AzureMobileApp(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "mobile/AzureMobileApp azure icon"
+  },
+
+  "AzureNotificationHubs(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureNotificationHubs", "azurenotificationhubs"],
+    "body": ["AzureNotificationHubs(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "mobile/AzureNotificationHubs azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "mobile/all azure icon"
+  },
+
+  "AzureApplicationGateway(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureApplicationGateway", "azureapplicationgateway"],
+    "body": ["AzureApplicationGateway(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureApplicationGateway azure icon"
+  },
+
+  "AzureAzureDDoSProtection(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureAzureDDoSProtection", "azureazureddosprotection"],
+    "body": ["AzureAzureDDoSProtection(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureAzureDDoSProtection azure icon"
+  },
+
+  "AzureDNS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDNS", "azuredns"],
+    "body": ["AzureDNS(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureDNS azure icon"
+  },
+
+  "AzureExpressRoute(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureExpressRoute", "azureexpressroute"],
+    "body": ["AzureExpressRoute(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureExpressRoute azure icon"
+  },
+
+  "AzureFrontDoorService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureFrontDoorService", "azurefrontdoorservice"],
+    "body": ["AzureFrontDoorService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureFrontDoorService azure icon"
+  },
+
+  "AzureLoadBalancer(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureLoadBalancer", "azureloadbalancer"],
+    "body": ["AzureLoadBalancer(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureLoadBalancer azure icon"
+  },
+
+  "AzureTrafficManager(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureTrafficManager", "azuretrafficmanager"],
+    "body": ["AzureTrafficManager(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureTrafficManager azure icon"
+  },
+
+  "AzureVPNGateway(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureVPNGateway", "azurevpngateway"],
+    "body": ["AzureVPNGateway(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureVPNGateway azure icon"
+  },
+
+  "AzureVirtualNetwork(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureVirtualNetwork", "azurevirtualnetwork"],
+    "body": ["AzureVirtualNetwork(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureVirtualNetwork azure icon"
+  },
+
+  "AzureVirtualWAN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureVirtualWAN", "azurevirtualwan"],
+    "body": ["AzureVirtualWAN(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/AzureVirtualWAN azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "networking/all azure icon"
+  },
+
+  "AzureKeyVault(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureKeyVault", "azurekeyvault"],
+    "body": ["AzureKeyVault(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "security/AzureKeyVault azure icon"
+  },
+
+  "AzureSentinel(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSentinel", "azuresentinel"],
+    "body": ["AzureSentinel(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "security/AzureSentinel azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "security/all azure icon"
+  },
+
+  "AzureBlobStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureBlobStorage", "azureblobstorage"],
+    "body": ["AzureBlobStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureBlobStorage azure icon"
+  },
+
+  "AzureDataBox(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataBox", "azuredatabox"],
+    "body": ["AzureDataBox(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureDataBox azure icon"
+  },
+
+  "AzureDataLakeStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDataLakeStorage", "azuredatalakestorage"],
+    "body": ["AzureDataLakeStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureDataLakeStorage azure icon"
+  },
+
+  "AzureDiskStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureDiskStorage", "azurediskstorage"],
+    "body": ["AzureDiskStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureDiskStorage azure icon"
+  },
+
+  "AzureFileStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureFileStorage", "azurefilestorage"],
+    "body": ["AzureFileStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureFileStorage azure icon"
+  },
+
+  "AzureManagedDisks(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureManagedDisks", "azuremanageddisks"],
+    "body": ["AzureManagedDisks(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureManagedDisks azure icon"
+  },
+
+  "AzureNetAppFiles(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureNetAppFiles", "azurenetappfiles"],
+    "body": ["AzureNetAppFiles(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureNetAppFiles azure icon"
+  },
+
+  "AzureQueueStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureQueueStorage", "azurequeuestorage"],
+    "body": ["AzureQueueStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureQueueStorage azure icon"
+  },
+
+  "AzureStorSimple(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureStorSimple", "azurestorsimple"],
+    "body": ["AzureStorSimple(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureStorSimple azure icon"
+  },
+
+  "AzureStorage(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureStorage", "azurestorage"],
+    "body": ["AzureStorage(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/AzureStorage azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "storage/all azure icon"
+  },
+
+  "AzureAPIManagement(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureAPIManagement", "azureapimanagement"],
+    "body": ["AzureAPIManagement(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/AzureAPIManagement azure icon"
+  },
+
+  "AzureCDN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureCDN", "azurecdn"],
+    "body": ["AzureCDN(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/AzureCDN azure icon"
+  },
+
+  "AzureSearch(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSearch", "azuresearch"],
+    "body": ["AzureSearch(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/AzureSearch azure icon"
+  },
+
+  "AzureSignalRService(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureSignalRService", "azuresignalrservice"],
+    "body": ["AzureSignalRService(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/AzureSignalRService azure icon"
+  },
+
+  "AzureWebApp(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["AzureWebApp", "azurewebapp"],
+    "body": ["AzureWebApp(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/AzureWebApp azure icon"
+  },
+
+  "all(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["all", "all"],
+    "body": ["all(e_alias, \"e_label\", \"e_techn\", \"e_descr\")"],
+    "description": "web/all azure icon"
+  }

@@ -1,0 +1,3763 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "inc office/Clouds/azure": {
+    "scope": "diagram",
+    "prefix": ["i-off_azure"],
+    "body": ["!include <office/Clouds/azure>"],
+    "description": "azure office icon"
+  },
+
+  "inc office/Clouds/cloud": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud"],
+    "body": ["!include <office/Clouds/cloud>"],
+    "description": "cloud office icon"
+  },
+
+  "inc office/Clouds/cloud_disaster": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud_disaster"],
+    "body": ["!include <office/Clouds/cloud_disaster>"],
+    "description": "cloud_disaster office icon"
+  },
+
+  "inc office/Clouds/cloud_disaster_red": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud_disaster_red"],
+    "body": ["!include <office/Clouds/cloud_disaster_red>"],
+    "description": "cloud_disaster_red office icon"
+  },
+
+  "inc office/Clouds/cloud_exchange_online": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud_exchange_online"],
+    "body": ["!include <office/Clouds/cloud_exchange_online>"],
+    "description": "cloud_exchange_online office icon"
+  },
+
+  "inc office/Clouds/cloud_service_request": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud_service_request"],
+    "body": ["!include <office/Clouds/cloud_service_request>"],
+    "description": "cloud_service_request office icon"
+  },
+
+  "inc office/Clouds/cloud_sharepoint_online": {
+    "scope": "diagram",
+    "prefix": ["i-off_cloud_sharepoint_online"],
+    "body": ["!include <office/Clouds/cloud_sharepoint_online>"],
+    "description": "cloud_sharepoint_online office icon"
+  },
+
+  "inc office/Clouds/office_365_cloud": {
+    "scope": "diagram",
+    "prefix": ["i-off_office_365_cloud"],
+    "body": ["!include <office/Clouds/office_365_cloud>"],
+    "description": "office_365_cloud office icon"
+  },
+
+  "inc office/Clouds/online_backup": {
+    "scope": "diagram",
+    "prefix": ["i-off_online_backup"],
+    "body": ["!include <office/Clouds/online_backup>"],
+    "description": "online_backup office icon"
+  },
+
+  "inc office/Clouds/online_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_online_user"],
+    "body": ["!include <office/Clouds/online_user>"],
+    "description": "online_user office icon"
+  },
+
+  "inc office/Clouds/private_cloud": {
+    "scope": "diagram",
+    "prefix": ["i-off_private_cloud"],
+    "body": ["!include <office/Clouds/private_cloud>"],
+    "description": "private_cloud office icon"
+  },
+
+  "inc office/Clouds/public_cloud": {
+    "scope": "diagram",
+    "prefix": ["i-off_public_cloud"],
+    "body": ["!include <office/Clouds/public_cloud>"],
+    "description": "public_cloud office icon"
+  },
+
+  "inc office/Clouds/public_im_cloud_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_public_im_cloud_service"],
+    "body": ["!include <office/Clouds/public_im_cloud_service>"],
+    "description": "public_im_cloud_service office icon"
+  },
+
+  "inc office/Communications/3rd_party_call_center_solution": {
+    "scope": "diagram",
+    "prefix": ["i-off_3rd_party_call_center_solution"],
+    "body": ["!include <office/Communications/3rd_party_call_center_solution>"],
+    "description": "3rd_party_call_center_solution office icon"
+  },
+
+  "inc office/Communications/3rd_party_integration": {
+    "scope": "diagram",
+    "prefix": ["i-off_3rd_party_integration"],
+    "body": ["!include <office/Communications/3rd_party_integration>"],
+    "description": "3rd_party_integration office icon"
+  },
+
+  "inc office/Communications/3rd_party_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_3rd_party_service"],
+    "body": ["!include <office/Communications/3rd_party_service>"],
+    "description": "3rd_party_service office icon"
+  },
+
+  "inc office/Communications/application_sharing_workload": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_sharing_workload"],
+    "body": ["!include <office/Communications/application_sharing_workload>"],
+    "description": "application_sharing_workload office icon"
+  },
+
+  "inc office/Communications/audio_conferencing_application": {
+    "scope": "diagram",
+    "prefix": ["i-off_audio_conferencing_application"],
+    "body": ["!include <office/Communications/audio_conferencing_application>"],
+    "description": "audio_conferencing_application office icon"
+  },
+
+  "inc office/Communications/central_management_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_central_management_service"],
+    "body": ["!include <office/Communications/central_management_service>"],
+    "description": "central_management_service office icon"
+  },
+
+  "inc office/Communications/chat_room": {
+    "scope": "diagram",
+    "prefix": ["i-off_chat_room"],
+    "body": ["!include <office/Communications/chat_room>"],
+    "description": "chat_room office icon"
+  },
+
+  "inc office/Communications/conference_announcement_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_conference_announcement_service"],
+    "body": ["!include <office/Communications/conference_announcement_service>"],
+    "description": "conference_announcement_service office icon"
+  },
+
+  "inc office/Communications/disconnected_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_disconnected_mailbox"],
+    "body": ["!include <office/Communications/disconnected_mailbox>"],
+    "description": "disconnected_mailbox office icon"
+  },
+
+  "inc office/Communications/discovery_search_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_discovery_search_mailbox"],
+    "body": ["!include <office/Communications/discovery_search_mailbox>"],
+    "description": "discovery_search_mailbox office icon"
+  },
+
+  "inc office/Communications/dynamic_distribution_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_dynamic_distribution_group"],
+    "body": ["!include <office/Communications/dynamic_distribution_group>"],
+    "description": "dynamic_distribution_group office icon"
+  },
+
+  "inc office/Communications/edge_subscription": {
+    "scope": "diagram",
+    "prefix": ["i-off_edge_subscription"],
+    "body": ["!include <office/Communications/edge_subscription>"],
+    "description": "edge_subscription office icon"
+  },
+
+  "inc office/Communications/email_workload": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_workload"],
+    "body": ["!include <office/Communications/email_workload>"],
+    "description": "email_workload office icon"
+  },
+
+  "inc office/Communications/equipment_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_equipment_mailbox"],
+    "body": ["!include <office/Communications/equipment_mailbox>"],
+    "description": "equipment_mailbox office icon"
+  },
+
+  "inc office/Communications/exchange_active_sync": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_active_sync"],
+    "body": ["!include <office/Communications/exchange_active_sync>"],
+    "description": "exchange_active_sync office icon"
+  },
+
+  "inc office/Communications/exchange_active_sync_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_active_sync_blue"],
+    "body": ["!include <office/Communications/exchange_active_sync_blue>"],
+    "description": "exchange_active_sync_blue office icon"
+  },
+
+  "inc office/Communications/fax_partner": {
+    "scope": "diagram",
+    "prefix": ["i-off_fax_partner"],
+    "body": ["!include <office/Communications/fax_partner>"],
+    "description": "fax_partner office icon"
+  },
+
+  "inc office/Communications/global_address_list": {
+    "scope": "diagram",
+    "prefix": ["i-off_global_address_list"],
+    "body": ["!include <office/Communications/global_address_list>"],
+    "description": "global_address_list office icon"
+  },
+
+  "inc office/Communications/hybrid_voip_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_hybrid_voip_gateway"],
+    "body": ["!include <office/Communications/hybrid_voip_gateway>"],
+    "description": "hybrid_voip_gateway office icon"
+  },
+
+  "inc office/Communications/im_workload": {
+    "scope": "diagram",
+    "prefix": ["i-off_im_workload"],
+    "body": ["!include <office/Communications/im_workload>"],
+    "description": "im_workload office icon"
+  },
+
+  "inc office/Communications/journaling_rule": {
+    "scope": "diagram",
+    "prefix": ["i-off_journaling_rule"],
+    "body": ["!include <office/Communications/journaling_rule>"],
+    "description": "journaling_rule office icon"
+  },
+
+  "inc office/Communications/local_move_request": {
+    "scope": "diagram",
+    "prefix": ["i-off_local_move_request"],
+    "body": ["!include <office/Communications/local_move_request>"],
+    "description": "local_move_request office icon"
+  },
+
+  "inc office/Communications/lync_control_panel": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_control_panel"],
+    "body": ["!include <office/Communications/lync_control_panel>"],
+    "description": "lync_control_panel office icon"
+  },
+
+  "inc office/Communications/lync_phone_edition": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_phone_edition"],
+    "body": ["!include <office/Communications/lync_phone_edition>"],
+    "description": "lync_phone_edition office icon"
+  },
+
+  "inc office/Communications/lync_room_system": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_room_system"],
+    "body": ["!include <office/Communications/lync_room_system>"],
+    "description": "lync_room_system office icon"
+  },
+
+  "inc office/Communications/lync_server_management_tool": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_server_management_tool"],
+    "body": ["!include <office/Communications/lync_server_management_tool>"],
+    "description": "lync_server_management_tool office icon"
+  },
+
+  "inc office/Communications/lync_storage_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_storage_service"],
+    "body": ["!include <office/Communications/lync_storage_service>"],
+    "description": "lync_storage_service office icon"
+  },
+
+  "inc office/Communications/lync_web_app_client": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_web_app_client"],
+    "body": ["!include <office/Communications/lync_web_app_client>"],
+    "description": "lync_web_app_client office icon"
+  },
+
+  "inc office/Communications/mail_enabled_public_folder": {
+    "scope": "diagram",
+    "prefix": ["i-off_mail_enabled_public_folder"],
+    "body": ["!include <office/Communications/mail_enabled_public_folder>"],
+    "description": "mail_enabled_public_folder office icon"
+  },
+
+  "inc office/Communications/mailbox_assistant": {
+    "scope": "diagram",
+    "prefix": ["i-off_mailbox_assistant"],
+    "body": ["!include <office/Communications/mailbox_assistant>"],
+    "description": "mailbox_assistant office icon"
+  },
+
+  "inc office/Communications/messages_queued": {
+    "scope": "diagram",
+    "prefix": ["i-off_messages_queued"],
+    "body": ["!include <office/Communications/messages_queued>"],
+    "description": "messages_queued office icon"
+  },
+
+  "inc office/Communications/offline_address_book": {
+    "scope": "diagram",
+    "prefix": ["i-off_offline_address_book"],
+    "body": ["!include <office/Communications/offline_address_book>"],
+    "description": "offline_address_book office icon"
+  },
+
+  "inc office/Communications/personal_archive_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_personal_archive_mailbox"],
+    "body": ["!include <office/Communications/personal_archive_mailbox>"],
+    "description": "personal_archive_mailbox office icon"
+  },
+
+  "inc office/Communications/public_im_cloud_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_public_im_cloud_service"],
+    "body": ["!include <office/Communications/public_im_cloud_service>"],
+    "description": "public_im_cloud_service office icon"
+  },
+
+  "inc office/Communications/push_notification_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_push_notification_service"],
+    "body": ["!include <office/Communications/push_notification_service>"],
+    "description": "push_notification_service office icon"
+  },
+
+  "inc office/Communications/queue_viewer": {
+    "scope": "diagram",
+    "prefix": ["i-off_queue_viewer"],
+    "body": ["!include <office/Communications/queue_viewer>"],
+    "description": "queue_viewer office icon"
+  },
+
+  "inc office/Communications/remote_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_remote_mailbox"],
+    "body": ["!include <office/Communications/remote_mailbox>"],
+    "description": "remote_mailbox office icon"
+  },
+
+  "inc office/Communications/remote_move_request": {
+    "scope": "diagram",
+    "prefix": ["i-off_remote_move_request"],
+    "body": ["!include <office/Communications/remote_move_request>"],
+    "description": "remote_move_request office icon"
+  },
+
+  "inc office/Communications/response_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_response_group"],
+    "body": ["!include <office/Communications/response_group>"],
+    "description": "response_group office icon"
+  },
+
+  "inc office/Communications/response_group_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_response_group_service"],
+    "body": ["!include <office/Communications/response_group_service>"],
+    "description": "response_group_service office icon"
+  },
+
+  "inc office/Communications/room_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_room_mailbox"],
+    "body": ["!include <office/Communications/room_mailbox>"],
+    "description": "room_mailbox office icon"
+  },
+
+  "inc office/Communications/shared_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_shared_mailbox"],
+    "body": ["!include <office/Communications/shared_mailbox>"],
+    "description": "shared_mailbox office icon"
+  },
+
+  "inc office/Communications/sip_uri_um_dial_plan": {
+    "scope": "diagram",
+    "prefix": ["i-off_sip_uri_um_dial_plan"],
+    "body": ["!include <office/Communications/sip_uri_um_dial_plan>"],
+    "description": "sip_uri_um_dial_plan office icon"
+  },
+
+  "inc office/Communications/site_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_site_mailbox"],
+    "body": ["!include <office/Communications/site_mailbox>"],
+    "description": "site_mailbox office icon"
+  },
+
+  "inc office/Communications/skype_for_business_control_panel": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_control_panel"],
+    "body": ["!include <office/Communications/skype_for_business_control_panel>"],
+    "description": "skype_for_business_control_panel office icon"
+  },
+
+  "inc office/Communications/skype_for_business_phone_edition": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_phone_edition"],
+    "body": ["!include <office/Communications/skype_for_business_phone_edition>"],
+    "description": "skype_for_business_phone_edition office icon"
+  },
+
+  "inc office/Communications/skype_for_business_room_system": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_room_system"],
+    "body": ["!include <office/Communications/skype_for_business_room_system>"],
+    "description": "skype_for_business_room_system office icon"
+  },
+
+  "inc office/Communications/skype_for_business_server_management_tool": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_server_management_tool"],
+    "body": ["!include <office/Communications/skype_for_business_server_management_tool>"],
+    "description": "skype_for_business_server_management_tool office icon"
+  },
+
+  "inc office/Communications/skype_for_business_storage_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_storage_service"],
+    "body": ["!include <office/Communications/skype_for_business_storage_service>"],
+    "description": "skype_for_business_storage_service office icon"
+  },
+
+  "inc office/Communications/skype_for_business_web_app_client": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_web_app_client"],
+    "body": ["!include <office/Communications/skype_for_business_web_app_client>"],
+    "description": "skype_for_business_web_app_client office icon"
+  },
+
+  "inc office/Communications/sms_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_sms_gateway"],
+    "body": ["!include <office/Communications/sms_gateway>"],
+    "description": "sms_gateway office icon"
+  },
+
+  "inc office/Communications/smtp_connector": {
+    "scope": "diagram",
+    "prefix": ["i-off_smtp_connector"],
+    "body": ["!include <office/Communications/smtp_connector>"],
+    "description": "smtp_connector office icon"
+  },
+
+  "inc office/Communications/system_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_system_mailbox"],
+    "body": ["!include <office/Communications/system_mailbox>"],
+    "description": "system_mailbox office icon"
+  },
+
+  "inc office/Communications/tdm_pbx": {
+    "scope": "diagram",
+    "prefix": ["i-off_tdm_pbx"],
+    "body": ["!include <office/Communications/tdm_pbx>"],
+    "description": "tdm_pbx office icon"
+  },
+
+  "inc office/Communications/telephone_extension_dial_plan": {
+    "scope": "diagram",
+    "prefix": ["i-off_telephone_extension_dial_plan"],
+    "body": ["!include <office/Communications/telephone_extension_dial_plan>"],
+    "description": "telephone_extension_dial_plan office icon"
+  },
+
+  "inc office/Communications/transport_rule": {
+    "scope": "diagram",
+    "prefix": ["i-off_transport_rule"],
+    "body": ["!include <office/Communications/transport_rule>"],
+    "description": "transport_rule office icon"
+  },
+
+  "inc office/Communications/ucma_application": {
+    "scope": "diagram",
+    "prefix": ["i-off_ucma_application"],
+    "body": ["!include <office/Communications/ucma_application>"],
+    "description": "ucma_application office icon"
+  },
+
+  "inc office/Communications/ucwa_application": {
+    "scope": "diagram",
+    "prefix": ["i-off_ucwa_application"],
+    "body": ["!include <office/Communications/ucwa_application>"],
+    "description": "ucwa_application office icon"
+  },
+
+  "inc office/Communications/um_auto_attendant": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_auto_attendant"],
+    "body": ["!include <office/Communications/um_auto_attendant>"],
+    "description": "um_auto_attendant office icon"
+  },
+
+  "inc office/Communications/um_dial_plan_e164": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_dial_plan_e164"],
+    "body": ["!include <office/Communications/um_dial_plan_e164>"],
+    "description": "um_dial_plan_e164 office icon"
+  },
+
+  "inc office/Communications/um_dial_plan_secondary": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_dial_plan_secondary"],
+    "body": ["!include <office/Communications/um_dial_plan_secondary>"],
+    "description": "um_dial_plan_secondary office icon"
+  },
+
+  "inc office/Communications/um_enabled_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_enabled_mailbox"],
+    "body": ["!include <office/Communications/um_enabled_mailbox>"],
+    "description": "um_enabled_mailbox office icon"
+  },
+
+  "inc office/Communications/um_hunt_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_hunt_group"],
+    "body": ["!include <office/Communications/um_hunt_group>"],
+    "description": "um_hunt_group office icon"
+  },
+
+  "inc office/Communications/um_ip_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_ip_gateway"],
+    "body": ["!include <office/Communications/um_ip_gateway>"],
+    "description": "um_ip_gateway office icon"
+  },
+
+  "inc office/Communications/user_mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_mailbox"],
+    "body": ["!include <office/Communications/user_mailbox>"],
+    "description": "user_mailbox office icon"
+  },
+
+  "inc office/Communications/video_workload": {
+    "scope": "diagram",
+    "prefix": ["i-off_video_workload"],
+    "body": ["!include <office/Communications/video_workload>"],
+    "description": "video_workload office icon"
+  },
+
+  "inc office/Communications/voice_mail_preview_partner": {
+    "scope": "diagram",
+    "prefix": ["i-off_voice_mail_preview_partner"],
+    "body": ["!include <office/Communications/voice_mail_preview_partner>"],
+    "description": "voice_mail_preview_partner office icon"
+  },
+
+  "inc office/Communications/voice_workload": {
+    "scope": "diagram",
+    "prefix": ["i-off_voice_workload"],
+    "body": ["!include <office/Communications/voice_workload>"],
+    "description": "voice_workload office icon"
+  },
+
+  "inc office/Communications/voip_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_voip_gateway"],
+    "body": ["!include <office/Communications/voip_gateway>"],
+    "description": "voip_gateway office icon"
+  },
+
+  "inc office/Communications/watcher_node": {
+    "scope": "diagram",
+    "prefix": ["i-off_watcher_node"],
+    "body": ["!include <office/Communications/watcher_node>"],
+    "description": "watcher_node office icon"
+  },
+
+  "inc office/Communications/xmpp_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_xmpp_service"],
+    "body": ["!include <office/Communications/xmpp_service>"],
+    "description": "xmpp_service office icon"
+  },
+
+  "inc office/Concepts/address_book": {
+    "scope": "diagram",
+    "prefix": ["i-off_address_book"],
+    "body": ["!include <office/Concepts/address_book>"],
+    "description": "address_book office icon"
+  },
+
+  "inc office/Concepts/anti_spam": {
+    "scope": "diagram",
+    "prefix": ["i-off_anti_spam"],
+    "body": ["!include <office/Concepts/anti_spam>"],
+    "description": "anti_spam office icon"
+  },
+
+  "inc office/Concepts/app_for_office": {
+    "scope": "diagram",
+    "prefix": ["i-off_app_for_office"],
+    "body": ["!include <office/Concepts/app_for_office>"],
+    "description": "app_for_office office icon"
+  },
+
+  "inc office/Concepts/app_for_sharepoint": {
+    "scope": "diagram",
+    "prefix": ["i-off_app_for_sharepoint"],
+    "body": ["!include <office/Concepts/app_for_sharepoint>"],
+    "description": "app_for_sharepoint office icon"
+  },
+
+  "inc office/Concepts/app_part": {
+    "scope": "diagram",
+    "prefix": ["i-off_app_part"],
+    "body": ["!include <office/Concepts/app_part>"],
+    "description": "app_part office icon"
+  },
+
+  "inc office/Concepts/application_android": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_android"],
+    "body": ["!include <office/Concepts/application_android>"],
+    "description": "application_android office icon"
+  },
+
+  "inc office/Concepts/application_generic": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_generic"],
+    "body": ["!include <office/Concepts/application_generic>"],
+    "description": "application_generic office icon"
+  },
+
+  "inc office/Concepts/application_hybrid": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_hybrid"],
+    "body": ["!include <office/Concepts/application_hybrid>"],
+    "description": "application_hybrid office icon"
+  },
+
+  "inc office/Concepts/application_ios": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_ios"],
+    "body": ["!include <office/Concepts/application_ios>"],
+    "description": "application_ios office icon"
+  },
+
+  "inc office/Concepts/application_web": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_web"],
+    "body": ["!include <office/Concepts/application_web>"],
+    "description": "application_web office icon"
+  },
+
+  "inc office/Concepts/application_windows": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_windows"],
+    "body": ["!include <office/Concepts/application_windows>"],
+    "description": "application_windows office icon"
+  },
+
+  "inc office/Concepts/archive": {
+    "scope": "diagram",
+    "prefix": ["i-off_archive"],
+    "body": ["!include <office/Concepts/archive>"],
+    "description": "archive office icon"
+  },
+
+  "inc office/Concepts/attachment": {
+    "scope": "diagram",
+    "prefix": ["i-off_attachment"],
+    "body": ["!include <office/Concepts/attachment>"],
+    "description": "attachment office icon"
+  },
+
+  "inc office/Concepts/backup_local": {
+    "scope": "diagram",
+    "prefix": ["i-off_backup_local"],
+    "body": ["!include <office/Concepts/backup_local>"],
+    "description": "backup_local office icon"
+  },
+
+  "inc office/Concepts/backup_online": {
+    "scope": "diagram",
+    "prefix": ["i-off_backup_online"],
+    "body": ["!include <office/Concepts/backup_online>"],
+    "description": "backup_online office icon"
+  },
+
+  "inc office/Concepts/bandwidth": {
+    "scope": "diagram",
+    "prefix": ["i-off_bandwidth"],
+    "body": ["!include <office/Concepts/bandwidth>"],
+    "description": "bandwidth office icon"
+  },
+
+  "inc office/Concepts/bandwidth_calculator": {
+    "scope": "diagram",
+    "prefix": ["i-off_bandwidth_calculator"],
+    "body": ["!include <office/Concepts/bandwidth_calculator>"],
+    "description": "bandwidth_calculator office icon"
+  },
+
+  "inc office/Concepts/best_practices": {
+    "scope": "diagram",
+    "prefix": ["i-off_best_practices"],
+    "body": ["!include <office/Concepts/best_practices>"],
+    "description": "best_practices office icon"
+  },
+
+  "inc office/Concepts/book_journal": {
+    "scope": "diagram",
+    "prefix": ["i-off_book_journal"],
+    "body": ["!include <office/Concepts/book_journal>"],
+    "description": "book_journal office icon"
+  },
+
+  "inc office/Concepts/calculator": {
+    "scope": "diagram",
+    "prefix": ["i-off_calculator"],
+    "body": ["!include <office/Concepts/calculator>"],
+    "description": "calculator office icon"
+  },
+
+  "inc office/Concepts/calendar": {
+    "scope": "diagram",
+    "prefix": ["i-off_calendar"],
+    "body": ["!include <office/Concepts/calendar>"],
+    "description": "calendar office icon"
+  },
+
+  "inc office/Concepts/clipboard": {
+    "scope": "diagram",
+    "prefix": ["i-off_clipboard"],
+    "body": ["!include <office/Concepts/clipboard>"],
+    "description": "clipboard office icon"
+  },
+
+  "inc office/Concepts/clock": {
+    "scope": "diagram",
+    "prefix": ["i-off_clock"],
+    "body": ["!include <office/Concepts/clock>"],
+    "description": "clock office icon"
+  },
+
+  "inc office/Concepts/column": {
+    "scope": "diagram",
+    "prefix": ["i-off_column"],
+    "body": ["!include <office/Concepts/column>"],
+    "description": "column office icon"
+  },
+
+  "inc office/Concepts/connector": {
+    "scope": "diagram",
+    "prefix": ["i-off_connector"],
+    "body": ["!include <office/Concepts/connector>"],
+    "description": "connector office icon"
+  },
+
+  "inc office/Concepts/contacts": {
+    "scope": "diagram",
+    "prefix": ["i-off_contacts"],
+    "body": ["!include <office/Concepts/contacts>"],
+    "description": "contacts office icon"
+  },
+
+  "inc office/Concepts/content_type": {
+    "scope": "diagram",
+    "prefix": ["i-off_content_type"],
+    "body": ["!include <office/Concepts/content_type>"],
+    "description": "content_type office icon"
+  },
+
+  "inc office/Concepts/credit_card": {
+    "scope": "diagram",
+    "prefix": ["i-off_credit_card"],
+    "body": ["!include <office/Concepts/credit_card>"],
+    "description": "credit_card office icon"
+  },
+
+  "inc office/Concepts/document": {
+    "scope": "diagram",
+    "prefix": ["i-off_document"],
+    "body": ["!include <office/Concepts/document>"],
+    "description": "document office icon"
+  },
+
+  "inc office/Concepts/document_blank": {
+    "scope": "diagram",
+    "prefix": ["i-off_document_blank"],
+    "body": ["!include <office/Concepts/document_blank>"],
+    "description": "document_blank office icon"
+  },
+
+  "inc office/Concepts/document_shared": {
+    "scope": "diagram",
+    "prefix": ["i-off_document_shared"],
+    "body": ["!include <office/Concepts/document_shared>"],
+    "description": "document_shared office icon"
+  },
+
+  "inc office/Concepts/documents": {
+    "scope": "diagram",
+    "prefix": ["i-off_documents"],
+    "body": ["!include <office/Concepts/documents>"],
+    "description": "documents office icon"
+  },
+
+  "inc office/Concepts/documents_shared": {
+    "scope": "diagram",
+    "prefix": ["i-off_documents_shared"],
+    "body": ["!include <office/Concepts/documents_shared>"],
+    "description": "documents_shared office icon"
+  },
+
+  "inc office/Concepts/download": {
+    "scope": "diagram",
+    "prefix": ["i-off_download"],
+    "body": ["!include <office/Concepts/download>"],
+    "description": "download office icon"
+  },
+
+  "inc office/Concepts/email": {
+    "scope": "diagram",
+    "prefix": ["i-off_email"],
+    "body": ["!include <office/Concepts/email>"],
+    "description": "email office icon"
+  },
+
+  "inc office/Concepts/email_approved": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_approved"],
+    "body": ["!include <office/Concepts/email_approved>"],
+    "description": "email_approved office icon"
+  },
+
+  "inc office/Concepts/email_expired": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_expired"],
+    "body": ["!include <office/Concepts/email_expired>"],
+    "description": "email_expired office icon"
+  },
+
+  "inc office/Concepts/email_rejected": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_rejected"],
+    "body": ["!include <office/Concepts/email_rejected>"],
+    "description": "email_rejected office icon"
+  },
+
+  "inc office/Concepts/file_key": {
+    "scope": "diagram",
+    "prefix": ["i-off_file_key"],
+    "body": ["!include <office/Concepts/file_key>"],
+    "description": "file_key office icon"
+  },
+
+  "inc office/Concepts/firewall": {
+    "scope": "diagram",
+    "prefix": ["i-off_firewall"],
+    "body": ["!include <office/Concepts/firewall>"],
+    "description": "firewall office icon"
+  },
+
+  "inc office/Concepts/firewall_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_firewall_blue"],
+    "body": ["!include <office/Concepts/firewall_blue>"],
+    "description": "firewall_blue office icon"
+  },
+
+  "inc office/Concepts/firewall_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_firewall_ghosted"],
+    "body": ["!include <office/Concepts/firewall_ghosted>"],
+    "description": "firewall_ghosted office icon"
+  },
+
+  "inc office/Concepts/firewall_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_firewall_green"],
+    "body": ["!include <office/Concepts/firewall_green>"],
+    "description": "firewall_green office icon"
+  },
+
+  "inc office/Concepts/firewall_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_firewall_orange"],
+    "body": ["!include <office/Concepts/firewall_orange>"],
+    "description": "firewall_orange office icon"
+  },
+
+  "inc office/Concepts/folder": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder"],
+    "body": ["!include <office/Concepts/folder>"],
+    "description": "folder office icon"
+  },
+
+  "inc office/Concepts/folder_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_blue"],
+    "body": ["!include <office/Concepts/folder_blue>"],
+    "description": "folder_blue office icon"
+  },
+
+  "inc office/Concepts/folder_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_ghosted"],
+    "body": ["!include <office/Concepts/folder_ghosted>"],
+    "description": "folder_ghosted office icon"
+  },
+
+  "inc office/Concepts/folder_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_green"],
+    "body": ["!include <office/Concepts/folder_green>"],
+    "description": "folder_green office icon"
+  },
+
+  "inc office/Concepts/folder_open": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_open"],
+    "body": ["!include <office/Concepts/folder_open>"],
+    "description": "folder_open office icon"
+  },
+
+  "inc office/Concepts/folder_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_orange"],
+    "body": ["!include <office/Concepts/folder_orange>"],
+    "description": "folder_orange office icon"
+  },
+
+  "inc office/Concepts/folder_public": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_public"],
+    "body": ["!include <office/Concepts/folder_public>"],
+    "description": "folder_public office icon"
+  },
+
+  "inc office/Concepts/folder_shared": {
+    "scope": "diagram",
+    "prefix": ["i-off_folder_shared"],
+    "body": ["!include <office/Concepts/folder_shared>"],
+    "description": "folder_shared office icon"
+  },
+
+  "inc office/Concepts/folders": {
+    "scope": "diagram",
+    "prefix": ["i-off_folders"],
+    "body": ["!include <office/Concepts/folders>"],
+    "description": "folders office icon"
+  },
+
+  "inc office/Concepts/form": {
+    "scope": "diagram",
+    "prefix": ["i-off_form"],
+    "body": ["!include <office/Concepts/form>"],
+    "description": "form office icon"
+  },
+
+  "inc office/Concepts/get_started": {
+    "scope": "diagram",
+    "prefix": ["i-off_get_started"],
+    "body": ["!include <office/Concepts/get_started>"],
+    "description": "get_started office icon"
+  },
+
+  "inc office/Concepts/globe_internet": {
+    "scope": "diagram",
+    "prefix": ["i-off_globe_internet"],
+    "body": ["!include <office/Concepts/globe_internet>"],
+    "description": "globe_internet office icon"
+  },
+
+  "inc office/Concepts/help": {
+    "scope": "diagram",
+    "prefix": ["i-off_help"],
+    "body": ["!include <office/Concepts/help>"],
+    "description": "help office icon"
+  },
+
+  "inc office/Concepts/home": {
+    "scope": "diagram",
+    "prefix": ["i-off_home"],
+    "body": ["!include <office/Concepts/home>"],
+    "description": "home office icon"
+  },
+
+  "inc office/Concepts/home_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_blue"],
+    "body": ["!include <office/Concepts/home_blue>"],
+    "description": "home_blue office icon"
+  },
+
+  "inc office/Concepts/home_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_ghosted"],
+    "body": ["!include <office/Concepts/home_ghosted>"],
+    "description": "home_ghosted office icon"
+  },
+
+  "inc office/Concepts/home_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_green"],
+    "body": ["!include <office/Concepts/home_green>"],
+    "description": "home_green office icon"
+  },
+
+  "inc office/Concepts/home_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_orange"],
+    "body": ["!include <office/Concepts/home_orange>"],
+    "description": "home_orange office icon"
+  },
+
+  "inc office/Concepts/home_page": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_page"],
+    "body": ["!include <office/Concepts/home_page>"],
+    "description": "home_page office icon"
+  },
+
+  "inc office/Concepts/home_page_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_page_blue"],
+    "body": ["!include <office/Concepts/home_page_blue>"],
+    "description": "home_page_blue office icon"
+  },
+
+  "inc office/Concepts/home_page_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_page_ghosted"],
+    "body": ["!include <office/Concepts/home_page_ghosted>"],
+    "description": "home_page_ghosted office icon"
+  },
+
+  "inc office/Concepts/home_page_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_page_green"],
+    "body": ["!include <office/Concepts/home_page_green>"],
+    "description": "home_page_green office icon"
+  },
+
+  "inc office/Concepts/home_page_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_home_page_orange"],
+    "body": ["!include <office/Concepts/home_page_orange>"],
+    "description": "home_page_orange office icon"
+  },
+
+  "inc office/Concepts/hybrid": {
+    "scope": "diagram",
+    "prefix": ["i-off_hybrid"],
+    "body": ["!include <office/Concepts/hybrid>"],
+    "description": "hybrid office icon"
+  },
+
+  "inc office/Concepts/input_output_filter": {
+    "scope": "diagram",
+    "prefix": ["i-off_input_output_filter"],
+    "body": ["!include <office/Concepts/input_output_filter>"],
+    "description": "input_output_filter office icon"
+  },
+
+  "inc office/Concepts/install": {
+    "scope": "diagram",
+    "prefix": ["i-off_install"],
+    "body": ["!include <office/Concepts/install>"],
+    "description": "install office icon"
+  },
+
+  "inc office/Concepts/integration": {
+    "scope": "diagram",
+    "prefix": ["i-off_integration"],
+    "body": ["!include <office/Concepts/integration>"],
+    "description": "integration office icon"
+  },
+
+  "inc office/Concepts/lab": {
+    "scope": "diagram",
+    "prefix": ["i-off_lab"],
+    "body": ["!include <office/Concepts/lab>"],
+    "description": "lab office icon"
+  },
+
+  "inc office/Concepts/learn": {
+    "scope": "diagram",
+    "prefix": ["i-off_learn"],
+    "body": ["!include <office/Concepts/learn>"],
+    "description": "learn office icon"
+  },
+
+  "inc office/Concepts/license": {
+    "scope": "diagram",
+    "prefix": ["i-off_license"],
+    "body": ["!include <office/Concepts/license>"],
+    "description": "license office icon"
+  },
+
+  "inc office/Concepts/link": {
+    "scope": "diagram",
+    "prefix": ["i-off_link"],
+    "body": ["!include <office/Concepts/link>"],
+    "description": "link office icon"
+  },
+
+  "inc office/Concepts/list_library": {
+    "scope": "diagram",
+    "prefix": ["i-off_list_library"],
+    "body": ["!include <office/Concepts/list_library>"],
+    "description": "list_library office icon"
+  },
+
+  "inc office/Concepts/mailbox": {
+    "scope": "diagram",
+    "prefix": ["i-off_mailbox"],
+    "body": ["!include <office/Concepts/mailbox>"],
+    "description": "mailbox office icon"
+  },
+
+  "inc office/Concepts/mailbox2": {
+    "scope": "diagram",
+    "prefix": ["i-off_mailbox2"],
+    "body": ["!include <office/Concepts/mailbox2>"],
+    "description": "mailbox2 office icon"
+  },
+
+  "inc office/Concepts/maintenance": {
+    "scope": "diagram",
+    "prefix": ["i-off_maintenance"],
+    "body": ["!include <office/Concepts/maintenance>"],
+    "description": "maintenance office icon"
+  },
+
+  "inc office/Concepts/marketplace_shopping_bag": {
+    "scope": "diagram",
+    "prefix": ["i-off_marketplace_shopping_bag"],
+    "body": ["!include <office/Concepts/marketplace_shopping_bag>"],
+    "description": "marketplace_shopping_bag office icon"
+  },
+
+  "inc office/Concepts/meets_requirements": {
+    "scope": "diagram",
+    "prefix": ["i-off_meets_requirements"],
+    "body": ["!include <office/Concepts/meets_requirements>"],
+    "description": "meets_requirements office icon"
+  },
+
+  "inc office/Concepts/migration": {
+    "scope": "diagram",
+    "prefix": ["i-off_migration"],
+    "body": ["!include <office/Concepts/migration>"],
+    "description": "migration office icon"
+  },
+
+  "inc office/Concepts/moes": {
+    "scope": "diagram",
+    "prefix": ["i-off_moes"],
+    "body": ["!include <office/Concepts/moes>"],
+    "description": "moes office icon"
+  },
+
+  "inc office/Concepts/navigation": {
+    "scope": "diagram",
+    "prefix": ["i-off_navigation"],
+    "body": ["!include <office/Concepts/navigation>"],
+    "description": "navigation office icon"
+  },
+
+  "inc office/Concepts/node_generic": {
+    "scope": "diagram",
+    "prefix": ["i-off_node_generic"],
+    "body": ["!include <office/Concepts/node_generic>"],
+    "description": "node_generic office icon"
+  },
+
+  "inc office/Concepts/node_generic_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_node_generic_blue"],
+    "body": ["!include <office/Concepts/node_generic_blue>"],
+    "description": "node_generic_blue office icon"
+  },
+
+  "inc office/Concepts/node_generic_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_node_generic_ghosted"],
+    "body": ["!include <office/Concepts/node_generic_ghosted>"],
+    "description": "node_generic_ghosted office icon"
+  },
+
+  "inc office/Concepts/node_generic_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_node_generic_green"],
+    "body": ["!include <office/Concepts/node_generic_green>"],
+    "description": "node_generic_green office icon"
+  },
+
+  "inc office/Concepts/node_generic_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_node_generic_orange"],
+    "body": ["!include <office/Concepts/node_generic_orange>"],
+    "description": "node_generic_orange office icon"
+  },
+
+  "inc office/Concepts/office_installed": {
+    "scope": "diagram",
+    "prefix": ["i-off_office_installed"],
+    "body": ["!include <office/Concepts/office_installed>"],
+    "description": "office_installed office icon"
+  },
+
+  "inc office/Concepts/on_premises": {
+    "scope": "diagram",
+    "prefix": ["i-off_on_premises"],
+    "body": ["!include <office/Concepts/on_premises>"],
+    "description": "on_premises office icon"
+  },
+
+  "inc office/Concepts/on_premises_directory": {
+    "scope": "diagram",
+    "prefix": ["i-off_on_premises_directory"],
+    "body": ["!include <office/Concepts/on_premises_directory>"],
+    "description": "on_premises_directory office icon"
+  },
+
+  "inc office/Concepts/phishing": {
+    "scope": "diagram",
+    "prefix": ["i-off_phishing"],
+    "body": ["!include <office/Concepts/phishing>"],
+    "description": "phishing office icon"
+  },
+
+  "inc office/Concepts/pin": {
+    "scope": "diagram",
+    "prefix": ["i-off_pin"],
+    "body": ["!include <office/Concepts/pin>"],
+    "description": "pin office icon"
+  },
+
+  "inc office/Concepts/platform_options": {
+    "scope": "diagram",
+    "prefix": ["i-off_platform_options"],
+    "body": ["!include <office/Concepts/platform_options>"],
+    "description": "platform_options office icon"
+  },
+
+  "inc office/Concepts/properties": {
+    "scope": "diagram",
+    "prefix": ["i-off_properties"],
+    "body": ["!include <office/Concepts/properties>"],
+    "description": "properties office icon"
+  },
+
+  "inc office/Concepts/publish": {
+    "scope": "diagram",
+    "prefix": ["i-off_publish"],
+    "body": ["!include <office/Concepts/publish>"],
+    "description": "publish office icon"
+  },
+
+  "inc office/Concepts/remote_access": {
+    "scope": "diagram",
+    "prefix": ["i-off_remote_access"],
+    "body": ["!include <office/Concepts/remote_access>"],
+    "description": "remote_access office icon"
+  },
+
+  "inc office/Concepts/script": {
+    "scope": "diagram",
+    "prefix": ["i-off_script"],
+    "body": ["!include <office/Concepts/script>"],
+    "description": "script office icon"
+  },
+
+  "inc office/Concepts/search": {
+    "scope": "diagram",
+    "prefix": ["i-off_search"],
+    "body": ["!include <office/Concepts/search>"],
+    "description": "search office icon"
+  },
+
+  "inc office/Concepts/service_application": {
+    "scope": "diagram",
+    "prefix": ["i-off_service_application"],
+    "body": ["!include <office/Concepts/service_application>"],
+    "description": "service_application office icon"
+  },
+
+  "inc office/Concepts/settings": {
+    "scope": "diagram",
+    "prefix": ["i-off_settings"],
+    "body": ["!include <office/Concepts/settings>"],
+    "description": "settings office icon"
+  },
+
+  "inc office/Concepts/settings_office_365": {
+    "scope": "diagram",
+    "prefix": ["i-off_settings_office_365"],
+    "body": ["!include <office/Concepts/settings_office_365>"],
+    "description": "settings_office_365 office icon"
+  },
+
+  "inc office/Concepts/sign_up": {
+    "scope": "diagram",
+    "prefix": ["i-off_sign_up"],
+    "body": ["!include <office/Concepts/sign_up>"],
+    "description": "sign_up office icon"
+  },
+
+  "inc office/Concepts/sound_file": {
+    "scope": "diagram",
+    "prefix": ["i-off_sound_file"],
+    "body": ["!include <office/Concepts/sound_file>"],
+    "description": "sound_file office icon"
+  },
+
+  "inc office/Concepts/tasks": {
+    "scope": "diagram",
+    "prefix": ["i-off_tasks"],
+    "body": ["!include <office/Concepts/tasks>"],
+    "description": "tasks office icon"
+  },
+
+  "inc office/Concepts/technical_diagram": {
+    "scope": "diagram",
+    "prefix": ["i-off_technical_diagram"],
+    "body": ["!include <office/Concepts/technical_diagram>"],
+    "description": "technical_diagram office icon"
+  },
+
+  "inc office/Concepts/upgrade_application": {
+    "scope": "diagram",
+    "prefix": ["i-off_upgrade_application"],
+    "body": ["!include <office/Concepts/upgrade_application>"],
+    "description": "upgrade_application office icon"
+  },
+
+  "inc office/Concepts/upgrade_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_upgrade_server"],
+    "body": ["!include <office/Concepts/upgrade_server>"],
+    "description": "upgrade_server office icon"
+  },
+
+  "inc office/Concepts/upgrade_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_upgrade_site"],
+    "body": ["!include <office/Concepts/upgrade_site>"],
+    "description": "upgrade_site office icon"
+  },
+
+  "inc office/Concepts/upload": {
+    "scope": "diagram",
+    "prefix": ["i-off_upload"],
+    "body": ["!include <office/Concepts/upload>"],
+    "description": "upload office icon"
+  },
+
+  "inc office/Concepts/video_play": {
+    "scope": "diagram",
+    "prefix": ["i-off_video_play"],
+    "body": ["!include <office/Concepts/video_play>"],
+    "description": "video_play office icon"
+  },
+
+  "inc office/Concepts/view_form": {
+    "scope": "diagram",
+    "prefix": ["i-off_view_form"],
+    "body": ["!include <office/Concepts/view_form>"],
+    "description": "view_form office icon"
+  },
+
+  "inc office/Concepts/voicemail": {
+    "scope": "diagram",
+    "prefix": ["i-off_voicemail"],
+    "body": ["!include <office/Concepts/voicemail>"],
+    "description": "voicemail office icon"
+  },
+
+  "inc office/Concepts/voicemail_preview": {
+    "scope": "diagram",
+    "prefix": ["i-off_voicemail_preview"],
+    "body": ["!include <office/Concepts/voicemail_preview>"],
+    "description": "voicemail_preview office icon"
+  },
+
+  "inc office/Concepts/walkthrough": {
+    "scope": "diagram",
+    "prefix": ["i-off_walkthrough"],
+    "body": ["!include <office/Concepts/walkthrough>"],
+    "description": "walkthrough office icon"
+  },
+
+  "inc office/Concepts/web_conferencing": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_conferencing"],
+    "body": ["!include <office/Concepts/web_conferencing>"],
+    "description": "web_conferencing office icon"
+  },
+
+  "inc office/Concepts/web_page": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_page"],
+    "body": ["!include <office/Concepts/web_page>"],
+    "description": "web_page office icon"
+  },
+
+  "inc office/Concepts/web_part": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_part"],
+    "body": ["!include <office/Concepts/web_part>"],
+    "description": "web_part office icon"
+  },
+
+  "inc office/Concepts/web_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_services"],
+    "body": ["!include <office/Concepts/web_services>"],
+    "description": "web_services office icon"
+  },
+
+  "inc office/Concepts/website": {
+    "scope": "diagram",
+    "prefix": ["i-off_website"],
+    "body": ["!include <office/Concepts/website>"],
+    "description": "website office icon"
+  },
+
+  "inc office/Concepts/whats_new": {
+    "scope": "diagram",
+    "prefix": ["i-off_whats_new"],
+    "body": ["!include <office/Concepts/whats_new>"],
+    "description": "whats_new office icon"
+  },
+
+  "inc office/Concepts/windows_powershell": {
+    "scope": "diagram",
+    "prefix": ["i-off_windows_powershell"],
+    "body": ["!include <office/Concepts/windows_powershell>"],
+    "description": "windows_powershell office icon"
+  },
+
+  "inc office/Concepts/writing_pen": {
+    "scope": "diagram",
+    "prefix": ["i-off_writing_pen"],
+    "body": ["!include <office/Concepts/writing_pen>"],
+    "description": "writing_pen office icon"
+  },
+
+  "inc office/Concepts/writing_pencil": {
+    "scope": "diagram",
+    "prefix": ["i-off_writing_pencil"],
+    "body": ["!include <office/Concepts/writing_pencil>"],
+    "description": "writing_pencil office icon"
+  },
+
+  "inc office/Databases/address_book_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_address_book_store"],
+    "body": ["!include <office/Databases/address_book_store>"],
+    "description": "address_book_store office icon"
+  },
+
+  "inc office/Databases/application_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_store"],
+    "body": ["!include <office/Databases/application_store>"],
+    "description": "application_store office icon"
+  },
+
+  "inc office/Databases/database": {
+    "scope": "diagram",
+    "prefix": ["i-off_database"],
+    "body": ["!include <office/Databases/database>"],
+    "description": "database office icon"
+  },
+
+  "inc office/Databases/database_availability_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_availability_group"],
+    "body": ["!include <office/Databases/database_availability_group>"],
+    "description": "database_availability_group office icon"
+  },
+
+  "inc office/Databases/database_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_blue"],
+    "body": ["!include <office/Databases/database_blue>"],
+    "description": "database_blue office icon"
+  },
+
+  "inc office/Databases/database_cube": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_cube"],
+    "body": ["!include <office/Databases/database_cube>"],
+    "description": "database_cube office icon"
+  },
+
+  "inc office/Databases/database_cube_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_cube_blue"],
+    "body": ["!include <office/Databases/database_cube_blue>"],
+    "description": "database_cube_blue office icon"
+  },
+
+  "inc office/Databases/database_cube_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_cube_ghosted"],
+    "body": ["!include <office/Databases/database_cube_ghosted>"],
+    "description": "database_cube_ghosted office icon"
+  },
+
+  "inc office/Databases/database_cube_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_cube_green"],
+    "body": ["!include <office/Databases/database_cube_green>"],
+    "description": "database_cube_green office icon"
+  },
+
+  "inc office/Databases/database_cube_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_cube_orange"],
+    "body": ["!include <office/Databases/database_cube_orange>"],
+    "description": "database_cube_orange office icon"
+  },
+
+  "inc office/Databases/database_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_ghosted"],
+    "body": ["!include <office/Databases/database_ghosted>"],
+    "description": "database_ghosted office icon"
+  },
+
+  "inc office/Databases/database_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_green"],
+    "body": ["!include <office/Databases/database_green>"],
+    "description": "database_green office icon"
+  },
+
+  "inc office/Databases/database_mini_1": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_1"],
+    "body": ["!include <office/Databases/database_mini_1>"],
+    "description": "database_mini_1 office icon"
+  },
+
+  "inc office/Databases/database_mini_1_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_1_blue"],
+    "body": ["!include <office/Databases/database_mini_1_blue>"],
+    "description": "database_mini_1_blue office icon"
+  },
+
+  "inc office/Databases/database_mini_1_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_1_ghosted"],
+    "body": ["!include <office/Databases/database_mini_1_ghosted>"],
+    "description": "database_mini_1_ghosted office icon"
+  },
+
+  "inc office/Databases/database_mini_1_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_1_green"],
+    "body": ["!include <office/Databases/database_mini_1_green>"],
+    "description": "database_mini_1_green office icon"
+  },
+
+  "inc office/Databases/database_mini_1_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_1_orange"],
+    "body": ["!include <office/Databases/database_mini_1_orange>"],
+    "description": "database_mini_1_orange office icon"
+  },
+
+  "inc office/Databases/database_mini_2": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_2"],
+    "body": ["!include <office/Databases/database_mini_2>"],
+    "description": "database_mini_2 office icon"
+  },
+
+  "inc office/Databases/database_mini_2_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_2_blue"],
+    "body": ["!include <office/Databases/database_mini_2_blue>"],
+    "description": "database_mini_2_blue office icon"
+  },
+
+  "inc office/Databases/database_mini_2_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_2_ghosted"],
+    "body": ["!include <office/Databases/database_mini_2_ghosted>"],
+    "description": "database_mini_2_ghosted office icon"
+  },
+
+  "inc office/Databases/database_mini_2_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_2_green"],
+    "body": ["!include <office/Databases/database_mini_2_green>"],
+    "description": "database_mini_2_green office icon"
+  },
+
+  "inc office/Databases/database_mini_2_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_2_orange"],
+    "body": ["!include <office/Databases/database_mini_2_orange>"],
+    "description": "database_mini_2_orange office icon"
+  },
+
+  "inc office/Databases/database_mini_3": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_3"],
+    "body": ["!include <office/Databases/database_mini_3>"],
+    "description": "database_mini_3 office icon"
+  },
+
+  "inc office/Databases/database_mini_3_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_3_blue"],
+    "body": ["!include <office/Databases/database_mini_3_blue>"],
+    "description": "database_mini_3_blue office icon"
+  },
+
+  "inc office/Databases/database_mini_3_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_3_ghosted"],
+    "body": ["!include <office/Databases/database_mini_3_ghosted>"],
+    "description": "database_mini_3_ghosted office icon"
+  },
+
+  "inc office/Databases/database_mini_3_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_3_green"],
+    "body": ["!include <office/Databases/database_mini_3_green>"],
+    "description": "database_mini_3_green office icon"
+  },
+
+  "inc office/Databases/database_mini_3_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mini_3_orange"],
+    "body": ["!include <office/Databases/database_mini_3_orange>"],
+    "description": "database_mini_3_orange office icon"
+  },
+
+  "inc office/Databases/database_mirror": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mirror"],
+    "body": ["!include <office/Databases/database_mirror>"],
+    "description": "database_mirror office icon"
+  },
+
+  "inc office/Databases/database_mirror_witness_node": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_mirror_witness_node"],
+    "body": ["!include <office/Databases/database_mirror_witness_node>"],
+    "description": "database_mirror_witness_node office icon"
+  },
+
+  "inc office/Databases/database_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_orange"],
+    "body": ["!include <office/Databases/database_orange>"],
+    "description": "database_orange office icon"
+  },
+
+  "inc office/Databases/database_partition_2": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_partition_2"],
+    "body": ["!include <office/Databases/database_partition_2>"],
+    "description": "database_partition_2 office icon"
+  },
+
+  "inc office/Databases/database_partition_3": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_partition_3"],
+    "body": ["!include <office/Databases/database_partition_3>"],
+    "description": "database_partition_3 office icon"
+  },
+
+  "inc office/Databases/database_partition_4": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_partition_4"],
+    "body": ["!include <office/Databases/database_partition_4>"],
+    "description": "database_partition_4 office icon"
+  },
+
+  "inc office/Databases/database_partition_5": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_partition_5"],
+    "body": ["!include <office/Databases/database_partition_5>"],
+    "description": "database_partition_5 office icon"
+  },
+
+  "inc office/Databases/database_public_folder": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_public_folder"],
+    "body": ["!include <office/Databases/database_public_folder>"],
+    "description": "database_public_folder office icon"
+  },
+
+  "inc office/Databases/database_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server"],
+    "body": ["!include <office/Databases/database_server>"],
+    "description": "database_server office icon"
+  },
+
+  "inc office/Databases/database_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_blue"],
+    "body": ["!include <office/Databases/database_server_blue>"],
+    "description": "database_server_blue office icon"
+  },
+
+  "inc office/Databases/database_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_ghosted"],
+    "body": ["!include <office/Databases/database_server_ghosted>"],
+    "description": "database_server_ghosted office icon"
+  },
+
+  "inc office/Databases/database_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_green"],
+    "body": ["!include <office/Databases/database_server_green>"],
+    "description": "database_server_green office icon"
+  },
+
+  "inc office/Databases/database_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_orange"],
+    "body": ["!include <office/Databases/database_server_orange>"],
+    "description": "database_server_orange office icon"
+  },
+
+  "inc office/Databases/mailbox_database": {
+    "scope": "diagram",
+    "prefix": ["i-off_mailbox_database"],
+    "body": ["!include <office/Databases/mailbox_database>"],
+    "description": "mailbox_database office icon"
+  },
+
+  "inc office/Databases/monitoring_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_monitoring_store"],
+    "body": ["!include <office/Databases/monitoring_store>"],
+    "description": "monitoring_store office icon"
+  },
+
+  "inc office/Databases/unified_contact_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_unified_contact_store"],
+    "body": ["!include <office/Databases/unified_contact_store>"],
+    "description": "unified_contact_store office icon"
+  },
+
+  "inc office/Databases/web_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_store"],
+    "body": ["!include <office/Databases/web_store>"],
+    "description": "web_store office icon"
+  },
+
+  "inc office/Devices/cd_dvd": {
+    "scope": "diagram",
+    "prefix": ["i-off_cd_dvd"],
+    "body": ["!include <office/Devices/cd_dvd>"],
+    "description": "cd_dvd office icon"
+  },
+
+  "inc office/Devices/cell_phone_android_proportional": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_android_proportional"],
+    "body": ["!include <office/Devices/cell_phone_android_proportional>"],
+    "description": "cell_phone_android_proportional office icon"
+  },
+
+  "inc office/Devices/cell_phone_android_stand_alone": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_android_stand_alone"],
+    "body": ["!include <office/Devices/cell_phone_android_stand_alone>"],
+    "description": "cell_phone_android_stand_alone office icon"
+  },
+
+  "inc office/Devices/cell_phone_generic": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_generic"],
+    "body": ["!include <office/Devices/cell_phone_generic>"],
+    "description": "cell_phone_generic office icon"
+  },
+
+  "inc office/Devices/cell_phone_iphone_proportional": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_iphone_proportional"],
+    "body": ["!include <office/Devices/cell_phone_iphone_proportional>"],
+    "description": "cell_phone_iphone_proportional office icon"
+  },
+
+  "inc office/Devices/cell_phone_iphone_stand_alone": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_iphone_stand_alone"],
+    "body": ["!include <office/Devices/cell_phone_iphone_stand_alone>"],
+    "description": "cell_phone_iphone_stand_alone office icon"
+  },
+
+  "inc office/Devices/cell_phone_windows_phone_proportional": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_windows_phone_proportional"],
+    "body": ["!include <office/Devices/cell_phone_windows_phone_proportional>"],
+    "description": "cell_phone_windows_phone_proportional office icon"
+  },
+
+  "inc office/Devices/cell_phone_windows_phone_stand_alone": {
+    "scope": "diagram",
+    "prefix": ["i-off_cell_phone_windows_phone_stand_alone"],
+    "body": ["!include <office/Devices/cell_phone_windows_phone_stand_alone>"],
+    "description": "cell_phone_windows_phone_stand_alone office icon"
+  },
+
+  "inc office/Devices/data_jack": {
+    "scope": "diagram",
+    "prefix": ["i-off_data_jack"],
+    "body": ["!include <office/Devices/data_jack>"],
+    "description": "data_jack office icon"
+  },
+
+  "inc office/Devices/device_bluetooth": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_bluetooth"],
+    "body": ["!include <office/Devices/device_bluetooth>"],
+    "description": "device_bluetooth office icon"
+  },
+
+  "inc office/Devices/device_fax": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_fax"],
+    "body": ["!include <office/Devices/device_fax>"],
+    "description": "device_fax office icon"
+  },
+
+  "inc office/Devices/device_headset": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_headset"],
+    "body": ["!include <office/Devices/device_headset>"],
+    "description": "device_headset office icon"
+  },
+
+  "inc office/Devices/device_laptop": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_laptop"],
+    "body": ["!include <office/Devices/device_laptop>"],
+    "description": "device_laptop office icon"
+  },
+
+  "inc office/Devices/device_lcd_monitor": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_lcd_monitor"],
+    "body": ["!include <office/Devices/device_lcd_monitor>"],
+    "description": "device_lcd_monitor office icon"
+  },
+
+  "inc office/Devices/device_mac_client": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_mac_client"],
+    "body": ["!include <office/Devices/device_mac_client>"],
+    "description": "device_mac_client office icon"
+  },
+
+  "inc office/Devices/device_microphone": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_microphone"],
+    "body": ["!include <office/Devices/device_microphone>"],
+    "description": "device_microphone office icon"
+  },
+
+  "inc office/Devices/device_phone_digital": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_phone_digital"],
+    "body": ["!include <office/Devices/device_phone_digital>"],
+    "description": "device_phone_digital office icon"
+  },
+
+  "inc office/Devices/device_phone_traditional": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_phone_traditional"],
+    "body": ["!include <office/Devices/device_phone_traditional>"],
+    "description": "device_phone_traditional office icon"
+  },
+
+  "inc office/Devices/device_phone_usb": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_phone_usb"],
+    "body": ["!include <office/Devices/device_phone_usb>"],
+    "description": "device_phone_usb office icon"
+  },
+
+  "inc office/Devices/device_phone_voip": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_phone_voip"],
+    "body": ["!include <office/Devices/device_phone_voip>"],
+    "description": "device_phone_voip office icon"
+  },
+
+  "inc office/Devices/device_printer": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_printer"],
+    "body": ["!include <office/Devices/device_printer>"],
+    "description": "device_printer office icon"
+  },
+
+  "inc office/Devices/device_roundtable": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_roundtable"],
+    "body": ["!include <office/Devices/device_roundtable>"],
+    "description": "device_roundtable office icon"
+  },
+
+  "inc office/Devices/device_stylus": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_stylus"],
+    "body": ["!include <office/Devices/device_stylus>"],
+    "description": "device_stylus office icon"
+  },
+
+  "inc office/Devices/device_tablet_android": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tablet_android"],
+    "body": ["!include <office/Devices/device_tablet_android>"],
+    "description": "device_tablet_android office icon"
+  },
+
+  "inc office/Devices/device_tablet_ipad": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tablet_ipad"],
+    "body": ["!include <office/Devices/device_tablet_ipad>"],
+    "description": "device_tablet_ipad office icon"
+  },
+
+  "inc office/Devices/device_tablet_ipad_mini": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tablet_ipad_mini"],
+    "body": ["!include <office/Devices/device_tablet_ipad_mini>"],
+    "description": "device_tablet_ipad_mini office icon"
+  },
+
+  "inc office/Devices/device_tablet_windows_7_inch": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tablet_windows_7_inch"],
+    "body": ["!include <office/Devices/device_tablet_windows_7_inch>"],
+    "description": "device_tablet_windows_7_inch office icon"
+  },
+
+  "inc office/Devices/device_tablet_windows_8": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tablet_windows_8"],
+    "body": ["!include <office/Devices/device_tablet_windows_8>"],
+    "description": "device_tablet_windows_8 office icon"
+  },
+
+  "inc office/Devices/device_tv": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_tv"],
+    "body": ["!include <office/Devices/device_tv>"],
+    "description": "device_tv office icon"
+  },
+
+  "inc office/Devices/device_update_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_update_service"],
+    "body": ["!include <office/Devices/device_update_service>"],
+    "description": "device_update_service office icon"
+  },
+
+  "inc office/Devices/device_webcam": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_webcam"],
+    "body": ["!include <office/Devices/device_webcam>"],
+    "description": "device_webcam office icon"
+  },
+
+  "inc office/Devices/device_webcam_hd": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_webcam_hd"],
+    "body": ["!include <office/Devices/device_webcam_hd>"],
+    "description": "device_webcam_hd office icon"
+  },
+
+  "inc office/Devices/hard_disk": {
+    "scope": "diagram",
+    "prefix": ["i-off_hard_disk"],
+    "body": ["!include <office/Devices/hard_disk>"],
+    "description": "hard_disk office icon"
+  },
+
+  "inc office/Devices/ip_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_ip_gateway"],
+    "body": ["!include <office/Devices/ip_gateway>"],
+    "description": "ip_gateway office icon"
+  },
+
+  "inc office/Devices/ip_pbx": {
+    "scope": "diagram",
+    "prefix": ["i-off_ip_pbx"],
+    "body": ["!include <office/Devices/ip_pbx>"],
+    "description": "ip_pbx office icon"
+  },
+
+  "inc office/Devices/load_balancer": {
+    "scope": "diagram",
+    "prefix": ["i-off_load_balancer"],
+    "body": ["!include <office/Devices/load_balancer>"],
+    "description": "load_balancer office icon"
+  },
+
+  "inc office/Devices/management_console": {
+    "scope": "diagram",
+    "prefix": ["i-off_management_console"],
+    "body": ["!include <office/Devices/management_console>"],
+    "description": "management_console office icon"
+  },
+
+  "inc office/Devices/modem": {
+    "scope": "diagram",
+    "prefix": ["i-off_modem"],
+    "body": ["!include <office/Devices/modem>"],
+    "description": "modem office icon"
+  },
+
+  "inc office/Devices/nic": {
+    "scope": "diagram",
+    "prefix": ["i-off_nic"],
+    "body": ["!include <office/Devices/nic>"],
+    "description": "nic office icon"
+  },
+
+  "inc office/Devices/router": {
+    "scope": "diagram",
+    "prefix": ["i-off_router"],
+    "body": ["!include <office/Devices/router>"],
+    "description": "router office icon"
+  },
+
+  "inc office/Devices/session_border_controller": {
+    "scope": "diagram",
+    "prefix": ["i-off_session_border_controller"],
+    "body": ["!include <office/Devices/session_border_controller>"],
+    "description": "session_border_controller office icon"
+  },
+
+  "inc office/Devices/shadowed_router": {
+    "scope": "diagram",
+    "prefix": ["i-off_shadowed_router"],
+    "body": ["!include <office/Devices/shadowed_router>"],
+    "description": "shadowed_router office icon"
+  },
+
+  "inc office/Devices/switch": {
+    "scope": "diagram",
+    "prefix": ["i-off_switch"],
+    "body": ["!include <office/Devices/switch>"],
+    "description": "switch office icon"
+  },
+
+  "inc office/Devices/video_camera": {
+    "scope": "diagram",
+    "prefix": ["i-off_video_camera"],
+    "body": ["!include <office/Devices/video_camera>"],
+    "description": "video_camera office icon"
+  },
+
+  "inc office/Devices/video_gateway": {
+    "scope": "diagram",
+    "prefix": ["i-off_video_gateway"],
+    "body": ["!include <office/Devices/video_gateway>"],
+    "description": "video_gateway office icon"
+  },
+
+  "inc office/Devices/workstation": {
+    "scope": "diagram",
+    "prefix": ["i-off_workstation"],
+    "body": ["!include <office/Devices/workstation>"],
+    "description": "workstation office icon"
+  },
+
+  "inc office/Devices/workstation_pc": {
+    "scope": "diagram",
+    "prefix": ["i-off_workstation_pc"],
+    "body": ["!include <office/Devices/workstation_pc>"],
+    "description": "workstation_pc office icon"
+  },
+
+  "inc office/Devices/workstation_visual_studio": {
+    "scope": "diagram",
+    "prefix": ["i-off_workstation_visual_studio"],
+    "body": ["!include <office/Devices/workstation_visual_studio>"],
+    "description": "workstation_visual_studio office icon"
+  },
+
+  "inc office/Security/active_directory": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory"],
+    "body": ["!include <office/Security/active_directory>"],
+    "description": "active_directory office icon"
+  },
+
+  "inc office/Security/address_book_policies": {
+    "scope": "diagram",
+    "prefix": ["i-off_address_book_policies"],
+    "body": ["!include <office/Security/address_book_policies>"],
+    "description": "address_book_policies office icon"
+  },
+
+  "inc office/Security/certificate": {
+    "scope": "diagram",
+    "prefix": ["i-off_certificate"],
+    "body": ["!include <office/Security/certificate>"],
+    "description": "certificate office icon"
+  },
+
+  "inc office/Security/credentials": {
+    "scope": "diagram",
+    "prefix": ["i-off_credentials"],
+    "body": ["!include <office/Security/credentials>"],
+    "description": "credentials office icon"
+  },
+
+  "inc office/Security/domain": {
+    "scope": "diagram",
+    "prefix": ["i-off_domain"],
+    "body": ["!include <office/Security/domain>"],
+    "description": "domain office icon"
+  },
+
+  "inc office/Security/email_address_policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_address_policy"],
+    "body": ["!include <office/Security/email_address_policy>"],
+    "description": "email_address_policy office icon"
+  },
+
+  "inc office/Security/federation_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_federation_service"],
+    "body": ["!include <office/Security/federation_service>"],
+    "description": "federation_service office icon"
+  },
+
+  "inc office/Security/federation_trust": {
+    "scope": "diagram",
+    "prefix": ["i-off_federation_trust"],
+    "body": ["!include <office/Security/federation_trust>"],
+    "description": "federation_trust office icon"
+  },
+
+  "inc office/Security/irm_protected_message": {
+    "scope": "diagram",
+    "prefix": ["i-off_irm_protected_message"],
+    "body": ["!include <office/Security/irm_protected_message>"],
+    "description": "irm_protected_message office icon"
+  },
+
+  "inc office/Security/key_permissions": {
+    "scope": "diagram",
+    "prefix": ["i-off_key_permissions"],
+    "body": ["!include <office/Security/key_permissions>"],
+    "description": "key_permissions office icon"
+  },
+
+  "inc office/Security/key_permissions_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_key_permissions_blue"],
+    "body": ["!include <office/Security/key_permissions_blue>"],
+    "description": "key_permissions_blue office icon"
+  },
+
+  "inc office/Security/key_permissions_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_key_permissions_ghosted"],
+    "body": ["!include <office/Security/key_permissions_ghosted>"],
+    "description": "key_permissions_ghosted office icon"
+  },
+
+  "inc office/Security/key_permissions_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_key_permissions_green"],
+    "body": ["!include <office/Security/key_permissions_green>"],
+    "description": "key_permissions_green office icon"
+  },
+
+  "inc office/Security/key_permissions_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_key_permissions_orange"],
+    "body": ["!include <office/Security/key_permissions_orange>"],
+    "description": "key_permissions_orange office icon"
+  },
+
+  "inc office/Security/lock_protected": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_protected"],
+    "body": ["!include <office/Security/lock_protected>"],
+    "description": "lock_protected office icon"
+  },
+
+  "inc office/Security/lock_protected_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_protected_blue"],
+    "body": ["!include <office/Security/lock_protected_blue>"],
+    "description": "lock_protected_blue office icon"
+  },
+
+  "inc office/Security/lock_protected_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_protected_ghosted"],
+    "body": ["!include <office/Security/lock_protected_ghosted>"],
+    "description": "lock_protected_ghosted office icon"
+  },
+
+  "inc office/Security/lock_protected_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_protected_green"],
+    "body": ["!include <office/Security/lock_protected_green>"],
+    "description": "lock_protected_green office icon"
+  },
+
+  "inc office/Security/lock_protected_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_protected_orange"],
+    "body": ["!include <office/Security/lock_protected_orange>"],
+    "description": "lock_protected_orange office icon"
+  },
+
+  "inc office/Security/lock_unprotected": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_unprotected"],
+    "body": ["!include <office/Security/lock_unprotected>"],
+    "description": "lock_unprotected office icon"
+  },
+
+  "inc office/Security/lock_unprotected_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_unprotected_blue"],
+    "body": ["!include <office/Security/lock_unprotected_blue>"],
+    "description": "lock_unprotected_blue office icon"
+  },
+
+  "inc office/Security/lock_unprotected_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_unprotected_ghosted"],
+    "body": ["!include <office/Security/lock_unprotected_ghosted>"],
+    "description": "lock_unprotected_ghosted office icon"
+  },
+
+  "inc office/Security/lock_unprotected_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_unprotected_green"],
+    "body": ["!include <office/Security/lock_unprotected_green>"],
+    "description": "lock_unprotected_green office icon"
+  },
+
+  "inc office/Security/lock_unprotected_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_unprotected_orange"],
+    "body": ["!include <office/Security/lock_unprotected_orange>"],
+    "description": "lock_unprotected_orange office icon"
+  },
+
+  "inc office/Security/lock_with_key_security": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_with_key_security"],
+    "body": ["!include <office/Security/lock_with_key_security>"],
+    "description": "lock_with_key_security office icon"
+  },
+
+  "inc office/Security/lock_with_key_security_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_with_key_security_blue"],
+    "body": ["!include <office/Security/lock_with_key_security_blue>"],
+    "description": "lock_with_key_security_blue office icon"
+  },
+
+  "inc office/Security/lock_with_key_security_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_with_key_security_ghosted"],
+    "body": ["!include <office/Security/lock_with_key_security_ghosted>"],
+    "description": "lock_with_key_security_ghosted office icon"
+  },
+
+  "inc office/Security/lock_with_key_security_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_with_key_security_green"],
+    "body": ["!include <office/Security/lock_with_key_security_green>"],
+    "description": "lock_with_key_security_green office icon"
+  },
+
+  "inc office/Security/lock_with_key_security_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_lock_with_key_security_orange"],
+    "body": ["!include <office/Security/lock_with_key_security_orange>"],
+    "description": "lock_with_key_security_orange office icon"
+  },
+
+  "inc office/Security/management_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_management_role"],
+    "body": ["!include <office/Security/management_role>"],
+    "description": "management_role office icon"
+  },
+
+  "inc office/Security/policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_policy"],
+    "body": ["!include <office/Security/policy>"],
+    "description": "policy office icon"
+  },
+
+  "inc office/Security/protected_voice_mail": {
+    "scope": "diagram",
+    "prefix": ["i-off_protected_voice_mail"],
+    "body": ["!include <office/Security/protected_voice_mail>"],
+    "description": "protected_voice_mail office icon"
+  },
+
+  "inc office/Security/retention_policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_retention_policy"],
+    "body": ["!include <office/Security/retention_policy>"],
+    "description": "retention_policy office icon"
+  },
+
+  "inc office/Security/retention_policy_tag": {
+    "scope": "diagram",
+    "prefix": ["i-off_retention_policy_tag"],
+    "body": ["!include <office/Security/retention_policy_tag>"],
+    "description": "retention_policy_tag office icon"
+  },
+
+  "inc office/Security/role_assignment_policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_role_assignment_policy"],
+    "body": ["!include <office/Security/role_assignment_policy>"],
+    "description": "role_assignment_policy office icon"
+  },
+
+  "inc office/Security/role_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_role_group"],
+    "body": ["!include <office/Security/role_group>"],
+    "description": "role_group office icon"
+  },
+
+  "inc office/Security/secure_messaging": {
+    "scope": "diagram",
+    "prefix": ["i-off_secure_messaging"],
+    "body": ["!include <office/Security/secure_messaging>"],
+    "description": "secure_messaging office icon"
+  },
+
+  "inc office/Security/security_access_portal": {
+    "scope": "diagram",
+    "prefix": ["i-off_security_access_portal"],
+    "body": ["!include <office/Security/security_access_portal>"],
+    "description": "security_access_portal office icon"
+  },
+
+  "inc office/Security/sharing_policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_sharing_policy"],
+    "body": ["!include <office/Security/sharing_policy>"],
+    "description": "sharing_policy office icon"
+  },
+
+  "inc office/Security/split_domain_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_split_domain_user"],
+    "body": ["!include <office/Security/split_domain_user>"],
+    "description": "split_domain_user office icon"
+  },
+
+  "inc office/Security/token": {
+    "scope": "diagram",
+    "prefix": ["i-off_token"],
+    "body": ["!include <office/Security/token>"],
+    "description": "token office icon"
+  },
+
+  "inc office/Security/token_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_token_service"],
+    "body": ["!include <office/Security/token_service>"],
+    "description": "token_service office icon"
+  },
+
+  "inc office/Security/trusted_application_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_trusted_application_server"],
+    "body": ["!include <office/Security/trusted_application_server>"],
+    "description": "trusted_application_server office icon"
+  },
+
+  "inc office/Security/um_mailbox_policy": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_mailbox_policy"],
+    "body": ["!include <office/Security/um_mailbox_policy>"],
+    "description": "um_mailbox_policy office icon"
+  },
+
+  "inc office/Security/universal_security_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_universal_security_group"],
+    "body": ["!include <office/Security/universal_security_group>"],
+    "description": "universal_security_group office icon"
+  },
+
+  "inc office/Servers/3rd_party_mail_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_3rd_party_mail_server"],
+    "body": ["!include <office/Servers/3rd_party_mail_server>"],
+    "description": "3rd_party_mail_server office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_proxy": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_proxy"],
+    "body": ["!include <office/Servers/active_directory_federation_services_proxy>"],
+    "description": "active_directory_federation_services_proxy office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_server"],
+    "body": ["!include <office/Servers/active_directory_federation_services_server>"],
+    "description": "active_directory_federation_services_server office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_server_blue"],
+    "body": ["!include <office/Servers/active_directory_federation_services_server_blue>"],
+    "description": "active_directory_federation_services_server_blue office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_server_ghosted"],
+    "body": ["!include <office/Servers/active_directory_federation_services_server_ghosted>"],
+    "description": "active_directory_federation_services_server_ghosted office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_server_green"],
+    "body": ["!include <office/Servers/active_directory_federation_services_server_green>"],
+    "description": "active_directory_federation_services_server_green office icon"
+  },
+
+  "inc office/Servers/active_directory_federation_services_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_active_directory_federation_services_server_orange"],
+    "body": ["!include <office/Servers/active_directory_federation_services_server_orange>"],
+    "description": "active_directory_federation_services_server_orange office icon"
+  },
+
+  "inc office/Servers/application_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_server"],
+    "body": ["!include <office/Servers/application_server>"],
+    "description": "application_server office icon"
+  },
+
+  "inc office/Servers/application_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_server_blue"],
+    "body": ["!include <office/Servers/application_server_blue>"],
+    "description": "application_server_blue office icon"
+  },
+
+  "inc office/Servers/application_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_server_ghosted"],
+    "body": ["!include <office/Servers/application_server_ghosted>"],
+    "description": "application_server_ghosted office icon"
+  },
+
+  "inc office/Servers/application_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_server_green"],
+    "body": ["!include <office/Servers/application_server_green>"],
+    "description": "application_server_green office icon"
+  },
+
+  "inc office/Servers/application_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_application_server_orange"],
+    "body": ["!include <office/Servers/application_server_orange>"],
+    "description": "application_server_orange office icon"
+  },
+
+  "inc office/Servers/call_admission_control_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_call_admission_control_service"],
+    "body": ["!include <office/Servers/call_admission_control_service>"],
+    "description": "call_admission_control_service office icon"
+  },
+
+  "inc office/Servers/certificate_authority": {
+    "scope": "diagram",
+    "prefix": ["i-off_certificate_authority"],
+    "body": ["!include <office/Servers/certificate_authority>"],
+    "description": "certificate_authority office icon"
+  },
+
+  "inc office/Servers/cluster_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_cluster_server"],
+    "body": ["!include <office/Servers/cluster_server>"],
+    "description": "cluster_server office icon"
+  },
+
+  "inc office/Servers/cluster_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_cluster_server_blue"],
+    "body": ["!include <office/Servers/cluster_server_blue>"],
+    "description": "cluster_server_blue office icon"
+  },
+
+  "inc office/Servers/cluster_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_cluster_server_ghosted"],
+    "body": ["!include <office/Servers/cluster_server_ghosted>"],
+    "description": "cluster_server_ghosted office icon"
+  },
+
+  "inc office/Servers/cluster_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_cluster_server_green"],
+    "body": ["!include <office/Servers/cluster_server_green>"],
+    "description": "cluster_server_green office icon"
+  },
+
+  "inc office/Servers/cluster_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_cluster_server_orange"],
+    "body": ["!include <office/Servers/cluster_server_orange>"],
+    "description": "cluster_server_orange office icon"
+  },
+
+  "inc office/Servers/database_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server"],
+    "body": ["!include <office/Servers/database_server>"],
+    "description": "database_server office icon"
+  },
+
+  "inc office/Servers/database_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_blue"],
+    "body": ["!include <office/Servers/database_server_blue>"],
+    "description": "database_server_blue office icon"
+  },
+
+  "inc office/Servers/database_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_ghosted"],
+    "body": ["!include <office/Servers/database_server_ghosted>"],
+    "description": "database_server_ghosted office icon"
+  },
+
+  "inc office/Servers/database_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_green"],
+    "body": ["!include <office/Servers/database_server_green>"],
+    "description": "database_server_green office icon"
+  },
+
+  "inc office/Servers/database_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_database_server_orange"],
+    "body": ["!include <office/Servers/database_server_orange>"],
+    "description": "database_server_orange office icon"
+  },
+
+  "inc office/Servers/datacenter": {
+    "scope": "diagram",
+    "prefix": ["i-off_datacenter"],
+    "body": ["!include <office/Servers/datacenter>"],
+    "description": "datacenter office icon"
+  },
+
+  "inc office/Servers/dirsync_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_dirsync_server"],
+    "body": ["!include <office/Servers/dirsync_server>"],
+    "description": "dirsync_server office icon"
+  },
+
+  "inc office/Servers/domain_controller": {
+    "scope": "diagram",
+    "prefix": ["i-off_domain_controller"],
+    "body": ["!include <office/Servers/domain_controller>"],
+    "description": "domain_controller office icon"
+  },
+
+  "inc office/Servers/exchange_2010_client_access_server_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2010_client_access_server_role"],
+    "body": ["!include <office/Servers/exchange_2010_client_access_server_role>"],
+    "description": "exchange_2010_client_access_server_role office icon"
+  },
+
+  "inc office/Servers/exchange_2010_edge_transport_server_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2010_edge_transport_server_role"],
+    "body": ["!include <office/Servers/exchange_2010_edge_transport_server_role>"],
+    "description": "exchange_2010_edge_transport_server_role office icon"
+  },
+
+  "inc office/Servers/exchange_2010_hub_transport_server_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2010_hub_transport_server_role"],
+    "body": ["!include <office/Servers/exchange_2010_hub_transport_server_role>"],
+    "description": "exchange_2010_hub_transport_server_role office icon"
+  },
+
+  "inc office/Servers/exchange_2010_mailbox_server_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2010_mailbox_server_role"],
+    "body": ["!include <office/Servers/exchange_2010_mailbox_server_role>"],
+    "description": "exchange_2010_mailbox_server_role office icon"
+  },
+
+  "inc office/Servers/exchange_2010_um_server_role": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2010_um_server_role"],
+    "body": ["!include <office/Servers/exchange_2010_um_server_role>"],
+    "description": "exchange_2010_um_server_role office icon"
+  },
+
+  "inc office/Servers/exchange_2013_client_access_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2013_client_access_server"],
+    "body": ["!include <office/Servers/exchange_2013_client_access_server>"],
+    "description": "exchange_2013_client_access_server office icon"
+  },
+
+  "inc office/Servers/exchange_2013_edge_transport_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2013_edge_transport_server"],
+    "body": ["!include <office/Servers/exchange_2013_edge_transport_server>"],
+    "description": "exchange_2013_edge_transport_server office icon"
+  },
+
+  "inc office/Servers/exchange_2013_mailbox_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2013_mailbox_server"],
+    "body": ["!include <office/Servers/exchange_2013_mailbox_server>"],
+    "description": "exchange_2013_mailbox_server office icon"
+  },
+
+  "inc office/Servers/exchange_2013_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_exchange_2013_server"],
+    "body": ["!include <office/Servers/exchange_2013_server>"],
+    "description": "exchange_2013_server office icon"
+  },
+
+  "inc office/Servers/file_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_file_server"],
+    "body": ["!include <office/Servers/file_server>"],
+    "description": "file_server office icon"
+  },
+
+  "inc office/Servers/hybrid_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_hybrid_server"],
+    "body": ["!include <office/Servers/hybrid_server>"],
+    "description": "hybrid_server office icon"
+  },
+
+  "inc office/Servers/mainframe": {
+    "scope": "diagram",
+    "prefix": ["i-off_mainframe"],
+    "body": ["!include <office/Servers/mainframe>"],
+    "description": "mainframe office icon"
+  },
+
+  "inc office/Servers/mainframe_host": {
+    "scope": "diagram",
+    "prefix": ["i-off_mainframe_host"],
+    "body": ["!include <office/Servers/mainframe_host>"],
+    "description": "mainframe_host office icon"
+  },
+
+  "inc office/Servers/monitoring_sql_reporting_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_monitoring_sql_reporting_services"],
+    "body": ["!include <office/Servers/monitoring_sql_reporting_services>"],
+    "description": "monitoring_sql_reporting_services office icon"
+  },
+
+  "inc office/Servers/network": {
+    "scope": "diagram",
+    "prefix": ["i-off_network"],
+    "body": ["!include <office/Servers/network>"],
+    "description": "network office icon"
+  },
+
+  "inc office/Servers/office_web_apps_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_office_web_apps_server"],
+    "body": ["!include <office/Servers/office_web_apps_server>"],
+    "description": "office_web_apps_server office icon"
+  },
+
+  "inc office/Servers/on_premises_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_on_premises_server"],
+    "body": ["!include <office/Servers/on_premises_server>"],
+    "description": "on_premises_server office icon"
+  },
+
+  "inc office/Servers/physical_host_farm_solid_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_physical_host_farm_solid_blue"],
+    "body": ["!include <office/Servers/physical_host_farm_solid_blue>"],
+    "description": "physical_host_farm_solid_blue office icon"
+  },
+
+  "inc office/Servers/physical_host_solid_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_physical_host_solid_blue"],
+    "body": ["!include <office/Servers/physical_host_solid_blue>"],
+    "description": "physical_host_solid_blue office icon"
+  },
+
+  "inc office/Servers/reverse_proxy": {
+    "scope": "diagram",
+    "prefix": ["i-off_reverse_proxy"],
+    "body": ["!include <office/Servers/reverse_proxy>"],
+    "description": "reverse_proxy office icon"
+  },
+
+  "inc office/Servers/scom": {
+    "scope": "diagram",
+    "prefix": ["i-off_scom"],
+    "body": ["!include <office/Servers/scom>"],
+    "description": "scom office icon"
+  },
+
+  "inc office/Servers/server_disaster": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_disaster"],
+    "body": ["!include <office/Servers/server_disaster>"],
+    "description": "server_disaster office icon"
+  },
+
+  "inc office/Servers/server_farm": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_farm"],
+    "body": ["!include <office/Servers/server_farm>"],
+    "description": "server_farm office icon"
+  },
+
+  "inc office/Servers/server_farm_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_farm_blue"],
+    "body": ["!include <office/Servers/server_farm_blue>"],
+    "description": "server_farm_blue office icon"
+  },
+
+  "inc office/Servers/server_farm_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_farm_ghosted"],
+    "body": ["!include <office/Servers/server_farm_ghosted>"],
+    "description": "server_farm_ghosted office icon"
+  },
+
+  "inc office/Servers/server_farm_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_farm_green"],
+    "body": ["!include <office/Servers/server_farm_green>"],
+    "description": "server_farm_green office icon"
+  },
+
+  "inc office/Servers/server_farm_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_farm_orange"],
+    "body": ["!include <office/Servers/server_farm_orange>"],
+    "description": "server_farm_orange office icon"
+  },
+
+  "inc office/Servers/server_generic": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_generic"],
+    "body": ["!include <office/Servers/server_generic>"],
+    "description": "server_generic office icon"
+  },
+
+  "inc office/Servers/server_generic_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_generic_blue"],
+    "body": ["!include <office/Servers/server_generic_blue>"],
+    "description": "server_generic_blue office icon"
+  },
+
+  "inc office/Servers/server_generic_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_generic_ghosted"],
+    "body": ["!include <office/Servers/server_generic_ghosted>"],
+    "description": "server_generic_ghosted office icon"
+  },
+
+  "inc office/Servers/server_generic_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_generic_green"],
+    "body": ["!include <office/Servers/server_generic_green>"],
+    "description": "server_generic_green office icon"
+  },
+
+  "inc office/Servers/server_generic_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_generic_orange"],
+    "body": ["!include <office/Servers/server_generic_orange>"],
+    "description": "server_generic_orange office icon"
+  },
+
+  "inc office/Servers/server_side_code": {
+    "scope": "diagram",
+    "prefix": ["i-off_server_side_code"],
+    "body": ["!include <office/Servers/server_side_code>"],
+    "description": "server_side_code office icon"
+  },
+
+  "inc office/Servers/sharepoint_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_sharepoint_server"],
+    "body": ["!include <office/Servers/sharepoint_server>"],
+    "description": "sharepoint_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_back_end_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_back_end_server"],
+    "body": ["!include <office/Servers/skype_for_business_back_end_server>"],
+    "description": "skype_for_business_back_end_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_back_end_server_mirror": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_back_end_server_mirror"],
+    "body": ["!include <office/Servers/skype_for_business_back_end_server_mirror>"],
+    "description": "skype_for_business_back_end_server_mirror office icon"
+  },
+
+  "inc office/Servers/skype_for_business_director": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_director"],
+    "body": ["!include <office/Servers/skype_for_business_director>"],
+    "description": "skype_for_business_director office icon"
+  },
+
+  "inc office/Servers/skype_for_business_director_array": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_director_array"],
+    "body": ["!include <office/Servers/skype_for_business_director_array>"],
+    "description": "skype_for_business_director_array office icon"
+  },
+
+  "inc office/Servers/skype_for_business_edge_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_edge_server"],
+    "body": ["!include <office/Servers/skype_for_business_edge_server>"],
+    "description": "skype_for_business_edge_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_edge_server_pool": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_edge_server_pool"],
+    "body": ["!include <office/Servers/skype_for_business_edge_server_pool>"],
+    "description": "skype_for_business_edge_server_pool office icon"
+  },
+
+  "inc office/Servers/skype_for_business_front_end_pool": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_front_end_pool"],
+    "body": ["!include <office/Servers/skype_for_business_front_end_pool>"],
+    "description": "skype_for_business_front_end_pool office icon"
+  },
+
+  "inc office/Servers/skype_for_business_front_end_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_front_end_server"],
+    "body": ["!include <office/Servers/skype_for_business_front_end_server>"],
+    "description": "skype_for_business_front_end_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_mediation_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_mediation_server"],
+    "body": ["!include <office/Servers/skype_for_business_mediation_server>"],
+    "description": "skype_for_business_mediation_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_monitoring_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_monitoring_server"],
+    "body": ["!include <office/Servers/skype_for_business_monitoring_server>"],
+    "description": "skype_for_business_monitoring_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_persistent_chat_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_persistent_chat_server"],
+    "body": ["!include <office/Servers/skype_for_business_persistent_chat_server>"],
+    "description": "skype_for_business_persistent_chat_server office icon"
+  },
+
+  "inc office/Servers/skype_for_business_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_server"],
+    "body": ["!include <office/Servers/skype_for_business_server>"],
+    "description": "skype_for_business_server office icon"
+  },
+
+  "inc office/Servers/sql_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_sql_server"],
+    "body": ["!include <office/Servers/sql_server>"],
+    "description": "sql_server office icon"
+  },
+
+  "inc office/Servers/survivable_branch_appliance": {
+    "scope": "diagram",
+    "prefix": ["i-off_survivable_branch_appliance"],
+    "body": ["!include <office/Servers/survivable_branch_appliance>"],
+    "description": "survivable_branch_appliance office icon"
+  },
+
+  "inc office/Servers/survivable_branch_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_survivable_branch_server"],
+    "body": ["!include <office/Servers/survivable_branch_server>"],
+    "description": "survivable_branch_server office icon"
+  },
+
+  "inc office/Servers/topology_builder": {
+    "scope": "diagram",
+    "prefix": ["i-off_topology_builder"],
+    "body": ["!include <office/Servers/topology_builder>"],
+    "description": "topology_builder office icon"
+  },
+
+  "inc office/Servers/trusted_application_pool": {
+    "scope": "diagram",
+    "prefix": ["i-off_trusted_application_pool"],
+    "body": ["!include <office/Servers/trusted_application_pool>"],
+    "description": "trusted_application_pool office icon"
+  },
+
+  "inc office/Servers/trusted_application_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_trusted_application_server"],
+    "body": ["!include <office/Servers/trusted_application_server>"],
+    "description": "trusted_application_server office icon"
+  },
+
+  "inc office/Servers/tunnel_angled": {
+    "scope": "diagram",
+    "prefix": ["i-off_tunnel_angled"],
+    "body": ["!include <office/Servers/tunnel_angled>"],
+    "description": "tunnel_angled office icon"
+  },
+
+  "inc office/Servers/tunnel_straight": {
+    "scope": "diagram",
+    "prefix": ["i-off_tunnel_straight"],
+    "body": ["!include <office/Servers/tunnel_straight>"],
+    "description": "tunnel_straight office icon"
+  },
+
+  "inc office/Servers/video_interop_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_video_interop_server"],
+    "body": ["!include <office/Servers/video_interop_server>"],
+    "description": "video_interop_server office icon"
+  },
+
+  "inc office/Servers/virtual_application_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_application_server"],
+    "body": ["!include <office/Servers/virtual_application_server>"],
+    "description": "virtual_application_server office icon"
+  },
+
+  "inc office/Servers/virtual_application_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_application_server_blue"],
+    "body": ["!include <office/Servers/virtual_application_server_blue>"],
+    "description": "virtual_application_server_blue office icon"
+  },
+
+  "inc office/Servers/virtual_database_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_database_server"],
+    "body": ["!include <office/Servers/virtual_database_server>"],
+    "description": "virtual_database_server office icon"
+  },
+
+  "inc office/Servers/virtual_database_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_database_server_blue"],
+    "body": ["!include <office/Servers/virtual_database_server_blue>"],
+    "description": "virtual_database_server_blue office icon"
+  },
+
+  "inc office/Servers/virtual_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_server"],
+    "body": ["!include <office/Servers/virtual_server>"],
+    "description": "virtual_server office icon"
+  },
+
+  "inc office/Servers/virtual_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_server_blue"],
+    "body": ["!include <office/Servers/virtual_server_blue>"],
+    "description": "virtual_server_blue office icon"
+  },
+
+  "inc office/Servers/virtual_web_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_web_server"],
+    "body": ["!include <office/Servers/virtual_web_server>"],
+    "description": "virtual_web_server office icon"
+  },
+
+  "inc office/Servers/virtual_web_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_virtual_web_server_blue"],
+    "body": ["!include <office/Servers/virtual_web_server_blue>"],
+    "description": "virtual_web_server_blue office icon"
+  },
+
+  "inc office/Servers/voicemail_preview_partner": {
+    "scope": "diagram",
+    "prefix": ["i-off_voicemail_preview_partner"],
+    "body": ["!include <office/Servers/voicemail_preview_partner>"],
+    "description": "voicemail_preview_partner office icon"
+  },
+
+  "inc office/Servers/web_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_server"],
+    "body": ["!include <office/Servers/web_server>"],
+    "description": "web_server office icon"
+  },
+
+  "inc office/Servers/web_server_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_server_blue"],
+    "body": ["!include <office/Servers/web_server_blue>"],
+    "description": "web_server_blue office icon"
+  },
+
+  "inc office/Servers/web_server_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_server_ghosted"],
+    "body": ["!include <office/Servers/web_server_ghosted>"],
+    "description": "web_server_ghosted office icon"
+  },
+
+  "inc office/Servers/web_server_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_server_green"],
+    "body": ["!include <office/Servers/web_server_green>"],
+    "description": "web_server_green office icon"
+  },
+
+  "inc office/Servers/web_server_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_server_orange"],
+    "body": ["!include <office/Servers/web_server_orange>"],
+    "description": "web_server_orange office icon"
+  },
+
+  "inc office/Servers/windows_router": {
+    "scope": "diagram",
+    "prefix": ["i-off_windows_router"],
+    "body": ["!include <office/Servers/windows_router>"],
+    "description": "windows_router office icon"
+  },
+
+  "inc office/Servers/windows_server": {
+    "scope": "diagram",
+    "prefix": ["i-off_windows_server"],
+    "body": ["!include <office/Servers/windows_server>"],
+    "description": "windows_server office icon"
+  },
+
+  "inc office/Services/3rd_party_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_3rd_party_service"],
+    "body": ["!include <office/Services/3rd_party_service>"],
+    "description": "3rd_party_service office icon"
+  },
+
+  "inc office/Services/access_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_access_services"],
+    "body": ["!include <office/Services/access_services>"],
+    "description": "access_services office icon"
+  },
+
+  "inc office/Services/business_connectivity_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_business_connectivity_services"],
+    "body": ["!include <office/Services/business_connectivity_services>"],
+    "description": "business_connectivity_services office icon"
+  },
+
+  "inc office/Services/call_admission_control_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_call_admission_control_service"],
+    "body": ["!include <office/Services/call_admission_control_service>"],
+    "description": "call_admission_control_service office icon"
+  },
+
+  "inc office/Services/central_management_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_central_management_service"],
+    "body": ["!include <office/Services/central_management_service>"],
+    "description": "central_management_service office icon"
+  },
+
+  "inc office/Services/conference_announcement_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_conference_announcement_service"],
+    "body": ["!include <office/Services/conference_announcement_service>"],
+    "description": "conference_announcement_service office icon"
+  },
+
+  "inc office/Services/device_update_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_device_update_service"],
+    "body": ["!include <office/Services/device_update_service>"],
+    "description": "device_update_service office icon"
+  },
+
+  "inc office/Services/email_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_email_service"],
+    "body": ["!include <office/Services/email_service>"],
+    "description": "email_service office icon"
+  },
+
+  "inc office/Services/excel_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_excel_services"],
+    "body": ["!include <office/Services/excel_services>"],
+    "description": "excel_services office icon"
+  },
+
+  "inc office/Services/federation_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_federation_service"],
+    "body": ["!include <office/Services/federation_service>"],
+    "description": "federation_service office icon"
+  },
+
+  "inc office/Services/lync_storage_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_storage_service"],
+    "body": ["!include <office/Services/lync_storage_service>"],
+    "description": "lync_storage_service office icon"
+  },
+
+  "inc office/Services/lync_web_app_client": {
+    "scope": "diagram",
+    "prefix": ["i-off_lync_web_app_client"],
+    "body": ["!include <office/Services/lync_web_app_client>"],
+    "description": "lync_web_app_client office icon"
+  },
+
+  "inc office/Services/mobility_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_mobility_service"],
+    "body": ["!include <office/Services/mobility_service>"],
+    "description": "mobility_service office icon"
+  },
+
+  "inc office/Services/network_file_share_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_network_file_share_service"],
+    "body": ["!include <office/Services/network_file_share_service>"],
+    "description": "network_file_share_service office icon"
+  },
+
+  "inc office/Services/online_hosted_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_online_hosted_services"],
+    "body": ["!include <office/Services/online_hosted_services>"],
+    "description": "online_hosted_services office icon"
+  },
+
+  "inc office/Services/outlook_web_app": {
+    "scope": "diagram",
+    "prefix": ["i-off_outlook_web_app"],
+    "body": ["!include <office/Services/outlook_web_app>"],
+    "description": "outlook_web_app office icon"
+  },
+
+  "inc office/Services/powerpoint_automation_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_powerpoint_automation_services"],
+    "body": ["!include <office/Services/powerpoint_automation_services>"],
+    "description": "powerpoint_automation_services office icon"
+  },
+
+  "inc office/Services/push_notification_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_push_notification_service"],
+    "body": ["!include <office/Services/push_notification_service>"],
+    "description": "push_notification_service office icon"
+  },
+
+  "inc office/Services/registrar_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_registrar_service"],
+    "body": ["!include <office/Services/registrar_service>"],
+    "description": "registrar_service office icon"
+  },
+
+  "inc office/Services/response_group_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_response_group_service"],
+    "body": ["!include <office/Services/response_group_service>"],
+    "description": "response_group_service office icon"
+  },
+
+  "inc office/Services/skype_for_business_storage_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_storage_service"],
+    "body": ["!include <office/Services/skype_for_business_storage_service>"],
+    "description": "skype_for_business_storage_service office icon"
+  },
+
+  "inc office/Services/user_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_services"],
+    "body": ["!include <office/Services/user_services>"],
+    "description": "user_services office icon"
+  },
+
+  "inc office/Services/verification_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_verification_service"],
+    "body": ["!include <office/Services/verification_service>"],
+    "description": "verification_service office icon"
+  },
+
+  "inc office/Services/visio_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_visio_services"],
+    "body": ["!include <office/Services/visio_services>"],
+    "description": "visio_services office icon"
+  },
+
+  "inc office/Services/web_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_web_services"],
+    "body": ["!include <office/Services/web_services>"],
+    "description": "web_services office icon"
+  },
+
+  "inc office/Services/word_automation_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_word_automation_services"],
+    "body": ["!include <office/Services/word_automation_services>"],
+    "description": "word_automation_services office icon"
+  },
+
+  "inc office/Services/xmpp_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_xmpp_service"],
+    "body": ["!include <office/Services/xmpp_service>"],
+    "description": "xmpp_service office icon"
+  },
+
+  "inc office/Sites/access_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_access_services"],
+    "body": ["!include <office/Sites/access_services>"],
+    "description": "access_services office icon"
+  },
+
+  "inc office/Sites/blog_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_blog_site"],
+    "body": ["!include <office/Sites/blog_site>"],
+    "description": "blog_site office icon"
+  },
+
+  "inc office/Sites/business_connectivity_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_business_connectivity_services"],
+    "body": ["!include <office/Sites/business_connectivity_services>"],
+    "description": "business_connectivity_services office icon"
+  },
+
+  "inc office/Sites/excel_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_excel_services"],
+    "body": ["!include <office/Sites/excel_services>"],
+    "description": "excel_services office icon"
+  },
+
+  "inc office/Sites/meeting_workspace_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_meeting_workspace_site"],
+    "body": ["!include <office/Sites/meeting_workspace_site>"],
+    "description": "meeting_workspace_site office icon"
+  },
+
+  "inc office/Sites/my_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_my_site"],
+    "body": ["!include <office/Sites/my_site>"],
+    "description": "my_site office icon"
+  },
+
+  "inc office/Sites/powerpoint_automation_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_powerpoint_automation_services"],
+    "body": ["!include <office/Sites/powerpoint_automation_services>"],
+    "description": "powerpoint_automation_services office icon"
+  },
+
+  "inc office/Sites/publish": {
+    "scope": "diagram",
+    "prefix": ["i-off_publish"],
+    "body": ["!include <office/Sites/publish>"],
+    "description": "publish office icon"
+  },
+
+  "inc office/Sites/site_collection": {
+    "scope": "diagram",
+    "prefix": ["i-off_site_collection"],
+    "body": ["!include <office/Sites/site_collection>"],
+    "description": "site_collection office icon"
+  },
+
+  "inc office/Sites/site_shared": {
+    "scope": "diagram",
+    "prefix": ["i-off_site_shared"],
+    "body": ["!include <office/Sites/site_shared>"],
+    "description": "site_shared office icon"
+  },
+
+  "inc office/Sites/site_team": {
+    "scope": "diagram",
+    "prefix": ["i-off_site_team"],
+    "body": ["!include <office/Sites/site_team>"],
+    "description": "site_team office icon"
+  },
+
+  "inc office/Sites/subsite": {
+    "scope": "diagram",
+    "prefix": ["i-off_subsite"],
+    "body": ["!include <office/Sites/subsite>"],
+    "description": "subsite office icon"
+  },
+
+  "inc office/Sites/subsite_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_subsite_blue"],
+    "body": ["!include <office/Sites/subsite_blue>"],
+    "description": "subsite_blue office icon"
+  },
+
+  "inc office/Sites/subsite_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_subsite_ghosted"],
+    "body": ["!include <office/Sites/subsite_ghosted>"],
+    "description": "subsite_ghosted office icon"
+  },
+
+  "inc office/Sites/subsite_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_subsite_green"],
+    "body": ["!include <office/Sites/subsite_green>"],
+    "description": "subsite_green office icon"
+  },
+
+  "inc office/Sites/subsite_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_subsite_orange"],
+    "body": ["!include <office/Sites/subsite_orange>"],
+    "description": "subsite_orange office icon"
+  },
+
+  "inc office/Sites/upgrade_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_upgrade_site"],
+    "body": ["!include <office/Sites/upgrade_site>"],
+    "description": "upgrade_site office icon"
+  },
+
+  "inc office/Sites/visio_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_visio_services"],
+    "body": ["!include <office/Sites/visio_services>"],
+    "description": "visio_services office icon"
+  },
+
+  "inc office/Sites/website": {
+    "scope": "diagram",
+    "prefix": ["i-off_website"],
+    "body": ["!include <office/Sites/website>"],
+    "description": "website office icon"
+  },
+
+  "inc office/Sites/website_public": {
+    "scope": "diagram",
+    "prefix": ["i-off_website_public"],
+    "body": ["!include <office/Sites/website_public>"],
+    "description": "website_public office icon"
+  },
+
+  "inc office/Sites/wiki_site": {
+    "scope": "diagram",
+    "prefix": ["i-off_wiki_site"],
+    "body": ["!include <office/Sites/wiki_site>"],
+    "description": "wiki_site office icon"
+  },
+
+  "inc office/Sites/word_automation_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_word_automation_services"],
+    "body": ["!include <office/Sites/word_automation_services>"],
+    "description": "word_automation_services office icon"
+  },
+
+  "inc office/Users/administrator": {
+    "scope": "diagram",
+    "prefix": ["i-off_administrator"],
+    "body": ["!include <office/Users/administrator>"],
+    "description": "administrator office icon"
+  },
+
+  "inc office/Users/approver": {
+    "scope": "diagram",
+    "prefix": ["i-off_approver"],
+    "body": ["!include <office/Users/approver>"],
+    "description": "approver office icon"
+  },
+
+  "inc office/Users/call_center_agent": {
+    "scope": "diagram",
+    "prefix": ["i-off_call_center_agent"],
+    "body": ["!include <office/Users/call_center_agent>"],
+    "description": "call_center_agent office icon"
+  },
+
+  "inc office/Users/communications": {
+    "scope": "diagram",
+    "prefix": ["i-off_communications"],
+    "body": ["!include <office/Users/communications>"],
+    "description": "communications office icon"
+  },
+
+  "inc office/Users/conferencing_attendant": {
+    "scope": "diagram",
+    "prefix": ["i-off_conferencing_attendant"],
+    "body": ["!include <office/Users/conferencing_attendant>"],
+    "description": "conferencing_attendant office icon"
+  },
+
+  "inc office/Users/credentials": {
+    "scope": "diagram",
+    "prefix": ["i-off_credentials"],
+    "body": ["!include <office/Users/credentials>"],
+    "description": "credentials office icon"
+  },
+
+  "inc office/Users/csv_file": {
+    "scope": "diagram",
+    "prefix": ["i-off_csv_file"],
+    "body": ["!include <office/Users/csv_file>"],
+    "description": "csv_file office icon"
+  },
+
+  "inc office/Users/distribution_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_distribution_group"],
+    "body": ["!include <office/Users/distribution_group>"],
+    "description": "distribution_group office icon"
+  },
+
+  "inc office/Users/dynamic_distribution_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_dynamic_distribution_group"],
+    "body": ["!include <office/Users/dynamic_distribution_group>"],
+    "description": "dynamic_distribution_group office icon"
+  },
+
+  "inc office/Users/mail_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_mail_user"],
+    "body": ["!include <office/Users/mail_user>"],
+    "description": "mail_user office icon"
+  },
+
+  "inc office/Users/meeting": {
+    "scope": "diagram",
+    "prefix": ["i-off_meeting"],
+    "body": ["!include <office/Users/meeting>"],
+    "description": "meeting office icon"
+  },
+
+  "inc office/Users/mobile_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_mobile_user"],
+    "body": ["!include <office/Users/mobile_user>"],
+    "description": "mobile_user office icon"
+  },
+
+  "inc office/Users/on_premises_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_on_premises_user"],
+    "body": ["!include <office/Users/on_premises_user>"],
+    "description": "on_premises_user office icon"
+  },
+
+  "inc office/Users/online_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_online_user"],
+    "body": ["!include <office/Users/online_user>"],
+    "description": "online_user office icon"
+  },
+
+  "inc office/Users/outlook_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_outlook_user"],
+    "body": ["!include <office/Users/outlook_user>"],
+    "description": "outlook_user office icon"
+  },
+
+  "inc office/Users/response_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_response_group"],
+    "body": ["!include <office/Users/response_group>"],
+    "description": "response_group office icon"
+  },
+
+  "inc office/Users/response_group_service": {
+    "scope": "diagram",
+    "prefix": ["i-off_response_group_service"],
+    "body": ["!include <office/Users/response_group_service>"],
+    "description": "response_group_service office icon"
+  },
+
+  "inc office/Users/role_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_role_group"],
+    "body": ["!include <office/Users/role_group>"],
+    "description": "role_group office icon"
+  },
+
+  "inc office/Users/skype_commercial_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_commercial_user"],
+    "body": ["!include <office/Users/skype_commercial_user>"],
+    "description": "skype_commercial_user office icon"
+  },
+
+  "inc office/Users/skype_for_business_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_skype_for_business_user"],
+    "body": ["!include <office/Users/skype_for_business_user>"],
+    "description": "skype_for_business_user office icon"
+  },
+
+  "inc office/Users/tenant_admin": {
+    "scope": "diagram",
+    "prefix": ["i-off_tenant_admin"],
+    "body": ["!include <office/Users/tenant_admin>"],
+    "description": "tenant_admin office icon"
+  },
+
+  "inc office/Users/um_enabled_user": {
+    "scope": "diagram",
+    "prefix": ["i-off_um_enabled_user"],
+    "body": ["!include <office/Users/um_enabled_user>"],
+    "description": "um_enabled_user office icon"
+  },
+
+  "inc office/Users/universal_security_group": {
+    "scope": "diagram",
+    "prefix": ["i-off_universal_security_group"],
+    "body": ["!include <office/Users/universal_security_group>"],
+    "description": "universal_security_group office icon"
+  },
+
+  "inc office/Users/user": {
+    "scope": "diagram",
+    "prefix": ["i-off_user"],
+    "body": ["!include <office/Users/user>"],
+    "description": "user office icon"
+  },
+
+  "inc office/Users/user_accounts": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_accounts"],
+    "body": ["!include <office/Users/user_accounts>"],
+    "description": "user_accounts office icon"
+  },
+
+  "inc office/Users/user_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_blue"],
+    "body": ["!include <office/Users/user_blue>"],
+    "description": "user_blue office icon"
+  },
+
+  "inc office/Users/user_external": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_external"],
+    "body": ["!include <office/Users/user_external>"],
+    "description": "user_external office icon"
+  },
+
+  "inc office/Users/user_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_ghosted"],
+    "body": ["!include <office/Users/user_ghosted>"],
+    "description": "user_ghosted office icon"
+  },
+
+  "inc office/Users/user_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_green"],
+    "body": ["!include <office/Users/user_green>"],
+    "description": "user_green office icon"
+  },
+
+  "inc office/Users/user_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_orange"],
+    "body": ["!include <office/Users/user_orange>"],
+    "description": "user_orange office icon"
+  },
+
+  "inc office/Users/user_services": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_services"],
+    "body": ["!include <office/Users/user_services>"],
+    "description": "user_services office icon"
+  },
+
+  "inc office/Users/user_store": {
+    "scope": "diagram",
+    "prefix": ["i-off_user_store"],
+    "body": ["!include <office/Users/user_store>"],
+    "description": "user_store office icon"
+  },
+
+  "inc office/Users/users": {
+    "scope": "diagram",
+    "prefix": ["i-off_users"],
+    "body": ["!include <office/Users/users>"],
+    "description": "users office icon"
+  },
+
+  "inc office/Users/users_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_blue"],
+    "body": ["!include <office/Users/users_blue>"],
+    "description": "users_blue office icon"
+  },
+
+  "inc office/Users/users_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_ghosted"],
+    "body": ["!include <office/Users/users_ghosted>"],
+    "description": "users_ghosted office icon"
+  },
+
+  "inc office/Users/users_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_green"],
+    "body": ["!include <office/Users/users_green>"],
+    "description": "users_green office icon"
+  },
+
+  "inc office/Users/users_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_orange"],
+    "body": ["!include <office/Users/users_orange>"],
+    "description": "users_orange office icon"
+  },
+
+  "inc office/Users/users_two": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_two"],
+    "body": ["!include <office/Users/users_two>"],
+    "description": "users_two office icon"
+  },
+
+  "inc office/Users/users_two_blue": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_two_blue"],
+    "body": ["!include <office/Users/users_two_blue>"],
+    "description": "users_two_blue office icon"
+  },
+
+  "inc office/Users/users_two_ghosted": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_two_ghosted"],
+    "body": ["!include <office/Users/users_two_ghosted>"],
+    "description": "users_two_ghosted office icon"
+  },
+
+  "inc office/Users/users_two_green": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_two_green"],
+    "body": ["!include <office/Users/users_two_green>"],
+    "description": "users_two_green office icon"
+  },
+
+  "inc office/Users/users_two_orange": {
+    "scope": "diagram",
+    "prefix": ["i-off_users_two_orange"],
+    "body": ["!include <office/Users/users_two_orange>"],
+    "description": "users_two_orange office icon"
+  },
+
+  "inc office/Users/writer": {
+    "scope": "diagram",
+    "prefix": ["i-off_writer"],
+    "body": ["!include <office/Users/writer>"],
+    "description": "writer office icon"
+  },
+
+  "Include office common": {
+    "scope": "diagram",
+    "prefix": ["i-off-common"],
+    "body": ["!include <tupadr3/common>"],
+    "description": "bootstrap using office icons"
+  },
+
+}

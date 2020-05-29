@@ -1,0 +1,4594 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "AMAZONLEX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonlex"],
+    "body": ["AMAZONLEX(e_alias, \"e_label\")"],
+    "description": "ai/AmazonLex aws icon"
+  },
+
+  "AMAZONLEX_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonlex_large"],
+    "body": ["AMAZONLEX_LARGE(e_alias, \"e_label\")"],
+    "description": "ai/AmazonLex_LARGE aws icon"
+  },
+
+  "AMAZONMACHINELEARNING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmachinelearning"],
+    "body": ["AMAZONMACHINELEARNING(e_alias, \"e_label\")"],
+    "description": "ai/AmazonMachineLearning aws icon"
+  },
+
+  "AMAZONMACHINELEARNING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmachinelearning_large"],
+    "body": ["AMAZONMACHINELEARNING_LARGE(e_alias, \"e_label\")"],
+    "description": "ai/AmazonMachineLearning_LARGE aws icon"
+  },
+
+  "AMAZONPOLLY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpolly"],
+    "body": ["AMAZONPOLLY(e_alias, \"e_label\")"],
+    "description": "ai/AmazonPolly aws icon"
+  },
+
+  "AMAZONPOLLY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpolly_large"],
+    "body": ["AMAZONPOLLY_LARGE(e_alias, \"e_label\")"],
+    "description": "ai/AmazonPolly_LARGE aws icon"
+  },
+
+  "AMAZONREKOGNITION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonrekognition"],
+    "body": ["AMAZONREKOGNITION(e_alias, \"e_label\")"],
+    "description": "ai/AmazonRekognition aws icon"
+  },
+
+  "AMAZONREKOGNITION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonrekognition_large"],
+    "body": ["AMAZONREKOGNITION_LARGE(e_alias, \"e_label\")"],
+    "description": "ai/AmazonRekognition_LARGE aws icon"
+  },
+
+  "AWSDATAPIPELINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdatapipeline"],
+    "body": ["AWSDATAPIPELINE(e_alias, \"e_label\")"],
+    "description": "analytics/AWSDataPipeline aws icon"
+  },
+
+  "AWSDATAPIPELINE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdatapipeline_large"],
+    "body": ["AWSDATAPIPELINE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AWSDataPipeline_LARGE aws icon"
+  },
+
+  "AWSGLUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsglue"],
+    "body": ["AWSGLUE(e_alias, \"e_label\")"],
+    "description": "analytics/AWSGlue aws icon"
+  },
+
+  "AWSGLUE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsglue_large"],
+    "body": ["AWSGLUE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AWSGlue_LARGE aws icon"
+  },
+
+  "AMAZONATHENA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonathena"],
+    "body": ["AMAZONATHENA(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonAthena aws icon"
+  },
+
+  "AMAZONATHENA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonathena_large"],
+    "body": ["AMAZONATHENA_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonAthena_LARGE aws icon"
+  },
+
+  "AMAZONCLOUDSEARCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudsearch"],
+    "body": ["AMAZONCLOUDSEARCH(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonCloudSearch aws icon"
+  },
+
+  "AMAZONCLOUDSEARCH_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudsearch_large"],
+    "body": ["AMAZONCLOUDSEARCH_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonCloudSearch_LARGE aws icon"
+  },
+
+  "AMAZONEMR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonemr"],
+    "body": ["AMAZONEMR(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonEMR aws icon"
+  },
+
+  "AMAZONEMR_HDFSCLUSTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonemr_hdfscluster"],
+    "body": ["AMAZONEMR_HDFSCLUSTER(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonEMR_HDFScluster aws icon"
+  },
+
+  "AMAZONEMR_HDFSCLUSTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonemr_hdfscluster_large"],
+    "body": ["AMAZONEMR_HDFSCLUSTER_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonEMR_HDFScluster_LARGE aws icon"
+  },
+
+  "AMAZONEMR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonemr_large"],
+    "body": ["AMAZONEMR_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonEMR_LARGE aws icon"
+  },
+
+  "AMAZONES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazones"],
+    "body": ["AMAZONES(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonES aws icon"
+  },
+
+  "AMAZONES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazones_large"],
+    "body": ["AMAZONES_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonES_LARGE aws icon"
+  },
+
+  "AMAZONKINESIS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesis"],
+    "body": ["AMAZONKINESIS(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesis aws icon"
+  },
+
+  "AMAZONKINESISANALYTICS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisanalytics"],
+    "body": ["AMAZONKINESISANALYTICS(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisAnalytics aws icon"
+  },
+
+  "AMAZONKINESISANALYTICS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisanalytics_large"],
+    "body": ["AMAZONKINESISANALYTICS_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisAnalytics_LARGE aws icon"
+  },
+
+  "AMAZONKINESISFIREHOSE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisfirehose"],
+    "body": ["AMAZONKINESISFIREHOSE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisFirehose aws icon"
+  },
+
+  "AMAZONKINESISFIREHOSE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisfirehose_large"],
+    "body": ["AMAZONKINESISFIREHOSE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisFirehose_LARGE aws icon"
+  },
+
+  "AMAZONKINESISSTREAMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisstreams"],
+    "body": ["AMAZONKINESISSTREAMS(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisStreams aws icon"
+  },
+
+  "AMAZONKINESISSTREAMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesisstreams_large"],
+    "body": ["AMAZONKINESISSTREAMS_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesisStreams_LARGE aws icon"
+  },
+
+  "AMAZONKINESIS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesis_large"],
+    "body": ["AMAZONKINESIS_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesis_LARGE aws icon"
+  },
+
+  "AMAZONKINESIS_ENABLEDAPP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesis_enabledapp"],
+    "body": ["AMAZONKINESIS_ENABLEDAPP(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesis_enabledapp aws icon"
+  },
+
+  "AMAZONKINESIS_ENABLEDAPP_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonkinesis_enabledapp_large"],
+    "body": ["AMAZONKINESIS_ENABLEDAPP_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonKinesis_enabledapp_LARGE aws icon"
+  },
+
+  "AMAZONQUICKSIGHT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonquicksight"],
+    "body": ["AMAZONQUICKSIGHT(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonQuickSight aws icon"
+  },
+
+  "AMAZONQUICKSIGHT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonquicksight_large"],
+    "body": ["AMAZONQUICKSIGHT_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonQuickSight_LARGE aws icon"
+  },
+
+  "AMAZONREDSHIFT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonredshift"],
+    "body": ["AMAZONREDSHIFT(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonRedshift aws icon"
+  },
+
+  "AMAZONREDSHIFT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonredshift_large"],
+    "body": ["AMAZONREDSHIFT_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/AmazonRedshift_LARGE aws icon"
+  },
+
+  "EMRENGINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrengine"],
+    "body": ["EMRENGINE(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengine aws icon"
+  },
+
+  "EMRENGINEMAPRM3(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm3"],
+    "body": ["EMRENGINEMAPRM3(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM3 aws icon"
+  },
+
+  "EMRENGINEMAPRM3_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm3_large"],
+    "body": ["EMRENGINEMAPRM3_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM3_LARGE aws icon"
+  },
+
+  "EMRENGINEMAPRM5(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm5"],
+    "body": ["EMRENGINEMAPRM5(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM5 aws icon"
+  },
+
+  "EMRENGINEMAPRM5_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm5_large"],
+    "body": ["EMRENGINEMAPRM5_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM5_LARGE aws icon"
+  },
+
+  "EMRENGINEMAPRM7(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm7"],
+    "body": ["EMRENGINEMAPRM7(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM7 aws icon"
+  },
+
+  "EMRENGINEMAPRM7_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrenginemaprm7_large"],
+    "body": ["EMRENGINEMAPRM7_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengineMapRM7_LARGE aws icon"
+  },
+
+  "EMRENGINE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emrengine_large"],
+    "body": ["EMRENGINE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/EMRengine_LARGE aws icon"
+  },
+
+  "CLUSTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cluster"],
+    "body": ["CLUSTER(e_alias, \"e_label\")"],
+    "description": "analytics/cluster aws icon"
+  },
+
+  "CLUSTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cluster_large"],
+    "body": ["CLUSTER_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/cluster_LARGE aws icon"
+  },
+
+  "DENSECOMPUTENODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densecomputenode"],
+    "body": ["DENSECOMPUTENODE(e_alias, \"e_label\")"],
+    "description": "analytics/densecomputenode aws icon"
+  },
+
+  "DENSECOMPUTENODE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densecomputenode_large"],
+    "body": ["DENSECOMPUTENODE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/densecomputenode_LARGE aws icon"
+  },
+
+  "DENSESTORAGENODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densestoragenode"],
+    "body": ["DENSESTORAGENODE(e_alias, \"e_label\")"],
+    "description": "analytics/densestoragenode aws icon"
+  },
+
+  "DENSESTORAGENODE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densestoragenode_large"],
+    "body": ["DENSESTORAGENODE_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/densestoragenode_LARGE aws icon"
+  },
+
+  "SEARCHDOCUMENTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-searchdocuments"],
+    "body": ["SEARCHDOCUMENTS(e_alias, \"e_label\")"],
+    "description": "analytics/searchdocuments aws icon"
+  },
+
+  "SEARCHDOCUMENTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-searchdocuments_large"],
+    "body": ["SEARCHDOCUMENTS_LARGE(e_alias, \"e_label\")"],
+    "description": "analytics/searchdocuments_LARGE aws icon"
+  },
+
+  "AWSSTEPFUNCTIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsstepfunctions"],
+    "body": ["AWSSTEPFUNCTIONS(e_alias, \"e_label\")"],
+    "description": "applicationservices/AWSStepFunctions aws icon"
+  },
+
+  "AWSSTEPFUNCTIONS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsstepfunctions_large"],
+    "body": ["AWSSTEPFUNCTIONS_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/AWSStepFunctions_LARGE aws icon"
+  },
+
+  "AMAZONAPIGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonapigateway"],
+    "body": ["AMAZONAPIGATEWAY(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonAPIGateway aws icon"
+  },
+
+  "AMAZONAPIGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonapigateway_large"],
+    "body": ["AMAZONAPIGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonAPIGateway_LARGE aws icon"
+  },
+
+  "AMAZONELASTICTRANSCODER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonelastictranscoder"],
+    "body": ["AMAZONELASTICTRANSCODER(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonElasticTranscoder aws icon"
+  },
+
+  "AMAZONELASTICTRANSCODER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonelastictranscoder_large"],
+    "body": ["AMAZONELASTICTRANSCODER_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonElasticTranscoder_LARGE aws icon"
+  },
+
+  "AMAZONSWF(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonswf"],
+    "body": ["AMAZONSWF(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonSWF aws icon"
+  },
+
+  "AMAZONSWF_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonswf_large"],
+    "body": ["AMAZONSWF_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/AmazonSWF_LARGE aws icon"
+  },
+
+  "DECIDER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-decider"],
+    "body": ["DECIDER(e_alias, \"e_label\")"],
+    "description": "applicationservices/decider aws icon"
+  },
+
+  "DECIDER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-decider_large"],
+    "body": ["DECIDER_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/decider_LARGE aws icon"
+  },
+
+  "WORKER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-worker"],
+    "body": ["WORKER(e_alias, \"e_label\")"],
+    "description": "applicationservices/worker aws icon"
+  },
+
+  "WORKER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-worker_large"],
+    "body": ["WORKER_LARGE(e_alias, \"e_label\")"],
+    "description": "applicationservices/worker_LARGE aws icon"
+  },
+
+  "AMAZONCHIME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonchime"],
+    "body": ["AMAZONCHIME(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonChime aws icon"
+  },
+
+  "AMAZONCHIME_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonchime_large"],
+    "body": ["AMAZONCHIME_LARGE(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonChime_LARGE aws icon"
+  },
+
+  "AMAZONWORKDOCS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkdocs"],
+    "body": ["AMAZONWORKDOCS(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonWorkDocs aws icon"
+  },
+
+  "AMAZONWORKDOCS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkdocs_large"],
+    "body": ["AMAZONWORKDOCS_LARGE(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonWorkDocs_LARGE aws icon"
+  },
+
+  "AMAZONWORKMAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkmail"],
+    "body": ["AMAZONWORKMAIL(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonWorkMail aws icon"
+  },
+
+  "AMAZONWORKMAIL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkmail_large"],
+    "body": ["AMAZONWORKMAIL_LARGE(e_alias, \"e_label\")"],
+    "description": "businessproductivity/AmazonWorkMail_LARGE aws icon"
+  },
+
+  "AMI(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ami"],
+    "body": ["AMI(e_alias, \"e_label\")"],
+    "description": "compute/AMI aws icon"
+  },
+
+  "AMI_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ami_large"],
+    "body": ["AMI_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AMI_LARGE aws icon"
+  },
+
+  "AWSBATCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsbatch"],
+    "body": ["AWSBATCH(e_alias, \"e_label\")"],
+    "description": "compute/AWSBatch aws icon"
+  },
+
+  "AWSBATCH_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsbatch_large"],
+    "body": ["AWSBATCH_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AWSBatch_LARGE aws icon"
+  },
+
+  "AWSELASTICBEANSTALK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awselasticbeanstalk"],
+    "body": ["AWSELASTICBEANSTALK(e_alias, \"e_label\")"],
+    "description": "compute/AWSElasticBeanstalk aws icon"
+  },
+
+  "AWSELASTICBEANSTALK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awselasticbeanstalk_large"],
+    "body": ["AWSELASTICBEANSTALK_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AWSElasticBeanstalk_LARGE aws icon"
+  },
+
+  "AWSLAMBDA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awslambda"],
+    "body": ["AWSLAMBDA(e_alias, \"e_label\")"],
+    "description": "compute/AWSLambda aws icon"
+  },
+
+  "AWSLAMBDA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awslambda_large"],
+    "body": ["AWSLAMBDA_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AWSLambda_LARGE aws icon"
+  },
+
+  "AMAZONEC2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonec2"],
+    "body": ["AMAZONEC2(e_alias, \"e_label\")"],
+    "description": "compute/AmazonEC2 aws icon"
+  },
+
+  "AMAZONEC2_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonec2_large"],
+    "body": ["AMAZONEC2_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AmazonEC2_LARGE aws icon"
+  },
+
+  "AMAZONECR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonecr"],
+    "body": ["AMAZONECR(e_alias, \"e_label\")"],
+    "description": "compute/AmazonECR aws icon"
+  },
+
+  "AMAZONECR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonecr_large"],
+    "body": ["AMAZONECR_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AmazonECR_LARGE aws icon"
+  },
+
+  "AMAZONECS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonecs"],
+    "body": ["AMAZONECS(e_alias, \"e_label\")"],
+    "description": "compute/AmazonECS aws icon"
+  },
+
+  "AMAZONECS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonecs_large"],
+    "body": ["AMAZONECS_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AmazonECS_LARGE aws icon"
+  },
+
+  "AMAZONLIGHTSAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonlightsail"],
+    "body": ["AMAZONLIGHTSAIL(e_alias, \"e_label\")"],
+    "description": "compute/AmazonLightsail aws icon"
+  },
+
+  "AMAZONLIGHTSAIL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonlightsail_large"],
+    "body": ["AMAZONLIGHTSAIL_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AmazonLightsail_LARGE aws icon"
+  },
+
+  "AMAZONVPC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonvpc"],
+    "body": ["AMAZONVPC(e_alias, \"e_label\")"],
+    "description": "compute/AmazonVPC aws icon"
+  },
+
+  "AMAZONVPC_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonvpc_large"],
+    "body": ["AMAZONVPC_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AmazonVPC_LARGE aws icon"
+  },
+
+  "APPLICATIONLOADBALANCER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-applicationloadbalancer"],
+    "body": ["APPLICATIONLOADBALANCER(e_alias, \"e_label\")"],
+    "description": "compute/ApplicationLoadBalancer aws icon"
+  },
+
+  "APPLICATIONLOADBALANCING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-applicationloadbalancing_large"],
+    "body": ["APPLICATIONLOADBALANCING_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ApplicationLoadBalancing_LARGE aws icon"
+  },
+
+  "AUTOSCALING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-autoscaling"],
+    "body": ["AUTOSCALING(e_alias, \"e_label\")"],
+    "description": "compute/AutoScaling aws icon"
+  },
+
+  "AUTOSCALING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-autoscaling_large"],
+    "body": ["AUTOSCALING_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/AutoScaling_LARGE aws icon"
+  },
+
+  "CLASSICLOADBALANCER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-classicloadbalancer"],
+    "body": ["CLASSICLOADBALANCER(e_alias, \"e_label\")"],
+    "description": "compute/ClassicLoadbalancer aws icon"
+  },
+
+  "CLASSICLOADBALANCER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-classicloadbalancer_large"],
+    "body": ["CLASSICLOADBALANCER_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ClassicLoadbalancer_LARGE aws icon"
+  },
+
+  "DBONINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dboninstance"],
+    "body": ["DBONINSTANCE(e_alias, \"e_label\")"],
+    "description": "compute/DBoninstance aws icon"
+  },
+
+  "DBONINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dboninstance_large"],
+    "body": ["DBONINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/DBoninstance_LARGE aws icon"
+  },
+
+  "EC2RESCUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ec2rescue"],
+    "body": ["EC2RESCUE(e_alias, \"e_label\")"],
+    "description": "compute/EC2rescue aws icon"
+  },
+
+  "EC2RESCUE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ec2rescue_large"],
+    "body": ["EC2RESCUE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/EC2rescue_LARGE aws icon"
+  },
+
+  "ECRREGISTRY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecrregistry"],
+    "body": ["ECRREGISTRY(e_alias, \"e_label\")"],
+    "description": "compute/ECRRegistry aws icon"
+  },
+
+  "ECRREGISTRY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecrregistry_large"],
+    "body": ["ECRREGISTRY_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ECRRegistry_LARGE aws icon"
+  },
+
+  "ECSCONTAINER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer"],
+    "body": ["ECSCONTAINER(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer aws icon"
+  },
+
+  "ECSCONTAINER_ALT1(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer_alt1"],
+    "body": ["ECSCONTAINER_ALT1(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer_Alt1 aws icon"
+  },
+
+  "ECSCONTAINER_ALT1_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer_alt1_large"],
+    "body": ["ECSCONTAINER_ALT1_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer_Alt1_LARGE aws icon"
+  },
+
+  "ECSCONTAINER_ALT2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer_alt2"],
+    "body": ["ECSCONTAINER_ALT2(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer_Alt2 aws icon"
+  },
+
+  "ECSCONTAINER_ALT2_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer_alt2_large"],
+    "body": ["ECSCONTAINER_ALT2_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer_Alt2_LARGE aws icon"
+  },
+
+  "ECSCONTAINER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ecscontainer_large"],
+    "body": ["ECSCONTAINER_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ECScontainer_LARGE aws icon"
+  },
+
+  "ELASTICIPADDRESS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticipaddress"],
+    "body": ["ELASTICIPADDRESS(e_alias, \"e_label\")"],
+    "description": "compute/ElasticIPaddress aws icon"
+  },
+
+  "ELASTICIPADDRESS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticipaddress_large"],
+    "body": ["ELASTICIPADDRESS_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ElasticIPaddress_LARGE aws icon"
+  },
+
+  "ELASTICLOADBALANCING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticloadbalancing"],
+    "body": ["ELASTICLOADBALANCING(e_alias, \"e_label\")"],
+    "description": "compute/ElasticLoadBalancing aws icon"
+  },
+
+  "ELASTICLOADBALANCING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticloadbalancing_large"],
+    "body": ["ELASTICLOADBALANCING_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/ElasticLoadBalancing_LARGE aws icon"
+  },
+
+  "INTERNETGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetgateway"],
+    "body": ["INTERNETGATEWAY(e_alias, \"e_label\")"],
+    "description": "compute/Internetgateway aws icon"
+  },
+
+  "INTERNETGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetgateway_large"],
+    "body": ["INTERNETGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/Internetgateway_LARGE aws icon"
+  },
+
+  "LAMBDAFUNCTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-lambdafunction"],
+    "body": ["LAMBDAFUNCTION(e_alias, \"e_label\")"],
+    "description": "compute/LambdaFunction aws icon"
+  },
+
+  "LAMBDAFUNCTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-lambdafunction_large"],
+    "body": ["LAMBDAFUNCTION_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/LambdaFunction_LARGE aws icon"
+  },
+
+  "SPOTFLEET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-spotfleet"],
+    "body": ["SPOTFLEET(e_alias, \"e_label\")"],
+    "description": "compute/SpotFleet aws icon"
+  },
+
+  "SPOTFLEET_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-spotfleet_large"],
+    "body": ["SPOTFLEET_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/SpotFleet_LARGE aws icon"
+  },
+
+  "SPOTINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-spotinstance"],
+    "body": ["SPOTINSTANCE(e_alias, \"e_label\")"],
+    "description": "compute/SpotInstance aws icon"
+  },
+
+  "SPOTINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-spotinstance_large"],
+    "body": ["SPOTINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/SpotInstance_LARGE aws icon"
+  },
+
+  "VPCNATGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcnatgateway"],
+    "body": ["VPCNATGATEWAY(e_alias, \"e_label\")"],
+    "description": "compute/VPCNATgateway aws icon"
+  },
+
+  "VPCNATGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcnatgateway_large"],
+    "body": ["VPCNATGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/VPCNATgateway_LARGE aws icon"
+  },
+
+  "VPCPEERING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcpeering"],
+    "body": ["VPCPEERING(e_alias, \"e_label\")"],
+    "description": "compute/VPCpeering aws icon"
+  },
+
+  "VPCPEERING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcpeering_large"],
+    "body": ["VPCPEERING_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/VPCpeering_LARGE aws icon"
+  },
+
+  "VPNCONNECTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpnconnection"],
+    "body": ["VPNCONNECTION(e_alias, \"e_label\")"],
+    "description": "compute/VPNconnection aws icon"
+  },
+
+  "VPNCONNECTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpnconnection_large"],
+    "body": ["VPNCONNECTION_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/VPNconnection_LARGE aws icon"
+  },
+
+  "VPNGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpngateway"],
+    "body": ["VPNGATEWAY(e_alias, \"e_label\")"],
+    "description": "compute/VPNgateway aws icon"
+  },
+
+  "VPNGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpngateway_large"],
+    "body": ["VPNGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/VPNgateway_LARGE aws icon"
+  },
+
+  "X1INSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-x1instance"],
+    "body": ["X1INSTANCE(e_alias, \"e_label\")"],
+    "description": "compute/X1instance aws icon"
+  },
+
+  "X1INSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-x1instance_large"],
+    "body": ["X1INSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/X1instance_LARGE aws icon"
+  },
+
+  "APPLICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-application"],
+    "body": ["APPLICATION(e_alias, \"e_label\")"],
+    "description": "compute/application aws icon"
+  },
+
+  "APPLICATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-application_large"],
+    "body": ["APPLICATION_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/application_LARGE aws icon"
+  },
+
+  "CUSTOMERGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-customergateway"],
+    "body": ["CUSTOMERGATEWAY(e_alias, \"e_label\")"],
+    "description": "compute/customergateway aws icon"
+  },
+
+  "CUSTOMERGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-customergateway_large"],
+    "body": ["CUSTOMERGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/customergateway_LARGE aws icon"
+  },
+
+  "DEPLOYMENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-deployment"],
+    "body": ["DEPLOYMENT(e_alias, \"e_label\")"],
+    "description": "compute/deployment aws icon"
+  },
+
+  "DEPLOYMENT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-deployment_large"],
+    "body": ["DEPLOYMENT_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/deployment_LARGE aws icon"
+  },
+
+  "ELASTICNETWORKADAPTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkadapter"],
+    "body": ["ELASTICNETWORKADAPTER(e_alias, \"e_label\")"],
+    "description": "compute/elasticnetworkadapter aws icon"
+  },
+
+  "ELASTICNETWORKADAPTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkadapter_large"],
+    "body": ["ELASTICNETWORKADAPTER_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/elasticnetworkadapter_LARGE aws icon"
+  },
+
+  "ELASTICNETWORKINTERFACE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkinterface"],
+    "body": ["ELASTICNETWORKINTERFACE(e_alias, \"e_label\")"],
+    "description": "compute/elasticnetworkinterface aws icon"
+  },
+
+  "ELASTICNETWORKINTERFACE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkinterface_large"],
+    "body": ["ELASTICNETWORKINTERFACE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/elasticnetworkinterface_LARGE aws icon"
+  },
+
+  "ENDPOINTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-endpoints"],
+    "body": ["ENDPOINTS(e_alias, \"e_label\")"],
+    "description": "compute/endpoints aws icon"
+  },
+
+  "ENDPOINTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-endpoints_large"],
+    "body": ["ENDPOINTS_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/endpoints_LARGE aws icon"
+  },
+
+  "FLOWLOGS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-flowlogs"],
+    "body": ["FLOWLOGS(e_alias, \"e_label\")"],
+    "description": "compute/flowlogs aws icon"
+  },
+
+  "FLOWLOGS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-flowlogs_large"],
+    "body": ["FLOWLOGS_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/flowlogs_LARGE aws icon"
+  },
+
+  "INSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instance"],
+    "body": ["INSTANCE(e_alias, \"e_label\")"],
+    "description": "compute/instance aws icon"
+  },
+
+  "INSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instance_large"],
+    "body": ["INSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/instance_LARGE aws icon"
+  },
+
+  "INSTANCES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instances"],
+    "body": ["INSTANCES(e_alias, \"e_label\")"],
+    "description": "compute/instances aws icon"
+  },
+
+  "INSTANCES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instances_large"],
+    "body": ["INSTANCES_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/instances_LARGE aws icon"
+  },
+
+  "INSTANCEWITHCLOUDWATCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancewithcloudwatch"],
+    "body": ["INSTANCEWITHCLOUDWATCH(e_alias, \"e_label\")"],
+    "description": "compute/instancewithCloudWatch aws icon"
+  },
+
+  "INSTANCEWITHCLOUDWATCH_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancewithcloudwatch_large"],
+    "body": ["INSTANCEWITHCLOUDWATCH_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/instancewithCloudWatch_LARGE aws icon"
+  },
+
+  "NETWORKACCESSCONTROLLIST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-networkaccesscontrollist"],
+    "body": ["NETWORKACCESSCONTROLLIST(e_alias, \"e_label\")"],
+    "description": "compute/networkaccesscontrollist aws icon"
+  },
+
+  "NETWORKACCESSCONTROLLIST_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-networkaccesscontrollist_large"],
+    "body": ["NETWORKACCESSCONTROLLIST_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/networkaccesscontrollist_LARGE aws icon"
+  },
+
+  "OPTIMIZEDINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-optimizedinstance"],
+    "body": ["OPTIMIZEDINSTANCE(e_alias, \"e_label\")"],
+    "description": "compute/optimizedinstance aws icon"
+  },
+
+  "OPTIMIZEDINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-optimizedinstance_large"],
+    "body": ["OPTIMIZEDINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/optimizedinstance_LARGE aws icon"
+  },
+
+  "ROUTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-router"],
+    "body": ["ROUTER(e_alias, \"e_label\")"],
+    "description": "compute/router aws icon"
+  },
+
+  "ROUTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-router_large"],
+    "body": ["ROUTER_LARGE(e_alias, \"e_label\")"],
+    "description": "compute/router_LARGE aws icon"
+  },
+
+  "AMAZONCONNECT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonconnect"],
+    "body": ["AMAZONCONNECT(e_alias, \"e_label\")"],
+    "description": "contactcenter/AmazonConnect aws icon"
+  },
+
+  "AMAZONCONNECT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonconnect_large"],
+    "body": ["AMAZONCONNECT_LARGE(e_alias, \"e_label\")"],
+    "description": "contactcenter/AmazonConnect_LARGE aws icon"
+  },
+
+  "AWSDMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdms"],
+    "body": ["AWSDMS(e_alias, \"e_label\")"],
+    "description": "database/AWSDMS aws icon"
+  },
+
+  "AWSDMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdms_large"],
+    "body": ["AWSDMS_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AWSDMS_LARGE aws icon"
+  },
+
+  "AMAZONDYNAMODB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazondynamodb"],
+    "body": ["AMAZONDYNAMODB(e_alias, \"e_label\")"],
+    "description": "database/AmazonDynamoDB aws icon"
+  },
+
+  "AMAZONDYNAMODBACCELERATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazondynamodbaccelerator"],
+    "body": ["AMAZONDYNAMODBACCELERATOR(e_alias, \"e_label\")"],
+    "description": "database/AmazonDynamoDBAccelerator aws icon"
+  },
+
+  "AMAZONDYNAMODBACCELERATOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazondynamodbaccelerator_large"],
+    "body": ["AMAZONDYNAMODBACCELERATOR_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AmazonDynamoDBAccelerator_LARGE aws icon"
+  },
+
+  "AMAZONDYNAMODB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazondynamodb_large"],
+    "body": ["AMAZONDYNAMODB_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AmazonDynamoDB_LARGE aws icon"
+  },
+
+  "AMAZONELASTICCACHE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonelasticcache"],
+    "body": ["AMAZONELASTICCACHE(e_alias, \"e_label\")"],
+    "description": "database/AmazonElasticCache aws icon"
+  },
+
+  "AMAZONELASTICCACHE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonelasticcache_large"],
+    "body": ["AMAZONELASTICCACHE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AmazonElasticCache_LARGE aws icon"
+  },
+
+  "AMAZONRDS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonrds"],
+    "body": ["AMAZONRDS(e_alias, \"e_label\")"],
+    "description": "database/AmazonRDS aws icon"
+  },
+
+  "AMAZONRDS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonrds_large"],
+    "body": ["AMAZONRDS_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AmazonRDS_LARGE aws icon"
+  },
+
+  "AMAZONREDSHIFT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonredshift"],
+    "body": ["AMAZONREDSHIFT(e_alias, \"e_label\")"],
+    "description": "database/AmazonRedshift aws icon"
+  },
+
+  "AMAZONREDSHIFT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonredshift_large"],
+    "body": ["AMAZONREDSHIFT_LARGE(e_alias, \"e_label\")"],
+    "description": "database/AmazonRedshift_LARGE aws icon"
+  },
+
+  "DBINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dbinstance"],
+    "body": ["DBINSTANCE(e_alias, \"e_label\")"],
+    "description": "database/DBinstance aws icon"
+  },
+
+  "DBINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dbinstance_large"],
+    "body": ["DBINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/DBinstance_LARGE aws icon"
+  },
+
+  "MSSQLINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mssqlinstance"],
+    "body": ["MSSQLINSTANCE(e_alias, \"e_label\")"],
+    "description": "database/MSSQLinstance aws icon"
+  },
+
+  "MSSQLINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mssqlinstance_large"],
+    "body": ["MSSQLINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/MSSQLinstance_LARGE aws icon"
+  },
+
+  "MSSQLINSTANCEALTERNATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mssqlinstancealternate"],
+    "body": ["MSSQLINSTANCEALTERNATE(e_alias, \"e_label\")"],
+    "description": "database/MSSQLinstancealternate aws icon"
+  },
+
+  "MSSQLINSTANCEALTERNATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mssqlinstancealternate_large"],
+    "body": ["MSSQLINSTANCEALTERNATE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/MSSQLinstancealternate_LARGE aws icon"
+  },
+
+  "MEMCACHED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-memcached"],
+    "body": ["MEMCACHED(e_alias, \"e_label\")"],
+    "description": "database/Memcached aws icon"
+  },
+
+  "MEMCACHED_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-memcached_large"],
+    "body": ["MEMCACHED_LARGE(e_alias, \"e_label\")"],
+    "description": "database/Memcached_LARGE aws icon"
+  },
+
+  "MYSQLDBINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mysqldbinstance"],
+    "body": ["MYSQLDBINSTANCE(e_alias, \"e_label\")"],
+    "description": "database/MySQLDBinstance aws icon"
+  },
+
+  "MYSQLDBINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mysqldbinstance_large"],
+    "body": ["MYSQLDBINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/MySQLDBinstance_LARGE aws icon"
+  },
+
+  "MYSQLINSTANCEALTERNATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mysqlinstancealternate"],
+    "body": ["MYSQLINSTANCEALTERNATE(e_alias, \"e_label\")"],
+    "description": "database/MySQLinstancealternate aws icon"
+  },
+
+  "MYSQLINSTANCEALTERNATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mysqlinstancealternate_large"],
+    "body": ["MYSQLINSTANCEALTERNATE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/MySQLinstancealternate_LARGE aws icon"
+  },
+
+  "ORACLEDBINSTANCEALTERNATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-oracledbinstancealternate"],
+    "body": ["ORACLEDBINSTANCEALTERNATE(e_alias, \"e_label\")"],
+    "description": "database/OracleDBinstancealternate aws icon"
+  },
+
+  "ORACLEDBINSTANCEALTERNATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-oracledbinstancealternate_large"],
+    "body": ["ORACLEDBINSTANCEALTERNATE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/OracleDBinstancealternate_LARGE aws icon"
+  },
+
+  "PIOP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-piop"],
+    "body": ["PIOP(e_alias, \"e_label\")"],
+    "description": "database/PIOP aws icon"
+  },
+
+  "PIOP_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-piop_large"],
+    "body": ["PIOP_LARGE(e_alias, \"e_label\")"],
+    "description": "database/PIOP_LARGE aws icon"
+  },
+
+  "POSTGRESQLINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-postgresqlinstance"],
+    "body": ["POSTGRESQLINSTANCE(e_alias, \"e_label\")"],
+    "description": "database/PostgreSQLinstance aws icon"
+  },
+
+  "POSTGRESQLINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-postgresqlinstance_large"],
+    "body": ["POSTGRESQLINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/PostgreSQLinstance_LARGE aws icon"
+  },
+
+  "REDIS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-redis"],
+    "body": ["REDIS(e_alias, \"e_label\")"],
+    "description": "database/Redis aws icon"
+  },
+
+  "REDIS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-redis_large"],
+    "body": ["REDIS_LARGE(e_alias, \"e_label\")"],
+    "description": "database/Redis_LARGE aws icon"
+  },
+
+  "SQLMASTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sqlmaster"],
+    "body": ["SQLMASTER(e_alias, \"e_label\")"],
+    "description": "database/SQLmaster aws icon"
+  },
+
+  "SQLMASTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sqlmaster_large"],
+    "body": ["SQLMASTER_LARGE(e_alias, \"e_label\")"],
+    "description": "database/SQLmaster_LARGE aws icon"
+  },
+
+  "SQLSLAVE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sqlslave"],
+    "body": ["SQLSLAVE(e_alias, \"e_label\")"],
+    "description": "database/SQLslave aws icon"
+  },
+
+  "SQLSLAVE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sqlslave_large"],
+    "body": ["SQLSLAVE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/SQLslave_LARGE aws icon"
+  },
+
+  "ATTRIBUTE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-attribute"],
+    "body": ["ATTRIBUTE(e_alias, \"e_label\")"],
+    "description": "database/attribute aws icon"
+  },
+
+  "ATTRIBUTE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-attribute_large"],
+    "body": ["ATTRIBUTE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/attribute_LARGE aws icon"
+  },
+
+  "ATTRIBUTES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-attributes"],
+    "body": ["ATTRIBUTES(e_alias, \"e_label\")"],
+    "description": "database/attributes aws icon"
+  },
+
+  "ATTRIBUTES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-attributes_large"],
+    "body": ["ATTRIBUTES_LARGE(e_alias, \"e_label\")"],
+    "description": "database/attributes_LARGE aws icon"
+  },
+
+  "CACHENODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cachenode"],
+    "body": ["CACHENODE(e_alias, \"e_label\")"],
+    "description": "database/cachenode aws icon"
+  },
+
+  "CACHENODE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cachenode_large"],
+    "body": ["CACHENODE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/cachenode_LARGE aws icon"
+  },
+
+  "DATABASEMIGRATIONWORKFLOWJOB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-databasemigrationworkflowjob"],
+    "body": ["DATABASEMIGRATIONWORKFLOWJOB(e_alias, \"e_label\")"],
+    "description": "database/databasemigrationworkflowjob aws icon"
+  },
+
+  "DATABASEMIGRATIONWORKFLOWJOB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-databasemigrationworkflowjob_large"],
+    "body": ["DATABASEMIGRATIONWORKFLOWJOB_LARGE(e_alias, \"e_label\")"],
+    "description": "database/databasemigrationworkflowjob_LARGE aws icon"
+  },
+
+  "DENSECOMPUTENODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densecomputenode"],
+    "body": ["DENSECOMPUTENODE(e_alias, \"e_label\")"],
+    "description": "database/densecomputenode aws icon"
+  },
+
+  "DENSECOMPUTENODE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densecomputenode_large"],
+    "body": ["DENSECOMPUTENODE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/densecomputenode_LARGE aws icon"
+  },
+
+  "DENSESTORAGENODE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densestoragenode"],
+    "body": ["DENSESTORAGENODE(e_alias, \"e_label\")"],
+    "description": "database/densestoragenode aws icon"
+  },
+
+  "DENSESTORAGENODE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-densestoragenode_large"],
+    "body": ["DENSESTORAGENODE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/densestoragenode_LARGE aws icon"
+  },
+
+  "GLOBALSECONDARYINDEX(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-globalsecondaryindex"],
+    "body": ["GLOBALSECONDARYINDEX(e_alias, \"e_label\")"],
+    "description": "database/globalsecondaryindex aws icon"
+  },
+
+  "GLOBALSECONDARYINDEX_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-globalsecondaryindex_large"],
+    "body": ["GLOBALSECONDARYINDEX_LARGE(e_alias, \"e_label\")"],
+    "description": "database/globalsecondaryindex_LARGE aws icon"
+  },
+
+  "INSTANCEREADREPLICA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancereadreplica"],
+    "body": ["INSTANCEREADREPLICA(e_alias, \"e_label\")"],
+    "description": "database/instancereadreplica aws icon"
+  },
+
+  "INSTANCEREADREPLICA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancereadreplica_large"],
+    "body": ["INSTANCEREADREPLICA_LARGE(e_alias, \"e_label\")"],
+    "description": "database/instancereadreplica_LARGE aws icon"
+  },
+
+  "INSTANCESTANDBY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancestandby"],
+    "body": ["INSTANCESTANDBY(e_alias, \"e_label\")"],
+    "description": "database/instancestandby aws icon"
+  },
+
+  "INSTANCESTANDBY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instancestandby_large"],
+    "body": ["INSTANCESTANDBY_LARGE(e_alias, \"e_label\")"],
+    "description": "database/instancestandby_LARGE aws icon"
+  },
+
+  "ITEM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-item"],
+    "body": ["ITEM(e_alias, \"e_label\")"],
+    "description": "database/item aws icon"
+  },
+
+  "ITEM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-item_large"],
+    "body": ["ITEM_LARGE(e_alias, \"e_label\")"],
+    "description": "database/item_LARGE aws icon"
+  },
+
+  "ITEMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-items"],
+    "body": ["ITEMS(e_alias, \"e_label\")"],
+    "description": "database/items aws icon"
+  },
+
+  "ITEMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-items_large"],
+    "body": ["ITEMS_LARGE(e_alias, \"e_label\")"],
+    "description": "database/items_LARGE aws icon"
+  },
+
+  "ORACLEDBINSTANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-oracledbinstance"],
+    "body": ["ORACLEDBINSTANCE(e_alias, \"e_label\")"],
+    "description": "database/oracleDBinstance aws icon"
+  },
+
+  "ORACLEDBINSTANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-oracledbinstance_large"],
+    "body": ["ORACLEDBINSTANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/oracleDBinstance_LARGE aws icon"
+  },
+
+  "TABLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-table"],
+    "body": ["TABLE(e_alias, \"e_label\")"],
+    "description": "database/table aws icon"
+  },
+
+  "TABLE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-table_large"],
+    "body": ["TABLE_LARGE(e_alias, \"e_label\")"],
+    "description": "database/table_LARGE aws icon"
+  },
+
+  "AMAZONAPPSTREAM2_0(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonappstream2_0"],
+    "body": ["AMAZONAPPSTREAM2_0(e_alias, \"e_label\")"],
+    "description": "desktopappstreaming/AmazonAppStream2_0 aws icon"
+  },
+
+  "AMAZONAPPSTREAM2_0_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonappstream2_0_large"],
+    "body": ["AMAZONAPPSTREAM2_0_LARGE(e_alias, \"e_label\")"],
+    "description": "desktopappstreaming/AmazonAppStream2_0_LARGE aws icon"
+  },
+
+  "AMAZONWORKSPACES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkspaces"],
+    "body": ["AMAZONWORKSPACES(e_alias, \"e_label\")"],
+    "description": "desktopappstreaming/AmazonWorkSpaces aws icon"
+  },
+
+  "AMAZONWORKSPACES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonworkspaces_large"],
+    "body": ["AMAZONWORKSPACES_LARGE(e_alias, \"e_label\")"],
+    "description": "desktopappstreaming/AmazonWorkSpaces_LARGE aws icon"
+  },
+
+  "AWSCODEBUILD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodebuild"],
+    "body": ["AWSCODEBUILD(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeBuild aws icon"
+  },
+
+  "AWSCODEBUILD_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodebuild_large"],
+    "body": ["AWSCODEBUILD_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeBuild_LARGE aws icon"
+  },
+
+  "AWSCODECOMMIT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodecommit"],
+    "body": ["AWSCODECOMMIT(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeCommit aws icon"
+  },
+
+  "AWSCODECOMMIT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodecommit_large"],
+    "body": ["AWSCODECOMMIT_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeCommit_LARGE aws icon"
+  },
+
+  "AWSCODEDEPLOY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodedeploy"],
+    "body": ["AWSCODEDEPLOY(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeDeploy aws icon"
+  },
+
+  "AWSCODEDEPLOY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodedeploy_large"],
+    "body": ["AWSCODEDEPLOY_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeDeploy_LARGE aws icon"
+  },
+
+  "AWSCODEPIPELINE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodepipeline"],
+    "body": ["AWSCODEPIPELINE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodePipeline aws icon"
+  },
+
+  "AWSCODEPIPELINE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodepipeline_large"],
+    "body": ["AWSCODEPIPELINE_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodePipeline_LARGE aws icon"
+  },
+
+  "AWSCODESTAR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodestar"],
+    "body": ["AWSCODESTAR(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeStar aws icon"
+  },
+
+  "AWSCODESTAR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscodestar_large"],
+    "body": ["AWSCODESTAR_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSCodeStar_LARGE aws icon"
+  },
+
+  "AWSX_RAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsx_ray"],
+    "body": ["AWSX_RAY(e_alias, \"e_label\")"],
+    "description": "developertools/AWSX_Ray aws icon"
+  },
+
+  "AWSX_RAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsx_ray_large"],
+    "body": ["AWSX_RAY_LARGE(e_alias, \"e_label\")"],
+    "description": "developertools/AWSX_Ray_LARGE aws icon"
+  },
+
+  "AMAZONGAMELIFT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazongamelift"],
+    "body": ["AMAZONGAMELIFT(e_alias, \"e_label\")"],
+    "description": "gamedevelopment/AmazonGameLift aws icon"
+  },
+
+  "AMAZONGAMELIFT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazongamelift_large"],
+    "body": ["AMAZONGAMELIFT_LARGE(e_alias, \"e_label\")"],
+    "description": "gamedevelopment/AmazonGameLift_LARGE aws icon"
+  },
+
+  "AWSMANAGEMENTCONSOLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmanagementconsole"],
+    "body": ["AWSMANAGEMENTCONSOLE(e_alias, \"e_label\")"],
+    "description": "general/AWSManagementConsole aws icon"
+  },
+
+  "AWSMANAGEMENTCONSOLE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmanagementconsole_large"],
+    "body": ["AWSMANAGEMENTCONSOLE_LARGE(e_alias, \"e_label\")"],
+    "description": "general/AWSManagementConsole_LARGE aws icon"
+  },
+
+  "AWSCLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloud"],
+    "body": ["AWSCLOUD(e_alias, \"e_label\")"],
+    "description": "general/AWScloud aws icon"
+  },
+
+  "AWSCLOUD_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloud_large"],
+    "body": ["AWSCLOUD_LARGE(e_alias, \"e_label\")"],
+    "description": "general/AWScloud_LARGE aws icon"
+  },
+
+  "INTERNET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internet"],
+    "body": ["INTERNET(e_alias, \"e_label\")"],
+    "description": "general/Internet aws icon"
+  },
+
+  "INTERNET_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internet_large"],
+    "body": ["INTERNET_LARGE(e_alias, \"e_label\")"],
+    "description": "general/Internet_LARGE aws icon"
+  },
+
+  "INTERNETALTERNATE1(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetalternate1"],
+    "body": ["INTERNETALTERNATE1(e_alias, \"e_label\")"],
+    "description": "general/Internetalternate1 aws icon"
+  },
+
+  "INTERNETALTERNATE1_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetalternate1_large"],
+    "body": ["INTERNETALTERNATE1_LARGE(e_alias, \"e_label\")"],
+    "description": "general/Internetalternate1_LARGE aws icon"
+  },
+
+  "INTERNETALTERNATE2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetalternate2"],
+    "body": ["INTERNETALTERNATE2(e_alias, \"e_label\")"],
+    "description": "general/Internetalternate2 aws icon"
+  },
+
+  "INTERNETALTERNATE2_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetalternate2_large"],
+    "body": ["INTERNETALTERNATE2_LARGE(e_alias, \"e_label\")"],
+    "description": "general/Internetalternate2_LARGE aws icon"
+  },
+
+  "SAMLTOKEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-samltoken"],
+    "body": ["SAMLTOKEN(e_alias, \"e_label\")"],
+    "description": "general/SAMLtoken aws icon"
+  },
+
+  "SAMLTOKEN_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-samltoken_large"],
+    "body": ["SAMLTOKEN_LARGE(e_alias, \"e_label\")"],
+    "description": "general/SAMLtoken_LARGE aws icon"
+  },
+
+  "SSLPADLOCK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sslpadlock"],
+    "body": ["SSLPADLOCK(e_alias, \"e_label\")"],
+    "description": "general/SSLpadlock aws icon"
+  },
+
+  "SSLPADLOCK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sslpadlock_large"],
+    "body": ["SSLPADLOCK_LARGE(e_alias, \"e_label\")"],
+    "description": "general/SSLpadlock_LARGE aws icon"
+  },
+
+  "CLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-client"],
+    "body": ["CLIENT(e_alias, \"e_label\")"],
+    "description": "general/client aws icon"
+  },
+
+  "CLIENT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-client_large"],
+    "body": ["CLIENT_LARGE(e_alias, \"e_label\")"],
+    "description": "general/client_LARGE aws icon"
+  },
+
+  "CORPORATEDATACENTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-corporatedatacenter"],
+    "body": ["CORPORATEDATACENTER(e_alias, \"e_label\")"],
+    "description": "general/corporatedatacenter aws icon"
+  },
+
+  "CORPORATEDATACENTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-corporatedatacenter_large"],
+    "body": ["CORPORATEDATACENTER_LARGE(e_alias, \"e_label\")"],
+    "description": "general/corporatedatacenter_LARGE aws icon"
+  },
+
+  "DISK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-disk"],
+    "body": ["DISK(e_alias, \"e_label\")"],
+    "description": "general/disk aws icon"
+  },
+
+  "DISK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-disk_large"],
+    "body": ["DISK_LARGE(e_alias, \"e_label\")"],
+    "description": "general/disk_LARGE aws icon"
+  },
+
+  "FORUMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-forums"],
+    "body": ["FORUMS(e_alias, \"e_label\")"],
+    "description": "general/forums aws icon"
+  },
+
+  "FORUMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-forums_large"],
+    "body": ["FORUMS_LARGE(e_alias, \"e_label\")"],
+    "description": "general/forums_LARGE aws icon"
+  },
+
+  "GENERICDATABASE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-genericdatabase"],
+    "body": ["GENERICDATABASE(e_alias, \"e_label\")"],
+    "description": "general/genericdatabase aws icon"
+  },
+
+  "GENERICDATABASE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-genericdatabase_large"],
+    "body": ["GENERICDATABASE_LARGE(e_alias, \"e_label\")"],
+    "description": "general/genericdatabase_LARGE aws icon"
+  },
+
+  "MOBILECLIENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mobileclient"],
+    "body": ["MOBILECLIENT(e_alias, \"e_label\")"],
+    "description": "general/mobileclient aws icon"
+  },
+
+  "MOBILECLIENT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mobileclient_large"],
+    "body": ["MOBILECLIENT_LARGE(e_alias, \"e_label\")"],
+    "description": "general/mobileclient_LARGE aws icon"
+  },
+
+  "MULTIMEDIA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-multimedia"],
+    "body": ["MULTIMEDIA(e_alias, \"e_label\")"],
+    "description": "general/multimedia aws icon"
+  },
+
+  "MULTIMEDIA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-multimedia_large"],
+    "body": ["MULTIMEDIA_LARGE(e_alias, \"e_label\")"],
+    "description": "general/multimedia_LARGE aws icon"
+  },
+
+  "OFFICEBUILDING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-officebuilding"],
+    "body": ["OFFICEBUILDING(e_alias, \"e_label\")"],
+    "description": "general/officebuilding aws icon"
+  },
+
+  "OFFICEBUILDING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-officebuilding_large"],
+    "body": ["OFFICEBUILDING_LARGE(e_alias, \"e_label\")"],
+    "description": "general/officebuilding_LARGE aws icon"
+  },
+
+  "TAPESTORAGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-tapestorage"],
+    "body": ["TAPESTORAGE(e_alias, \"e_label\")"],
+    "description": "general/tapestorage aws icon"
+  },
+
+  "TAPESTORAGE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-tapestorage_large"],
+    "body": ["TAPESTORAGE_LARGE(e_alias, \"e_label\")"],
+    "description": "general/tapestorage_LARGE aws icon"
+  },
+
+  "TRADITIONALSERVER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-traditionalserver"],
+    "body": ["TRADITIONALSERVER(e_alias, \"e_label\")"],
+    "description": "general/traditionalserver aws icon"
+  },
+
+  "TRADITIONALSERVER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-traditionalserver_large"],
+    "body": ["TRADITIONALSERVER_LARGE(e_alias, \"e_label\")"],
+    "description": "general/traditionalserver_LARGE aws icon"
+  },
+
+  "USER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-user"],
+    "body": ["USER(e_alias, \"e_label\")"],
+    "description": "general/user aws icon"
+  },
+
+  "USER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-user_large"],
+    "body": ["USER_LARGE(e_alias, \"e_label\")"],
+    "description": "general/user_LARGE aws icon"
+  },
+
+  "USERS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-users"],
+    "body": ["USERS(e_alias, \"e_label\")"],
+    "description": "general/users aws icon"
+  },
+
+  "USERS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-users_large"],
+    "body": ["USERS_LARGE(e_alias, \"e_label\")"],
+    "description": "general/users_LARGE aws icon"
+  },
+
+  "VIRTUALPRIVATECLOUD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-virtualprivatecloud"],
+    "body": ["VIRTUALPRIVATECLOUD(e_alias, \"e_label\")"],
+    "description": "general/virtualprivatecloud aws icon"
+  },
+
+  "VIRTUALPRIVATECLOUD_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-virtualprivatecloud_large"],
+    "body": ["VIRTUALPRIVATECLOUD_LARGE(e_alias, \"e_label\")"],
+    "description": "general/virtualprivatecloud_LARGE aws icon"
+  },
+
+  "AVSENABLEDDEVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-avsenableddevice"],
+    "body": ["AVSENABLEDDEVICE(e_alias, \"e_label\")"],
+    "description": "internetofthings/AVSenableddevice aws icon"
+  },
+
+  "AVSENABLEDDEVICE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-avsenableddevice_large"],
+    "body": ["AVSENABLEDDEVICE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/AVSenableddevice_LARGE aws icon"
+  },
+
+  "AWSGREENGRASS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsgreengrass"],
+    "body": ["AWSGREENGRASS(e_alias, \"e_label\")"],
+    "description": "internetofthings/AWSGreengrass aws icon"
+  },
+
+  "AWSGREENGRASS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsgreengrass_large"],
+    "body": ["AWSGREENGRASS_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/AWSGreengrass_LARGE aws icon"
+  },
+
+  "AWSIOT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsiot"],
+    "body": ["AWSIOT(e_alias, \"e_label\")"],
+    "description": "internetofthings/AWSIoT aws icon"
+  },
+
+  "AWSIOT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsiot_large"],
+    "body": ["AWSIOT_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/AWSIoT_LARGE aws icon"
+  },
+
+  "HTTP2PROTOCOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-http2protocol"],
+    "body": ["HTTP2PROTOCOL(e_alias, \"e_label\")"],
+    "description": "internetofthings/HTTP2protocol aws icon"
+  },
+
+  "HTTP2PROTOCOL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-http2protocol_large"],
+    "body": ["HTTP2PROTOCOL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/HTTP2protocol_LARGE aws icon"
+  },
+
+  "HTTPPROTOCOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-httpprotocol"],
+    "body": ["HTTPPROTOCOL(e_alias, \"e_label\")"],
+    "description": "internetofthings/HTTPprotocol aws icon"
+  },
+
+  "HTTPPROTOCOL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-httpprotocol_large"],
+    "body": ["HTTPPROTOCOL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/HTTPprotocol_LARGE aws icon"
+  },
+
+  "MQTTPROTOCOL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mqttprotocol"],
+    "body": ["MQTTPROTOCOL(e_alias, \"e_label\")"],
+    "description": "internetofthings/MQTTprotocol aws icon"
+  },
+
+  "MQTTPROTOCOL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mqttprotocol_large"],
+    "body": ["MQTTPROTOCOL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/MQTTprotocol_LARGE aws icon"
+  },
+
+  "ACTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-action"],
+    "body": ["ACTION(e_alias, \"e_label\")"],
+    "description": "internetofthings/action aws icon"
+  },
+
+  "ACTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-action_large"],
+    "body": ["ACTION_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/action_LARGE aws icon"
+  },
+
+  "ACTUATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-actuator"],
+    "body": ["ACTUATOR(e_alias, \"e_label\")"],
+    "description": "internetofthings/actuator aws icon"
+  },
+
+  "ACTUATOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-actuator_large"],
+    "body": ["ACTUATOR_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/actuator_LARGE aws icon"
+  },
+
+  "ALEXASKILL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexaskill"],
+    "body": ["ALEXASKILL(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexaskill aws icon"
+  },
+
+  "ALEXASKILL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexaskill_large"],
+    "body": ["ALEXASKILL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexaskill_LARGE aws icon"
+  },
+
+  "ALEXASMARTHOMESKILL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexasmarthomeskill"],
+    "body": ["ALEXASMARTHOMESKILL(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexasmarthomeskill aws icon"
+  },
+
+  "ALEXASMARTHOMESKILL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexasmarthomeskill_large"],
+    "body": ["ALEXASMARTHOMESKILL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexasmarthomeskill_LARGE aws icon"
+  },
+
+  "ALEXAVOICESERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexavoiceservice"],
+    "body": ["ALEXAVOICESERVICE(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexavoiceservice aws icon"
+  },
+
+  "ALEXAVOICESERVICE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alexavoiceservice_large"],
+    "body": ["ALEXAVOICESERVICE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/alexavoiceservice_LARGE aws icon"
+  },
+
+  "CERTIFICATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificate"],
+    "body": ["CERTIFICATE(e_alias, \"e_label\")"],
+    "description": "internetofthings/certificate aws icon"
+  },
+
+  "CERTIFICATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificate_large"],
+    "body": ["CERTIFICATE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/certificate_LARGE aws icon"
+  },
+
+  "DESIREDSTATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-desiredstate"],
+    "body": ["DESIREDSTATE(e_alias, \"e_label\")"],
+    "description": "internetofthings/desiredstate aws icon"
+  },
+
+  "DESIREDSTATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-desiredstate_large"],
+    "body": ["DESIREDSTATE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/desiredstate_LARGE aws icon"
+  },
+
+  "ECHO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-echo"],
+    "body": ["ECHO(e_alias, \"e_label\")"],
+    "description": "internetofthings/echo aws icon"
+  },
+
+  "ECHO_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-echo_large"],
+    "body": ["ECHO_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/echo_LARGE aws icon"
+  },
+
+  "FIRETV(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-firetv"],
+    "body": ["FIRETV(e_alias, \"e_label\")"],
+    "description": "internetofthings/fireTV aws icon"
+  },
+
+  "FIRETV_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-firetv_large"],
+    "body": ["FIRETV_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/fireTV_LARGE aws icon"
+  },
+
+  "FIRETVSTICK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-firetvstick"],
+    "body": ["FIRETVSTICK(e_alias, \"e_label\")"],
+    "description": "internetofthings/fireTVstick aws icon"
+  },
+
+  "FIRETVSTICK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-firetvstick_large"],
+    "body": ["FIRETVSTICK_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/fireTVstick_LARGE aws icon"
+  },
+
+  "HARDWAREBOARD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-hardwareboard"],
+    "body": ["HARDWAREBOARD(e_alias, \"e_label\")"],
+    "description": "internetofthings/hardwareboard aws icon"
+  },
+
+  "HARDWAREBOARD_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-hardwareboard_large"],
+    "body": ["HARDWAREBOARD_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/hardwareboard_LARGE aws icon"
+  },
+
+  "LAMBDAFUNCTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-lambdafunction"],
+    "body": ["LAMBDAFUNCTION(e_alias, \"e_label\")"],
+    "description": "internetofthings/lambdafunction aws icon"
+  },
+
+  "LAMBDAFUNCTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-lambdafunction_large"],
+    "body": ["LAMBDAFUNCTION_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/lambdafunction_LARGE aws icon"
+  },
+
+  "POLICY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-policy"],
+    "body": ["POLICY(e_alias, \"e_label\")"],
+    "description": "internetofthings/policy aws icon"
+  },
+
+  "POLICY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-policy_large"],
+    "body": ["POLICY_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/policy_LARGE aws icon"
+  },
+
+  "REPORTEDSTATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-reportedstate"],
+    "body": ["REPORTEDSTATE(e_alias, \"e_label\")"],
+    "description": "internetofthings/reportedstate aws icon"
+  },
+
+  "REPORTEDSTATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-reportedstate_large"],
+    "body": ["REPORTEDSTATE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/reportedstate_LARGE aws icon"
+  },
+
+  "RULE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-rule"],
+    "body": ["RULE(e_alias, \"e_label\")"],
+    "description": "internetofthings/rule aws icon"
+  },
+
+  "RULE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-rule_large"],
+    "body": ["RULE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/rule_LARGE aws icon"
+  },
+
+  "SENSOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sensor"],
+    "body": ["SENSOR(e_alias, \"e_label\")"],
+    "description": "internetofthings/sensor aws icon"
+  },
+
+  "SENSOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-sensor_large"],
+    "body": ["SENSOR_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/sensor_LARGE aws icon"
+  },
+
+  "SERVO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-servo"],
+    "body": ["SERVO(e_alias, \"e_label\")"],
+    "description": "internetofthings/servo aws icon"
+  },
+
+  "SERVO_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-servo_large"],
+    "body": ["SERVO_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/servo_LARGE aws icon"
+  },
+
+  "SHADOW(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-shadow"],
+    "body": ["SHADOW(e_alias, \"e_label\")"],
+    "description": "internetofthings/shadow aws icon"
+  },
+
+  "SHADOW_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-shadow_large"],
+    "body": ["SHADOW_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/shadow_LARGE aws icon"
+  },
+
+  "SIMULATOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-simulator"],
+    "body": ["SIMULATOR(e_alias, \"e_label\")"],
+    "description": "internetofthings/simulator aws icon"
+  },
+
+  "SIMULATOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-simulator_large"],
+    "body": ["SIMULATOR_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/simulator_LARGE aws icon"
+  },
+
+  "THINGBANK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingbank"],
+    "body": ["THINGBANK(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingbank aws icon"
+  },
+
+  "THINGBANK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingbank_large"],
+    "body": ["THINGBANK_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingbank_LARGE aws icon"
+  },
+
+  "THINGBICYCLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingbicycle"],
+    "body": ["THINGBICYCLE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingbicycle aws icon"
+  },
+
+  "THINGBICYCLE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingbicycle_large"],
+    "body": ["THINGBICYCLE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingbicycle_LARGE aws icon"
+  },
+
+  "THINGCAMERA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcamera"],
+    "body": ["THINGCAMERA(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcamera aws icon"
+  },
+
+  "THINGCAMERA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcamera_large"],
+    "body": ["THINGCAMERA_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcamera_LARGE aws icon"
+  },
+
+  "THINGCAR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcar"],
+    "body": ["THINGCAR(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcar aws icon"
+  },
+
+  "THINGCAR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcar_large"],
+    "body": ["THINGCAR_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcar_LARGE aws icon"
+  },
+
+  "THINGCART(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcart"],
+    "body": ["THINGCART(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcart aws icon"
+  },
+
+  "THINGCART_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcart_large"],
+    "body": ["THINGCART_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcart_LARGE aws icon"
+  },
+
+  "THINGCOFFEEPOT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcoffeepot"],
+    "body": ["THINGCOFFEEPOT(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcoffeepot aws icon"
+  },
+
+  "THINGCOFFEEPOT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingcoffeepot_large"],
+    "body": ["THINGCOFFEEPOT_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingcoffeepot_LARGE aws icon"
+  },
+
+  "THINGDOORLOCK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingdoorlock"],
+    "body": ["THINGDOORLOCK(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingdoorlock aws icon"
+  },
+
+  "THINGDOORLOCK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingdoorlock_large"],
+    "body": ["THINGDOORLOCK_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingdoorlock_LARGE aws icon"
+  },
+
+  "THINGFACTORY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingfactory"],
+    "body": ["THINGFACTORY(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingfactory aws icon"
+  },
+
+  "THINGFACTORY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingfactory_large"],
+    "body": ["THINGFACTORY_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingfactory_LARGE aws icon"
+  },
+
+  "THINGGENERIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinggeneric"],
+    "body": ["THINGGENERIC(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinggeneric aws icon"
+  },
+
+  "THINGGENERIC_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinggeneric_large"],
+    "body": ["THINGGENERIC_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinggeneric_LARGE aws icon"
+  },
+
+  "THINGHOUSE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinghouse"],
+    "body": ["THINGHOUSE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinghouse aws icon"
+  },
+
+  "THINGHOUSE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinghouse_large"],
+    "body": ["THINGHOUSE_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinghouse_LARGE aws icon"
+  },
+
+  "THINGLIGHTBULB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinglightbulb"],
+    "body": ["THINGLIGHTBULB(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinglightbulb aws icon"
+  },
+
+  "THINGLIGHTBULB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thinglightbulb_large"],
+    "body": ["THINGLIGHTBULB_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thinglightbulb_LARGE aws icon"
+  },
+
+  "THINGMEDICALEMERGENCY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingmedicalemergency"],
+    "body": ["THINGMEDICALEMERGENCY(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingmedicalemergency aws icon"
+  },
+
+  "THINGMEDICALEMERGENCY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingmedicalemergency_large"],
+    "body": ["THINGMEDICALEMERGENCY_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingmedicalemergency_LARGE aws icon"
+  },
+
+  "THINGPOLICEEMERGENCY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingpoliceemergency"],
+    "body": ["THINGPOLICEEMERGENCY(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingpoliceemergency aws icon"
+  },
+
+  "THINGPOLICEEMERGENCY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingpoliceemergency_large"],
+    "body": ["THINGPOLICEEMERGENCY_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingpoliceemergency_LARGE aws icon"
+  },
+
+  "THINGTHERMOSTAT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingthermostat"],
+    "body": ["THINGTHERMOSTAT(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingthermostat aws icon"
+  },
+
+  "THINGTHERMOSTAT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingthermostat_large"],
+    "body": ["THINGTHERMOSTAT_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingthermostat_LARGE aws icon"
+  },
+
+  "THINGTRAVEL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingtravel"],
+    "body": ["THINGTRAVEL(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingtravel aws icon"
+  },
+
+  "THINGTRAVEL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingtravel_large"],
+    "body": ["THINGTRAVEL_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingtravel_LARGE aws icon"
+  },
+
+  "THINGUTILITY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingutility"],
+    "body": ["THINGUTILITY(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingutility aws icon"
+  },
+
+  "THINGUTILITY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingutility_large"],
+    "body": ["THINGUTILITY_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingutility_LARGE aws icon"
+  },
+
+  "THINGWINDFARM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingwindfarm"],
+    "body": ["THINGWINDFARM(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingwindfarm aws icon"
+  },
+
+  "THINGWINDFARM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-thingwindfarm_large"],
+    "body": ["THINGWINDFARM_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/thingwindfarm_LARGE aws icon"
+  },
+
+  "TOPIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-topic"],
+    "body": ["TOPIC(e_alias, \"e_label\")"],
+    "description": "internetofthings/topic aws icon"
+  },
+
+  "TOPIC_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-topic_large"],
+    "body": ["TOPIC_LARGE(e_alias, \"e_label\")"],
+    "description": "internetofthings/topic_LARGE aws icon"
+  },
+
+  "AWSCLOUDFORMATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudformation"],
+    "body": ["AWSCLOUDFORMATION(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSCloudFormation aws icon"
+  },
+
+  "AWSCLOUDFORMATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudformation_large"],
+    "body": ["AWSCLOUDFORMATION_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSCloudFormation_LARGE aws icon"
+  },
+
+  "AWSCLOUDTRAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudtrail"],
+    "body": ["AWSCLOUDTRAIL(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSCloudTrail aws icon"
+  },
+
+  "AWSCLOUDTRAIL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudtrail_large"],
+    "body": ["AWSCLOUDTRAIL_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSCloudTrail_LARGE aws icon"
+  },
+
+  "AWSCONFIG(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsconfig"],
+    "body": ["AWSCONFIG(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSConfig aws icon"
+  },
+
+  "AWSCONFIG_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsconfig_large"],
+    "body": ["AWSCONFIG_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSConfig_LARGE aws icon"
+  },
+
+  "AWSMANAGEDSERVICES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmanagedservices"],
+    "body": ["AWSMANAGEDSERVICES(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSManagedServices aws icon"
+  },
+
+  "AWSMANAGEDSERVICES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmanagedservices_large"],
+    "body": ["AWSMANAGEDSERVICES_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSManagedServices_LARGE aws icon"
+  },
+
+  "AWSOPSWORKS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsopsworks"],
+    "body": ["AWSOPSWORKS(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSOpsWorks aws icon"
+  },
+
+  "AWSOPSWORKS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsopsworks_large"],
+    "body": ["AWSOPSWORKS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSOpsWorks_LARGE aws icon"
+  },
+
+  "AWSSERVICECATALOG(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsservicecatalog"],
+    "body": ["AWSSERVICECATALOG(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSServiceCatalog aws icon"
+  },
+
+  "AWSSERVICECATALOG_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsservicecatalog_large"],
+    "body": ["AWSSERVICECATALOG_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSServiceCatalog_LARGE aws icon"
+  },
+
+  "AWSTRUSTEDADVISOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstrustedadvisor"],
+    "body": ["AWSTRUSTEDADVISOR(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSTrustedAdvisor aws icon"
+  },
+
+  "AWSTRUSTEDADVISOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstrustedadvisor_large"],
+    "body": ["AWSTRUSTEDADVISOR_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AWSTrustedAdvisor_LARGE aws icon"
+  },
+
+  "AMAZONCLOUDWATCH(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudwatch"],
+    "body": ["AMAZONCLOUDWATCH(e_alias, \"e_label\")"],
+    "description": "managementtools/AmazonCloudWatch aws icon"
+  },
+
+  "AMAZONCLOUDWATCH_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudwatch_large"],
+    "body": ["AMAZONCLOUDWATCH_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AmazonCloudWatch_LARGE aws icon"
+  },
+
+  "AMAZONEC2SYSTEMSMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonec2systemsmanager"],
+    "body": ["AMAZONEC2SYSTEMSMANAGER(e_alias, \"e_label\")"],
+    "description": "managementtools/AmazonEC2SystemsManager aws icon"
+  },
+
+  "AMAZONEC2SYSTEMSMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonec2systemsmanager_large"],
+    "body": ["AMAZONEC2SYSTEMSMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/AmazonEC2SystemsManager_LARGE aws icon"
+  },
+
+  "AUTOMATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-automation"],
+    "body": ["AUTOMATION(e_alias, \"e_label\")"],
+    "description": "managementtools/Automation aws icon"
+  },
+
+  "AUTOMATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-automation_large"],
+    "body": ["AUTOMATION_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/Automation_LARGE aws icon"
+  },
+
+  "INVENTORY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-inventory"],
+    "body": ["INVENTORY(e_alias, \"e_label\")"],
+    "description": "managementtools/Inventory aws icon"
+  },
+
+  "INVENTORY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-inventory_large"],
+    "body": ["INVENTORY_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/Inventory_LARGE aws icon"
+  },
+
+  "MAINTENANCEWINDOW(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-maintenancewindow"],
+    "body": ["MAINTENANCEWINDOW(e_alias, \"e_label\")"],
+    "description": "managementtools/MaintenanceWindow aws icon"
+  },
+
+  "MAINTENANCEWINDOW_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-maintenancewindow_large"],
+    "body": ["MAINTENANCEWINDOW_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/MaintenanceWindow_LARGE aws icon"
+  },
+
+  "PARAMETERSTORE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-parameterstore"],
+    "body": ["PARAMETERSTORE(e_alias, \"e_label\")"],
+    "description": "managementtools/ParameterStore aws icon"
+  },
+
+  "PARAMETERSTORE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-parameterstore_large"],
+    "body": ["PARAMETERSTORE_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/ParameterStore_LARGE aws icon"
+  },
+
+  "PATCHMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-patchmanager"],
+    "body": ["PATCHMANAGER(e_alias, \"e_label\")"],
+    "description": "managementtools/PatchManager aws icon"
+  },
+
+  "PATCHMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-patchmanager_large"],
+    "body": ["PATCHMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/PatchManager_LARGE aws icon"
+  },
+
+  "RUNCOMMAND(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-runcommand"],
+    "body": ["RUNCOMMAND(e_alias, \"e_label\")"],
+    "description": "managementtools/RunCommand aws icon"
+  },
+
+  "RUNCOMMAND_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-runcommand_large"],
+    "body": ["RUNCOMMAND_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/RunCommand_LARGE aws icon"
+  },
+
+  "STATEMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-statemanager"],
+    "body": ["STATEMANAGER(e_alias, \"e_label\")"],
+    "description": "managementtools/StateManager aws icon"
+  },
+
+  "STATEMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-statemanager_large"],
+    "body": ["STATEMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/StateManager_LARGE aws icon"
+  },
+
+  "ALARM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alarm"],
+    "body": ["ALARM(e_alias, \"e_label\")"],
+    "description": "managementtools/alarm aws icon"
+  },
+
+  "ALARM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-alarm_large"],
+    "body": ["ALARM_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/alarm_LARGE aws icon"
+  },
+
+  "APPS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-apps"],
+    "body": ["APPS(e_alias, \"e_label\")"],
+    "description": "managementtools/apps aws icon"
+  },
+
+  "APPS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-apps_large"],
+    "body": ["APPS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/apps_LARGE aws icon"
+  },
+
+  "CHANGESET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-changeset"],
+    "body": ["CHANGESET(e_alias, \"e_label\")"],
+    "description": "managementtools/changeset aws icon"
+  },
+
+  "CHANGESET_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-changeset_large"],
+    "body": ["CHANGESET_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/changeset_LARGE aws icon"
+  },
+
+  "CHECKLIST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklist"],
+    "body": ["CHECKLIST(e_alias, \"e_label\")"],
+    "description": "managementtools/checklist aws icon"
+  },
+
+  "CHECKLIST_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklist_large"],
+    "body": ["CHECKLIST_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklist_LARGE aws icon"
+  },
+
+  "CHECKLISTCOST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistcost"],
+    "body": ["CHECKLISTCOST(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistcost aws icon"
+  },
+
+  "CHECKLISTCOST_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistcost_large"],
+    "body": ["CHECKLISTCOST_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistcost_LARGE aws icon"
+  },
+
+  "CHECKLISTFAULTTOLERANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistfaulttolerance"],
+    "body": ["CHECKLISTFAULTTOLERANCE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistfaulttolerance aws icon"
+  },
+
+  "CHECKLISTFAULTTOLERANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistfaulttolerance_large"],
+    "body": ["CHECKLISTFAULTTOLERANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistfaulttolerance_LARGE aws icon"
+  },
+
+  "CHECKLISTPERFORMANCE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistperformance"],
+    "body": ["CHECKLISTPERFORMANCE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistperformance aws icon"
+  },
+
+  "CHECKLISTPERFORMANCE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistperformance_large"],
+    "body": ["CHECKLISTPERFORMANCE_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistperformance_LARGE aws icon"
+  },
+
+  "CHECKLISTSECURITY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistsecurity"],
+    "body": ["CHECKLISTSECURITY(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistsecurity aws icon"
+  },
+
+  "CHECKLISTSECURITY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-checklistsecurity_large"],
+    "body": ["CHECKLISTSECURITY_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/checklistsecurity_LARGE aws icon"
+  },
+
+  "DEPLOYMENTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-deployments"],
+    "body": ["DEPLOYMENTS(e_alias, \"e_label\")"],
+    "description": "managementtools/deployments aws icon"
+  },
+
+  "DEPLOYMENTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-deployments_large"],
+    "body": ["DEPLOYMENTS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/deployments_LARGE aws icon"
+  },
+
+  "DOCUMENTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-documents"],
+    "body": ["DOCUMENTS(e_alias, \"e_label\")"],
+    "description": "managementtools/documents aws icon"
+  },
+
+  "DOCUMENTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-documents_large"],
+    "body": ["DOCUMENTS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/documents_LARGE aws icon"
+  },
+
+  "EVENTEVENTBASED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-eventeventbased"],
+    "body": ["EVENTEVENTBASED(e_alias, \"e_label\")"],
+    "description": "managementtools/eventeventbased aws icon"
+  },
+
+  "EVENTEVENTBASED_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-eventeventbased_large"],
+    "body": ["EVENTEVENTBASED_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/eventeventbased_LARGE aws icon"
+  },
+
+  "EVENTTIMEBASED(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-eventtimebased"],
+    "body": ["EVENTTIMEBASED(e_alias, \"e_label\")"],
+    "description": "managementtools/eventtimebased aws icon"
+  },
+
+  "EVENTTIMEBASED_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-eventtimebased_large"],
+    "body": ["EVENTTIMEBASED_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/eventtimebased_LARGE aws icon"
+  },
+
+  "INSTANCES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instances"],
+    "body": ["INSTANCES(e_alias, \"e_label\")"],
+    "description": "managementtools/instances aws icon"
+  },
+
+  "INSTANCES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-instances_large"],
+    "body": ["INSTANCES_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/instances_LARGE aws icon"
+  },
+
+  "LAYERS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-layers"],
+    "body": ["LAYERS(e_alias, \"e_label\")"],
+    "description": "managementtools/layers aws icon"
+  },
+
+  "LAYERS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-layers_large"],
+    "body": ["LAYERS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/layers_LARGE aws icon"
+  },
+
+  "MONITORING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-monitoring"],
+    "body": ["MONITORING(e_alias, \"e_label\")"],
+    "description": "managementtools/monitoring aws icon"
+  },
+
+  "MONITORING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-monitoring_large"],
+    "body": ["MONITORING_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/monitoring_LARGE aws icon"
+  },
+
+  "PERMISSIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-permissions"],
+    "body": ["PERMISSIONS(e_alias, \"e_label\")"],
+    "description": "managementtools/permissions aws icon"
+  },
+
+  "PERMISSIONS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-permissions_large"],
+    "body": ["PERMISSIONS_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/permissions_LARGE aws icon"
+  },
+
+  "RESOURCES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-resources"],
+    "body": ["RESOURCES(e_alias, \"e_label\")"],
+    "description": "managementtools/resources aws icon"
+  },
+
+  "RESOURCES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-resources_large"],
+    "body": ["RESOURCES_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/resources_LARGE aws icon"
+  },
+
+  "RULE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-rule"],
+    "body": ["RULE(e_alias, \"e_label\")"],
+    "description": "managementtools/rule aws icon"
+  },
+
+  "RULE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-rule_large"],
+    "body": ["RULE_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/rule_LARGE aws icon"
+  },
+
+  "STACK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-stack"],
+    "body": ["STACK(e_alias, \"e_label\")"],
+    "description": "managementtools/stack aws icon"
+  },
+
+  "STACK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-stack"],
+    "body": ["STACK(e_alias, \"e_label\")"],
+    "description": "managementtools/stack aws icon"
+  },
+
+  "STACK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-stack_large"],
+    "body": ["STACK_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/stack_LARGE aws icon"
+  },
+
+  "STACK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-stack_large"],
+    "body": ["STACK_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/stack_LARGE aws icon"
+  },
+
+  "TEMPLATE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-template"],
+    "body": ["TEMPLATE(e_alias, \"e_label\")"],
+    "description": "managementtools/template aws icon"
+  },
+
+  "TEMPLATE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-template_large"],
+    "body": ["TEMPLATE_LARGE(e_alias, \"e_label\")"],
+    "description": "managementtools/template_LARGE aws icon"
+  },
+
+  "AMAZONPINPOINT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpinpoint"],
+    "body": ["AMAZONPINPOINT(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonPinpoint aws icon"
+  },
+
+  "AMAZONPINPOINT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpinpoint_large"],
+    "body": ["AMAZONPINPOINT_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonPinpoint_LARGE aws icon"
+  },
+
+  "AMAZONSES(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonses"],
+    "body": ["AMAZONSES(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSES aws icon"
+  },
+
+  "AMAZONSES_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonses_large"],
+    "body": ["AMAZONSES_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSES_LARGE aws icon"
+  },
+
+  "AMAZONSNS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonsns"],
+    "body": ["AMAZONSNS(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSNS aws icon"
+  },
+
+  "AMAZONSNS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonsns_large"],
+    "body": ["AMAZONSNS_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSNS_LARGE aws icon"
+  },
+
+  "AMAZONSQS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonsqs"],
+    "body": ["AMAZONSQS(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSQS aws icon"
+  },
+
+  "AMAZONSQS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonsqs_large"],
+    "body": ["AMAZONSQS_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/AmazonSQS_LARGE aws icon"
+  },
+
+  "HTTPNOTIFICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-httpnotification"],
+    "body": ["HTTPNOTIFICATION(e_alias, \"e_label\")"],
+    "description": "messaging/HTTPnotification aws icon"
+  },
+
+  "HTTPNOTIFICATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-httpnotification_large"],
+    "body": ["HTTPNOTIFICATION_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/HTTPnotification_LARGE aws icon"
+  },
+
+  "EMAIL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-email"],
+    "body": ["EMAIL(e_alias, \"e_label\")"],
+    "description": "messaging/email aws icon"
+  },
+
+  "EMAIL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-email_large"],
+    "body": ["EMAIL_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/email_LARGE aws icon"
+  },
+
+  "EMAILNOTIFICATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emailnotification"],
+    "body": ["EMAILNOTIFICATION(e_alias, \"e_label\")"],
+    "description": "messaging/emailnotification aws icon"
+  },
+
+  "EMAILNOTIFICATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-emailnotification_large"],
+    "body": ["EMAILNOTIFICATION_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/emailnotification_LARGE aws icon"
+  },
+
+  "MESSAGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-message"],
+    "body": ["MESSAGE(e_alias, \"e_label\")"],
+    "description": "messaging/message aws icon"
+  },
+
+  "MESSAGE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-message_large"],
+    "body": ["MESSAGE_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/message_LARGE aws icon"
+  },
+
+  "QUEUE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-queue"],
+    "body": ["QUEUE(e_alias, \"e_label\")"],
+    "description": "messaging/queue aws icon"
+  },
+
+  "QUEUE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-queue_large"],
+    "body": ["QUEUE_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/queue_LARGE aws icon"
+  },
+
+  "TOPIC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-topic"],
+    "body": ["TOPIC(e_alias, \"e_label\")"],
+    "description": "messaging/topic aws icon"
+  },
+
+  "TOPIC_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-topic_large"],
+    "body": ["TOPIC_LARGE(e_alias, \"e_label\")"],
+    "description": "messaging/topic_LARGE aws icon"
+  },
+
+  "AWSAPPLICATIONDISCOVERYSERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsapplicationdiscoveryservice"],
+    "body": ["AWSAPPLICATIONDISCOVERYSERVICE(e_alias, \"e_label\")"],
+    "description": "migration/AWSApplicationDiscoveryService aws icon"
+  },
+
+  "AWSAPPLICATIONDISCOVERYSERVICE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsapplicationdiscoveryservice_large"],
+    "body": ["AWSAPPLICATIONDISCOVERYSERVICE_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/AWSApplicationDiscoveryService_LARGE aws icon"
+  },
+
+  "AWSDMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdms"],
+    "body": ["AWSDMS(e_alias, \"e_label\")"],
+    "description": "migration/AWSDMS aws icon"
+  },
+
+  "AWSDMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdms_large"],
+    "body": ["AWSDMS_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/AWSDMS_LARGE aws icon"
+  },
+
+  "AWSMIGRATIONHUB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmigrationhub"],
+    "body": ["AWSMIGRATIONHUB(e_alias, \"e_label\")"],
+    "description": "migration/AWSMigrationHub aws icon"
+  },
+
+  "AWSMIGRATIONHUB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmigrationhub_large"],
+    "body": ["AWSMIGRATIONHUB_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/AWSMigrationHub_LARGE aws icon"
+  },
+
+  "AWSSMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssms"],
+    "body": ["AWSSMS(e_alias, \"e_label\")"],
+    "description": "migration/AWSSMS aws icon"
+  },
+
+  "AWSSMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssms_large"],
+    "body": ["AWSSMS_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/AWSSMS_LARGE aws icon"
+  },
+
+  "AWSSNOWBALL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssnowball"],
+    "body": ["AWSSNOWBALL(e_alias, \"e_label\")"],
+    "description": "migration/AWSSnowball aws icon"
+  },
+
+  "AWSSNOWBALL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssnowball_large"],
+    "body": ["AWSSNOWBALL_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/AWSSnowball_LARGE aws icon"
+  },
+
+  "DATABASEMIGRATIONWORKFLOW_JOB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-databasemigrationworkflow_job"],
+    "body": ["DATABASEMIGRATIONWORKFLOW_JOB(e_alias, \"e_label\")"],
+    "description": "migration/databasemigrationworkflow_job aws icon"
+  },
+
+  "DATABASEMIGRATIONWORKFLOW_JOB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-databasemigrationworkflow_job_large"],
+    "body": ["DATABASEMIGRATIONWORKFLOW_JOB_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/databasemigrationworkflow_job_LARGE aws icon"
+  },
+
+  "IMPORTEXPORT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-importexport"],
+    "body": ["IMPORTEXPORT(e_alias, \"e_label\")"],
+    "description": "migration/importexport aws icon"
+  },
+
+  "IMPORTEXPORT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-importexport_large"],
+    "body": ["IMPORTEXPORT_LARGE(e_alias, \"e_label\")"],
+    "description": "migration/importexport_LARGE aws icon"
+  },
+
+  "AWSDEVICEFARM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdevicefarm"],
+    "body": ["AWSDEVICEFARM(e_alias, \"e_label\")"],
+    "description": "mobileservices/AWSDeviceFarm aws icon"
+  },
+
+  "AWSDEVICEFARM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdevicefarm_large"],
+    "body": ["AWSDEVICEFARM_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AWSDeviceFarm_LARGE aws icon"
+  },
+
+  "AWSMOBILEHUB(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmobilehub"],
+    "body": ["AWSMOBILEHUB(e_alias, \"e_label\")"],
+    "description": "mobileservices/AWSMobileHub aws icon"
+  },
+
+  "AWSMOBILEHUB_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsmobilehub_large"],
+    "body": ["AWSMOBILEHUB_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AWSMobileHub_LARGE aws icon"
+  },
+
+  "AMAZONAPIGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonapigateway"],
+    "body": ["AMAZONAPIGATEWAY(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonAPIGateway aws icon"
+  },
+
+  "AMAZONAPIGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonapigateway_large"],
+    "body": ["AMAZONAPIGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonAPIGateway_LARGE aws icon"
+  },
+
+  "AMAZONCOGNITO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncognito"],
+    "body": ["AMAZONCOGNITO(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonCognito aws icon"
+  },
+
+  "AMAZONCOGNITO_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncognito_large"],
+    "body": ["AMAZONCOGNITO_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonCognito_LARGE aws icon"
+  },
+
+  "AMAZONMOBILEANALYTICS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmobileanalytics"],
+    "body": ["AMAZONMOBILEANALYTICS(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonMobileAnalytics aws icon"
+  },
+
+  "AMAZONMOBILEANALYTICS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmobileanalytics_large"],
+    "body": ["AMAZONMOBILEANALYTICS_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonMobileAnalytics_LARGE aws icon"
+  },
+
+  "AMAZONPINPOINT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpinpoint"],
+    "body": ["AMAZONPINPOINT(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonPinpoint aws icon"
+  },
+
+  "AMAZONPINPOINT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonpinpoint_large"],
+    "body": ["AMAZONPINPOINT_LARGE(e_alias, \"e_label\")"],
+    "description": "mobileservices/AmazonPinpoint_LARGE aws icon"
+  },
+
+  "AWSDIRECTCONNECT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdirectconnect"],
+    "body": ["AWSDIRECTCONNECT(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AWSDirectConnect aws icon"
+  },
+
+  "AWSDIRECTCONNECT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdirectconnect_large"],
+    "body": ["AWSDIRECTCONNECT_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AWSDirectConnect_LARGE aws icon"
+  },
+
+  "AMAZONCLOUDFRONT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudfront"],
+    "body": ["AMAZONCLOUDFRONT(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonCloudFront aws icon"
+  },
+
+  "AMAZONCLOUDFRONT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoncloudfront_large"],
+    "body": ["AMAZONCLOUDFRONT_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonCloudFront_LARGE aws icon"
+  },
+
+  "AMAZONROUTE53(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonroute53"],
+    "body": ["AMAZONROUTE53(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonRoute53 aws icon"
+  },
+
+  "AMAZONROUTE53_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonroute53_large"],
+    "body": ["AMAZONROUTE53_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonRoute53_LARGE aws icon"
+  },
+
+  "AMAZONVPC(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonvpc"],
+    "body": ["AMAZONVPC(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonVPC aws icon"
+  },
+
+  "AMAZONVPC_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonvpc_large"],
+    "body": ["AMAZONVPC_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/AmazonVPC_LARGE aws icon"
+  },
+
+  "APPLICATIONLOADBALANCER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-applicationloadbalancer"],
+    "body": ["APPLICATIONLOADBALANCER(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ApplicationLoadBalancer aws icon"
+  },
+
+  "APPLICATIONLOADBALANCING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-applicationloadbalancing_large"],
+    "body": ["APPLICATIONLOADBALANCING_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ApplicationLoadBalancing_LARGE aws icon"
+  },
+
+  "CLASSICLOADBALANCER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-classicloadbalancer"],
+    "body": ["CLASSICLOADBALANCER(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ClassicLoadBalancer aws icon"
+  },
+
+  "CLASSICLOADBALANCER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-classicloadbalancer_large"],
+    "body": ["CLASSICLOADBALANCER_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ClassicLoadBalancer_LARGE aws icon"
+  },
+
+  "ELASTICLOADBALANCING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticloadbalancing"],
+    "body": ["ELASTICLOADBALANCING(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ElasticLoadBalancing aws icon"
+  },
+
+  "ELASTICLOADBALANCING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticloadbalancing_large"],
+    "body": ["ELASTICLOADBALANCING_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/ElasticLoadBalancing_LARGE aws icon"
+  },
+
+  "VPCNATGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcnatgateway"],
+    "body": ["VPCNATGATEWAY(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPCNATgateway aws icon"
+  },
+
+  "VPCNATGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcnatgateway_large"],
+    "body": ["VPCNATGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPCNATgateway_LARGE aws icon"
+  },
+
+  "VPCPEERING(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcpeering"],
+    "body": ["VPCPEERING(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPCpeering aws icon"
+  },
+
+  "VPCPEERING_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpcpeering_large"],
+    "body": ["VPCPEERING_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPCpeering_LARGE aws icon"
+  },
+
+  "VPNCONNECTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpnconnection"],
+    "body": ["VPNCONNECTION(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPNconnection aws icon"
+  },
+
+  "VPNCONNECTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpnconnection_large"],
+    "body": ["VPNCONNECTION_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPNconnection_LARGE aws icon"
+  },
+
+  "VPNGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpngateway"],
+    "body": ["VPNGATEWAY(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPNgateway aws icon"
+  },
+
+  "VPNGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vpngateway_large"],
+    "body": ["VPNGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/VPNgateway_LARGE aws icon"
+  },
+
+  "CUSTOMERGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-customergateway"],
+    "body": ["CUSTOMERGATEWAY(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/customergateway aws icon"
+  },
+
+  "CUSTOMERGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-customergateway_large"],
+    "body": ["CUSTOMERGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/customergateway_LARGE aws icon"
+  },
+
+  "DOWNLOADDISTRIBUTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-downloaddistribution"],
+    "body": ["DOWNLOADDISTRIBUTION(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/downloaddistribution aws icon"
+  },
+
+  "DOWNLOADDISTRIBUTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-downloaddistribution_large"],
+    "body": ["DOWNLOADDISTRIBUTION_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/downloaddistribution_LARGE aws icon"
+  },
+
+  "EDGELOCATION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-edgelocation"],
+    "body": ["EDGELOCATION(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/edgelocation aws icon"
+  },
+
+  "EDGELOCATION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-edgelocation_large"],
+    "body": ["EDGELOCATION_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/edgelocation_LARGE aws icon"
+  },
+
+  "ELASTICNETWORKADAPTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkadapter"],
+    "body": ["ELASTICNETWORKADAPTER(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/elasticnetworkadapter aws icon"
+  },
+
+  "ELASTICNETWORKADAPTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkadapter_large"],
+    "body": ["ELASTICNETWORKADAPTER_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/elasticnetworkadapter_LARGE aws icon"
+  },
+
+  "ELASTICNETWORKINTERFACE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkinterface"],
+    "body": ["ELASTICNETWORKINTERFACE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/elasticnetworkinterface aws icon"
+  },
+
+  "ELASTICNETWORKINTERFACE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-elasticnetworkinterface_large"],
+    "body": ["ELASTICNETWORKINTERFACE_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/elasticnetworkinterface_LARGE aws icon"
+  },
+
+  "ENDPOINTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-endpoints"],
+    "body": ["ENDPOINTS(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/endpoints aws icon"
+  },
+
+  "ENDPOINTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-endpoints_large"],
+    "body": ["ENDPOINTS_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/endpoints_LARGE aws icon"
+  },
+
+  "FLOWLOGS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-flowlogs"],
+    "body": ["FLOWLOGS(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/flowlogs aws icon"
+  },
+
+  "FLOWLOGS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-flowlogs_large"],
+    "body": ["FLOWLOGS_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/flowlogs_LARGE aws icon"
+  },
+
+  "HOSTEDZONE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-hostedzone"],
+    "body": ["HOSTEDZONE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/hostedzone aws icon"
+  },
+
+  "HOSTEDZONE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-hostedzone_large"],
+    "body": ["HOSTEDZONE_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/hostedzone_LARGE aws icon"
+  },
+
+  "INTERNETGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetgateway"],
+    "body": ["INTERNETGATEWAY(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/internetgateway aws icon"
+  },
+
+  "INTERNETGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-internetgateway_large"],
+    "body": ["INTERNETGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/internetgateway_LARGE aws icon"
+  },
+
+  "NETWORKACCESSCONTROLLIST(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-networkaccesscontrollist"],
+    "body": ["NETWORKACCESSCONTROLLIST(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/networkaccesscontrollist aws icon"
+  },
+
+  "NETWORKACCESSCONTROLLIST_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-networkaccesscontrollist_large"],
+    "body": ["NETWORKACCESSCONTROLLIST_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/networkaccesscontrollist_LARGE aws icon"
+  },
+
+  "ROUTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-router"],
+    "body": ["ROUTER(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/router aws icon"
+  },
+
+  "ROUTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-router_large"],
+    "body": ["ROUTER_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/router_LARGE aws icon"
+  },
+
+  "ROUTETABLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-routetable"],
+    "body": ["ROUTETABLE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/routetable aws icon"
+  },
+
+  "ROUTETABLE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-routetable_large"],
+    "body": ["ROUTETABLE_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/routetable_LARGE aws icon"
+  },
+
+  "STREAMINGDISTRIBUTION(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-streamingdistribution"],
+    "body": ["STREAMINGDISTRIBUTION(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/streamingdistribution aws icon"
+  },
+
+  "STREAMINGDISTRIBUTION_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-streamingdistribution_large"],
+    "body": ["STREAMINGDISTRIBUTION_LARGE(e_alias, \"e_label\")"],
+    "description": "networkingcontentdelivery/streamingdistribution_LARGE aws icon"
+  },
+
+  "AMAZONMECHANICALTURK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmechanicalturk"],
+    "body": ["AMAZONMECHANICALTURK(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/AmazonMechanicalTurk aws icon"
+  },
+
+  "AMAZONMECHANICALTURK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmechanicalturk_large"],
+    "body": ["AMAZONMECHANICALTURK_LARGE(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/AmazonMechanicalTurk_LARGE aws icon"
+  },
+
+  "ASSIGNMENTTASK(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-assignmenttask"],
+    "body": ["ASSIGNMENTTASK(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/assignmenttask aws icon"
+  },
+
+  "ASSIGNMENTTASK_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-assignmenttask_large"],
+    "body": ["ASSIGNMENTTASK_LARGE(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/assignmenttask_LARGE aws icon"
+  },
+
+  "HUMANINTELLIGENCETASKS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-humanintelligencetasks"],
+    "body": ["HUMANINTELLIGENCETASKS(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/humanintelligencetasks aws icon"
+  },
+
+  "HUMANINTELLIGENCETASKS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-humanintelligencetasks_large"],
+    "body": ["HUMANINTELLIGENCETASKS_LARGE(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/humanintelligencetasks_LARGE aws icon"
+  },
+
+  "REQUESTER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-requester"],
+    "body": ["REQUESTER(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/requester aws icon"
+  },
+
+  "REQUESTER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-requester_large"],
+    "body": ["REQUESTER_LARGE(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/requester_LARGE aws icon"
+  },
+
+  "WORKERS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-workers"],
+    "body": ["WORKERS(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/workers aws icon"
+  },
+
+  "WORKERS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-workers_large"],
+    "body": ["WORKERS_LARGE(e_alias, \"e_label\")"],
+    "description": "ondemandworkforce/workers_LARGE aws icon"
+  },
+
+  "AWSCLI(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscli"],
+    "body": ["AWSCLI(e_alias, \"e_label\")"],
+    "description": "sdks/AWSCLI aws icon"
+  },
+
+  "AWSCLI_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscli_large"],
+    "body": ["AWSCLI_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/AWSCLI_LARGE aws icon"
+  },
+
+  "AWSTOOLKITFORECLIPSE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolkitforeclipse"],
+    "body": ["AWSTOOLKITFORECLIPSE(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolkitForEclipse aws icon"
+  },
+
+  "AWSTOOLKITFORECLIPSE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolkitforeclipse_large"],
+    "body": ["AWSTOOLKITFORECLIPSE_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolkitForEclipse_LARGE aws icon"
+  },
+
+  "AWSTOOLKITFORVISUALSTUDIO(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolkitforvisualstudio"],
+    "body": ["AWSTOOLKITFORVISUALSTUDIO(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolkitForVisualStudio aws icon"
+  },
+
+  "AWSTOOLKITFORVISUALSTUDIO_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolkitforvisualstudio_large"],
+    "body": ["AWSTOOLKITFORVISUALSTUDIO_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolkitForVisualStudio_LARGE aws icon"
+  },
+
+  "AWSTOOLSFORWINDOWSPOWERSHELL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolsforwindowspowershell"],
+    "body": ["AWSTOOLSFORWINDOWSPOWERSHELL(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolsForWindowsPowerShell aws icon"
+  },
+
+  "AWSTOOLSFORWINDOWSPOWERSHELL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awstoolsforwindowspowershell_large"],
+    "body": ["AWSTOOLSFORWINDOWSPOWERSHELL_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/AWSToolsForWindowsPowerShell_LARGE aws icon"
+  },
+
+  "ANDROID(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-android"],
+    "body": ["ANDROID(e_alias, \"e_label\")"],
+    "description": "sdks/Android aws icon"
+  },
+
+  "ANDROID_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-android_large"],
+    "body": ["ANDROID_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Android_LARGE aws icon"
+  },
+
+  "JAVA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-java"],
+    "body": ["JAVA(e_alias, \"e_label\")"],
+    "description": "sdks/Java aws icon"
+  },
+
+  "JAVASCRIPT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-javascript"],
+    "body": ["JAVASCRIPT(e_alias, \"e_label\")"],
+    "description": "sdks/JavaScript aws icon"
+  },
+
+  "JAVASCRIPT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-javascript_large"],
+    "body": ["JAVASCRIPT_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/JavaScript_LARGE aws icon"
+  },
+
+  "JAVA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-java_large"],
+    "body": ["JAVA_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Java_LARGE aws icon"
+  },
+
+  "NET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-net"],
+    "body": ["NET(e_alias, \"e_label\")"],
+    "description": "sdks/Net aws icon"
+  },
+
+  "NET_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-net_large"],
+    "body": ["NET_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Net_LARGE aws icon"
+  },
+
+  "NODEJS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-nodejs"],
+    "body": ["NODEJS(e_alias, \"e_label\")"],
+    "description": "sdks/Nodejs aws icon"
+  },
+
+  "NODEJS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-nodejs_large"],
+    "body": ["NODEJS_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Nodejs_LARGE aws icon"
+  },
+
+  "PHP(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-php"],
+    "body": ["PHP(e_alias, \"e_label\")"],
+    "description": "sdks/PHP aws icon"
+  },
+
+  "PHP_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-php_large"],
+    "body": ["PHP_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/PHP_LARGE aws icon"
+  },
+
+  "PYTHON(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-python"],
+    "body": ["PYTHON(e_alias, \"e_label\")"],
+    "description": "sdks/Python aws icon"
+  },
+
+  "PYTHON_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-python_large"],
+    "body": ["PYTHON_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Python_LARGE aws icon"
+  },
+
+  "RUBY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ruby"],
+    "body": ["RUBY(e_alias, \"e_label\")"],
+    "description": "sdks/Ruby aws icon"
+  },
+
+  "RUBY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ruby_large"],
+    "body": ["RUBY_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Ruby_LARGE aws icon"
+  },
+
+  "XAMARIN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-xamarin"],
+    "body": ["XAMARIN(e_alias, \"e_label\")"],
+    "description": "sdks/Xamarin aws icon"
+  },
+
+  "XAMARIN_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-xamarin_large"],
+    "body": ["XAMARIN_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/Xamarin_LARGE aws icon"
+  },
+
+  "IOS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ios"],
+    "body": ["IOS(e_alias, \"e_label\")"],
+    "description": "sdks/iOS aws icon"
+  },
+
+  "IOS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-ios_large"],
+    "body": ["IOS_LARGE(e_alias, \"e_label\")"],
+    "description": "sdks/iOS_LARGE aws icon"
+  },
+
+  "AWSARTIFACT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsartifact"],
+    "body": ["AWSARTIFACT(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSArtifact aws icon"
+  },
+
+  "AWSARTIFACT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsartifact_large"],
+    "body": ["AWSARTIFACT_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSArtifact_LARGE aws icon"
+  },
+
+  "AWSCERTIFICATEMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscertificatemanager"],
+    "body": ["AWSCERTIFICATEMANAGER(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSCertificateManager aws icon"
+  },
+
+  "AWSCERTIFICATEMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscertificatemanager_large"],
+    "body": ["AWSCERTIFICATEMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSCertificateManager_LARGE aws icon"
+  },
+
+  "AWSCLOUDHSM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudhsm"],
+    "body": ["AWSCLOUDHSM(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSCloudHSM aws icon"
+  },
+
+  "AWSCLOUDHSM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awscloudhsm_large"],
+    "body": ["AWSCLOUDHSM_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSCloudHSM_LARGE aws icon"
+  },
+
+  "AWSDIRECTORYSERVICE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdirectoryservice"],
+    "body": ["AWSDIRECTORYSERVICE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSDirectoryService aws icon"
+  },
+
+  "AWSDIRECTORYSERVICE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsdirectoryservice_large"],
+    "body": ["AWSDIRECTORYSERVICE_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSDirectoryService_LARGE aws icon"
+  },
+
+  "AWSIAM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsiam"],
+    "body": ["AWSIAM(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSIAM aws icon"
+  },
+
+  "AWSIAM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsiam_large"],
+    "body": ["AWSIAM_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSIAM_LARGE aws icon"
+  },
+
+  "AWSKMS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awskms"],
+    "body": ["AWSKMS(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSKMS aws icon"
+  },
+
+  "AWSKMS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awskms_large"],
+    "body": ["AWSKMS_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSKMS_LARGE aws icon"
+  },
+
+  "AWSORGANIZATIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsorganizations"],
+    "body": ["AWSORGANIZATIONS(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSOrganizations aws icon"
+  },
+
+  "AWSORGANIZATIONS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsorganizations_large"],
+    "body": ["AWSORGANIZATIONS_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSOrganizations_LARGE aws icon"
+  },
+
+  "AWSSTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssts"],
+    "body": ["AWSSTS(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSSTS aws icon"
+  },
+
+  "AWSSTS_2(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssts_2"],
+    "body": ["AWSSTS_2(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSSTS_2 aws icon"
+  },
+
+  "AWSSTS_2_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssts_2_large"],
+    "body": ["AWSSTS_2_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSSTS_2_LARGE aws icon"
+  },
+
+  "AWSSTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssts_large"],
+    "body": ["AWSSTS_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSSTS_LARGE aws icon"
+  },
+
+  "AWSSHIELD(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsshield"],
+    "body": ["AWSSHIELD(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSShield aws icon"
+  },
+
+  "AWSSHIELD_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsshield_large"],
+    "body": ["AWSSHIELD_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSShield_LARGE aws icon"
+  },
+
+  "AWSWAF(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awswaf"],
+    "body": ["AWSWAF(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSWAF aws icon"
+  },
+
+  "AWSWAF_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awswaf_large"],
+    "body": ["AWSWAF_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AWSWAF_LARGE aws icon"
+  },
+
+  "AMAZONCLOUDDIRECTORY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonclouddirectory"],
+    "body": ["AMAZONCLOUDDIRECTORY(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonCloudDirectory aws icon"
+  },
+
+  "AMAZONCLOUDDIRECTORY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonclouddirectory_large"],
+    "body": ["AMAZONCLOUDDIRECTORY_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonCloudDirectory_LARGE aws icon"
+  },
+
+  "AMAZONINSPECTOR(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoninspector"],
+    "body": ["AMAZONINSPECTOR(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonInspector aws icon"
+  },
+
+  "AMAZONINSPECTOR_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazoninspector_large"],
+    "body": ["AMAZONINSPECTOR_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonInspector_LARGE aws icon"
+  },
+
+  "AMAZONMACIE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmacie"],
+    "body": ["AMAZONMACIE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonMacie aws icon"
+  },
+
+  "AMAZONMACIE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonmacie_large"],
+    "body": ["AMAZONMACIE_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/AmazonMacie_LARGE aws icon"
+  },
+
+  "MFATOKEN(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mfatoken"],
+    "body": ["MFATOKEN(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/MFAtoken aws icon"
+  },
+
+  "MFATOKEN_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-mfatoken_large"],
+    "body": ["MFATOKEN_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/MFAtoken_LARGE aws icon"
+  },
+
+  "ADDON(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-addon"],
+    "body": ["ADDON(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/addon aws icon"
+  },
+
+  "ADDON_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-addon_large"],
+    "body": ["ADDON_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/addon_LARGE aws icon"
+  },
+
+  "AGENT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-agent"],
+    "body": ["AGENT(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/agent aws icon"
+  },
+
+  "AGENT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-agent_large"],
+    "body": ["AGENT_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/agent_LARGE aws icon"
+  },
+
+  "CERTIFICATEMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificatemanager"],
+    "body": ["CERTIFICATEMANAGER(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/certificatemanager aws icon"
+  },
+
+  "CERTIFICATEMANAGER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificatemanager"],
+    "body": ["CERTIFICATEMANAGER(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/certificatemanager aws icon"
+  },
+
+  "CERTIFICATEMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificatemanager_large"],
+    "body": ["CERTIFICATEMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/certificatemanager_LARGE aws icon"
+  },
+
+  "CERTIFICATEMANAGER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-certificatemanager_large"],
+    "body": ["CERTIFICATEMANAGER_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/certificatemanager_LARGE aws icon"
+  },
+
+  "DATAENCRYPTIONKEY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dataencryptionkey"],
+    "body": ["DATAENCRYPTIONKEY(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/dataencryptionkey aws icon"
+  },
+
+  "DATAENCRYPTIONKEY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-dataencryptionkey_large"],
+    "body": ["DATAENCRYPTIONKEY_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/dataencryptionkey_LARGE aws icon"
+  },
+
+  "ENCRYPTEDDATA(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-encrypteddata"],
+    "body": ["ENCRYPTEDDATA(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/encrypteddata aws icon"
+  },
+
+  "ENCRYPTEDDATA_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-encrypteddata_large"],
+    "body": ["ENCRYPTEDDATA_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/encrypteddata_LARGE aws icon"
+  },
+
+  "FILTERINGRULE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-filteringrule"],
+    "body": ["FILTERINGRULE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/filteringrule aws icon"
+  },
+
+  "FILTERINGRULE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-filteringrule_large"],
+    "body": ["FILTERINGRULE_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/filteringrule_LARGE aws icon"
+  },
+
+  "LONG_TERMSECURITYCREDENTIAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-long_termsecuritycredential"],
+    "body": ["LONG_TERMSECURITYCREDENTIAL(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/long_termsecuritycredential aws icon"
+  },
+
+  "LONG_TERMSECURITYCREDENTIAL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-long_termsecuritycredential_large"],
+    "body": ["LONG_TERMSECURITYCREDENTIAL_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/long_termsecuritycredential_LARGE aws icon"
+  },
+
+  "PERMISSIONS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-permissions"],
+    "body": ["PERMISSIONS(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/permissions aws icon"
+  },
+
+  "PERMISSIONS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-permissions_large"],
+    "body": ["PERMISSIONS_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/permissions_LARGE aws icon"
+  },
+
+  "ROLE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-role"],
+    "body": ["ROLE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/role aws icon"
+  },
+
+  "ROLE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-role_large"],
+    "body": ["ROLE_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/role_LARGE aws icon"
+  },
+
+  "TEMPORARYSECURITYCREDENTIAL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-temporarysecuritycredential"],
+    "body": ["TEMPORARYSECURITYCREDENTIAL(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/temporarysecuritycredential aws icon"
+  },
+
+  "TEMPORARYSECURITYCREDENTIAL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-temporarysecuritycredential_large"],
+    "body": ["TEMPORARYSECURITYCREDENTIAL_LARGE(e_alias, \"e_label\")"],
+    "description": "securityidentitycompliance/temporarysecuritycredential_LARGE aws icon"
+  },
+
+  "AWSSNOWBALL(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssnowball"],
+    "body": ["AWSSNOWBALL(e_alias, \"e_label\")"],
+    "description": "storage/AWSSnowball aws icon"
+  },
+
+  "AWSSNOWBALL_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awssnowball_large"],
+    "body": ["AWSSNOWBALL_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AWSSnowball_LARGE aws icon"
+  },
+
+  "AWSSTORAGEGATEWAY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsstoragegateway"],
+    "body": ["AWSSTORAGEGATEWAY(e_alias, \"e_label\")"],
+    "description": "storage/AWSStorageGateway aws icon"
+  },
+
+  "AWSSTORAGEGATEWAY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-awsstoragegateway_large"],
+    "body": ["AWSSTORAGEGATEWAY_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AWSStorageGateway_LARGE aws icon"
+  },
+
+  "AMAZONEBS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonebs"],
+    "body": ["AMAZONEBS(e_alias, \"e_label\")"],
+    "description": "storage/AmazonEBS aws icon"
+  },
+
+  "AMAZONEBS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonebs_large"],
+    "body": ["AMAZONEBS_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AmazonEBS_LARGE aws icon"
+  },
+
+  "AMAZONEFS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonefs"],
+    "body": ["AMAZONEFS(e_alias, \"e_label\")"],
+    "description": "storage/AmazonEFS aws icon"
+  },
+
+  "AMAZONEFS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonefs_large"],
+    "body": ["AMAZONEFS_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AmazonEFS_LARGE aws icon"
+  },
+
+  "AMAZONGLACIER(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonglacier"],
+    "body": ["AMAZONGLACIER(e_alias, \"e_label\")"],
+    "description": "storage/AmazonGlacier aws icon"
+  },
+
+  "AMAZONGLACIER_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazonglacier_large"],
+    "body": ["AMAZONGLACIER_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AmazonGlacier_LARGE aws icon"
+  },
+
+  "AMAZONS3(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazons3"],
+    "body": ["AMAZONS3(e_alias, \"e_label\")"],
+    "description": "storage/AmazonS3 aws icon"
+  },
+
+  "AMAZONS3_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-amazons3_large"],
+    "body": ["AMAZONS3_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/AmazonS3_LARGE aws icon"
+  },
+
+  "EFSFILESYSTEM(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-efsfilesystem"],
+    "body": ["EFSFILESYSTEM(e_alias, \"e_label\")"],
+    "description": "storage/EFSfilesystem aws icon"
+  },
+
+  "EFSFILESYSTEM_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-efsfilesystem_large"],
+    "body": ["EFSFILESYSTEM_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/EFSfilesystem_LARGE aws icon"
+  },
+
+  "ARCHIVE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-archive"],
+    "body": ["ARCHIVE(e_alias, \"e_label\")"],
+    "description": "storage/archive aws icon"
+  },
+
+  "ARCHIVE_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-archive_large"],
+    "body": ["ARCHIVE_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/archive_LARGE aws icon"
+  },
+
+  "BUCKET(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-bucket"],
+    "body": ["BUCKET(e_alias, \"e_label\")"],
+    "description": "storage/bucket aws icon"
+  },
+
+  "BUCKET_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-bucket_large"],
+    "body": ["BUCKET_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/bucket_LARGE aws icon"
+  },
+
+  "BUCKETWITHOBJECTS(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-bucketwithobjects"],
+    "body": ["BUCKETWITHOBJECTS(e_alias, \"e_label\")"],
+    "description": "storage/bucketwithobjects aws icon"
+  },
+
+  "BUCKETWITHOBJECTS_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-bucketwithobjects_large"],
+    "body": ["BUCKETWITHOBJECTS_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/bucketwithobjects_LARGE aws icon"
+  },
+
+  "CACHEDVOLUME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cachedvolume"],
+    "body": ["CACHEDVOLUME(e_alias, \"e_label\")"],
+    "description": "storage/cachedvolume aws icon"
+  },
+
+  "CACHEDVOLUME_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-cachedvolume_large"],
+    "body": ["CACHEDVOLUME_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/cachedvolume_LARGE aws icon"
+  },
+
+  "IMPORTEXPORT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-importexport"],
+    "body": ["IMPORTEXPORT(e_alias, \"e_label\")"],
+    "description": "storage/importexport aws icon"
+  },
+
+  "IMPORTEXPORT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-importexport_large"],
+    "body": ["IMPORTEXPORT_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/importexport_LARGE aws icon"
+  },
+
+  "NON_CACHEDVOLUME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-non_cachedvolume"],
+    "body": ["NON_CACHEDVOLUME(e_alias, \"e_label\")"],
+    "description": "storage/non_cachedvolume aws icon"
+  },
+
+  "NON_CACHEDVOLUME_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-non_cachedvolume_large"],
+    "body": ["NON_CACHEDVOLUME_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/non_cachedvolume_LARGE aws icon"
+  },
+
+  "OBJECT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-object"],
+    "body": ["OBJECT(e_alias, \"e_label\")"],
+    "description": "storage/object aws icon"
+  },
+
+  "OBJECT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-object_large"],
+    "body": ["OBJECT_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/object_LARGE aws icon"
+  },
+
+  "SNAPSHOT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-snapshot"],
+    "body": ["SNAPSHOT(e_alias, \"e_label\")"],
+    "description": "storage/snapshot aws icon"
+  },
+
+  "SNAPSHOT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-snapshot_large"],
+    "body": ["SNAPSHOT_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/snapshot_LARGE aws icon"
+  },
+
+  "VAULT(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vault"],
+    "body": ["VAULT(e_alias, \"e_label\")"],
+    "description": "storage/vault aws icon"
+  },
+
+  "VAULT_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-vault_large"],
+    "body": ["VAULT_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/vault_LARGE aws icon"
+  },
+
+  "VIRTUALTAPELIBRARY(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-virtualtapelibrary"],
+    "body": ["VIRTUALTAPELIBRARY(e_alias, \"e_label\")"],
+    "description": "storage/virtualtapelibrary aws icon"
+  },
+
+  "VIRTUALTAPELIBRARY_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-virtualtapelibrary_large"],
+    "body": ["VIRTUALTAPELIBRARY_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/virtualtapelibrary_LARGE aws icon"
+  },
+
+  "VOLUME(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-volume"],
+    "body": ["VOLUME(e_alias, \"e_label\")"],
+    "description": "storage/volume aws icon"
+  },
+
+  "VOLUME_LARGE(e_alias, e_label, e_techn, e_descr)": {
+    "scope": "diagram",
+    "prefix": ["aws-volume_large"],
+    "body": ["VOLUME_LARGE(e_alias, \"e_label\")"],
+    "description": "storage/volume_LARGE aws icon"
+  }

@@ -1,0 +1,3518 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "Include All ARVR": {
+    "scope": "diagram",
+    "prefix": ["i-arvr", "i-arvr-arvr"],
+    "body": ["!include <awslib/ARVR/ARVR>"],
+    "description": "arvr/ARVR awslib icons"
+  },
+
+  "Include All ARVR": {
+    "scope": "diagram",
+    "prefix": ["i-arvr", "i-arvr-sumerian"],
+    "body": ["!include <awslib/ARVR/Sumerian>"],
+    "description": "arvr/Sumerian awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-budgets"],
+    "body": ["!include <awslib/AWSCostManagement/Budgets>"],
+    "description": "awscostmanagement/Budgets awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-costexplorer"],
+    "body": ["!include <awslib/AWSCostManagement/CostExplorer>"],
+    "description": "awscostmanagement/CostExplorer awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-costmanagement"],
+    "body": ["!include <awslib/AWSCostManagement/CostManagement>"],
+    "description": "awscostmanagement/CostManagement awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-costandusagereport"],
+    "body": ["!include <awslib/AWSCostManagement/CostandUsageReport>"],
+    "description": "awscostmanagement/CostandUsageReport awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-reservedinstancereporting"],
+    "body": ["!include <awslib/AWSCostManagement/ReservedInstanceReporting>"],
+    "description": "awscostmanagement/ReservedInstanceReporting awslib icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["i-awscostmanagement", "i-awscostmanagement-savingsplans"],
+    "body": ["!include <awslib/AWSCostManagement/SavingsPlans>"],
+    "description": "awscostmanagement/SavingsPlans awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-analytics"],
+    "body": ["!include <awslib/Analytics/Analytics>"],
+    "description": "analytics/Analytics awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-athena"],
+    "body": ["!include <awslib/Analytics/Athena>"],
+    "description": "analytics/Athena awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-cloudsearch"],
+    "body": ["!include <awslib/Analytics/CloudSearch>"],
+    "description": "analytics/CloudSearch awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-cloudsearchsearchdocuments"],
+    "body": ["!include <awslib/Analytics/CloudSearchSearchDocuments>"],
+    "description": "analytics/CloudSearchSearchDocuments awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-datapipeline"],
+    "body": ["!include <awslib/Analytics/DataPipeline>"],
+    "description": "analytics/DataPipeline awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-datalakeresourceicon"],
+    "body": ["!include <awslib/Analytics/DatalakeResourceIcon>"],
+    "description": "analytics/DatalakeResourceIcon awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-densecomputenoderesource"],
+    "body": ["!include <awslib/Analytics/DenseComputeNodeResource>"],
+    "description": "analytics/DenseComputeNodeResource awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-densestoragenoderesource"],
+    "body": ["!include <awslib/Analytics/DenseStorageNodeResource>"],
+    "description": "analytics/DenseStorageNodeResource awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emr"],
+    "body": ["!include <awslib/Analytics/EMR>"],
+    "description": "analytics/EMR awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrcluster"],
+    "body": ["!include <awslib/Analytics/EMRCluster>"],
+    "description": "analytics/EMRCluster awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrengine"],
+    "body": ["!include <awslib/Analytics/EMREngine>"],
+    "description": "analytics/EMREngine awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrenginemaprm3"],
+    "body": ["!include <awslib/Analytics/EMREngineMapRM3>"],
+    "description": "analytics/EMREngineMapRM3 awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrenginemaprm5"],
+    "body": ["!include <awslib/Analytics/EMREngineMapRM5>"],
+    "description": "analytics/EMREngineMapRM5 awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrenginemaprm7"],
+    "body": ["!include <awslib/Analytics/EMREngineMapRM7>"],
+    "description": "analytics/EMREngineMapRM7 awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-emrhdfscluster"],
+    "body": ["!include <awslib/Analytics/EMRHDFSCluster>"],
+    "description": "analytics/EMRHDFSCluster awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-elasticsearchservice"],
+    "body": ["!include <awslib/Analytics/ElasticsearchService>"],
+    "description": "analytics/ElasticsearchService awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-glue"],
+    "body": ["!include <awslib/Analytics/Glue>"],
+    "description": "analytics/Glue awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-gluecrawlers"],
+    "body": ["!include <awslib/Analytics/GlueCrawlers>"],
+    "description": "analytics/GlueCrawlers awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-gluedatacatalog"],
+    "body": ["!include <awslib/Analytics/GlueDataCatalog>"],
+    "description": "analytics/GlueDataCatalog awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-kinesis"],
+    "body": ["!include <awslib/Analytics/Kinesis>"],
+    "description": "analytics/Kinesis awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-kinesisdataanalytics"],
+    "body": ["!include <awslib/Analytics/KinesisDataAnalytics>"],
+    "description": "analytics/KinesisDataAnalytics awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-kinesisdatafirehose"],
+    "body": ["!include <awslib/Analytics/KinesisDataFirehose>"],
+    "description": "analytics/KinesisDataFirehose awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-kinesisdatastreams"],
+    "body": ["!include <awslib/Analytics/KinesisDataStreams>"],
+    "description": "analytics/KinesisDataStreams awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-kinesisvideostreams"],
+    "body": ["!include <awslib/Analytics/KinesisVideoStreams>"],
+    "description": "analytics/KinesisVideoStreams awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-lakeformation"],
+    "body": ["!include <awslib/Analytics/LakeFormation>"],
+    "description": "analytics/LakeFormation awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-managedstreamingforkafka"],
+    "body": ["!include <awslib/Analytics/ManagedStreamingforKafka>"],
+    "description": "analytics/ManagedStreamingforKafka awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-quicksight"],
+    "body": ["!include <awslib/Analytics/QuickSight>"],
+    "description": "analytics/QuickSight awslib icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-analytics", "i-analytics-redshift"],
+    "body": ["!include <awslib/Analytics/Redshift>"],
+    "description": "analytics/Redshift awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-appsync"],
+    "body": ["!include <awslib/ApplicationIntegration/AppSync>"],
+    "description": "applicationintegration/AppSync awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-applicationintegration"],
+    "body": ["!include <awslib/ApplicationIntegration/ApplicationIntegration>"],
+    "description": "applicationintegration/ApplicationIntegration awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-eventbridge"],
+    "body": ["!include <awslib/ApplicationIntegration/EventBridge>"],
+    "description": "applicationintegration/EventBridge awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-eventbridgecustomeventbusresource"],
+    "body": ["!include <awslib/ApplicationIntegration/EventBridgeCustomEventBusResource>"],
+    "description": "applicationintegration/EventBridgeCustomEventBusResource awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-eventbridgedefaulteventbusresource"],
+    "body": ["!include <awslib/ApplicationIntegration/EventBridgeDefaultEventBusResource>"],
+    "description": "applicationintegration/EventBridgeDefaultEventBusResource awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-eventbridgesaaspartnereventbusresource"],
+    "body": ["!include <awslib/ApplicationIntegration/EventBridgeSaasPartnerEventBusResource>"],
+    "description": "applicationintegration/EventBridgeSaasPartnerEventBusResource awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-expressworkflows"],
+    "body": ["!include <awslib/ApplicationIntegration/ExpressWorkflows>"],
+    "description": "applicationintegration/ExpressWorkflows awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-mq"],
+    "body": ["!include <awslib/ApplicationIntegration/MQ>"],
+    "description": "applicationintegration/MQ awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-sns"],
+    "body": ["!include <awslib/ApplicationIntegration/SNS>"],
+    "description": "applicationintegration/SNS awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-snsemailnotification"],
+    "body": ["!include <awslib/ApplicationIntegration/SNSEmailNotification>"],
+    "description": "applicationintegration/SNSEmailNotification awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-snshttpnotification"],
+    "body": ["!include <awslib/ApplicationIntegration/SNSHTTPNotification>"],
+    "description": "applicationintegration/SNSHTTPNotification awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-snstopic"],
+    "body": ["!include <awslib/ApplicationIntegration/SNSTopic>"],
+    "description": "applicationintegration/SNSTopic awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-sqs"],
+    "body": ["!include <awslib/ApplicationIntegration/SQS>"],
+    "description": "applicationintegration/SQS awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-sqsmessage"],
+    "body": ["!include <awslib/ApplicationIntegration/SQSMessage>"],
+    "description": "applicationintegration/SQSMessage awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-sqsqueue"],
+    "body": ["!include <awslib/ApplicationIntegration/SQSQueue>"],
+    "description": "applicationintegration/SQSQueue awslib icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["i-applicationintegration", "i-applicationintegration-stepfunctions"],
+    "body": ["!include <awslib/ApplicationIntegration/StepFunctions>"],
+    "description": "applicationintegration/StepFunctions awslib icons"
+  },
+
+  "Include All Blockchain": {
+    "scope": "diagram",
+    "prefix": ["i-blockchain", "i-blockchain-blockchain"],
+    "body": ["!include <awslib/Blockchain/Blockchain>"],
+    "description": "blockchain/Blockchain awslib icons"
+  },
+
+  "Include All Blockchain": {
+    "scope": "diagram",
+    "prefix": ["i-blockchain", "i-blockchain-blockchainresourceicon"],
+    "body": ["!include <awslib/Blockchain/BlockchainResourceIcon>"],
+    "description": "blockchain/BlockchainResourceIcon awslib icons"
+  },
+
+  "Include All Blockchain": {
+    "scope": "diagram",
+    "prefix": ["i-blockchain", "i-blockchain-managedblockchain"],
+    "body": ["!include <awslib/Blockchain/ManagedBlockchain>"],
+    "description": "blockchain/ManagedBlockchain awslib icons"
+  },
+
+  "Include All Blockchain": {
+    "scope": "diagram",
+    "prefix": ["i-blockchain", "i-blockchain-quantumledgerdatabaseqldb"],
+    "body": ["!include <awslib/Blockchain/QuantumLedgerDatabaseQLDB>"],
+    "description": "blockchain/QuantumLedgerDatabaseQLDB awslib icons"
+  },
+
+  "Include All BusinessApplications": {
+    "scope": "diagram",
+    "prefix": ["i-businessapplications", "i-businessapplications-alexaforbusiness"],
+    "body": ["!include <awslib/BusinessApplications/AlexaForBusiness>"],
+    "description": "businessapplications/AlexaForBusiness awslib icons"
+  },
+
+  "Include All BusinessApplications": {
+    "scope": "diagram",
+    "prefix": ["i-businessapplications", "i-businessapplications-businessapplications"],
+    "body": ["!include <awslib/BusinessApplications/BusinessApplications>"],
+    "description": "businessapplications/BusinessApplications awslib icons"
+  },
+
+  "Include All BusinessApplications": {
+    "scope": "diagram",
+    "prefix": ["i-businessapplications", "i-businessapplications-chime"],
+    "body": ["!include <awslib/BusinessApplications/Chime>"],
+    "description": "businessapplications/Chime awslib icons"
+  },
+
+  "Include All BusinessApplications": {
+    "scope": "diagram",
+    "prefix": ["i-businessapplications", "i-businessapplications-workmail"],
+    "body": ["!include <awslib/BusinessApplications/WorkMail>"],
+    "description": "businessapplications/WorkMail awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-batch"],
+    "body": ["!include <awslib/Compute/Batch>"],
+    "description": "compute/Batch awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-bottlerocket"],
+    "body": ["!include <awslib/Compute/Bottlerocket>"],
+    "description": "compute/Bottlerocket awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-compute"],
+    "body": ["!include <awslib/Compute/Compute>"],
+    "description": "compute/Compute awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-computeoptimizer"],
+    "body": ["!include <awslib/Compute/ComputeOptimizer>"],
+    "description": "compute/ComputeOptimizer awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2"],
+    "body": ["!include <awslib/Compute/EC2>"],
+    "description": "compute/EC2 awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2a1instance"],
+    "body": ["!include <awslib/Compute/EC2A1Instance>"],
+    "description": "compute/EC2A1Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2ami"],
+    "body": ["!include <awslib/Compute/EC2AMI>"],
+    "description": "compute/EC2AMI awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2autoscaling"],
+    "body": ["!include <awslib/Compute/EC2AutoScaling>"],
+    "description": "compute/EC2AutoScaling awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2c4instance"],
+    "body": ["!include <awslib/Compute/EC2C4Instance>"],
+    "description": "compute/EC2C4Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2c5instance"],
+    "body": ["!include <awslib/Compute/EC2C5Instance>"],
+    "description": "compute/EC2C5Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2c5ninstance"],
+    "body": ["!include <awslib/Compute/EC2C5nInstance>"],
+    "description": "compute/EC2C5nInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2containerregistry"],
+    "body": ["!include <awslib/Compute/EC2ContainerRegistry>"],
+    "description": "compute/EC2ContainerRegistry awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2containerregistryimage"],
+    "body": ["!include <awslib/Compute/EC2ContainerRegistryImage>"],
+    "description": "compute/EC2ContainerRegistryImage awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2containerregistryresource"],
+    "body": ["!include <awslib/Compute/EC2ContainerRegistryResource>"],
+    "description": "compute/EC2ContainerRegistryResource awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2d2instance"],
+    "body": ["!include <awslib/Compute/EC2D2Instance>"],
+    "description": "compute/EC2D2Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2dboninstance"],
+    "body": ["!include <awslib/Compute/EC2DBonInstance>"],
+    "description": "compute/EC2DBonInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2elasticipaddress"],
+    "body": ["!include <awslib/Compute/EC2ElasticIPAddress>"],
+    "description": "compute/EC2ElasticIPAddress awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2f1instance"],
+    "body": ["!include <awslib/Compute/EC2F1Instance>"],
+    "description": "compute/EC2F1Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2g3instance"],
+    "body": ["!include <awslib/Compute/EC2G3Instance>"],
+    "description": "compute/EC2G3Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2h1instance"],
+    "body": ["!include <awslib/Compute/EC2H1Instance>"],
+    "description": "compute/EC2H1Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2highmemoryinstance"],
+    "body": ["!include <awslib/Compute/EC2HighMemoryInstance>"],
+    "description": "compute/EC2HighMemoryInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2i3instance"],
+    "body": ["!include <awslib/Compute/EC2I3Instance>"],
+    "description": "compute/EC2I3Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2imagebuilder"],
+    "body": ["!include <awslib/Compute/EC2ImageBuilder>"],
+    "description": "compute/EC2ImageBuilder awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2instance"],
+    "body": ["!include <awslib/Compute/EC2Instance>"],
+    "description": "compute/EC2Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2instances"],
+    "body": ["!include <awslib/Compute/EC2Instances>"],
+    "description": "compute/EC2Instances awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2instancewithcloudwatch"],
+    "body": ["!include <awslib/Compute/EC2InstancewithCloudWatch>"],
+    "description": "compute/EC2InstancewithCloudWatch awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2m4instance"],
+    "body": ["!include <awslib/Compute/EC2M4Instance>"],
+    "description": "compute/EC2M4Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2m5instance"],
+    "body": ["!include <awslib/Compute/EC2M5Instance>"],
+    "description": "compute/EC2M5Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2m5ainstance"],
+    "body": ["!include <awslib/Compute/EC2M5aInstance>"],
+    "description": "compute/EC2M5aInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2optimizedinstance"],
+    "body": ["!include <awslib/Compute/EC2OptimizedInstance>"],
+    "description": "compute/EC2OptimizedInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2p2instance"],
+    "body": ["!include <awslib/Compute/EC2P2Instance>"],
+    "description": "compute/EC2P2Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2p3instance"],
+    "body": ["!include <awslib/Compute/EC2P3Instance>"],
+    "description": "compute/EC2P3Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2r4instance"],
+    "body": ["!include <awslib/Compute/EC2R4Instance>"],
+    "description": "compute/EC2R4Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2r5instance"],
+    "body": ["!include <awslib/Compute/EC2R5Instance>"],
+    "description": "compute/EC2R5Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2r5ainstance"],
+    "body": ["!include <awslib/Compute/EC2R5aInstance>"],
+    "description": "compute/EC2R5aInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2rescue"],
+    "body": ["!include <awslib/Compute/EC2Rescue>"],
+    "description": "compute/EC2Rescue awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2spotinstance"],
+    "body": ["!include <awslib/Compute/EC2SpotInstance>"],
+    "description": "compute/EC2SpotInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2t2instance"],
+    "body": ["!include <awslib/Compute/EC2T2Instance>"],
+    "description": "compute/EC2T2Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2t3instance"],
+    "body": ["!include <awslib/Compute/EC2T3Instance>"],
+    "description": "compute/EC2T3Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2t3ainstance"],
+    "body": ["!include <awslib/Compute/EC2T3aInstance>"],
+    "description": "compute/EC2T3aInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2x1instance"],
+    "body": ["!include <awslib/Compute/EC2X1Instance>"],
+    "description": "compute/EC2X1Instance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2x1einstance"],
+    "body": ["!include <awslib/Compute/EC2X1eInstance>"],
+    "description": "compute/EC2X1eInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ec2z1dinstance"],
+    "body": ["!include <awslib/Compute/EC2z1dInstance>"],
+    "description": "compute/EC2z1dInstance awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ecscontainer1"],
+    "body": ["!include <awslib/Compute/ECSContainer1>"],
+    "description": "compute/ECSContainer1 awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ecscontainer2"],
+    "body": ["!include <awslib/Compute/ECSContainer2>"],
+    "description": "compute/ECSContainer2 awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ecscontainer3"],
+    "body": ["!include <awslib/Compute/ECSContainer3>"],
+    "description": "compute/ECSContainer3 awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-ecsservice"],
+    "body": ["!include <awslib/Compute/ECSService>"],
+    "description": "compute/ECSService awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-elasticbeanstalk"],
+    "body": ["!include <awslib/Compute/ElasticBeanstalk>"],
+    "description": "compute/ElasticBeanstalk awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-elasticbeanstalkapplication"],
+    "body": ["!include <awslib/Compute/ElasticBeanstalkApplication>"],
+    "description": "compute/ElasticBeanstalkApplication awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-elasticbeanstalkdeployment"],
+    "body": ["!include <awslib/Compute/ElasticBeanstalkDeployment>"],
+    "description": "compute/ElasticBeanstalkDeployment awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-elasticcontainerservice"],
+    "body": ["!include <awslib/Compute/ElasticContainerService>"],
+    "description": "compute/ElasticContainerService awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-elastickubernetesservice"],
+    "body": ["!include <awslib/Compute/ElasticKubernetesService>"],
+    "description": "compute/ElasticKubernetesService awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-fargate"],
+    "body": ["!include <awslib/Compute/Fargate>"],
+    "description": "compute/Fargate awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-lambda"],
+    "body": ["!include <awslib/Compute/Lambda>"],
+    "description": "compute/Lambda awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-lambdalambdafunction"],
+    "body": ["!include <awslib/Compute/LambdaLambdaFunction>"],
+    "description": "compute/LambdaLambdaFunction awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-lightsail"],
+    "body": ["!include <awslib/Compute/Lightsail>"],
+    "description": "compute/Lightsail awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-localzones"],
+    "body": ["!include <awslib/Compute/LocalZones>"],
+    "description": "compute/LocalZones awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-outposts"],
+    "body": ["!include <awslib/Compute/Outposts>"],
+    "description": "compute/Outposts awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-parallelcluster"],
+    "body": ["!include <awslib/Compute/ParallelCluster>"],
+    "description": "compute/ParallelCluster awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-serverlessapplicationrepository"],
+    "body": ["!include <awslib/Compute/ServerlessApplicationRepository>"],
+    "description": "compute/ServerlessApplicationRepository awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxdeadline"],
+    "body": ["!include <awslib/Compute/ThinkboxDeadline>"],
+    "description": "compute/ThinkboxDeadline awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxdraft"],
+    "body": ["!include <awslib/Compute/ThinkboxDraft>"],
+    "description": "compute/ThinkboxDraft awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxfrost"],
+    "body": ["!include <awslib/Compute/ThinkboxFrost>"],
+    "description": "compute/ThinkboxFrost awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxkrakatoa"],
+    "body": ["!include <awslib/Compute/ThinkboxKrakatoa>"],
+    "description": "compute/ThinkboxKrakatoa awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxsequoia"],
+    "body": ["!include <awslib/Compute/ThinkboxSequoia>"],
+    "description": "compute/ThinkboxSequoia awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxstoke"],
+    "body": ["!include <awslib/Compute/ThinkboxStoke>"],
+    "description": "compute/ThinkboxStoke awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-thinkboxxmesh"],
+    "body": ["!include <awslib/Compute/ThinkboxXMesh>"],
+    "description": "compute/ThinkboxXMesh awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-vmwarecloudonaws"],
+    "body": ["!include <awslib/Compute/VMwareCloudOnAWS>"],
+    "description": "compute/VMwareCloudOnAWS awslib icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-compute", "i-compute-wavelength"],
+    "body": ["!include <awslib/Compute/Wavelength>"],
+    "description": "compute/Wavelength awslib icons"
+  },
+
+  "Include All CustomerEnablement": {
+    "scope": "diagram",
+    "prefix": ["i-customerenablement", "i-customerenablement-customerenablement"],
+    "body": ["!include <awslib/CustomerEnablement/CustomerEnablement>"],
+    "description": "customerenablement/CustomerEnablement awslib icons"
+  },
+
+  "Include All CustomerEnablement": {
+    "scope": "diagram",
+    "prefix": ["i-customerenablement", "i-customerenablement-iq"],
+    "body": ["!include <awslib/CustomerEnablement/IQ>"],
+    "description": "customerenablement/IQ awslib icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["i-customerengagement", "i-customerengagement-connect"],
+    "body": ["!include <awslib/CustomerEngagement/Connect>"],
+    "description": "customerengagement/Connect awslib icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["i-customerengagement", "i-customerengagement-customerengagement"],
+    "body": ["!include <awslib/CustomerEngagement/CustomerEngagement>"],
+    "description": "customerengagement/CustomerEngagement awslib icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["i-customerengagement", "i-customerengagement-pinpoint"],
+    "body": ["!include <awslib/CustomerEngagement/Pinpoint>"],
+    "description": "customerengagement/Pinpoint awslib icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["i-customerengagement", "i-customerengagement-sesemail"],
+    "body": ["!include <awslib/CustomerEngagement/SESEmail>"],
+    "description": "customerengagement/SESEmail awslib icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["i-customerengagement", "i-customerengagement-simpleemailserviceses"],
+    "body": ["!include <awslib/CustomerEngagement/SimpleEmailServiceSES>"],
+    "description": "customerengagement/SimpleEmailServiceSES awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-amazonredshift"],
+    "body": ["!include <awslib/Database/AmazonRedshift>"],
+    "description": "database/AmazonRedshift awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-aurora"],
+    "body": ["!include <awslib/Database/Aurora>"],
+    "description": "database/Aurora awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dmsdatabasemigrationworkflow"],
+    "body": ["!include <awslib/Database/DMSDatabaseMigrationWorkflow>"],
+    "description": "database/DMSDatabaseMigrationWorkflow awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-database"],
+    "body": ["!include <awslib/Database/Database>"],
+    "description": "database/Database awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-databasemigrationservice"],
+    "body": ["!include <awslib/Database/DatabaseMigrationService>"],
+    "description": "database/DatabaseMigrationService awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-densecomputenoderesource2"],
+    "body": ["!include <awslib/Database/DenseComputeNodeResource2>"],
+    "description": "database/DenseComputeNodeResource2 awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-densestoragenoderesource2"],
+    "body": ["!include <awslib/Database/DenseStorageNodeResource2>"],
+    "description": "database/DenseStorageNodeResource2 awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-documentdbwithmongodbcompatibility"],
+    "body": ["!include <awslib/Database/DocumentDBwithMongoDBcompatibility>"],
+    "description": "database/DocumentDBwithMongoDBcompatibility awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodb"],
+    "body": ["!include <awslib/Database/DynamoDB>"],
+    "description": "database/DynamoDB awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbattribute"],
+    "body": ["!include <awslib/Database/DynamoDBAttribute>"],
+    "description": "database/DynamoDBAttribute awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbattributes"],
+    "body": ["!include <awslib/Database/DynamoDBAttributes>"],
+    "description": "database/DynamoDBAttributes awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbgsi"],
+    "body": ["!include <awslib/Database/DynamoDBGSI>"],
+    "description": "database/DynamoDBGSI awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbitem"],
+    "body": ["!include <awslib/Database/DynamoDBItem>"],
+    "description": "database/DynamoDBItem awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbitems"],
+    "body": ["!include <awslib/Database/DynamoDBItems>"],
+    "description": "database/DynamoDBItems awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-dynamodbtable"],
+    "body": ["!include <awslib/Database/DynamoDBTable>"],
+    "description": "database/DynamoDBTable awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-elasticache"],
+    "body": ["!include <awslib/Database/ElastiCache>"],
+    "description": "database/ElastiCache awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-elasticachecachenode"],
+    "body": ["!include <awslib/Database/ElastiCacheCacheNode>"],
+    "description": "database/ElastiCacheCacheNode awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-elasticacheformemcached"],
+    "body": ["!include <awslib/Database/ElastiCacheForMemcached>"],
+    "description": "database/ElastiCacheForMemcached awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-elasticacheforredis"],
+    "body": ["!include <awslib/Database/ElastiCacheForRedis>"],
+    "description": "database/ElastiCacheForRedis awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-managedapachecassandraservice"],
+    "body": ["!include <awslib/Database/ManagedApacheCassandraService>"],
+    "description": "database/ManagedApacheCassandraService awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-neptune"],
+    "body": ["!include <awslib/Database/Neptune>"],
+    "description": "database/Neptune awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-qldb"],
+    "body": ["!include <awslib/Database/QLDB>"],
+    "description": "database/QLDB awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rds"],
+    "body": ["!include <awslib/Database/RDS>"],
+    "description": "database/RDS awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsamazonaurorainstance"],
+    "body": ["!include <awslib/Database/RDSAmazonAurorainstance>"],
+    "description": "database/RDSAmazonAurorainstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsamazonaurorainstancealt"],
+    "body": ["!include <awslib/Database/RDSAmazonAurorainstancealt>"],
+    "description": "database/RDSAmazonAurorainstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsamazonrdsinstance"],
+    "body": ["!include <awslib/Database/RDSAmazonRDSinstance>"],
+    "description": "database/RDSAmazonRDSinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsamazonrdsinstancealt"],
+    "body": ["!include <awslib/Database/RDSAmazonRDSinstancealt>"],
+    "description": "database/RDSAmazonRDSinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsmariadbinstance"],
+    "body": ["!include <awslib/Database/RDSMariaDBinstance>"],
+    "description": "database/RDSMariaDBinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsmariadbinstancealt"],
+    "body": ["!include <awslib/Database/RDSMariaDBinstancealt>"],
+    "description": "database/RDSMariaDBinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsmysqlinstance"],
+    "body": ["!include <awslib/Database/RDSMySQLinstance>"],
+    "description": "database/RDSMySQLinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsmysqlinstancealt"],
+    "body": ["!include <awslib/Database/RDSMySQLinstancealt>"],
+    "description": "database/RDSMySQLinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsoracleinstance"],
+    "body": ["!include <awslib/Database/RDSOracleinstance>"],
+    "description": "database/RDSOracleinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsoracleinstancealt"],
+    "body": ["!include <awslib/Database/RDSOracleinstancealt>"],
+    "description": "database/RDSOracleinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdspostgresqlinstance"],
+    "body": ["!include <awslib/Database/RDSPostgreSQLinstance>"],
+    "description": "database/RDSPostgreSQLinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdspostgresqlinstancealt"],
+    "body": ["!include <awslib/Database/RDSPostgreSQLinstancealt>"],
+    "description": "database/RDSPostgreSQLinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdssqlserverinstance"],
+    "body": ["!include <awslib/Database/RDSSQLServerinstance>"],
+    "description": "database/RDSSQLServerinstance awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdssqlserverinstancealt"],
+    "body": ["!include <awslib/Database/RDSSQLServerinstancealt>"],
+    "description": "database/RDSSQLServerinstancealt awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-rdsonvmware"],
+    "body": ["!include <awslib/Database/RDSonVMware>"],
+    "description": "database/RDSonVMware awslib icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["i-database", "i-database-timestream"],
+    "body": ["!include <awslib/Database/Timestream>"],
+    "description": "database/Timestream awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-cloud9"],
+    "body": ["!include <awslib/DeveloperTools/Cloud9>"],
+    "description": "developertools/Cloud9 awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-cloud9resource"],
+    "body": ["!include <awslib/DeveloperTools/Cloud9Resource>"],
+    "description": "developertools/Cloud9Resource awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-clouddevelopmentkit"],
+    "body": ["!include <awslib/DeveloperTools/CloudDevelopmentKit>"],
+    "description": "developertools/CloudDevelopmentKit awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-codebuild"],
+    "body": ["!include <awslib/DeveloperTools/CodeBuild>"],
+    "description": "developertools/CodeBuild awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-codecommit"],
+    "body": ["!include <awslib/DeveloperTools/CodeCommit>"],
+    "description": "developertools/CodeCommit awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-codedeploy"],
+    "body": ["!include <awslib/DeveloperTools/CodeDeploy>"],
+    "description": "developertools/CodeDeploy awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-codepipeline"],
+    "body": ["!include <awslib/DeveloperTools/CodePipeline>"],
+    "description": "developertools/CodePipeline awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-codestar"],
+    "body": ["!include <awslib/DeveloperTools/CodeStar>"],
+    "description": "developertools/CodeStar awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-commandlineinterface"],
+    "body": ["!include <awslib/DeveloperTools/CommandLineInterface>"],
+    "description": "developertools/CommandLineInterface awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-developertools"],
+    "body": ["!include <awslib/DeveloperTools/DeveloperTools>"],
+    "description": "developertools/DeveloperTools awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-toolsandsdks"],
+    "body": ["!include <awslib/DeveloperTools/ToolsAndSDKs>"],
+    "description": "developertools/ToolsAndSDKs awslib icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["i-developertools", "i-developertools-xray"],
+    "body": ["!include <awslib/DeveloperTools/XRay>"],
+    "description": "developertools/XRay awslib icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["i-endusercomputing", "i-endusercomputing-appstream2_0"],
+    "body": ["!include <awslib/EndUserComputing/Appstream2_0>"],
+    "description": "endusercomputing/Appstream2_0 awslib icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["i-endusercomputing", "i-endusercomputing-endusercomputing"],
+    "body": ["!include <awslib/EndUserComputing/EndUserComputing>"],
+    "description": "endusercomputing/EndUserComputing awslib icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["i-endusercomputing", "i-endusercomputing-workdocs"],
+    "body": ["!include <awslib/EndUserComputing/WorkDocs>"],
+    "description": "endusercomputing/WorkDocs awslib icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["i-endusercomputing", "i-endusercomputing-worklink"],
+    "body": ["!include <awslib/EndUserComputing/WorkLink>"],
+    "description": "endusercomputing/WorkLink awslib icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["i-endusercomputing", "i-endusercomputing-workspaces"],
+    "body": ["!include <awslib/EndUserComputing/Workspaces>"],
+    "description": "endusercomputing/Workspaces awslib icons"
+  },
+
+  "Include All GameTech": {
+    "scope": "diagram",
+    "prefix": ["i-gametech", "i-gametech-gamelift"],
+    "body": ["!include <awslib/GameTech/GameLift>"],
+    "description": "gametech/GameLift awslib icons"
+  },
+
+  "Include All GameTech": {
+    "scope": "diagram",
+    "prefix": ["i-gametech", "i-gametech-gametech"],
+    "body": ["!include <awslib/GameTech/GameTech>"],
+    "description": "gametech/GameTech awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-client"],
+    "body": ["!include <awslib/General/Client>"],
+    "description": "general/Client awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-disk"],
+    "body": ["!include <awslib/General/Disk>"],
+    "description": "general/Disk awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-forums"],
+    "body": ["!include <awslib/General/Forums>"],
+    "description": "general/Forums awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-general"],
+    "body": ["!include <awslib/General/General>"],
+    "description": "general/General awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-genericdatabase"],
+    "body": ["!include <awslib/General/GenericDatabase>"],
+    "description": "general/GenericDatabase awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-genericfirewall"],
+    "body": ["!include <awslib/General/GenericFirewall>"],
+    "description": "general/GenericFirewall awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-internetalt1"],
+    "body": ["!include <awslib/General/InternetAlt1>"],
+    "description": "general/InternetAlt1 awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-internetalt2"],
+    "body": ["!include <awslib/General/InternetAlt2>"],
+    "description": "general/InternetAlt2 awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-internetgateway"],
+    "body": ["!include <awslib/General/InternetGateway>"],
+    "description": "general/InternetGateway awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-marketplace"],
+    "body": ["!include <awslib/General/Marketplace>"],
+    "description": "general/Marketplace awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-mobileclient"],
+    "body": ["!include <awslib/General/MobileClient>"],
+    "description": "general/MobileClient awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-multimedia"],
+    "body": ["!include <awslib/General/Multimedia>"],
+    "description": "general/Multimedia awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-officebuilding"],
+    "body": ["!include <awslib/General/OfficeBuilding>"],
+    "description": "general/OfficeBuilding awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-samltoken"],
+    "body": ["!include <awslib/General/SAMLToken>"],
+    "description": "general/SAMLToken awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-sdk"],
+    "body": ["!include <awslib/General/SDK>"],
+    "description": "general/SDK awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-sslpadlock"],
+    "body": ["!include <awslib/General/SSLPadlock>"],
+    "description": "general/SSLPadlock awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-tapestorage"],
+    "body": ["!include <awslib/General/TapeStorage>"],
+    "description": "general/TapeStorage awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-toolkit"],
+    "body": ["!include <awslib/General/Toolkit>"],
+    "description": "general/Toolkit awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-traditionalserver"],
+    "body": ["!include <awslib/General/TraditionalServer>"],
+    "description": "general/TraditionalServer awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-user"],
+    "body": ["!include <awslib/General/User>"],
+    "description": "general/User awslib icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-general", "i-general-users"],
+    "body": ["!include <awslib/General/Users>"],
+    "description": "general/Users awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-autoscalinggroup"],
+    "body": ["!include <awslib/GroupIcons/AutoScalingGroup>"],
+    "description": "groupicons/AutoScalingGroup awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-cloud"],
+    "body": ["!include <awslib/GroupIcons/Cloud>"],
+    "description": "groupicons/Cloud awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-cloudalt"],
+    "body": ["!include <awslib/GroupIcons/Cloudalt>"],
+    "description": "groupicons/Cloudalt awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-corporatedatacenter"],
+    "body": ["!include <awslib/GroupIcons/CorporateDataCenter>"],
+    "description": "groupicons/CorporateDataCenter awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-elasticbeanstalkcontainer"],
+    "body": ["!include <awslib/GroupIcons/ElasticBeanstalkContainer>"],
+    "description": "groupicons/ElasticBeanstalkContainer awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-region"],
+    "body": ["!include <awslib/GroupIcons/Region>"],
+    "description": "groupicons/Region awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-servercontents"],
+    "body": ["!include <awslib/GroupIcons/ServerContents>"],
+    "description": "groupicons/ServerContents awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-spotfleet"],
+    "body": ["!include <awslib/GroupIcons/SpotFleet>"],
+    "description": "groupicons/SpotFleet awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-stepfunction"],
+    "body": ["!include <awslib/GroupIcons/StepFunction>"],
+    "description": "groupicons/StepFunction awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-vpcsubnetprivate"],
+    "body": ["!include <awslib/GroupIcons/VPCSubnetPrivate>"],
+    "description": "groupicons/VPCSubnetPrivate awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-vpcsubnetpublic"],
+    "body": ["!include <awslib/GroupIcons/VPCSubnetPublic>"],
+    "description": "groupicons/VPCSubnetPublic awslib icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["i-groupicons", "i-groupicons-virtualprivatecloudvpc"],
+    "body": ["!include <awslib/GroupIcons/VirtualPrivateCloudVPC>"],
+    "description": "groupicons/VirtualPrivateCloudVPC awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-freertos"],
+    "body": ["!include <awslib/InternetOfThings/FreeRTOS>"],
+    "description": "internetofthings/FreeRTOS awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-internetofthings"],
+    "body": ["!include <awslib/InternetOfThings/InternetofThings>"],
+    "description": "internetofthings/InternetofThings awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iot1click"],
+    "body": ["!include <awslib/InternetOfThings/IoT1Click>"],
+    "description": "internetofthings/IoT1Click awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotaction"],
+    "body": ["!include <awslib/InternetOfThings/IoTAction>"],
+    "description": "internetofthings/IoTAction awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotactuator"],
+    "body": ["!include <awslib/InternetOfThings/IoTActuator>"],
+    "description": "internetofthings/IoTActuator awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotalexaenableddevice"],
+    "body": ["!include <awslib/InternetOfThings/IoTAlexaEnabledDevice>"],
+    "description": "internetofthings/IoTAlexaEnabledDevice awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotalexaskill"],
+    "body": ["!include <awslib/InternetOfThings/IoTAlexaSkill>"],
+    "description": "internetofthings/IoTAlexaSkill awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotalexavoiceservice"],
+    "body": ["!include <awslib/InternetOfThings/IoTAlexaVoiceService>"],
+    "description": "internetofthings/IoTAlexaVoiceService awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalytics"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalytics>"],
+    "description": "internetofthings/IoTAnalytics awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalyticschannel"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalyticsChannel>"],
+    "description": "internetofthings/IoTAnalyticsChannel awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalyticsdataset"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalyticsDataSet>"],
+    "description": "internetofthings/IoTAnalyticsDataSet awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalyticsdatastore"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalyticsDataStore>"],
+    "description": "internetofthings/IoTAnalyticsDataStore awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalyticsnotebook"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalyticsNotebook>"],
+    "description": "internetofthings/IoTAnalyticsNotebook awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotanalyticspipeline"],
+    "body": ["!include <awslib/InternetOfThings/IoTAnalyticsPipeline>"],
+    "description": "internetofthings/IoTAnalyticsPipeline awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotbank"],
+    "body": ["!include <awslib/InternetOfThings/IoTBank>"],
+    "description": "internetofthings/IoTBank awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotbicycle"],
+    "body": ["!include <awslib/InternetOfThings/IoTBicycle>"],
+    "description": "internetofthings/IoTBicycle awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotbutton"],
+    "body": ["!include <awslib/InternetOfThings/IoTButton>"],
+    "description": "internetofthings/IoTButton awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcamera"],
+    "body": ["!include <awslib/InternetOfThings/IoTCamera>"],
+    "description": "internetofthings/IoTCamera awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcar"],
+    "body": ["!include <awslib/InternetOfThings/IoTCar>"],
+    "description": "internetofthings/IoTCar awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcart"],
+    "body": ["!include <awslib/InternetOfThings/IoTCart>"],
+    "description": "internetofthings/IoTCart awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcertificatemanager"],
+    "body": ["!include <awslib/InternetOfThings/IoTCertificateManager>"],
+    "description": "internetofthings/IoTCertificateManager awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcoffeepot"],
+    "body": ["!include <awslib/InternetOfThings/IoTCoffeePot>"],
+    "description": "internetofthings/IoTCoffeePot awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotcore"],
+    "body": ["!include <awslib/InternetOfThings/IoTCore>"],
+    "description": "internetofthings/IoTCore awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotdesiredstate"],
+    "body": ["!include <awslib/InternetOfThings/IoTDesiredState>"],
+    "description": "internetofthings/IoTDesiredState awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotdevicedefender"],
+    "body": ["!include <awslib/InternetOfThings/IoTDeviceDefender>"],
+    "description": "internetofthings/IoTDeviceDefender awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotdevicegateway"],
+    "body": ["!include <awslib/InternetOfThings/IoTDeviceGateway>"],
+    "description": "internetofthings/IoTDeviceGateway awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotdevicemanagement"],
+    "body": ["!include <awslib/InternetOfThings/IoTDeviceManagement>"],
+    "description": "internetofthings/IoTDeviceManagement awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotdoorlock"],
+    "body": ["!include <awslib/InternetOfThings/IoTDoorLock>"],
+    "description": "internetofthings/IoTDoorLock awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotecho"],
+    "body": ["!include <awslib/InternetOfThings/IoTEcho>"],
+    "description": "internetofthings/IoTEcho awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotevents"],
+    "body": ["!include <awslib/InternetOfThings/IoTEvents>"],
+    "description": "internetofthings/IoTEvents awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotfactory"],
+    "body": ["!include <awslib/InternetOfThings/IoTFactory>"],
+    "description": "internetofthings/IoTFactory awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotfiretv"],
+    "body": ["!include <awslib/InternetOfThings/IoTFireTV>"],
+    "description": "internetofthings/IoTFireTV awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotfiretvstick"],
+    "body": ["!include <awslib/InternetOfThings/IoTFireTVStick>"],
+    "description": "internetofthings/IoTFireTVStick awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotgeneric"],
+    "body": ["!include <awslib/InternetOfThings/IoTGeneric>"],
+    "description": "internetofthings/IoTGeneric awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotgreengrass"],
+    "body": ["!include <awslib/InternetOfThings/IoTGreengrass>"],
+    "description": "internetofthings/IoTGreengrass awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotgreengrassconnector"],
+    "body": ["!include <awslib/InternetOfThings/IoTGreengrassConnector>"],
+    "description": "internetofthings/IoTGreengrassConnector awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iothttp2protocol"],
+    "body": ["!include <awslib/InternetOfThings/IoTHTTP2Protocol>"],
+    "description": "internetofthings/IoTHTTP2Protocol awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iothttpprotocol"],
+    "body": ["!include <awslib/InternetOfThings/IoTHTTPProtocol>"],
+    "description": "internetofthings/IoTHTTPProtocol awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iothardwareboard"],
+    "body": ["!include <awslib/InternetOfThings/IoTHardwareBoard>"],
+    "description": "internetofthings/IoTHardwareBoard awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iothouse"],
+    "body": ["!include <awslib/InternetOfThings/IoTHouse>"],
+    "description": "internetofthings/IoTHouse awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotlambdafunction"],
+    "body": ["!include <awslib/InternetOfThings/IoTLambdaFunction>"],
+    "description": "internetofthings/IoTLambdaFunction awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotlightbulb"],
+    "body": ["!include <awslib/InternetOfThings/IoTLightbulb>"],
+    "description": "internetofthings/IoTLightbulb awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotmqttprotocol"],
+    "body": ["!include <awslib/InternetOfThings/IoTMQTTProtocol>"],
+    "description": "internetofthings/IoTMQTTProtocol awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotmedicalemergency"],
+    "body": ["!include <awslib/InternetOfThings/IoTMedicalEmergency>"],
+    "description": "internetofthings/IoTMedicalEmergency awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotovertheairupdate"],
+    "body": ["!include <awslib/InternetOfThings/IoTOverTheAirUpdate>"],
+    "description": "internetofthings/IoTOverTheAirUpdate awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotpoliceemergency"],
+    "body": ["!include <awslib/InternetOfThings/IoTPoliceEmergency>"],
+    "description": "internetofthings/IoTPoliceEmergency awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotpolicy"],
+    "body": ["!include <awslib/InternetOfThings/IoTPolicy>"],
+    "description": "internetofthings/IoTPolicy awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotreportedstate"],
+    "body": ["!include <awslib/InternetOfThings/IoTReportedState>"],
+    "description": "internetofthings/IoTReportedState awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotrule"],
+    "body": ["!include <awslib/InternetOfThings/IoTRule>"],
+    "description": "internetofthings/IoTRule awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotsensor"],
+    "body": ["!include <awslib/InternetOfThings/IoTSensor>"],
+    "description": "internetofthings/IoTSensor awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotservo"],
+    "body": ["!include <awslib/InternetOfThings/IoTServo>"],
+    "description": "internetofthings/IoTServo awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotshadow"],
+    "body": ["!include <awslib/InternetOfThings/IoTShadow>"],
+    "description": "internetofthings/IoTShadow awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotsimulator"],
+    "body": ["!include <awslib/InternetOfThings/IoTSimulator>"],
+    "description": "internetofthings/IoTSimulator awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotsitewise"],
+    "body": ["!include <awslib/InternetOfThings/IoTSiteWise>"],
+    "description": "internetofthings/IoTSiteWise awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotthermostat"],
+    "body": ["!include <awslib/InternetOfThings/IoTThermostat>"],
+    "description": "internetofthings/IoTThermostat awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotthingsgraph"],
+    "body": ["!include <awslib/InternetOfThings/IoTThingsGraph>"],
+    "description": "internetofthings/IoTThingsGraph awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iottopic"],
+    "body": ["!include <awslib/InternetOfThings/IoTTopic>"],
+    "description": "internetofthings/IoTTopic awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iottravel"],
+    "body": ["!include <awslib/InternetOfThings/IoTTravel>"],
+    "description": "internetofthings/IoTTravel awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotutility"],
+    "body": ["!include <awslib/InternetOfThings/IoTUtility>"],
+    "description": "internetofthings/IoTUtility awslib icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-internetofthings", "i-internetofthings-iotwindfarm"],
+    "body": ["!include <awslib/InternetOfThings/IoTWindfarm>"],
+    "description": "internetofthings/IoTWindfarm awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-apachemxnetonaws"],
+    "body": ["!include <awslib/MachineLearning/ApacheMXNetonAWS>"],
+    "description": "machinelearning/ApacheMXNetonAWS awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-augmentedai"],
+    "body": ["!include <awslib/MachineLearning/AugmentedAI>"],
+    "description": "machinelearning/AugmentedAI awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-comprehend"],
+    "body": ["!include <awslib/MachineLearning/Comprehend>"],
+    "description": "machinelearning/Comprehend awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-deeplearningamis"],
+    "body": ["!include <awslib/MachineLearning/DeepLearningAMIs>"],
+    "description": "machinelearning/DeepLearningAMIs awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-deeplearningcontainers"],
+    "body": ["!include <awslib/MachineLearning/DeepLearningContainers>"],
+    "description": "machinelearning/DeepLearningContainers awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-deeplens"],
+    "body": ["!include <awslib/MachineLearning/DeepLens>"],
+    "description": "machinelearning/DeepLens awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-deepracer"],
+    "body": ["!include <awslib/MachineLearning/DeepRacer>"],
+    "description": "machinelearning/DeepRacer awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-elasticinference"],
+    "body": ["!include <awslib/MachineLearning/ElasticInference>"],
+    "description": "machinelearning/ElasticInference awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-forecast"],
+    "body": ["!include <awslib/MachineLearning/Forecast>"],
+    "description": "machinelearning/Forecast awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-frauddetector"],
+    "body": ["!include <awslib/MachineLearning/FraudDetector>"],
+    "description": "machinelearning/FraudDetector awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-kendra"],
+    "body": ["!include <awslib/MachineLearning/Kendra>"],
+    "description": "machinelearning/Kendra awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-lex"],
+    "body": ["!include <awslib/MachineLearning/Lex>"],
+    "description": "machinelearning/Lex awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-machinelearning"],
+    "body": ["!include <awslib/MachineLearning/MachineLearning>"],
+    "description": "machinelearning/MachineLearning awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-personalize"],
+    "body": ["!include <awslib/MachineLearning/Personalize>"],
+    "description": "machinelearning/Personalize awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-polly"],
+    "body": ["!include <awslib/MachineLearning/Polly>"],
+    "description": "machinelearning/Polly awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-rekognition"],
+    "body": ["!include <awslib/MachineLearning/Rekognition>"],
+    "description": "machinelearning/Rekognition awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-rekognitionimage"],
+    "body": ["!include <awslib/MachineLearning/RekognitionImage>"],
+    "description": "machinelearning/RekognitionImage awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-rekognitionvideo"],
+    "body": ["!include <awslib/MachineLearning/RekognitionVideo>"],
+    "description": "machinelearning/RekognitionVideo awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-sagemaker"],
+    "body": ["!include <awslib/MachineLearning/SageMaker>"],
+    "description": "machinelearning/SageMaker awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-sagemakergroundtruth"],
+    "body": ["!include <awslib/MachineLearning/SageMakerGroundTruth>"],
+    "description": "machinelearning/SageMakerGroundTruth awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-sagemakermodel"],
+    "body": ["!include <awslib/MachineLearning/SageMakerModel>"],
+    "description": "machinelearning/SageMakerModel awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-sagemakernotebook"],
+    "body": ["!include <awslib/MachineLearning/SageMakerNotebook>"],
+    "description": "machinelearning/SageMakerNotebook awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-sagemakertrain"],
+    "body": ["!include <awslib/MachineLearning/SageMakerTrain>"],
+    "description": "machinelearning/SageMakerTrain awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-tensorflowonaws"],
+    "body": ["!include <awslib/MachineLearning/TensorFlowonAWS>"],
+    "description": "machinelearning/TensorFlowonAWS awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-textract"],
+    "body": ["!include <awslib/MachineLearning/Textract>"],
+    "description": "machinelearning/Textract awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-transcribe"],
+    "body": ["!include <awslib/MachineLearning/Transcribe>"],
+    "description": "machinelearning/Transcribe awslib icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-machinelearning", "i-machinelearning-translate"],
+    "body": ["!include <awslib/MachineLearning/Translate>"],
+    "description": "machinelearning/Translate awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-awscli"],
+    "body": ["!include <awslib/ManagementAndGovernance/AWSCLI>"],
+    "description": "managementandgovernance/AWSCLI awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-appconfig"],
+    "body": ["!include <awslib/ManagementAndGovernance/AppConfig>"],
+    "description": "managementandgovernance/AppConfig awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-autoscaling"],
+    "body": ["!include <awslib/ManagementAndGovernance/AutoScaling>"],
+    "description": "managementandgovernance/AutoScaling awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudformation"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudFormation>"],
+    "description": "managementandgovernance/CloudFormation awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudformationchangeset"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudFormationChangeSet>"],
+    "description": "managementandgovernance/CloudFormationChangeSet awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudformationstack"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudFormationStack>"],
+    "description": "managementandgovernance/CloudFormationStack awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudformationtemplate"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudFormationTemplate>"],
+    "description": "managementandgovernance/CloudFormationTemplate awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudtrail"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudTrail>"],
+    "description": "managementandgovernance/CloudTrail awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudwatch"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudWatch>"],
+    "description": "managementandgovernance/CloudWatch awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudwatchalarm"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudWatchAlarm>"],
+    "description": "managementandgovernance/CloudWatchAlarm awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudwatcheventeventbased"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudWatchEventEventBased>"],
+    "description": "managementandgovernance/CloudWatchEventEventBased awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudwatcheventtimebased"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudWatchEventTimeBased>"],
+    "description": "managementandgovernance/CloudWatchEventTimeBased awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-cloudwatchrule"],
+    "body": ["!include <awslib/ManagementAndGovernance/CloudWatchRule>"],
+    "description": "managementandgovernance/CloudWatchRule awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-config"],
+    "body": ["!include <awslib/ManagementAndGovernance/Config>"],
+    "description": "managementandgovernance/Config awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-controltower"],
+    "body": ["!include <awslib/ManagementAndGovernance/ControlTower>"],
+    "description": "managementandgovernance/ControlTower awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-licensemanager"],
+    "body": ["!include <awslib/ManagementAndGovernance/LicenseManager>"],
+    "description": "managementandgovernance/LicenseManager awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-managedservices"],
+    "body": ["!include <awslib/ManagementAndGovernance/ManagedServices>"],
+    "description": "managementandgovernance/ManagedServices awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-managementconsole"],
+    "body": ["!include <awslib/ManagementAndGovernance/ManagementConsole>"],
+    "description": "managementandgovernance/ManagementConsole awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-managementandgovernance"],
+    "body": ["!include <awslib/ManagementAndGovernance/ManagementandGovernance>"],
+    "description": "managementandgovernance/ManagementandGovernance awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworks"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorks>"],
+    "description": "managementandgovernance/OpsWorks awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksapps"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksApps>"],
+    "description": "managementandgovernance/OpsWorksApps awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksdeployments"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksDeployments>"],
+    "description": "managementandgovernance/OpsWorksDeployments awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksinstances"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksInstances>"],
+    "description": "managementandgovernance/OpsWorksInstances awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworkslayers"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksLayers>"],
+    "description": "managementandgovernance/OpsWorksLayers awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksmonitoring"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksMonitoring>"],
+    "description": "managementandgovernance/OpsWorksMonitoring awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworkspermissions"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksPermissions>"],
+    "description": "managementandgovernance/OpsWorksPermissions awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksresources"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksResources>"],
+    "description": "managementandgovernance/OpsWorksResources awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-opsworksstack2"],
+    "body": ["!include <awslib/ManagementAndGovernance/OpsWorksStack2>"],
+    "description": "managementandgovernance/OpsWorksStack2 awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-organizations"],
+    "body": ["!include <awslib/ManagementAndGovernance/Organizations>"],
+    "description": "managementandgovernance/Organizations awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-organizationsaccount"],
+    "body": ["!include <awslib/ManagementAndGovernance/OrganizationsAccount>"],
+    "description": "managementandgovernance/OrganizationsAccount awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-organizationsorganizationalunit"],
+    "body": ["!include <awslib/ManagementAndGovernance/OrganizationsOrganizationalunit>"],
+    "description": "managementandgovernance/OrganizationsOrganizationalunit awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-personalhealthdashboard"],
+    "body": ["!include <awslib/ManagementAndGovernance/PersonalHealthDashboard>"],
+    "description": "managementandgovernance/PersonalHealthDashboard awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-servicecatalog"],
+    "body": ["!include <awslib/ManagementAndGovernance/ServiceCatalog>"],
+    "description": "managementandgovernance/ServiceCatalog awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanager"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManager>"],
+    "description": "managementandgovernance/SystemsManager awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerautomation"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerAutomation>"],
+    "description": "managementandgovernance/SystemsManagerAutomation awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerdocuments"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerDocuments>"],
+    "description": "managementandgovernance/SystemsManagerDocuments awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerinventory"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerInventory>"],
+    "description": "managementandgovernance/SystemsManagerInventory awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagermaintwindows"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerMaintWindows>"],
+    "description": "managementandgovernance/SystemsManagerMaintWindows awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanageropscenter"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerOpsCenter>"],
+    "description": "managementandgovernance/SystemsManagerOpsCenter awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerparameterstore"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerParameterStore>"],
+    "description": "managementandgovernance/SystemsManagerParameterStore awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerpatchmanager"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerPatchManager>"],
+    "description": "managementandgovernance/SystemsManagerPatchManager awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerruncommand"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerRunCommand>"],
+    "description": "managementandgovernance/SystemsManagerRunCommand awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-systemsmanagerstatemanager"],
+    "body": ["!include <awslib/ManagementAndGovernance/SystemsManagerStateManager>"],
+    "description": "managementandgovernance/SystemsManagerStateManager awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisor"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisor>"],
+    "description": "managementandgovernance/TrustedAdvisor awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisorcheckcost"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisorCheckCost>"],
+    "description": "managementandgovernance/TrustedAdvisorCheckCost awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisorcheckfaulttolerant"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisorCheckFaultTolerant>"],
+    "description": "managementandgovernance/TrustedAdvisorCheckFaultTolerant awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisorcheckperformance"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisorCheckPerformance>"],
+    "description": "managementandgovernance/TrustedAdvisorCheckPerformance awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisorchecksecurity"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisorCheckSecurity>"],
+    "description": "managementandgovernance/TrustedAdvisorCheckSecurity awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-trustedadvisorchecklist"],
+    "body": ["!include <awslib/ManagementAndGovernance/TrustedAdvisorChecklist>"],
+    "description": "managementandgovernance/TrustedAdvisorChecklist awslib icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["i-managementandgovernance", "i-managementandgovernance-wellarchitectedtool"],
+    "body": ["!include <awslib/ManagementAndGovernance/WellArchitectedTool>"],
+    "description": "managementandgovernance/WellArchitectedTool awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elastictranscoder"],
+    "body": ["!include <awslib/MediaServices/ElasticTranscoder>"],
+    "description": "mediaservices/ElasticTranscoder awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmediaconnect"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaConnect>"],
+    "description": "mediaservices/ElementalMediaConnect awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmediaconvert"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaConvert>"],
+    "description": "mediaservices/ElementalMediaConvert awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmedialive"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaLive>"],
+    "description": "mediaservices/ElementalMediaLive awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmediapackage"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaPackage>"],
+    "description": "mediaservices/ElementalMediaPackage awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmediastore"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaStore>"],
+    "description": "mediaservices/ElementalMediaStore awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-elementalmediatailor"],
+    "body": ["!include <awslib/MediaServices/ElementalMediaTailor>"],
+    "description": "mediaservices/ElementalMediaTailor awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-kinesisvideostreams2"],
+    "body": ["!include <awslib/MediaServices/KinesisVideoStreams2>"],
+    "description": "mediaservices/KinesisVideoStreams2 awslib icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["i-mediaservices", "i-mediaservices-mediaservices"],
+    "body": ["!include <awslib/MediaServices/MediaServices>"],
+    "description": "mediaservices/MediaServices awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-applicationdiscoveryservice"],
+    "body": ["!include <awslib/MigrationAndTransfer/ApplicationDiscoveryService>"],
+    "description": "migrationandtransfer/ApplicationDiscoveryService awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-cloudenduremigration"],
+    "body": ["!include <awslib/MigrationAndTransfer/CloudEndureMigration>"],
+    "description": "migrationandtransfer/CloudEndureMigration awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-datasync"],
+    "body": ["!include <awslib/MigrationAndTransfer/DataSync>"],
+    "description": "migrationandtransfer/DataSync awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-datasyncagent"],
+    "body": ["!include <awslib/MigrationAndTransfer/DataSyncAgent>"],
+    "description": "migrationandtransfer/DataSyncAgent awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-databasemigrationservice2"],
+    "body": ["!include <awslib/MigrationAndTransfer/DatabaseMigrationService2>"],
+    "description": "migrationandtransfer/DatabaseMigrationService2 awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-migrationhub"],
+    "body": ["!include <awslib/MigrationAndTransfer/MigrationHub>"],
+    "description": "migrationandtransfer/MigrationHub awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-migrationandtransfer"],
+    "body": ["!include <awslib/MigrationAndTransfer/MigrationandTransfer>"],
+    "description": "migrationandtransfer/MigrationandTransfer awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-servermigrationservice"],
+    "body": ["!include <awslib/MigrationAndTransfer/ServerMigrationService>"],
+    "description": "migrationandtransfer/ServerMigrationService awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-snowball"],
+    "body": ["!include <awslib/MigrationAndTransfer/Snowball>"],
+    "description": "migrationandtransfer/Snowball awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-snowballedge"],
+    "body": ["!include <awslib/MigrationAndTransfer/SnowballEdge>"],
+    "description": "migrationandtransfer/SnowballEdge awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-snowmobile"],
+    "body": ["!include <awslib/MigrationAndTransfer/Snowmobile>"],
+    "description": "migrationandtransfer/Snowmobile awslib icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["i-migrationandtransfer", "i-migrationandtransfer-transferfamily"],
+    "body": ["!include <awslib/MigrationAndTransfer/TransferFamily>"],
+    "description": "migrationandtransfer/TransferFamily awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-apigateway"],
+    "body": ["!include <awslib/Mobile/APIGateway>"],
+    "description": "mobile/APIGateway awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-apigatewayendpoint"],
+    "body": ["!include <awslib/Mobile/APIGatewayEndpoint>"],
+    "description": "mobile/APIGatewayEndpoint awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-amplify"],
+    "body": ["!include <awslib/Mobile/Amplify>"],
+    "description": "mobile/Amplify awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-appsync2"],
+    "body": ["!include <awslib/Mobile/AppSync2>"],
+    "description": "mobile/AppSync2 awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-devicefarm"],
+    "body": ["!include <awslib/Mobile/DeviceFarm>"],
+    "description": "mobile/DeviceFarm awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-mobile"],
+    "body": ["!include <awslib/Mobile/Mobile>"],
+    "description": "mobile/Mobile awslib icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-mobile", "i-mobile-pinpoint2"],
+    "body": ["!include <awslib/Mobile/Pinpoint2>"],
+    "description": "mobile/Pinpoint2 awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-apigateway2"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/APIGateway2>"],
+    "description": "networkingandcontentdelivery/APIGateway2 awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-apigatewayendpoint2"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/APIGatewayEndpoint2>"],
+    "description": "networkingandcontentdelivery/APIGatewayEndpoint2 awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-appmesh"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/AppMesh>"],
+    "description": "networkingandcontentdelivery/AppMesh awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-classicloadbalancer"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/ClassicLoadBalancer>"],
+    "description": "networkingandcontentdelivery/ClassicLoadBalancer awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-clientvpn"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/ClientVPN>"],
+    "description": "networkingandcontentdelivery/ClientVPN awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-cloudfront"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/CloudFront>"],
+    "description": "networkingandcontentdelivery/CloudFront awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-cloudfrontdownloaddistribution"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/CloudFrontDownloadDistribution>"],
+    "description": "networkingandcontentdelivery/CloudFrontDownloadDistribution awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-cloudfrontedgelocation"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/CloudFrontEdgeLocation>"],
+    "description": "networkingandcontentdelivery/CloudFrontEdgeLocation awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-cloudfrontstreamingdistribution"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/CloudFrontStreamingDistribution>"],
+    "description": "networkingandcontentdelivery/CloudFrontStreamingDistribution awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-cloudmap"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/CloudMap>"],
+    "description": "networkingandcontentdelivery/CloudMap awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-directconnect"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/DirectConnect>"],
+    "description": "networkingandcontentdelivery/DirectConnect awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-elbapplicationloadbalancer"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/ELBApplicationLoadBalancer>"],
+    "description": "networkingandcontentdelivery/ELBApplicationLoadBalancer awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-elbnetworkloadbalancer"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/ELBNetworkLoadBalancer>"],
+    "description": "networkingandcontentdelivery/ELBNetworkLoadBalancer awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-elasticloadbalancing"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/ElasticLoadBalancing>"],
+    "description": "networkingandcontentdelivery/ElasticLoadBalancing awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-globalaccelerator"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/GlobalAccelerator>"],
+    "description": "networkingandcontentdelivery/GlobalAccelerator awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-networkingandcontentdelivery"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/NetworkingandContentDelivery>"],
+    "description": "networkingandcontentdelivery/NetworkingandContentDelivery awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-privatelink"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/PrivateLink>"],
+    "description": "networkingandcontentdelivery/PrivateLink awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-route53"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/Route53>"],
+    "description": "networkingandcontentdelivery/Route53 awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-route53hostedzone"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/Route53HostedZone>"],
+    "description": "networkingandcontentdelivery/Route53HostedZone awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-route53routetable"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/Route53RouteTable>"],
+    "description": "networkingandcontentdelivery/Route53RouteTable awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-sitetositevpn"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/SitetoSiteVPN>"],
+    "description": "networkingandcontentdelivery/SitetoSiteVPN awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-transitgateway"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/TransitGateway>"],
+    "description": "networkingandcontentdelivery/TransitGateway awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpc"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPC>"],
+    "description": "networkingandcontentdelivery/VPC awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpccustomergateway"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCCustomerGateway>"],
+    "description": "networkingandcontentdelivery/VPCCustomerGateway awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcelasticnetworkadapter"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCElasticNetworkAdapter>"],
+    "description": "networkingandcontentdelivery/VPCElasticNetworkAdapter awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcelasticnetworkinterface"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCElasticNetworkInterface>"],
+    "description": "networkingandcontentdelivery/VPCElasticNetworkInterface awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcendpoints"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCEndpoints>"],
+    "description": "networkingandcontentdelivery/VPCEndpoints awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcflowlogs"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCFlowLogs>"],
+    "description": "networkingandcontentdelivery/VPCFlowLogs awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcinternetgateway"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCInternetGateway>"],
+    "description": "networkingandcontentdelivery/VPCInternetGateway awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcnatgateway"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCNATGateway>"],
+    "description": "networkingandcontentdelivery/VPCNATGateway awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcnetworkaccesscontrollist"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCNetworkAccessControlList>"],
+    "description": "networkingandcontentdelivery/VPCNetworkAccessControlList awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcpeering"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCPeering>"],
+    "description": "networkingandcontentdelivery/VPCPeering awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcrouter"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCRouter>"],
+    "description": "networkingandcontentdelivery/VPCRouter awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcvpnconnection"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCVPNConnection>"],
+    "description": "networkingandcontentdelivery/VPCVPNConnection awslib icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["i-networkingandcontentdelivery", "i-networkingandcontentdelivery-vpcvpngateway"],
+    "body": ["!include <awslib/NetworkingAndContentDelivery/VPCVPNGateway>"],
+    "description": "networkingandcontentdelivery/VPCVPNGateway awslib icons"
+  },
+
+  "Include All QuantumTechnologies": {
+    "scope": "diagram",
+    "prefix": ["i-quantumtechnologies", "i-quantumtechnologies-braket"],
+    "body": ["!include <awslib/QuantumTechnologies/Braket>"],
+    "description": "quantumtechnologies/Braket awslib icons"
+  },
+
+  "Include All QuantumTechnologies": {
+    "scope": "diagram",
+    "prefix": ["i-quantumtechnologies", "i-quantumtechnologies-quantumtechnologies"],
+    "body": ["!include <awslib/QuantumTechnologies/QuantumTechnologies>"],
+    "description": "quantumtechnologies/QuantumTechnologies awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robomaker"],
+    "body": ["!include <awslib/Robotics/RoboMaker>"],
+    "description": "robotics/RoboMaker awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robomakercloudextensionros"],
+    "body": ["!include <awslib/Robotics/RoboMakerCloudExtensionROS>"],
+    "description": "robotics/RoboMakerCloudExtensionROS awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robomakerdevenvironment"],
+    "body": ["!include <awslib/Robotics/RoboMakerDevEnvironment>"],
+    "description": "robotics/RoboMakerDevEnvironment awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robomakerfleetmanagement"],
+    "body": ["!include <awslib/Robotics/RoboMakerFleetManagement>"],
+    "description": "robotics/RoboMakerFleetManagement awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robomakersimulation"],
+    "body": ["!include <awslib/Robotics/RoboMakerSimulation>"],
+    "description": "robotics/RoboMakerSimulation awslib icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["i-robotics", "i-robotics-robotics"],
+    "body": ["!include <awslib/Robotics/Robotics>"],
+    "description": "robotics/Robotics awslib icons"
+  },
+
+  "Include All Satellite": {
+    "scope": "diagram",
+    "prefix": ["i-satellite", "i-satellite-groundstation"],
+    "body": ["!include <awslib/Satellite/GroundStation>"],
+    "description": "satellite/GroundStation awslib icons"
+  },
+
+  "Include All Satellite": {
+    "scope": "diagram",
+    "prefix": ["i-satellite", "i-satellite-satellite"],
+    "body": ["!include <awslib/Satellite/Satellite>"],
+    "description": "satellite/Satellite awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-adconnector"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/ADConnector>"],
+    "description": "securityidentityandcompliance/ADConnector awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-artifact"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Artifact>"],
+    "description": "securityidentityandcompliance/Artifact awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-certificateauthority"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/CertificateAuthority>"],
+    "description": "securityidentityandcompliance/CertificateAuthority awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-certificatemanager"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/CertificateManager>"],
+    "description": "securityidentityandcompliance/CertificateManager awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-clouddirectory"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/CloudDirectory>"],
+    "description": "securityidentityandcompliance/CloudDirectory awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-cloudhsm"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/CloudHSM>"],
+    "description": "securityidentityandcompliance/CloudHSM awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-cognito"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Cognito>"],
+    "description": "securityidentityandcompliance/Cognito awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-detective"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Detective>"],
+    "description": "securityidentityandcompliance/Detective awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-directoryservice"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/DirectoryService>"],
+    "description": "securityidentityandcompliance/DirectoryService awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-firewallmanager"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/FirewallManager>"],
+    "description": "securityidentityandcompliance/FirewallManager awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-guardduty"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/GuardDuty>"],
+    "description": "securityidentityandcompliance/GuardDuty awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamawssts"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMAWSSTS>"],
+    "description": "securityidentityandcompliance/IAMAWSSTS awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamawsstsalternate"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMAWSSTSAlternate>"],
+    "description": "securityidentityandcompliance/IAMAWSSTSAlternate awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamaddon"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMAddon>"],
+    "description": "securityidentityandcompliance/IAMAddon awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamdataencryptionkey"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMDataEncryptionKey>"],
+    "description": "securityidentityandcompliance/IAMDataEncryptionKey awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamencrypteddata"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMEncryptedData>"],
+    "description": "securityidentityandcompliance/IAMEncryptedData awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamlongtermsecuritycredential"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMLongtermSecurityCredential>"],
+    "description": "securityidentityandcompliance/IAMLongtermSecurityCredential awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iammfatoken"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMMFAToken>"],
+    "description": "securityidentityandcompliance/IAMMFAToken awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iampermissions"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMPermissions>"],
+    "description": "securityidentityandcompliance/IAMPermissions awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamresource"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMResource>"],
+    "description": "securityidentityandcompliance/IAMResource awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamrole"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMRole>"],
+    "description": "securityidentityandcompliance/IAMRole awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-iamtemporarysecuritycredential"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/IAMTemporarySecurityCredential>"],
+    "description": "securityidentityandcompliance/IAMTemporarySecurityCredential awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-inspector"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Inspector>"],
+    "description": "securityidentityandcompliance/Inspector awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-inspectoragent"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/InspectorAgent>"],
+    "description": "securityidentityandcompliance/InspectorAgent awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-keymanagementservice"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/KeyManagementService>"],
+    "description": "securityidentityandcompliance/KeyManagementService awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-macie"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Macie>"],
+    "description": "securityidentityandcompliance/Macie awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-managedmicrosoftad"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/ManagedMicrosoftAD>"],
+    "description": "securityidentityandcompliance/ManagedMicrosoftAD awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-resourceaccessmanager"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/ResourceAccessManager>"],
+    "description": "securityidentityandcompliance/ResourceAccessManager awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-secidentityandcompliance"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/SecIdentityAndCompliance>"],
+    "description": "securityidentityandcompliance/SecIdentityAndCompliance awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-secretsmanager"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/SecretsManager>"],
+    "description": "securityidentityandcompliance/SecretsManager awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-securityhub"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/SecurityHub>"],
+    "description": "securityidentityandcompliance/SecurityHub awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-shield"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/Shield>"],
+    "description": "securityidentityandcompliance/Shield awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-shieldshieldadvanced"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/ShieldShieldAdvanced>"],
+    "description": "securityidentityandcompliance/ShieldShieldAdvanced awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-simplead"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/SimpleAD>"],
+    "description": "securityidentityandcompliance/SimpleAD awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-singlesignon"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/SingleSignOn>"],
+    "description": "securityidentityandcompliance/SingleSignOn awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-waf"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/WAF>"],
+    "description": "securityidentityandcompliance/WAF awslib icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["i-securityidentityandcompliance", "i-securityidentityandcompliance-waffilteringrule"],
+    "body": ["!include <awslib/SecurityIdentityAndCompliance/WAFFilteringrule>"],
+    "description": "securityidentityandcompliance/WAFFilteringrule awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-backup"],
+    "body": ["!include <awslib/Storage/Backup>"],
+    "description": "storage/Backup awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-cloudenduredisasterrecovery"],
+    "body": ["!include <awslib/Storage/CloudEndureDisasterRecovery>"],
+    "description": "storage/CloudEndureDisasterRecovery awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-ebssnapshot"],
+    "body": ["!include <awslib/Storage/EBSSnapshot>"],
+    "description": "storage/EBSSnapshot awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-ebsvolume"],
+    "body": ["!include <awslib/Storage/EBSVolume>"],
+    "description": "storage/EBSVolume awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-efsfilesystem"],
+    "body": ["!include <awslib/Storage/EFSFilesystem>"],
+    "description": "storage/EFSFilesystem awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-efsinfrequentaccess"],
+    "body": ["!include <awslib/Storage/EFSInfrequentAccess>"],
+    "description": "storage/EFSInfrequentAccess awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-efsstandard"],
+    "body": ["!include <awslib/Storage/EFSStandard>"],
+    "description": "storage/EFSStandard awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-elasticblockstoreebs"],
+    "body": ["!include <awslib/Storage/ElasticBlockStoreEBS>"],
+    "description": "storage/ElasticBlockStoreEBS awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-elasticfilesystemefs"],
+    "body": ["!include <awslib/Storage/ElasticFileSystemEFS>"],
+    "description": "storage/ElasticFileSystemEFS awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-fsx"],
+    "body": ["!include <awslib/Storage/FSx>"],
+    "description": "storage/FSx awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-fsxforlustre"],
+    "body": ["!include <awslib/Storage/FSxforLustre>"],
+    "description": "storage/FSxforLustre awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-fsxforwindowsfileserver"],
+    "body": ["!include <awslib/Storage/FSxforWindowsFileServer>"],
+    "description": "storage/FSxforWindowsFileServer awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3bucket"],
+    "body": ["!include <awslib/Storage/S3Bucket>"],
+    "description": "storage/S3Bucket awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3bucketwithobjects"],
+    "body": ["!include <awslib/Storage/S3BucketwithObjects>"],
+    "description": "storage/S3BucketwithObjects awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3glacier"],
+    "body": ["!include <awslib/Storage/S3Glacier>"],
+    "description": "storage/S3Glacier awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3glacierarchive"],
+    "body": ["!include <awslib/Storage/S3GlacierArchive>"],
+    "description": "storage/S3GlacierArchive awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3glaciervault"],
+    "body": ["!include <awslib/Storage/S3GlacierVault>"],
+    "description": "storage/S3GlacierVault awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-s3object"],
+    "body": ["!include <awslib/Storage/S3Object>"],
+    "description": "storage/S3Object awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-simplestorageservices3"],
+    "body": ["!include <awslib/Storage/SimpleStorageServiceS3>"],
+    "description": "storage/SimpleStorageServiceS3 awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-snowfamilyimportexport"],
+    "body": ["!include <awslib/Storage/SnowFamilyImportExport>"],
+    "description": "storage/SnowFamilyImportExport awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-snowball2"],
+    "body": ["!include <awslib/Storage/Snowball2>"],
+    "description": "storage/Snowball2 awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-snowballedge2"],
+    "body": ["!include <awslib/Storage/SnowballEdge2>"],
+    "description": "storage/SnowballEdge2 awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-snowmobile2"],
+    "body": ["!include <awslib/Storage/Snowmobile2>"],
+    "description": "storage/Snowmobile2 awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-storage"],
+    "body": ["!include <awslib/Storage/Storage>"],
+    "description": "storage/Storage awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-storagegateway"],
+    "body": ["!include <awslib/Storage/StorageGateway>"],
+    "description": "storage/StorageGateway awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-storagegatewaycachedvolume"],
+    "body": ["!include <awslib/Storage/StorageGatewayCachedVolume>"],
+    "description": "storage/StorageGatewayCachedVolume awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-storagegatewaynoncachedvolume"],
+    "body": ["!include <awslib/Storage/StorageGatewayNonCachedVolume>"],
+    "description": "storage/StorageGatewayNonCachedVolume awslib icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-storage", "i-storage-storagegatewayvirtualtapelibrary"],
+    "body": ["!include <awslib/Storage/StorageGatewayVirtualTapeLibrary>"],
+    "description": "storage/StorageGatewayVirtualTapeLibrary awslib icons"
+  }
+
+}

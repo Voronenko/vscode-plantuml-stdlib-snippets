@@ -1,0 +1,130 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "Include All AIMachineLearning": {
+    "scope": "diagram",
+    "prefix": ["i-all-aimachinelearning"],
+    "body": ["!include <azure/AIMachineLearning>"],
+    "description": "aimachinelearning azure icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["i-all-analytics"],
+    "body": ["!include <azure/Analytics>"],
+    "description": "analytics azure icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["i-all-compute"],
+    "body": ["!include <azure/Compute>"],
+    "description": "compute azure icons"
+  },
+
+  "Include All Containers": {
+    "scope": "diagram",
+    "prefix": ["i-all-containers"],
+    "body": ["!include <azure/Containers>"],
+    "description": "containers azure icons"
+  },
+
+  "Include All Databases": {
+    "scope": "diagram",
+    "prefix": ["i-all-databases"],
+    "body": ["!include <azure/Databases>"],
+    "description": "databases azure icons"
+  },
+
+  "Include All DevOps": {
+    "scope": "diagram",
+    "prefix": ["i-all-devops"],
+    "body": ["!include <azure/DevOps>"],
+    "description": "devops azure icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["i-all-general"],
+    "body": ["!include <azure/General>"],
+    "description": "general azure icons"
+  },
+
+  "Include All Identity": {
+    "scope": "diagram",
+    "prefix": ["i-all-identity"],
+    "body": ["!include <azure/Identity>"],
+    "description": "identity azure icons"
+  },
+
+  "Include All Integration": {
+    "scope": "diagram",
+    "prefix": ["i-all-integration"],
+    "body": ["!include <azure/Integration>"],
+    "description": "integration azure icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["i-all-internetofthings"],
+    "body": ["!include <azure/InternetOfThings>"],
+    "description": "internetofthings azure icons"
+  },
+
+  "Include All Management": {
+    "scope": "diagram",
+    "prefix": ["i-all-management"],
+    "body": ["!include <azure/Management>"],
+    "description": "management azure icons"
+  },
+
+  "Include All Media": {
+    "scope": "diagram",
+    "prefix": ["i-all-media"],
+    "body": ["!include <azure/Media>"],
+    "description": "media azure icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["i-all-mobile"],
+    "body": ["!include <azure/Mobile>"],
+    "description": "mobile azure icons"
+  },
+
+  "Include All Networking": {
+    "scope": "diagram",
+    "prefix": ["i-all-networking"],
+    "body": ["!include <azure/Networking>"],
+    "description": "networking azure icons"
+  },
+
+  "Include All Security": {
+    "scope": "diagram",
+    "prefix": ["i-all-security"],
+    "body": ["!include <azure/Security>"],
+    "description": "security azure icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["i-all-storage"],
+    "body": ["!include <azure/Storage>"],
+    "description": "storage azure icons"
+  },
+
+  "Include All Web": {
+    "scope": "diagram",
+    "prefix": ["i-all-web"],
+    "body": ["!include <azure/Web>"],
+    "description": "web azure icons"
+  },
+
+  "Include AzureCommon": {
+    "scope": "diagram",
+    "prefix": ["i-azure-common"],
+    "body": ["!include <azure/AzureCommon.puml>"],
+    "description": "azure commons"
+  }
+
+}

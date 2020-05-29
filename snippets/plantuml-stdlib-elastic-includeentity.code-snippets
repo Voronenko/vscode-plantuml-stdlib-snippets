@@ -1,0 +1,150 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "inc elastic/apm/apm": {
+    "scope": "diagram",
+    "prefix": ["i-es-apm","i-es-apm-apm"],
+    "body": ["!include <elastic/apm/apm>"],
+    "description": "apm/apm elastic"
+  },
+
+  "inc elastic/app_search/app_search": {
+    "scope": "diagram",
+    "prefix": ["i-es-app_search","i-es-app_search-app_search"],
+    "body": ["!include <elastic/app_search/app_search>"],
+    "description": "app_search/app_search elastic"
+  },
+
+  "inc elastic/beats/beats": {
+    "scope": "diagram",
+    "prefix": ["i-es-beats","i-es-beats-beats"],
+    "body": ["!include <elastic/beats/beats>"],
+    "description": "beats/beats elastic"
+  },
+
+  "inc elastic/cloud/cloud": {
+    "scope": "diagram",
+    "prefix": ["i-es-cloud","i-es-cloud-cloud"],
+    "body": ["!include <elastic/cloud/cloud>"],
+    "description": "cloud/cloud elastic"
+  },
+
+  "inc elastic/cloud_in_kubernetes/cloud_in_kubernetes": {
+    "scope": "diagram",
+    "prefix": ["i-es-cloud_in_kubernetes","i-es-cloud_in_kubernetes-cloud_in_kubernetes"],
+    "body": ["!include <elastic/cloud_in_kubernetes/cloud_in_kubernetes>"],
+    "description": "cloud_in_kubernetes/cloud_in_kubernetes elastic"
+  },
+
+  "inc elastic/code_search/code_search": {
+    "scope": "diagram",
+    "prefix": ["i-es-code_search","i-es-code_search-code_search"],
+    "body": ["!include <elastic/code_search/code_search>"],
+    "description": "code_search/code_search elastic"
+  },
+
+  "inc elastic/ece/ece": {
+    "scope": "diagram",
+    "prefix": ["i-es-ece","i-es-ece-ece"],
+    "body": ["!include <elastic/ece/ece>"],
+    "description": "ece/ece elastic"
+  },
+
+  "inc elastic/eck/eck": {
+    "scope": "diagram",
+    "prefix": ["i-es-eck","i-es-eck-eck"],
+    "body": ["!include <elastic/eck/eck>"],
+    "description": "eck/eck elastic"
+  },
+
+  "inc elastic/elasticsearch/elasticsearch": {
+    "scope": "diagram",
+    "prefix": ["i-es-elasticsearch","i-es-elasticsearch-elasticsearch"],
+    "body": ["!include <elastic/elasticsearch/elasticsearch>"],
+    "description": "elasticsearch/elasticsearch elastic"
+  },
+
+  "inc elastic/endpoint/endpoint": {
+    "scope": "diagram",
+    "prefix": ["i-es-endpoint","i-es-endpoint-endpoint"],
+    "body": ["!include <elastic/endpoint/endpoint>"],
+    "description": "endpoint/endpoint elastic"
+  },
+
+  "inc elastic/enterprise_search/enterprise_search": {
+    "scope": "diagram",
+    "prefix": ["i-es-enterprise_search","i-es-enterprise_search-enterprise_search"],
+    "body": ["!include <elastic/enterprise_search/enterprise_search>"],
+    "description": "enterprise_search/enterprise_search elastic"
+  },
+
+  "inc elastic/kibana/kibana": {
+    "scope": "diagram",
+    "prefix": ["i-es-kibana","i-es-kibana-kibana"],
+    "body": ["!include <elastic/kibana/kibana>"],
+    "description": "kibana/kibana elastic"
+  },
+
+  "inc elastic/logging/logging": {
+    "scope": "diagram",
+    "prefix": ["i-es-logging","i-es-logging-logging"],
+    "body": ["!include <elastic/logging/logging>"],
+    "description": "logging/logging elastic"
+  },
+
+  "inc elastic/logstash/logstash": {
+    "scope": "diagram",
+    "prefix": ["i-es-logstash","i-es-logstash-logstash"],
+    "body": ["!include <elastic/logstash/logstash>"],
+    "description": "logstash/logstash elastic"
+  },
+
+  "inc elastic/maps/maps": {
+    "scope": "diagram",
+    "prefix": ["i-es-maps","i-es-maps-maps"],
+    "body": ["!include <elastic/maps/maps>"],
+    "description": "maps/maps elastic"
+  },
+
+  "inc elastic/metrics/metrics": {
+    "scope": "diagram",
+    "prefix": ["i-es-metrics","i-es-metrics-metrics"],
+    "body": ["!include <elastic/metrics/metrics>"],
+    "description": "metrics/metrics elastic"
+  },
+
+  "inc elastic/siem/siem": {
+    "scope": "diagram",
+    "prefix": ["i-es-siem","i-es-siem-siem"],
+    "body": ["!include <elastic/siem/siem>"],
+    "description": "siem/siem elastic"
+  },
+
+  "inc elastic/site_search/site_search": {
+    "scope": "diagram",
+    "prefix": ["i-es-site_search","i-es-site_search-site_search"],
+    "body": ["!include <elastic/site_search/site_search>"],
+    "description": "site_search/site_search elastic"
+  },
+
+  "inc elastic/stack/stack": {
+    "scope": "diagram",
+    "prefix": ["i-es-stack","i-es-stack-stack"],
+    "body": ["!include <elastic/stack/stack>"],
+    "description": "stack/stack elastic"
+  },
+
+  "inc elastic/uptime/uptime": {
+    "scope": "diagram",
+    "prefix": ["i-es-uptime","i-es-uptime-uptime"],
+    "body": ["!include <elastic/uptime/uptime>"],
+    "description": "uptime/uptime elastic"
+  },
+
+  "Include elastic": {
+    "scope": "diagram",
+    "prefix": ["i-elastic-common"],
+    "body": ["!include <elastic/common>"],
+    "description": "bootstrap using elastic icons"
+  }
+}

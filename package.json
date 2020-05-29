@@ -1,0 +1,149 @@
+{
+  "name": "vscode-plantuml-stdlib-snippets",
+  "displayName": "PlantUML stdlib snippets",
+  "description": "Simple extensions for quickier dealing with PlantUML stdlib library",
+  "version": "0.0.1",
+  "publisher": "voronenko",
+  "icon": "images/logo.png",
+  "keywords": [
+    "snippets",
+    "plantuml",
+    "aws-plantuml",
+    "awslib-icons-for-plantuml",
+    "azure-plantuml",
+    "cloudinsight-plantuml",
+    "cloudogu-plantuml",
+    "elastic-plantuml",
+    "logos-plantuml",
+    "material-plantuml",
+    "office-plantuml",
+    "osa-plantuml",
+    "tupadr3-plantuml"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Voronenko/vscode-plantuml-stdlib-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "extensionKind": "ui",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-awslib-icons-for-plantuml.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-azure-icons-for-plantuml.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-aws-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-aws-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-awslib-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-awslib-includeall.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-awslib-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-azure-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-azure-includeall.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-azure-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-cloudinsight-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-cloudinsight-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-cloudogu-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-cloudogu-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-elastic-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-elastic-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-logo-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-logo-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-material-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-material-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-office-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-office-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-osa-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-osa-includeentity.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-tupadr3-entities.code-snippets"
+      },
+      {
+        "language": "plantuml",
+        "path": "./snippets/plantuml-stdlib-tupadr3-includeentity.code-snippets"
+      }
+    ]
+  },
+  "devDependencies": {
+    "typescript": "3.4.2",
+    "vscode": "1.1.33",
+    "tslint": "5.15.0",
+    "@types/node": "11.13.0"
+  }
+}

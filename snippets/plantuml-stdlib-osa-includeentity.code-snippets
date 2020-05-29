@@ -1,0 +1,360 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "inc osa/arrow/left": {
+    "scope": "diagram",
+    "prefix": ["i-osa-left","i-osa-arrow-left"],
+    "body": ["!include <osa/arrow/green/left/left>"],
+    "description": "arrow/left osa"
+  },
+
+  "inc osa/arrow/right": {
+    "scope": "diagram",
+    "prefix": ["i-osa-right","i-osa-arrow-right"],
+    "body": ["!include <osa/arrow/yellow/right/right>"],
+    "description": "arrow/right osa"
+  },
+
+  "inc osa/awareness/awareness": {
+    "scope": "diagram",
+    "prefix": ["i-osa-awareness","i-osa-awareness-awareness"],
+    "body": ["!include <osa/awareness/awareness>"],
+    "description": "awareness/awareness osa"
+  },
+
+  "inc osa/contract/contract": {
+    "scope": "diagram",
+    "prefix": ["i-osa-contract","i-osa-contract-contract"],
+    "body": ["!include <osa/contract/contract>"],
+    "description": "contract/contract osa"
+  },
+
+  "inc osa/database/database": {
+    "scope": "diagram",
+    "prefix": ["i-osa-database","i-osa-database-database"],
+    "body": ["!include <osa/database/database>"],
+    "description": "database/database osa"
+  },
+
+  "inc osa/desktop/desktop": {
+    "scope": "diagram",
+    "prefix": ["i-osa-desktop","i-osa-desktop-desktop"],
+    "body": ["!include <osa/desktop/desktop>"],
+    "description": "desktop/desktop osa"
+  },
+
+  "inc osa/desktop/imac": {
+    "scope": "diagram",
+    "prefix": ["i-osa-imac","i-osa-desktop-imac"],
+    "body": ["!include <osa/desktop/imac/imac>"],
+    "description": "desktop/imac osa"
+  },
+
+  "inc osa/device_music/device_music": {
+    "scope": "diagram",
+    "prefix": ["i-osa-device_music","i-osa-device_music-device_music"],
+    "body": ["!include <osa/device_music/device_music>"],
+    "description": "device_music/device_music osa"
+  },
+
+  "inc osa/device_scanner/device_scanner": {
+    "scope": "diagram",
+    "prefix": ["i-osa-device_scanner","i-osa-device_scanner-device_scanner"],
+    "body": ["!include <osa/device_scanner/device_scanner>"],
+    "description": "device_scanner/device_scanner osa"
+  },
+
+  "inc osa/device_usb/device_usb": {
+    "scope": "diagram",
+    "prefix": ["i-osa-device_usb","i-osa-device_usb-device_usb"],
+    "body": ["!include <osa/device_usb/device_usb>"],
+    "description": "device_usb/device_usb osa"
+  },
+
+  "inc osa/device_wireless_router/device_wireless_router": {
+    "scope": "diagram",
+    "prefix": ["i-osa-device_wireless_router","i-osa-device_wireless_router-device_wireless_router"],
+    "body": ["!include <osa/device_wireless_router/device_wireless_router>"],
+    "description": "device_wireless_router/device_wireless_router osa"
+  },
+
+  "inc osa/disposal/disposal": {
+    "scope": "diagram",
+    "prefix": ["i-osa-disposal","i-osa-disposal-disposal"],
+    "body": ["!include <osa/disposal/disposal>"],
+    "description": "disposal/disposal osa"
+  },
+
+  "inc osa/drive_optical/drive_optical": {
+    "scope": "diagram",
+    "prefix": ["i-osa-drive_optical","i-osa-drive_optical-drive_optical"],
+    "body": ["!include <osa/drive_optical/drive_optical>"],
+    "description": "drive_optical/drive_optical osa"
+  },
+
+  "inc osa/firewall/firewall": {
+    "scope": "diagram",
+    "prefix": ["i-osa-firewall","i-osa-firewall-firewall"],
+    "body": ["!include <osa/firewall/firewall>"],
+    "description": "firewall/firewall osa"
+  },
+
+  "inc osa/hub/hub": {
+    "scope": "diagram",
+    "prefix": ["i-osa-hub","i-osa-hub-hub"],
+    "body": ["!include <osa/hub/hub>"],
+    "description": "hub/hub osa"
+  },
+
+  "inc osa/ics/drive": {
+    "scope": "diagram",
+    "prefix": ["i-osa-drive","i-osa-ics-drive"],
+    "body": ["!include <osa/ics/drive/drive>"],
+    "description": "ics/drive osa"
+  },
+
+  "inc osa/ics/plc": {
+    "scope": "diagram",
+    "prefix": ["i-osa-plc","i-osa-ics-plc"],
+    "body": ["!include <osa/ics/plc/plc>"],
+    "description": "ics/plc osa"
+  },
+
+  "inc osa/ics/thermometer": {
+    "scope": "diagram",
+    "prefix": ["i-osa-thermometer","i-osa-ics-thermometer"],
+    "body": ["!include <osa/ics/thermometer/thermometer>"],
+    "description": "ics/thermometer osa"
+  },
+
+  "inc osa/id/card": {
+    "scope": "diagram",
+    "prefix": ["i-osa-card","i-osa-id-card"],
+    "body": ["!include <osa/id/card/card>"],
+    "description": "id/card osa"
+  },
+
+  "inc osa/laptop/laptop": {
+    "scope": "diagram",
+    "prefix": ["i-osa-laptop","i-osa-laptop-laptop"],
+    "body": ["!include <osa/laptop/laptop>"],
+    "description": "laptop/laptop osa"
+  },
+
+  "inc osa/lifecycle/lifecycle": {
+    "scope": "diagram",
+    "prefix": ["i-osa-lifecycle","i-osa-lifecycle-lifecycle"],
+    "body": ["!include <osa/lifecycle/lifecycle>"],
+    "description": "lifecycle/lifecycle osa"
+  },
+
+  "inc osa/lightning/lightning": {
+    "scope": "diagram",
+    "prefix": ["i-osa-lightning","i-osa-lightning-lightning"],
+    "body": ["!include <osa/lightning/lightning>"],
+    "description": "lightning/lightning osa"
+  },
+
+  "inc osa/media_flash/media_flash": {
+    "scope": "diagram",
+    "prefix": ["i-osa-media_flash","i-osa-media_flash-media_flash"],
+    "body": ["!include <osa/media_flash/media_flash>"],
+    "description": "media_flash/media_flash osa"
+  },
+
+  "inc osa/media_optical/media_optical": {
+    "scope": "diagram",
+    "prefix": ["i-osa-media_optical","i-osa-media_optical-media_optical"],
+    "body": ["!include <osa/media_optical/media_optical>"],
+    "description": "media_optical/media_optical osa"
+  },
+
+  "inc osa/media_tape/media_tape": {
+    "scope": "diagram",
+    "prefix": ["i-osa-media_tape","i-osa-media_tape-media_tape"],
+    "body": ["!include <osa/media_tape/media_tape>"],
+    "description": "media_tape/media_tape osa"
+  },
+
+  "inc osa/mobile/pda": {
+    "scope": "diagram",
+    "prefix": ["i-osa-pda","i-osa-mobile-pda"],
+    "body": ["!include <osa/mobile/pda/pda>"],
+    "description": "mobile/pda osa"
+  },
+
+  "inc osa/padlock/padlock": {
+    "scope": "diagram",
+    "prefix": ["i-osa-padlock","i-osa-padlock-padlock"],
+    "body": ["!include <osa/padlock/padlock>"],
+    "description": "padlock/padlock osa"
+  },
+
+  "inc osa/printer/printer": {
+    "scope": "diagram",
+    "prefix": ["i-osa-printer","i-osa-printer-printer"],
+    "body": ["!include <osa/printer/printer>"],
+    "description": "printer/printer osa"
+  },
+
+  "inc osa/site_branch/site_branch": {
+    "scope": "diagram",
+    "prefix": ["i-osa-site_branch","i-osa-site_branch-site_branch"],
+    "body": ["!include <osa/site_branch/site_branch>"],
+    "description": "site_branch/site_branch osa"
+  },
+
+  "inc osa/site_factory/site_factory": {
+    "scope": "diagram",
+    "prefix": ["i-osa-site_factory","i-osa-site_factory-site_factory"],
+    "body": ["!include <osa/site_factory/site_factory>"],
+    "description": "site_factory/site_factory osa"
+  },
+
+  "inc osa/user/architect": {
+    "scope": "diagram",
+    "prefix": ["i-osa-architect","i-osa-user-architect"],
+    "body": ["!include <osa/user/green/architect/architect>"],
+    "description": "user/architect osa"
+  },
+
+  "inc osa/user/audit": {
+    "scope": "diagram",
+    "prefix": ["i-osa-audit","i-osa-user-audit"],
+    "body": ["!include <osa/user/audit/audit>"],
+    "description": "user/audit osa"
+  },
+
+  "inc osa/user/blue": {
+    "scope": "diagram",
+    "prefix": ["i-osa-blue","i-osa-user-blue"],
+    "body": ["!include <osa/user/blue/blue>"],
+    "description": "user/blue osa"
+  },
+
+  "inc osa/user/developer": {
+    "scope": "diagram",
+    "prefix": ["i-osa-developer","i-osa-user-developer"],
+    "body": ["!include <osa/user/green/developer/developer>"],
+    "description": "user/developer osa"
+  },
+
+  "inc osa/user/green": {
+    "scope": "diagram",
+    "prefix": ["i-osa-green","i-osa-user-green"],
+    "body": ["!include <osa/user/green/green>"],
+    "description": "user/green osa"
+  },
+
+  "inc osa/user/group": {
+    "scope": "diagram",
+    "prefix": ["i-osa-group","i-osa-user-group"],
+    "body": ["!include <osa/user/large/group/group>"],
+    "description": "user/group osa"
+  },
+
+  "inc osa/user/hat": {
+    "scope": "diagram",
+    "prefix": ["i-osa-hat","i-osa-user-hat"],
+    "body": ["!include <osa/user/black/hat/hat>"],
+    "description": "user/hat osa"
+  },
+
+  "inc osa/user/hat": {
+    "scope": "diagram",
+    "prefix": ["i-osa-hat","i-osa-user-hat"],
+    "body": ["!include <osa/user/white/hat/hat>"],
+    "description": "user/hat osa"
+  },
+
+  "inc osa/user/manager": {
+    "scope": "diagram",
+    "prefix": ["i-osa-manager","i-osa-user-manager"],
+    "body": ["!include <osa/user/green/business/manager/manager>"],
+    "description": "user/manager osa"
+  },
+
+  "inc osa/user/manager": {
+    "scope": "diagram",
+    "prefix": ["i-osa-manager","i-osa-user-manager"],
+    "body": ["!include <osa/user/green/project/manager/manager>"],
+    "description": "user/manager osa"
+  },
+
+  "inc osa/user/manager": {
+    "scope": "diagram",
+    "prefix": ["i-osa-manager","i-osa-user-manager"],
+    "body": ["!include <osa/user/green/service/manager/manager>"],
+    "description": "user/manager osa"
+  },
+
+  "inc osa/user/operations": {
+    "scope": "diagram",
+    "prefix": ["i-osa-operations","i-osa-user-operations"],
+    "body": ["!include <osa/user/green/operations/operations>"],
+    "description": "user/operations osa"
+  },
+
+  "inc osa/user/specialist": {
+    "scope": "diagram",
+    "prefix": ["i-osa-specialist","i-osa-user-specialist"],
+    "body": ["!include <osa/user/blue/security/specialist/specialist>"],
+    "description": "user/specialist osa"
+  },
+
+  "inc osa/user/sysadmin": {
+    "scope": "diagram",
+    "prefix": ["i-osa-sysadmin","i-osa-user-sysadmin"],
+    "body": ["!include <osa/user/blue/sysadmin/sysadmin>"],
+    "description": "user/sysadmin osa"
+  },
+
+  "inc osa/user/tester": {
+    "scope": "diagram",
+    "prefix": ["i-osa-tester","i-osa-user-tester"],
+    "body": ["!include <osa/user/blue/tester/tester>"],
+    "description": "user/tester osa"
+  },
+
+  "inc osa/user/tie": {
+    "scope": "diagram",
+    "prefix": ["i-osa-tie","i-osa-user-tie"],
+    "body": ["!include <osa/user/blue/tie/tie>"],
+    "description": "user/tie osa"
+  },
+
+  "inc osa/user/warning": {
+    "scope": "diagram",
+    "prefix": ["i-osa-warning","i-osa-user-warning"],
+    "body": ["!include <osa/user/green/warning/warning>"],
+    "description": "user/warning osa"
+  },
+
+  "inc osa/users/green": {
+    "scope": "diagram",
+    "prefix": ["i-osa-green","i-osa-users-green"],
+    "body": ["!include <osa/users/blue/green/green>"],
+    "description": "users/green osa"
+  },
+
+  "inc osa/vpn/vpn": {
+    "scope": "diagram",
+    "prefix": ["i-osa-vpn","i-osa-vpn-vpn"],
+    "body": ["!include <osa/vpn/vpn>"],
+    "description": "vpn/vpn osa"
+  },
+
+  "inc osa/wireless/network": {
+    "scope": "diagram",
+    "prefix": ["i-osa-network","i-osa-wireless-network"],
+    "body": ["!include <osa/wireless/network/network>"],
+    "description": "wireless/network osa"
+  },
+
+  "Include elastic": {
+    "scope": "diagram",
+    "prefix": ["i-osa-common"],
+    "body": ["!include <osa/common>"],
+    "description": "bootstrap using osa icons"
+  }
+}

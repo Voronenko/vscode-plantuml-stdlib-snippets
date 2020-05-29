@@ -1,0 +1,136 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "Include All AIMachineLearning": {
+    "scope": "diagram",
+    "prefix": ["u-all-aimachinelearning"],
+    "body": ["!include AZUREPuml/AIMachineLearning/all.puml"],
+    "description": "aimachinelearning azure icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["u-all-analytics"],
+    "body": ["!include AZUREPuml/Analytics/all.puml"],
+    "description": "analytics azure icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["u-all-compute"],
+    "body": ["!include AZUREPuml/Compute/all.puml"],
+    "description": "compute azure icons"
+  },
+
+  "Include All Containers": {
+    "scope": "diagram",
+    "prefix": ["u-all-containers"],
+    "body": ["!include AZUREPuml/Containers/all.puml"],
+    "description": "containers azure icons"
+  },
+
+  "Include All Databases": {
+    "scope": "diagram",
+    "prefix": ["u-all-databases"],
+    "body": ["!include AZUREPuml/Databases/all.puml"],
+    "description": "databases azure icons"
+  },
+
+  "Include All DevOps": {
+    "scope": "diagram",
+    "prefix": ["u-all-devops"],
+    "body": ["!include AZUREPuml/DevOps/all.puml"],
+    "description": "devops azure icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["u-all-general"],
+    "body": ["!include AZUREPuml/General/all.puml"],
+    "description": "general azure icons"
+  },
+
+  "Include All Identity": {
+    "scope": "diagram",
+    "prefix": ["u-all-identity"],
+    "body": ["!include AZUREPuml/Identity/all.puml"],
+    "description": "identity azure icons"
+  },
+
+  "Include All Integration": {
+    "scope": "diagram",
+    "prefix": ["u-all-integration"],
+    "body": ["!include AZUREPuml/Integration/all.puml"],
+    "description": "integration azure icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["u-all-internetofthings"],
+    "body": ["!include AZUREPuml/InternetOfThings/all.puml"],
+    "description": "internetofthings azure icons"
+  },
+
+  "Include All Management": {
+    "scope": "diagram",
+    "prefix": ["u-all-management"],
+    "body": ["!include AZUREPuml/Management/all.puml"],
+    "description": "management azure icons"
+  },
+
+  "Include All Media": {
+    "scope": "diagram",
+    "prefix": ["u-all-media"],
+    "body": ["!include AZUREPuml/Media/all.puml"],
+    "description": "media azure icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["u-all-mobile"],
+    "body": ["!include AZUREPuml/Mobile/all.puml"],
+    "description": "mobile azure icons"
+  },
+
+  "Include All Networking": {
+    "scope": "diagram",
+    "prefix": ["u-all-networking"],
+    "body": ["!include AZUREPuml/Networking/all.puml"],
+    "description": "networking azure icons"
+  },
+
+  "Include All Security": {
+    "scope": "diagram",
+    "prefix": ["u-all-security"],
+    "body": ["!include AZUREPuml/Security/all.puml"],
+    "description": "security azure icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["u-all-storage"],
+    "body": ["!include AZUREPuml/Storage/all.puml"],
+    "description": "storage azure icons"
+  },
+
+  "Include All Web": {
+    "scope": "diagram",
+    "prefix": ["u-all-web"],
+    "body": ["!include AZUREPuml/Web/all.puml"],
+    "description": "web azure icons"
+  },
+
+  "Include url AzureCommon": {
+    "scope": "diagram",
+    "prefix": ["u-azure-common"],
+    "body": ["!include AZUREPuml/azure/AzureCommon.puml"],
+    "description": "azure common"
+  },
+  "Define url AZUREPuml": {
+    "scope": "diagram",
+    "prefix": ["define-url-azure"],
+    "body": ["!define AZUREPuml  https://raw.githubusercontent.com/RicardoNiepel/Azure-PlantUML/release/2-1/dist"],
+    "description": "defines external url for AZUREPuml"
+  }
+
+}

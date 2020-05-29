@@ -1,0 +1,212 @@
+// This is generated file from voronenko/plantuml-stdlib-snippets-vscode
+{
+
+  "Include All ARVR": {
+    "scope": "diagram",
+    "prefix": ["u-all-arvr"],
+    "body": ["!include AWSPuml/ARVR/all.puml"],
+    "description": "arvr aws icons"
+  },
+
+  "Include All AWSCostManagement": {
+    "scope": "diagram",
+    "prefix": ["u-all-awscostmanagement"],
+    "body": ["!include AWSPuml/AWSCostManagement/all.puml"],
+    "description": "awscostmanagement aws icons"
+  },
+
+  "Include All Analytics": {
+    "scope": "diagram",
+    "prefix": ["u-all-analytics"],
+    "body": ["!include AWSPuml/Analytics/all.puml"],
+    "description": "analytics aws icons"
+  },
+
+  "Include All ApplicationIntegration": {
+    "scope": "diagram",
+    "prefix": ["u-all-applicationintegration"],
+    "body": ["!include AWSPuml/ApplicationIntegration/all.puml"],
+    "description": "applicationintegration aws icons"
+  },
+
+  "Include All Blockchain": {
+    "scope": "diagram",
+    "prefix": ["u-all-blockchain"],
+    "body": ["!include AWSPuml/Blockchain/all.puml"],
+    "description": "blockchain aws icons"
+  },
+
+  "Include All BusinessApplications": {
+    "scope": "diagram",
+    "prefix": ["u-all-businessapplications"],
+    "body": ["!include AWSPuml/BusinessApplications/all.puml"],
+    "description": "businessapplications aws icons"
+  },
+
+  "Include All Compute": {
+    "scope": "diagram",
+    "prefix": ["u-all-compute"],
+    "body": ["!include AWSPuml/Compute/all.puml"],
+    "description": "compute aws icons"
+  },
+
+  "Include All CustomerEnablement": {
+    "scope": "diagram",
+    "prefix": ["u-all-customerenablement"],
+    "body": ["!include AWSPuml/CustomerEnablement/all.puml"],
+    "description": "customerenablement aws icons"
+  },
+
+  "Include All CustomerEngagement": {
+    "scope": "diagram",
+    "prefix": ["u-all-customerengagement"],
+    "body": ["!include AWSPuml/CustomerEngagement/all.puml"],
+    "description": "customerengagement aws icons"
+  },
+
+  "Include All Database": {
+    "scope": "diagram",
+    "prefix": ["u-all-database"],
+    "body": ["!include AWSPuml/Database/all.puml"],
+    "description": "database aws icons"
+  },
+
+  "Include All DeveloperTools": {
+    "scope": "diagram",
+    "prefix": ["u-all-developertools"],
+    "body": ["!include AWSPuml/DeveloperTools/all.puml"],
+    "description": "developertools aws icons"
+  },
+
+  "Include All EndUserComputing": {
+    "scope": "diagram",
+    "prefix": ["u-all-endusercomputing"],
+    "body": ["!include AWSPuml/EndUserComputing/all.puml"],
+    "description": "endusercomputing aws icons"
+  },
+
+  "Include All GameTech": {
+    "scope": "diagram",
+    "prefix": ["u-all-gametech"],
+    "body": ["!include AWSPuml/GameTech/all.puml"],
+    "description": "gametech aws icons"
+  },
+
+  "Include All General": {
+    "scope": "diagram",
+    "prefix": ["u-all-general"],
+    "body": ["!include AWSPuml/General/all.puml"],
+    "description": "general aws icons"
+  },
+
+  "Include All GroupIcons": {
+    "scope": "diagram",
+    "prefix": ["u-all-groupicons"],
+    "body": ["!include AWSPuml/GroupIcons/all.puml"],
+    "description": "groupicons aws icons"
+  },
+
+  "Include All InternetOfThings": {
+    "scope": "diagram",
+    "prefix": ["u-all-internetofthings"],
+    "body": ["!include AWSPuml/InternetOfThings/all.puml"],
+    "description": "internetofthings aws icons"
+  },
+
+  "Include All MachineLearning": {
+    "scope": "diagram",
+    "prefix": ["u-all-machinelearning"],
+    "body": ["!include AWSPuml/MachineLearning/all.puml"],
+    "description": "machinelearning aws icons"
+  },
+
+  "Include All ManagementAndGovernance": {
+    "scope": "diagram",
+    "prefix": ["u-all-managementandgovernance"],
+    "body": ["!include AWSPuml/ManagementAndGovernance/all.puml"],
+    "description": "managementandgovernance aws icons"
+  },
+
+  "Include All MediaServices": {
+    "scope": "diagram",
+    "prefix": ["u-all-mediaservices"],
+    "body": ["!include AWSPuml/MediaServices/all.puml"],
+    "description": "mediaservices aws icons"
+  },
+
+  "Include All MigrationAndTransfer": {
+    "scope": "diagram",
+    "prefix": ["u-all-migrationandtransfer"],
+    "body": ["!include AWSPuml/MigrationAndTransfer/all.puml"],
+    "description": "migrationandtransfer aws icons"
+  },
+
+  "Include All Mobile": {
+    "scope": "diagram",
+    "prefix": ["u-all-mobile"],
+    "body": ["!include AWSPuml/Mobile/all.puml"],
+    "description": "mobile aws icons"
+  },
+
+  "Include All NetworkingAndContentDelivery": {
+    "scope": "diagram",
+    "prefix": ["u-all-networkingandcontentdelivery"],
+    "body": ["!include AWSPuml/NetworkingAndContentDelivery/all.puml"],
+    "description": "networkingandcontentdelivery aws icons"
+  },
+
+  "Include All QuantumTechnologies": {
+    "scope": "diagram",
+    "prefix": ["u-all-quantumtechnologies"],
+    "body": ["!include AWSPuml/QuantumTechnologies/all.puml"],
+    "description": "quantumtechnologies aws icons"
+  },
+
+  "Include All Robotics": {
+    "scope": "diagram",
+    "prefix": ["u-all-robotics"],
+    "body": ["!include AWSPuml/Robotics/all.puml"],
+    "description": "robotics aws icons"
+  },
+
+  "Include All Satellite": {
+    "scope": "diagram",
+    "prefix": ["u-all-satellite"],
+    "body": ["!include AWSPuml/Satellite/all.puml"],
+    "description": "satellite aws icons"
+  },
+
+  "Include All SecurityIdentityAndCompliance": {
+    "scope": "diagram",
+    "prefix": ["u-all-securityidentityandcompliance"],
+    "body": ["!include AWSPuml/SecurityIdentityAndCompliance/all.puml"],
+    "description": "securityidentityandcompliance aws icons"
+  },
+
+  "Include All Storage": {
+    "scope": "diagram",
+    "prefix": ["u-all-storage"],
+    "body": ["!include AWSPuml/Storage/all.puml"],
+    "description": "storage aws icons"
+  },
+
+  "Include url AWSCommon (not AWSSimplified)": {
+    "scope": "diagram",
+    "prefix": ["u-aws-common"],
+    "body": ["!include AWSPuml/AWSCommon.puml "],
+    "description": "aws simplified look"
+  },
+  "Include url AWSSimplified (not AWSCommon)": {
+    "scope": "diagram",
+    "prefix": ["u-aws-simplified"],
+    "body": ["!include AWSPuml/AWSSimplified.puml"],
+    "description": "aws common look"
+  },
+  "Define url AWSPuml": {
+    "scope": "diagram",
+    "prefix": ["define-url-aws"],
+    "body": ["!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v7.0/dist"],
+    "description": "defines external url for AWSPuml"
+  }
+
+}
