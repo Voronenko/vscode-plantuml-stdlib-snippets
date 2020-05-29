@@ -9,19 +9,19 @@ This extension provides you number of the dummy code snippets for PlantUML stand
 
 Supported stdlib extensions
 
-| StdLib name  |  Required common macros  |  Folder include macros supported  |  Snippets prefix  |   |   |
+| StdLib name  |  Required common macros  |  Folder include macros supported  |  Snippets include prefix  |   |   |
 |---|---|---|---|---|---|
-| aws  | i-aws-common  | N/A  |   |   |   |
-| awslib  | N/A  | i-all  |   |   |   |
-| azure  | i-azure-common  |   |   |   |   |
-| cloudinsight  | N/A  |   |   |   |   |
-| cloudogu  | i-co-common  |   |   |   |   |
-| elastic  | i-elastic-common  |   |   |   |   |
-| logo  |   |   |   |   |   |
-| material  |   |   |   |   |   |
-| office  | i-off-common  |   |   |   |   |
-| osa  | N/A  |   |   |   |   |
-| tupadr3  | i-t3-common  |   |   |   |   |
+| aws  | i-aws-common  | N/A  | i-aws  |   |   |
+| awslib  | N/A  | i-all  | i-  |   |   |
+| azure  | i-azure-common  | i-all-  | i-  |   |   |
+| cloudinsight  | N/A  |   | i-cloudinsight  |   |   |
+| cloudogu  | i-co-common  |   |  i-co  |   |   |
+| elastic  | i-elastic-common  |   | i-es  |   |   |
+| logo  |   |   | i-logo  |   |   |
+| material  |   |   | i-material  |   |   |
+| office  | i-off-common  |   |  i-off |   |   |
+| osa  | N/A  |   |  i-osa |   |   |
+| tupadr3  | i-t3-common  |   | i-t3  |   |   |
 
 
 Idea for the snippets is to speedup time needed to recall how is called your favorite icon from stdlib and use it in your plantuml diagram.
@@ -40,3 +40,5 @@ Thus you could look for either part of the object name  `i-aws-efsfilesystem_lar
 c) Now you can insert object itself
 
 usual text to be used in fuzzy search would be library code - object name  `aws-amazonefs`.  As usually vscode smart enough, thus you can use quite fuzzy combination of words.
+
+## Notes on a specific libraries
