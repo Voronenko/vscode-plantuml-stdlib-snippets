@@ -56,7 +56,7 @@ you just start typing approximate icon name. The one in appercase will be the ne
 
 That extension is kind of official "icons" released under https://github.com/awslabs/aws-icons-for-plantuml ; It appeared later than `aws` and the most notible difference
 from classic `aws` lib is presence of the cumulative include all files with sprites divided in a limited set of areas. You could also distinguish icons from that set
-by selecting AWS entity in a CamelCase
+by selecting AWS entity in a CamelCase.
 
 |Section                             |snippet shortcut                   |
 |--|--|
@@ -87,3 +87,9 @@ by selecting AWS entity in a CamelCase
 | Mobile/                            | iall-mobile                       |
 | Robotics/                          | iall-robotics                     |
 | Storage/                           | iall-storage                      |
+
+For a simplicity, we introduce few additional "meta" snippets.
+
+Diagrams constructed with this extension look like "Azure" ones
+
+![AWS classic](docs/stdlib-awslib.gif
