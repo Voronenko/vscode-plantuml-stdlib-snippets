@@ -88,7 +88,8 @@ by selecting AWS entity in a CamelCase.
 | Robotics/                          | iall-robotics                     |
 | Storage/                           | iall-storage                      |
 
-For a simplicity, we introduce few additional "meta" snippets.
+For a simplicity, we introduce few additional "meta" snippets, which are `ial-all` - include all of the
+categories and  `ial-all-mostused` - opinionated "most used" by myself
 
 Diagrams constructed with this extension look like "Azure" ones
 
