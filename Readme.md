@@ -92,4 +92,4 @@ For a simplicity, we introduce few additional "meta" snippets.
 
 Diagrams constructed with this extension look like "Azure" ones
 
-![AWS classic](docs/stdlib-awslib.gif
+![AWS classic](docs/stdlib-awslib.gif)
