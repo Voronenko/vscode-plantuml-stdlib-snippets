@@ -31,7 +31,10 @@
   "categories": [
     "Snippets"
   ],
-  "extensionKind": "ui",
+  "extensionKind": [
+     "workspace",
+     "ui"
+  ],
   "contributes": {
   "languages": [
     {
