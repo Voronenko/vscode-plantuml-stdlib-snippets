@@ -15063,6 +15063,12 @@
     "prefix": ["i-material-zip_box"],
     "body": ["!include <material/zip_box>"],
     "description": "zip_box material icon"
-  }
+  },
 
+  "Include material common": {
+    "scope": "diagram",
+    "prefix": ["i-material-common"],
+    "body": ["!include <material/common>"],
+    "description": "bootstrap using material icons"
+  }
 }

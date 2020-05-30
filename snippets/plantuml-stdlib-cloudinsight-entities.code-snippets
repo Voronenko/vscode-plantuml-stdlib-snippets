@@ -4,545 +4,545 @@
   "sprite activemq": {
     "scope": "diagram",
     "prefix": ["s-activemq"],
-    "body": ["<$$activemq>"],
+    "body": ["${1:e_alias}: <$$activemq> ${2:e_desc}"],
     "description": "activemq cloudinsight sprite"
   },
 
   "sprite ai": {
     "scope": "diagram",
     "prefix": ["s-ai"],
-    "body": ["<$$ai>"],
+    "body": ["${1:e_alias}: <$$ai> ${2:e_desc}"],
     "description": "ai cloudinsight sprite"
   },
 
   "sprite aliyun": {
     "scope": "diagram",
     "prefix": ["s-aliyun"],
-    "body": ["<$$aliyun>"],
+    "body": ["${1:e_alias}: <$$aliyun> ${2:e_desc}"],
     "description": "aliyun cloudinsight sprite"
   },
 
   "sprite apache": {
     "scope": "diagram",
     "prefix": ["s-apache"],
-    "body": ["<$$apache>"],
+    "body": ["${1:e_alias}: <$$apache> ${2:e_desc}"],
     "description": "apache cloudinsight sprite"
   },
 
   "sprite bearychat": {
     "scope": "diagram",
     "prefix": ["s-bearychat"],
-    "body": ["<$$bearychat>"],
+    "body": ["${1:e_alias}: <$$bearychat> ${2:e_desc}"],
     "description": "bearychat cloudinsight sprite"
   },
 
   "sprite bell": {
     "scope": "diagram",
     "prefix": ["s-bell"],
-    "body": ["<$$bell>"],
+    "body": ["${1:e_alias}: <$$bell> ${2:e_desc}"],
     "description": "bell cloudinsight sprite"
   },
 
   "sprite bi": {
     "scope": "diagram",
     "prefix": ["s-bi"],
-    "body": ["<$$bi>"],
+    "body": ["${1:e_alias}: <$$bi> ${2:e_desc}"],
     "description": "bi cloudinsight sprite"
   },
 
   "sprite cacti": {
     "scope": "diagram",
     "prefix": ["s-cacti"],
-    "body": ["<$$cacti>"],
+    "body": ["${1:e_alias}: <$$cacti> ${2:e_desc}"],
     "description": "cacti cloudinsight sprite"
   },
 
   "sprite cassandra": {
     "scope": "diagram",
     "prefix": ["s-cassandra"],
-    "body": ["<$$cassandra>"],
+    "body": ["${1:e_alias}: <$$cassandra> ${2:e_desc}"],
     "description": "cassandra cloudinsight sprite"
   },
 
   "sprite ci-large": {
     "scope": "diagram",
     "prefix": ["s-ci-large"],
-    "body": ["<$$ci-large>"],
+    "body": ["${1:e_alias}: <$$ci-large> ${2:e_desc}"],
     "description": "ci-large cloudinsight sprite"
   },
 
   "sprite ci": {
     "scope": "diagram",
     "prefix": ["s-ci"],
-    "body": ["<$$ci>"],
+    "body": ["${1:e_alias}: <$$ci> ${2:e_desc}"],
     "description": "ci cloudinsight sprite"
   },
 
   "sprite cog": {
     "scope": "diagram",
     "prefix": ["s-cog"],
-    "body": ["<$$cog>"],
+    "body": ["${1:e_alias}: <$$cog> ${2:e_desc}"],
     "description": "cog cloudinsight sprite"
   },
 
   "sprite copy": {
     "scope": "diagram",
     "prefix": ["s-copy"],
-    "body": ["<$$copy>"],
+    "body": ["${1:e_alias}: <$$copy> ${2:e_desc}"],
     "description": "copy cloudinsight sprite"
   },
 
   "sprite couchbase": {
     "scope": "diagram",
     "prefix": ["s-couchbase"],
-    "body": ["<$$couchbase>"],
+    "body": ["${1:e_alias}: <$$couchbase> ${2:e_desc}"],
     "description": "couchbase cloudinsight sprite"
   },
 
   "sprite couchdb": {
     "scope": "diagram",
     "prefix": ["s-couchdb"],
-    "body": ["<$$couchdb>"],
+    "body": ["${1:e_alias}: <$$couchdb> ${2:e_desc}"],
     "description": "couchdb cloudinsight sprite"
   },
 
   "sprite ct": {
     "scope": "diagram",
     "prefix": ["s-ct"],
-    "body": ["<$$ct>"],
+    "body": ["${1:e_alias}: <$$ct> ${2:e_desc}"],
     "description": "ct cloudinsight sprite"
   },
 
   "sprite dashboard": {
     "scope": "diagram",
     "prefix": ["s-dashboard"],
-    "body": ["<$$dashboard>"],
+    "body": ["${1:e_alias}: <$$dashboard> ${2:e_desc}"],
     "description": "dashboard cloudinsight sprite"
   },
 
   "sprite desktop": {
     "scope": "diagram",
     "prefix": ["s-desktop"],
-    "body": ["<$$desktop>"],
+    "body": ["${1:e_alias}: <$$desktop> ${2:e_desc}"],
     "description": "desktop cloudinsight sprite"
   },
 
   "sprite disable": {
     "scope": "diagram",
     "prefix": ["s-disable"],
-    "body": ["<$$disable>"],
+    "body": ["${1:e_alias}: <$$disable> ${2:e_desc}"],
     "description": "disable cloudinsight sprite"
   },
 
   "sprite docker": {
     "scope": "diagram",
     "prefix": ["s-docker"],
-    "body": ["<$$docker>"],
+    "body": ["${1:e_alias}: <$$docker> ${2:e_desc}"],
     "description": "docker cloudinsight sprite"
   },
 
   "sprite download": {
     "scope": "diagram",
     "prefix": ["s-download"],
-    "body": ["<$$download>"],
+    "body": ["${1:e_alias}: <$$download> ${2:e_desc}"],
     "description": "download cloudinsight sprite"
   },
 
   "sprite edit": {
     "scope": "diagram",
     "prefix": ["s-edit"],
-    "body": ["<$$edit>"],
+    "body": ["${1:e_alias}: <$$edit> ${2:e_desc}"],
     "description": "edit cloudinsight sprite"
   },
 
   "sprite elasticsearch": {
     "scope": "diagram",
     "prefix": ["s-elasticsearch"],
-    "body": ["<$$elasticsearch>"],
+    "body": ["${1:e_alias}: <$$elasticsearch> ${2:e_desc}"],
     "description": "elasticsearch cloudinsight sprite"
   },
 
   "sprite exit": {
     "scope": "diagram",
     "prefix": ["s-exit"],
-    "body": ["<$$exit>"],
+    "body": ["${1:e_alias}: <$$exit> ${2:e_desc}"],
     "description": "exit cloudinsight sprite"
   },
 
   "sprite file": {
     "scope": "diagram",
     "prefix": ["s-file"],
-    "body": ["<$$file>"],
+    "body": ["${1:e_alias}: <$$file> ${2:e_desc}"],
     "description": "file cloudinsight sprite"
   },
 
   "sprite gearman": {
     "scope": "diagram",
     "prefix": ["s-gearman"],
-    "body": ["<$$gearman>"],
+    "body": ["${1:e_alias}: <$$gearman> ${2:e_desc}"],
     "description": "gearman cloudinsight sprite"
   },
 
   "sprite gunicorn": {
     "scope": "diagram",
     "prefix": ["s-gunicorn"],
-    "body": ["<$$gunicorn>"],
+    "body": ["${1:e_alias}: <$$gunicorn> ${2:e_desc}"],
     "description": "gunicorn cloudinsight sprite"
   },
 
   "sprite haproxy": {
     "scope": "diagram",
     "prefix": ["s-haproxy"],
-    "body": ["<$$haproxy>"],
+    "body": ["${1:e_alias}: <$$haproxy> ${2:e_desc}"],
     "description": "haproxy cloudinsight sprite"
   },
 
   "sprite hdfs": {
     "scope": "diagram",
     "prefix": ["s-hdfs"],
-    "body": ["<$$hdfs>"],
+    "body": ["${1:e_alias}: <$$hdfs> ${2:e_desc}"],
     "description": "hdfs cloudinsight sprite"
   },
 
   "sprite iis": {
     "scope": "diagram",
     "prefix": ["s-iis"],
-    "body": ["<$$iis>"],
+    "body": ["${1:e_alias}: <$$iis> ${2:e_desc}"],
     "description": "iis cloudinsight sprite"
   },
 
   "sprite java": {
     "scope": "diagram",
     "prefix": ["s-java"],
-    "body": ["<$$java>"],
+    "body": ["${1:e_alias}: <$$java> ${2:e_desc}"],
     "description": "java cloudinsight sprite"
   },
 
   "sprite jianliao": {
     "scope": "diagram",
     "prefix": ["s-jianliao"],
-    "body": ["<$$jianliao>"],
+    "body": ["${1:e_alias}: <$$jianliao> ${2:e_desc}"],
     "description": "jianliao cloudinsight sprite"
   },
 
   "sprite kafka": {
     "scope": "diagram",
     "prefix": ["s-kafka"],
-    "body": ["<$$kafka>"],
+    "body": ["${1:e_alias}: <$$kafka> ${2:e_desc}"],
     "description": "kafka cloudinsight sprite"
   },
 
   "sprite left": {
     "scope": "diagram",
     "prefix": ["s-left"],
-    "body": ["<$$left>"],
+    "body": ["${1:e_alias}: <$$left> ${2:e_desc}"],
     "description": "left cloudinsight sprite"
   },
 
   "sprite linux": {
     "scope": "diagram",
     "prefix": ["s-linux"],
-    "body": ["<$$linux>"],
+    "body": ["${1:e_alias}: <$$linux> ${2:e_desc}"],
     "description": "linux cloudinsight sprite"
   },
 
   "sprite listalt": {
     "scope": "diagram",
     "prefix": ["s-listalt"],
-    "body": ["<$$listalt>"],
+    "body": ["${1:e_alias}: <$$listalt> ${2:e_desc}"],
     "description": "listalt cloudinsight sprite"
   },
 
   "sprite loading": {
     "scope": "diagram",
     "prefix": ["s-loading"],
-    "body": ["<$$loading>"],
+    "body": ["${1:e_alias}: <$$loading> ${2:e_desc}"],
     "description": "loading cloudinsight sprite"
   },
 
   "sprite memcached": {
     "scope": "diagram",
     "prefix": ["s-memcached"],
-    "body": ["<$$memcached>"],
+    "body": ["${1:e_alias}: <$$memcached> ${2:e_desc}"],
     "description": "memcached cloudinsight sprite"
   },
 
   "sprite mesos": {
     "scope": "diagram",
     "prefix": ["s-mesos"],
-    "body": ["<$$mesos>"],
+    "body": ["${1:e_alias}: <$$mesos> ${2:e_desc}"],
     "description": "mesos cloudinsight sprite"
   },
 
   "sprite mi": {
     "scope": "diagram",
     "prefix": ["s-mi"],
-    "body": ["<$$mi>"],
+    "body": ["${1:e_alias}: <$$mi> ${2:e_desc}"],
     "description": "mi cloudinsight sprite"
   },
 
   "sprite mongodb": {
     "scope": "diagram",
     "prefix": ["s-mongodb"],
-    "body": ["<$$mongodb>"],
+    "body": ["${1:e_alias}: <$$mongodb> ${2:e_desc}"],
     "description": "mongodb cloudinsight sprite"
   },
 
   "sprite mysql": {
     "scope": "diagram",
     "prefix": ["s-mysql"],
-    "body": ["<$$mysql>"],
+    "body": ["${1:e_alias}: <$$mysql> ${2:e_desc}"],
     "description": "mysql cloudinsight sprite"
   },
 
   "sprite nagios": {
     "scope": "diagram",
     "prefix": ["s-nagios"],
-    "body": ["<$$nagios>"],
+    "body": ["${1:e_alias}: <$$nagios> ${2:e_desc}"],
     "description": "nagios cloudinsight sprite"
   },
 
   "sprite nginx": {
     "scope": "diagram",
     "prefix": ["s-nginx"],
-    "body": ["<$$nginx>"],
+    "body": ["${1:e_alias}: <$$nginx> ${2:e_desc}"],
     "description": "nginx cloudinsight sprite"
   },
 
   "sprite nodejs": {
     "scope": "diagram",
     "prefix": ["s-nodejs"],
-    "body": ["<$$nodejs>"],
+    "body": ["${1:e_alias}: <$$nodejs> ${2:e_desc}"],
     "description": "nodejs cloudinsight sprite"
   },
 
   "sprite onealert": {
     "scope": "diagram",
     "prefix": ["s-onealert"],
-    "body": ["<$$onealert>"],
+    "body": ["${1:e_alias}: <$$onealert> ${2:e_desc}"],
     "description": "onealert cloudinsight sprite"
   },
 
   "sprite oneapmlogo": {
     "scope": "diagram",
     "prefix": ["s-oneapmlogo"],
-    "body": ["<$$oneapmlogo>"],
+    "body": ["${1:e_alias}: <$$oneapmlogo> ${2:e_desc}"],
     "description": "oneapmlogo cloudinsight sprite"
   },
 
   "sprite openstack": {
     "scope": "diagram",
     "prefix": ["s-openstack"],
-    "body": ["<$$openstack>"],
+    "body": ["${1:e_alias}: <$$openstack> ${2:e_desc}"],
     "description": "openstack cloudinsight sprite"
   },
 
   "sprite overview": {
     "scope": "diagram",
     "prefix": ["s-overview"],
-    "body": ["<$$overview>"],
+    "body": ["${1:e_alias}: <$$overview> ${2:e_desc}"],
     "description": "overview cloudinsight sprite"
   },
 
   "sprite pause": {
     "scope": "diagram",
     "prefix": ["s-pause"],
-    "body": ["<$$pause>"],
+    "body": ["${1:e_alias}: <$$pause> ${2:e_desc}"],
     "description": "pause cloudinsight sprite"
   },
 
   "sprite php": {
     "scope": "diagram",
     "prefix": ["s-php"],
-    "body": ["<$$php>"],
+    "body": ["${1:e_alias}: <$$php> ${2:e_desc}"],
     "description": "php cloudinsight sprite"
   },
 
   "sprite php_fpm": {
     "scope": "diagram",
     "prefix": ["s-php_fpm"],
-    "body": ["<$$php_fpm>"],
+    "body": ["${1:e_alias}: <$$php_fpm> ${2:e_desc}"],
     "description": "php_fpm cloudinsight sprite"
   },
 
   "sprite play": {
     "scope": "diagram",
     "prefix": ["s-play"],
-    "body": ["<$$play>"],
+    "body": ["${1:e_alias}: <$$play> ${2:e_desc}"],
     "description": "play cloudinsight sprite"
   },
 
   "sprite plus": {
     "scope": "diagram",
     "prefix": ["s-plus"],
-    "body": ["<$$plus>"],
+    "body": ["${1:e_alias}: <$$plus> ${2:e_desc}"],
     "description": "plus cloudinsight sprite"
   },
 
   "sprite point": {
     "scope": "diagram",
     "prefix": ["s-point"],
-    "body": ["<$$point>"],
+    "body": ["${1:e_alias}: <$$point> ${2:e_desc}"],
     "description": "point cloudinsight sprite"
   },
 
   "sprite postgresql": {
     "scope": "diagram",
     "prefix": ["s-postgresql"],
-    "body": ["<$$postgresql>"],
+    "body": ["${1:e_alias}: <$$postgresql> ${2:e_desc}"],
     "description": "postgresql cloudinsight sprite"
   },
 
   "sprite pubu": {
     "scope": "diagram",
     "prefix": ["s-pubu"],
-    "body": ["<$$pubu>"],
+    "body": ["${1:e_alias}: <$$pubu> ${2:e_desc}"],
     "description": "pubu cloudinsight sprite"
   },
 
   "sprite python": {
     "scope": "diagram",
     "prefix": ["s-python"],
-    "body": ["<$$python>"],
+    "body": ["${1:e_alias}: <$$python> ${2:e_desc}"],
     "description": "python cloudinsight sprite"
   },
 
   "sprite question": {
     "scope": "diagram",
     "prefix": ["s-question"],
-    "body": ["<$$question>"],
+    "body": ["${1:e_alias}: <$$question> ${2:e_desc}"],
     "description": "question cloudinsight sprite"
   },
 
   "sprite rabbitmq": {
     "scope": "diagram",
     "prefix": ["s-rabbitmq"],
-    "body": ["<$$rabbitmq>"],
+    "body": ["${1:e_alias}: <$$rabbitmq> ${2:e_desc}"],
     "description": "rabbitmq cloudinsight sprite"
   },
 
   "sprite redis": {
     "scope": "diagram",
     "prefix": ["s-redis"],
-    "body": ["<$$redis>"],
+    "body": ["${1:e_alias}: <$$redis> ${2:e_desc}"],
     "description": "redis cloudinsight sprite"
   },
 
   "sprite remove-sign": {
     "scope": "diagram",
     "prefix": ["s-remove-sign"],
-    "body": ["<$$remove-sign>"],
+    "body": ["${1:e_alias}: <$$remove-sign> ${2:e_desc}"],
     "description": "remove-sign cloudinsight sprite"
   },
 
   "sprite right": {
     "scope": "diagram",
     "prefix": ["s-right"],
-    "body": ["<$$right>"],
+    "body": ["${1:e_alias}: <$$right> ${2:e_desc}"],
     "description": "right cloudinsight sprite"
   },
 
   "sprite ruby": {
     "scope": "diagram",
     "prefix": ["s-ruby"],
-    "body": ["<$$ruby>"],
+    "body": ["${1:e_alias}: <$$ruby> ${2:e_desc}"],
     "description": "ruby cloudinsight sprite"
   },
 
   "sprite server": {
     "scope": "diagram",
     "prefix": ["s-server"],
-    "body": ["<$$server>"],
+    "body": ["${1:e_alias}: <$$server> ${2:e_desc}"],
     "description": "server cloudinsight sprite"
   },
 
   "sprite singlePage": {
     "scope": "diagram",
     "prefix": ["s-singlepage"],
-    "body": ["<$$singlePage>"],
+    "body": ["${1:e_alias}: <$$singlePage> ${2:e_desc}"],
     "description": "singlePage cloudinsight sprite"
   },
 
   "sprite snmp": {
     "scope": "diagram",
     "prefix": ["s-snmp"],
-    "body": ["<$$snmp>"],
+    "body": ["${1:e_alias}: <$$snmp> ${2:e_desc}"],
     "description": "snmp cloudinsight sprite"
   },
 
   "sprite solr": {
     "scope": "diagram",
     "prefix": ["s-solr"],
-    "body": ["<$$solr>"],
+    "body": ["${1:e_alias}: <$$solr> ${2:e_desc}"],
     "description": "solr cloudinsight sprite"
   },
 
   "sprite sqlserver": {
     "scope": "diagram",
     "prefix": ["s-sqlserver"],
-    "body": ["<$$sqlserver>"],
+    "body": ["${1:e_alias}: <$$sqlserver> ${2:e_desc}"],
     "description": "sqlserver cloudinsight sprite"
   },
 
   "sprite supervisord": {
     "scope": "diagram",
     "prefix": ["s-supervisord"],
-    "body": ["<$$supervisord>"],
+    "body": ["${1:e_alias}: <$$supervisord> ${2:e_desc}"],
     "description": "supervisord cloudinsight sprite"
   },
 
   "sprite tomcat": {
     "scope": "diagram",
     "prefix": ["s-tomcat"],
-    "body": ["<$$tomcat>"],
+    "body": ["${1:e_alias}: <$$tomcat> ${2:e_desc}"],
     "description": "tomcat cloudinsight sprite"
   },
 
   "sprite tongzhi": {
     "scope": "diagram",
     "prefix": ["s-tongzhi"],
-    "body": ["<$$tongzhi>"],
+    "body": ["${1:e_alias}: <$$tongzhi> ${2:e_desc}"],
     "description": "tongzhi cloudinsight sprite"
   },
 
   "sprite trash": {
     "scope": "diagram",
     "prefix": ["s-trash"],
-    "body": ["<$$trash>"],
+    "body": ["${1:e_alias}: <$$trash> ${2:e_desc}"],
     "description": "trash cloudinsight sprite"
   },
 
   "sprite user": {
     "scope": "diagram",
     "prefix": ["s-user"],
-    "body": ["<$$user>"],
+    "body": ["${1:e_alias}: <$$user> ${2:e_desc}"],
     "description": "user cloudinsight sprite"
   },
 
   "sprite windows": {
     "scope": "diagram",
     "prefix": ["s-windows"],
-    "body": ["<$$windows>"],
+    "body": ["${1:e_alias}: <$$windows> ${2:e_desc}"],
     "description": "windows cloudinsight sprite"
   },
 
   "sprite x": {
     "scope": "diagram",
     "prefix": ["s-x"],
-    "body": ["<$$x>"],
+    "body": ["${1:e_alias}: <$$x> ${2:e_desc}"],
     "description": "x cloudinsight sprite"
   },
 
   "sprite yanjing": {
     "scope": "diagram",
     "prefix": ["s-yanjing"],
-    "body": ["<$$yanjing>"],
+    "body": ["${1:e_alias}: <$$yanjing> ${2:e_desc}"],
     "description": "yanjing cloudinsight sprite"
   },
 
   "sprite zookeeper": {
     "scope": "diagram",
     "prefix": ["s-zookeeper"],
-    "body": ["<$$zookeeper>"],
+    "body": ["${1:e_alias}: <$$zookeeper> ${2:e_desc}"],
     "description": "zookeeper cloudinsight sprite"
   }

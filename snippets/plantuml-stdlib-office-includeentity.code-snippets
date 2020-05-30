@@ -3758,6 +3758,6 @@
     "prefix": ["i-off-common"],
     "body": ["!include <tupadr3/common>"],
     "description": "bootstrap using office icons"
-  },
+  }
 
 }
