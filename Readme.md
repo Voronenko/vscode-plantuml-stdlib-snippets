@@ -11,7 +11,7 @@ Supported stdlib extensions
 
 | StdLib name  |  Required common macros  |  Folder include macros supported  |  Snippets include prefix  |   |   |
 |---|---|---|---|---|---|
-| aws  | i-aws-common  | N/A  | i-aws  |   |   |
+| aws  | i-aws-common  | N/A  | ia  |   |   |
 | awslib  | N/A  | i-all  | i-  |   |   |
 | azure  | i-azure-common  | i-all-  | i-  |   |   |
 | cloudinsight  | N/A  |   | i-cloudinsight  |   |   |
@@ -50,3 +50,40 @@ to the diagram. On a moment when you want to include some icon, you start snippe
 you just start typing approximate icon name. The one in appercase will be the needed one
 
 ![AWS classic](docs/stdlib-aws.gif)
+
+
+## awslib
+
+That extension is kind of official "icons" released under https://github.com/awslabs/aws-icons-for-plantuml ; It appeared later than `aws` and the most notible difference
+from classic `aws` lib is presence of the cumulative include all files with sprites divided in a limited set of areas. You could also distinguish icons from that set
+by selecting AWS entity in a CamelCase
+
+|Section                             |snippet shortcut                   |
+|--|--|
+| Analytics/                         | iall-analytics                    |
+| AWSCostManagement/                 | iall-awscostmanagement            |
+| Compute/                           | iall-compute                      |
+| Database/                          | iall-database                     |
+| GameTech/                          | iall-gametech                     |  
+| InternetOfThings/                  | iall-internetofthings             |
+| MediaServices/                     | iall-mediaservices                |
+| NetworkingAndContentDelivery/      | iall-networkingandcontentdelivery |
+| Satellite/                         | iall-satellite                    |
+| ApplicationIntegration/            | iall-applicationintegration       |
+| Blockchain/                        | iall-blockchain                   |
+| CustomerEnablement/                | iall-customerenablement           |
+| DeveloperTools/                    | iall-developertools               |
+| General/                           | iall-general                      |
+| MachineLearning/                   | iall-machinelearning              |
+| MigrationAndTransfer/              | iall-migrationandtransfer         |
+| QuantumTechnologies/               | iall-quantumtechnologies          |
+| SecurityIdentityAndCompliance/     | iall-securityidentityandcompliance|
+| ARVR/                              | iall-arvr                         |
+| BusinessApplications/              | iall-businessapplications         |
+| CustomerEngagement/                | iall-customerengagement           |
+| EndUserComputing/                  | iall-endusercomputing             |
+| GroupIcons/                        | iall-groupicons                   |
+| ManagementAndGovernance/           | iall-managementandgovernance      |
+| Mobile/                            | iall-mobile                       |
+| Robotics/                          | iall-robotics                     |
+| Storage/                           | iall-storage                      |
