@@ -2,7 +2,7 @@
   "name": "vscode-plantuml-stdlib-snippets",
   "displayName": "PlantUML stdlib snippets",
   "description": "Simple extensions for quickier dealing with PlantUML stdlib library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "voronenko",
   "icon": "images/logo.png",
   "keywords": [
