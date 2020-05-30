@@ -2,7 +2,7 @@
   "name": "vscode-plantuml-stdlib-snippets",
   "displayName": "PlantUML stdlib snippets",
   "description": "Simple extensions for quickier dealing with PlantUML stdlib library",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "publisher": "voronenko",
   "icon": "images/logo.png",
   "keywords": [
@@ -33,109 +33,127 @@
   ],
   "extensionKind": "ui",
   "contributes": {
+  "languages": [
+    {
+      "id": "diagram",
+      "extensions": [
+ 	".wsd",
+	".pu",
+	".puml",
+        ".plantuml",
+        ".iuml"
+      ],
+      "aliases": [
+ 	"Diagram",
+	"PlantUML",
+        "plantuml"
+      ],
+      "configuration": "./language-configuration.json"
+    }
+    ],
     "snippets": [
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-awslib-icons-for-plantuml.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-azure-icons-for-plantuml.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-aws-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-aws-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-awslib-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-awslib-includeall.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-awslib-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-azure-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-azure-includeall.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-azure-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-cloudinsight-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-cloudinsight-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-cloudogu-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-cloudogu-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-elastic-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-elastic-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-logo-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-logo-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-material-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-material-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-office-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-office-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-osa-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-osa-includeentity.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-tupadr3-entities.code-snippets"
       },
       {
-        "language": "plantuml",
+        "language": "diagram",
         "path": "./snippets/plantuml-stdlib-tupadr3-includeentity.code-snippets"
       }
     ]
