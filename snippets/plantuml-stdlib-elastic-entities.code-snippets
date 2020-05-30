@@ -4,139 +4,139 @@
   "APM(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-apm", "APM"],
-    "body": ["APM(e_alias, \"e_label\")"],
+    "body": ["APM(${1:e_alias}, \"${2:e_label}\")"],
     "description": "apm/apm - APM elastic icon"
   },
 
   "APP_SEARCH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-app_search", "APP_SEARCH"],
-    "body": ["APP_SEARCH(e_alias, \"e_label\")"],
+    "body": ["APP_SEARCH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "app_search/app_search - APP_SEARCH elastic icon"
   },
 
   "BEATS(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-beats", "BEATS"],
-    "body": ["BEATS(e_alias, \"e_label\")"],
+    "body": ["BEATS(${1:e_alias}, \"${2:e_label}\")"],
     "description": "beats/beats - BEATS elastic icon"
   },
 
   "CLOUD(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-cloud", "CLOUD"],
-    "body": ["CLOUD(e_alias, \"e_label\")"],
+    "body": ["CLOUD(${1:e_alias}, \"${2:e_label}\")"],
     "description": "cloud/cloud - CLOUD elastic icon"
   },
 
   "CLOUD_IN_KUBERNETES(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-cloud_in_kubernetes", "CLOUD_IN_KUBERNETES"],
-    "body": ["CLOUD_IN_KUBERNETES(e_alias, \"e_label\")"],
+    "body": ["CLOUD_IN_KUBERNETES(${1:e_alias}, \"${2:e_label}\")"],
     "description": "cloud_in_kubernetes/cloud_in_kubernetes - CLOUD_IN_KUBERNETES elastic icon"
   },
 
   "CODE_SEARCH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-code_search", "CODE_SEARCH"],
-    "body": ["CODE_SEARCH(e_alias, \"e_label\")"],
+    "body": ["CODE_SEARCH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "code_search/code_search - CODE_SEARCH elastic icon"
   },
 
   "ECE(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-ece", "ECE"],
-    "body": ["ECE(e_alias, \"e_label\")"],
+    "body": ["ECE(${1:e_alias}, \"${2:e_label}\")"],
     "description": "ece/ece - ECE elastic icon"
   },
 
   "ECK(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-eck", "ECK"],
-    "body": ["ECK(e_alias, \"e_label\")"],
+    "body": ["ECK(${1:e_alias}, \"${2:e_label}\")"],
     "description": "eck/eck - ECK elastic icon"
   },
 
   "ELASTICSEARCH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-elasticsearch", "ELASTICSEARCH"],
-    "body": ["ELASTICSEARCH(e_alias, \"e_label\")"],
+    "body": ["ELASTICSEARCH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "elasticsearch/elasticsearch - ELASTICSEARCH elastic icon"
   },
 
   "ENDPOINT(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-endpoint", "ENDPOINT"],
-    "body": ["ENDPOINT(e_alias, \"e_label\")"],
+    "body": ["ENDPOINT(${1:e_alias}, \"${2:e_label}\")"],
     "description": "endpoint/endpoint - ENDPOINT elastic icon"
   },
 
   "ENTERPRISE_SEARCH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-enterprise_search", "ENTERPRISE_SEARCH"],
-    "body": ["ENTERPRISE_SEARCH(e_alias, \"e_label\")"],
+    "body": ["ENTERPRISE_SEARCH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "enterprise_search/enterprise_search - ENTERPRISE_SEARCH elastic icon"
   },
 
   "KIBANA(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-kibana", "KIBANA"],
-    "body": ["KIBANA(e_alias, \"e_label\")"],
+    "body": ["KIBANA(${1:e_alias}, \"${2:e_label}\")"],
     "description": "kibana/kibana - KIBANA elastic icon"
   },
 
   "LOGGING(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-logging", "LOGGING"],
-    "body": ["LOGGING(e_alias, \"e_label\")"],
+    "body": ["LOGGING(${1:e_alias}, \"${2:e_label}\")"],
     "description": "logging/logging - LOGGING elastic icon"
   },
 
   "LOGSTASH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-logstash", "LOGSTASH"],
-    "body": ["LOGSTASH(e_alias, \"e_label\")"],
+    "body": ["LOGSTASH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "logstash/logstash - LOGSTASH elastic icon"
   },
 
   "MAPS(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-maps", "MAPS"],
-    "body": ["MAPS(e_alias, \"e_label\")"],
+    "body": ["MAPS(${1:e_alias}, \"${2:e_label}\")"],
     "description": "maps/maps - MAPS elastic icon"
   },
 
   "METRICS(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-metrics", "METRICS"],
-    "body": ["METRICS(e_alias, \"e_label\")"],
+    "body": ["METRICS(${1:e_alias}, \"${2:e_label}\")"],
     "description": "metrics/metrics - METRICS elastic icon"
   },
 
   "SIEM(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-siem", "SIEM"],
-    "body": ["SIEM(e_alias, \"e_label\")"],
+    "body": ["SIEM(${1:e_alias}, \"${2:e_label}\")"],
     "description": "siem/siem - SIEM elastic icon"
   },
 
   "SITE_SEARCH(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-site_search", "SITE_SEARCH"],
-    "body": ["SITE_SEARCH(e_alias, \"e_label\")"],
+    "body": ["SITE_SEARCH(${1:e_alias}, \"${2:e_label}\")"],
     "description": "site_search/site_search - SITE_SEARCH elastic icon"
   },
 
   "STACK(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-stack", "STACK"],
-    "body": ["STACK(e_alias, \"e_label\")"],
+    "body": ["STACK(${1:e_alias}, \"${2:e_label}\")"],
     "description": "stack/stack - STACK elastic icon"
   },
 
   "UPTIME(e_alias, e_label)": {
     "scope": "diagram",
     "prefix": ["es-uptime", "UPTIME"],
-    "body": ["UPTIME(e_alias, \"e_label\")"],
+    "body": ["UPTIME(${1:e_alias}, \"${2:e_label}\")"],
     "description": "uptime/uptime - UPTIME elastic icon"
   }

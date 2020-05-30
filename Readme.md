@@ -42,3 +42,11 @@ c) Now you can insert object itself
 usual text to be used in fuzzy search would be library code - object name  `aws-amazonefs`.  As usually vscode smart enough, thus you can use quite fuzzy combination of words.
 
 ## Notes on a specific libraries
+
+### aws
+
+As seen on a screen recording below, usually you are supposed to have some prototype of the future diagram in raw plant uml, and use stdlib/aws to provide greater visualization 
+to the diagram. On a moment when you want to include some icon, you start snippet search with `ia` followed by icon topic or name. On a moment, when you want to use icon itself,
+you just start typing approximate icon name. The one in appercase will be the needed one
+
+![AWS classic](docs/stdlib-aws.gif)
